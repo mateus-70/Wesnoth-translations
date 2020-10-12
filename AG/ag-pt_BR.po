@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.14.5\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-08 02:04-0300\n"
+"PO-Revision-Date: 2020-10-12 05:01-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -96,12 +96,12 @@ msgstr "Difícil"
 #. [about]
 #: ./_main.cfg:64
 msgid "Campaign Design"
-msgstr ""
+msgstr "Design da Campanha"
 
 #. [about]
 #: ./_main.cfg:78
 msgid "Reference UMC Campaigns"
-msgstr ""
+msgstr "Referência à Campanhas UMC"
 
 #. [entry]
 #: ./_main.cfg:80
@@ -141,22 +141,22 @@ msgstr "e tantos outros..."
 #. [about]
 #: ./_main.cfg:102
 msgid "Special Thanks to the Greatest Bug Reporters (BfW 1.14.x)"
-msgstr ""
+msgstr "Agradecimentos Especiais para os Grandes Relatores de Erros (BpW 1.14.x)"
 
 #. [about]
 #: ./_main.cfg:108
 msgid "Bug reports, feedbacks, and suggestions (BfW 1.14.x)"
-msgstr ""
+msgstr "Relatos de erros, feedback, e sugestões (BfW 1.14.x)"
 
 #. [about]
 #: ./_main.cfg:114
 msgid "Bug reports, feedbacks, and suggestions (BfW 1.12.x)"
-msgstr ""
+msgstr "Relatos de erros, feedback, e sugestões (BfW 1.12.x)"
 
 #. [about]
 #: ./_main.cfg:120
 msgid "Special Thanks"
-msgstr "Agradecimentos especiais"
+msgstr "Agradecimentos Especiais"
 
 #. [entry]
 #: ./_main.cfg:122
@@ -571,87 +571,87 @@ msgstr "Alguns tópicos menos relevantes"
 #. [option]
 #: ./_main.cfg:1590
 msgid "How to recall unit? (recall fired or left units)"
-msgstr ""
+msgstr "Como convocar unidades (convocar unidades demitidas ou que sairam)"
 
 #. [message]
 #: ./_main.cfg:1594
 msgid "You can recall former member of your group (fired or left) at the keep in the Outpost. But you might not recall some of units who are no longer loyal to you..."
-msgstr ""
+msgstr "Você pode convocar antigos membros do seu grupo (demitidos ou que foram embora) na torre de menagem no Posto Avançado. Mas você pode não ser capaz de convocar algumas unidades que não continuam sendo leais a você..."
 
 #. [option]
 #: ./_main.cfg:1600
 msgid "About you, Clammy."
-msgstr ""
+msgstr "Sobre você, Clammy."
 
 #. [message]
 #: ./_main.cfg:1604
 msgid "I am the next chief of a goblin tribe living close here. We do not belong to the Kingdom, but I am here to learn about Kingdom and battles. The reason we oppose the Empire is very simple, Kingdom does not mind us, but the Empire treats us as slaves. You will see goblins in the Imperial army. They are slaves. But you shouldn't hesitate in killing them. If you want to really liberate them, Kingdom must win the war, it is the only way. Ah, my name? Have you ever heard about my name? I am not sure, but according to the elders, my name is named after one of the greatest goblins. I don't know any further details."
-msgstr ""
+msgstr "Eu sou o próximo chefe de uma tribo góblin que fica próximo. Nós não pertencemos ao Reino, mas eu estou aqui para aprender sobre o Reino e batalhas. O motivo pelo qual somos contra o Império é muito simples, o Reino não se importa conosco, mas o Império nos trata como escravos. Você verá góblins no exército Imperial. Eles são escravos. Mas você não deve hesitar em matá-los. Sevocê realmente quer libertá-los, o Reino deve vencer a guerra, é o único jeito. Ah, meu nome? Você já ouviu sobre meu nome? Eu não tenho certeza, mas de acordo com os anciões, meu nome é o mesmo que um dos maiores góblins. Eu não tenho mais detalhes."
 
 #. [option]
 #: ./_main.cfg:1610
 msgid "Thank you, Clammy."
-msgstr ""
+msgstr "Obrigado, Clammy."
 
 #. [message]
 #: ./_main.cfg:1644
 msgid "We have to <span color='yellow'>defeat Imperial bridge guard</span> to break the bridge within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr ""
+msgstr "Nós temos que <span color='yellow'>derrotar os guardas da ponte do Império</span> para destruír a ponte em <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: ./_main.cfg:1651
 msgid "We have to <span color='yellow'>attack South Fort</span> within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr ""
+msgstr "Nós temos que <span color='yellow'>atacar o Forte do Sul</span> dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: ./_main.cfg:1658
 msgid "We have to <span color='yellow'>attack North Fort</span> within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr ""
+msgstr "Nós temos que <span color='yellow'>atacar o Forte do Norte</span> dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: ./_main.cfg:1665
 msgid "We have to <span color='yellow'>attack Imperial main outpost</span> within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr ""
+msgstr "Nós temos que <span color='yellow'>atacar o posto avançado principal do Império</span> dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: ./_main.cfg:1672
 msgid "We have to <span color='yellow'>escort convoys</span> to the south fort within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr ""
+msgstr "Nós temos que <span color='yellow'>escoltar comboios</span> para o Forte Sul dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: ./_main.cfg:1679
 msgid "We have to <span color='yellow'>escort convoys</span> to the outpost west within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr ""
+msgstr "Nós temos que <span color='yellow'>escoltar comboios</span> para o posto avançado do oeste dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: ./_main.cfg:1689
 msgid "You should get enough fame first to get enough income. At least you should have 70 gold income. (Your current income is $ag_salary|.) That amount of fund is necessary to keep 5-6 soldiers, which is minimum necessary number to fight against an enemy troop. To raise up your fame, the safest way is to accomplish relatively easy missions such as night patroling of the outpost."
-msgstr ""
+msgstr "Primeiro você deve ter fama o suficiente para receber suficiente receita. Você deve ter pelo menos 70 ouro de receita. (Sua receita atual é $ag_salary|.) Essa quantia de fundos é necessária para manter 5-6 soldados, que é o número mínimo necessário para lutar contra uma tropa inimiga. Para aumentar sua fama, o jeito mais seguro é realizar missões relativamente fáceis, como o patrulhamento noturno do posto avançado."
 
 #. [message]
 #: ./_main.cfg:1693
 msgid "First of all, you should gather 1-3 peasants, woodsmans, or ruffians and train them. Then, do patroling of the outpost by asking guards of the general. If you or your party member manages to kill the enemy leader during the patrol, you will get more fame."
-msgstr ""
+msgstr "Primeiro de tudo, você deve juntar 1-3 aldeões, mateiroes ou rufiães e treiná-los. Então, faça o patrulhamento do posto avançado solicitando aos guardas do general. Se um dos membros do seu grupo conseguir matar o líder inimigo durante o patrulhamento, você receberá mais fama."
 
 #. [message]
 #: ./_main.cfg:1702
 msgid "We, Kingdom army must regain the South Fort. Recruit and train your members first. You then attack enemy troops around the South Fort. You may try to regain villages in south of the river. Once you get enough power to attack the Fort, launch an assult collaborating with main army. <span color='yellow'>Breaking the bridge is a good option when attacking.</span> If the bridge does not work, reinforcement from the North Fort cannot appear."
-msgstr ""
+msgstr "Nós, o exército do Reino deve primeiro reconquistar o Forte do Sul. Recrute e treine seus membros primeiro. Então ataque as tropas inimigas próximo ao Forte Sul. Você pode tentar reconquistar os vilarejos ao sul do rio. Uma vez que você tenha poder suficiente para atacar o Forte, lance uma investida colaborada com o exército principal. <span color='yellow'>Romper a ponte é uma boa opção quando for atacar.</span> Se a ponte não funciona, reforços do Forte do Norte não aparecerão."
 
 #. [message]
 #: ./_main.cfg:1711
 msgid "Our target is the North Fort. We should attack there with our general. If you could prove yourself, you can ask him to attack the fort with you. The way to prove yourself is very simple, win the battles. Capturing the villages and small outposts in the north side of the river are also good options. <span color='yellow'>Outpost East, Village-N-W-River, and Village-N-C</span> are important points. If you managed to occupy all those points, enemy reinforcement might not bother us when attacking the North Fort. But be careful when crossing the river... Nagas are there. They are almost invincible in the water. Passing bridge might be a safer option, though we need to defeat bridge guards."
-msgstr ""
+msgstr "Nosso alvo é o Forte do Norte. Nós devemos ataca-los com nosso general. Se você conseguir dar uma prova de si, você pode pedir a ele para atacar o forte com você. O jeito de provar a si mesmo é simples, vença as batalhas. Capturando os vilarejos e os pequenos postos avançados do lado norte do rio também são boas opções. <span color='yellow'>Posto avançado Leste, Vilarejo-Rio-N-O, e Vilarejo-N-C</span> são também pontos importantes. Se você conseguir ocupar todos esses pontos, reforços inimigos podem deixar de nos incomodar quando atacando o Forte Norte. Mas tome cuidado quando atravessando o rio... Nagas estão lá. Eles são quase invencíveis na água. Atravessar a ponte pode ser uma opção mais segura, mas primeiro precisamos derrotar os guardas da ponte."
 
 #. [message]
 #: ./_main.cfg:1726
 msgid "There are some alien systems in this campaign, check it out carefully."
-msgstr ""
+msgstr "Há alguns sistemas alienígenas nesta campanha, verifique-os cuidadosamente."
 
 #. [option]
 #: ./_main.cfg:1729
 msgid "Healing"
-msgstr ""
+msgstr "Medicação"
 
 #. [message]
 #: ./_main.cfg:1733
@@ -659,32 +659,35 @@ msgid ""
 "You must rest in the bedroom of the main outpost, villages, and forts of our kingdom to heal your units. <b>Usually, there are neither healers nor villages in the battle maps.</b> Injured or poisoned units should flee from the battle. In addition, units are healed slightly everyday if not poisoned or starved.\n"
 "\n"
 "<span color='yellow'>If starved, units won't be healed even when rest at the bed. Care about amount of food. In addition, units become temporary unhealable if starved. You need to rest at the bed to recover from that condition.</span>"
-msgstr ""
+msgstr "Você deve descansar no quarto do posto avançado principal, vilarejos, e Fortes do nosso reino para medicar suas unidades.<b>Normalmente, não há médicos nem vilarejos nos mapas de batalha.</b> Unidades feridas ou envenenadas devem fugir da batalha. Além disso, unidades são medicadas levemente todos os dias não estiverem envenenadas nem com fome.\n"
+"\n"
+"<span color='yellow'>Se estiverem com fome, as unidades não serão medicadas mesmo que durmam na cama. Cuide da quantidade de comida. Além disso, unidades ficam temporariamente imedicáveis se passarem fome. Você precisa dormir na cama para se recuperar dessa situação.</span>"
+
 
 #. [option]
 #: ./_main.cfg:1741
 msgid "Poison"
-msgstr ""
+msgstr "Veneno"
 
 #. [message]
 #: ./_main.cfg:1745
 msgid "It is very important point, poison of units never be cured even when a battle is finished. TO CURE POISON OF THE UNIT, THE UNIT HAS TO REST FOR A DAY AT THE OUTPOST, VILLAGES, OR FORTS."
-msgstr ""
+msgstr "É um ponto muito importante, veneno em unidades nunca serão curados mesmo que a batalha termine. PARA CURAR UMA UNIDADE ENVENENADA, A UNIDADE TEM QUE DESCANSAR POR UM DIA NO POSTO AVANÇADO, VILAREJOS, OU FORTES."
 
 #. [option]
 #: ./_main.cfg:1751
 msgid "Days"
-msgstr ""
+msgstr "Dias"
 
 #. [message]
 #: ./_main.cfg:1755
 msgid "Days will pass when you move on the Field or do a battle. When a new day begins, random events can take place, which cause both of positive/negative effects. Note that your fund is supplied every 10 days. (The fund can be accumulated in the office. You are not necessary to get the fund every 10th days. In other words, you can get all the accumulated funds anytime you are convenient.)"
-msgstr ""
+msgstr "Os dias passarão quando você se move no Campo ou quando batalha. Quando um dia novo começa, eventos aleatórios podem ocorrer, que podem causar efeitos positivos ou negativos. Note que seus fundos são fornecidos a cada 10 dias. (Os fundos podem ser acumulados no escritório. Você não precisa necessariamente pegar os fundos a cada 10 dias. Em outras palavras, você pode pegar todos os fundos acumulados em qualquer momento quando lhe for conveniente."
 
 #. [option]
 #: ./_main.cfg:1761
 msgid "Gold"
-msgstr ""
+msgstr "Ouro"
 
 #. [message]
 #: ./_main.cfg:1765
@@ -694,28 +697,35 @@ msgid ""
 "- recalling soldiers\n"
 "- upkeep for units\n"
 "it seems the same as in the usual scenarios/campaigns, but are different from the standard gameplay"
-msgstr ""
+msgstr "Seu ouro é utilizado de diversas maneiras\n"
+"- recrutando soldados\n"
+"- convocando soldados\n"
+"- manutenção das unidades"
+"- parece o mesmo que a utilização usual dos cenários/campanhas, mas é diferente da jogabilidade padrão"
 
 #. [message]
 #: ./_main.cfg:1773
 msgid ""
 "<b>Recruiting soldiers</b>\n"
 "You can recruit soldiers only in our main Outpost (at least in this version). The cost of recruiting is different from the standard gameplay. This is because of some skills and loyalty issues. I will talk you some more details when you recruit the soldiers."
-msgstr ""
+msgstr "<b>Recrutando soldados</b>\n"
+"Você pode recrutar soldados somente no nosso Posto Avançado principal (pelo menos nesta versão). O custo do recrutameto é diferente da jogabilidade padrão. Isso se deve a algumas questões sobre habilidades e lealdade. Eu falarei com mais detalhes quando você for recrutar os soldados."
 
 #. [message]
 #: ./_main.cfg:1778
 msgid ""
 "<b>Recalling soldiers</b>\n"
 "Recalling soldiers can be done in the our main Outpost, please come to the keep where I am. You can recall soldiers once you fired. (You can fire units on that place, too.) This recalling is necessary only if you fired units, or units leave you due to your bankruptcy. On average, the recalling is not an usual event. <b>It is noteworthy that firing units itself does not have disadvantage other than the cost for recalling (20g). If there is an urgent problem about money, firing units can be an option.</b>"
-msgstr ""
+msgstr "<b>Convocando soldados</b>\n"
+"Convocando soldados pode ser feito no nosso Posto Avançado principal, por favor venha na torre de menagem onde eu estou. Você pode convocar soldados uma vez que você demitiu eles. (Você pode demiti-los também naquele lugar.) Esta convocação só é necessária se você demitiu unidades, ou unidades te deixaram por causa da sua falência. No habitual, convocar não é um evento usual. <b>É importante notar que demitir unidades não tem desvantagens além do custo de convocação (20 ouro). Se ocorrer um problema de dinheiro urgente, demitir unidades pode ser uma opção.</b>"
 
 #. [message]
 #: ./_main.cfg:1783
 msgid ""
 "<b>Upkeep</b>\n"
 "Each of your soldiers cost you 1 GOLD/DAY. This cost does not depend their levels. And no money is necessary for me, never mind. If you cannot pay this everyday upkeep, <b>ALL THE SOLDIERS LEAVE YOUR TROOP.</b> You must be careful your upkeep and the current your money. You can recall those soldiers at the Outpost later. BUT LOW LOYALTY UNITS MIGHT NOT ACCEPT YOUR OFFER ANYMORE."
-msgstr ""
+msgstr "<b>Manutenção</b>\n"
+"Cada um dos seus soldados custam 1 OURO/DIA. Este custo não depende do nível deles. E nenhum dinheiro é necessário para mim, não ligue. Se você não conseguir pagar essa manutenção diária, <b>TODOS OS SOLDADOS DEIXAM A SUA TROPA.</b> Você deve ser cuidadoso com a manutenção e o seu dinheiro. Você pode convocar esses soldados no Posto Avançado depois. MAS UNIDADES DE BAIXA LEALDADE PODEM NUNCA MAIS ACEITAR SUA OFERTA."
 
 #. [message]
 #: ./_main.cfg:1788
