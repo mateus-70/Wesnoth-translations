@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.14.5\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-12 05:01-0300\n"
+"PO-Revision-Date: 2020-10-12 15:16-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -181,7 +181,7 @@ msgstr "Dia: <span color='red'>$ag_days</span>!"
 #. [option]: speaker=narrator
 #: ./_main.cfg:198 ./_main.cfg:241
 msgid "$new_day_message_urgent"
-msgstr ""
+msgstr "$new_day_message_urgent"
 
 #. [option]: speaker=narrator
 #: ./_main.cfg:205
@@ -191,17 +191,18 @@ msgstr "Sem notícias urgentes!"
 #. [option]: speaker=narrator
 #: ./_main.cfg:212
 msgid "$new_day_message_fame"
-msgstr ""
+msgstr "$new_day_message_fame"
 
 #. [option]: speaker=narrator
 #: ./_main.cfg:219
 msgid "$new_day_message_salary"
-msgstr ""
+msgstr "$new_day_message_salary"
+
 
 #. [option]: speaker=narrator
 #: ./_main.cfg:226
 msgid "$new_day_message_foods"
-msgstr ""
+msgstr "$new_day_message_foods"
 
 #. [then]
 #: ./_main.cfg:302
@@ -256,7 +257,7 @@ msgstr "Dorminhoco"
 #. [case]
 #: ./_main.cfg:365
 msgid "Red Baron"
-msgstr ""
+msgstr "Barão Vermelho"
 
 #. [case]
 #: ./_main.cfg:369
@@ -266,12 +267,12 @@ msgstr "Silecioso"
 #. [case]
 #: ./_main.cfg:373
 msgid "Bloodsword"
-msgstr ""
+msgstr "Espada sangrenta"
 
 #. [case]
 #: ./_main.cfg:377
 msgid "Goblin Leader"
-msgstr ""
+msgstr "Líder Góblin"
 
 #. [then]
 #: ./_main.cfg:404
@@ -306,7 +307,7 @@ msgstr "Minotauro"
 #. [else]
 #: ./_main.cfg:436
 msgid "Mighty"
-msgstr ""
+msgstr "Poderoso"
 
 #. [then]
 #: ./_main.cfg:445
@@ -326,12 +327,12 @@ msgstr "Faminto"
 #. [else]
 #: ./_main.cfg:460
 msgid "Hypnos"
-msgstr ""
+msgstr "Hipnos"
 
 #. [case]
 #: ./_main.cfg:472
 msgid "Bloody Duke"
-msgstr ""
+msgstr "Duque de Sangue"
 
 #. [case]
 #: ./_main.cfg:476
@@ -346,7 +347,7 @@ msgstr "Morte"
 #. [case]
 #: ./_main.cfg:484
 msgid "Wailbearer"
-msgstr ""
+msgstr "Carregador de Lágrimas"
 
 #. [case]
 #: ./_main.cfg:488
@@ -356,7 +357,7 @@ msgstr "Guerra"
 #. [case]
 #: ./_main.cfg:492
 msgid "Deathbringer"
-msgstr ""
+msgstr "Distribuidor da Morte"
 
 #. [message]
 #: ./_main.cfg:581
@@ -733,16 +734,18 @@ msgid ""
 "<b>How to get money?</b>\n"
 "You can get money in the offices (main Outpost, North Fort, and South Fort) every 10 days. Your current base income is $ag_salary|, this value depends on your fame. In addition, when you did good jobs such as capturing villages or killing enemy leaders, you can get extra money. Be care on the your base income and upkeep. <span color='yellow'>If your base income is 30, 3 soldiers (30 gold upkeep in 10 days) will be the reasonable limit for the number of the soldiers.</span>"
 msgstr ""
+"<b>Como conseguir dinheiro?</b>\n"
+"Você pode pegar dinheiro nos escritórios (Posto Avançado principal, Forte do Norte, e Forte do Sul) a cada 10 dias. Sua receita atual é $ag_salary|, este valor depende da sua fama. Além disso, quando quando você faz bons trabalhos como capturar vilarejos ou matando líderes inimigos, você pode obter dinheiro extra. Tenha cuidado com sua receita base e o custo de manutenção. <span color='yellow'>Se sua receita base é 30, 3 soldados (30 ouro em manutenção em 10 dias) serão um limite razoável para o número de soldados.</span>"
 
 #. [option]
 #: ./_main.cfg:1795
 msgid "<b>Foods</b>"
-msgstr ""
+msgstr "<b>Comida</b>"
 
 #. [message]
 #: ./_main.cfg:1799
 msgid "I, You, and member of your group have to eat foods every day. The amount for you and I is fixed; 2 in total. For other soldiers, 1 for soldiers of level less than or equal to 1, and 2 for higher level soldiers. The max amount of the food our group can carry is $ag_max_food|. We can get foods in the Outpost, Forts, small outposts without money. If foods run out, we will be starved. The starve of course did nothing good for us, so keep enough amounts of foods. We can extend the food posession limit if you have enough gold and fame. If you believe you have them, ask the general. You may can recruit Food Carriages at the costs of some gold and fame. A Food Carriage extends the limit by 50."
-msgstr ""
+msgstr "Eu, Você, e membros do seu grupo temos que comer todos os dias. A quantidade de comida para você e para mim é fixa; 2 no total. Para outros soldados, 1 comida para soldados de nível igual ou inferior a 1, e 2 para os soldados de maior nível. A quantidade máxima de comida que nosso grupo pode carregar é $ag_max_food|. Nós podemos obter comida no Posto Avançado, Fortes e pequenos Postos Avançados sem pagar. Se a comida acabar, nós ficaremos com fome. Ficar com fome, claro, não traz nada de bom sobre nós, então mantenha a quantidade de comida suficiente. Nós podemos ampliar a capacidade de armazenar comida se você tiver fama e ouro o suficiente. Se você acredita tê-los, peça ao general. Você pode recrutar Carruagens de Comida pelo custo de algum ouro e alguma fama. Uma Carruagem de Comida aumenta o limite em 50."
 
 #. [message]
 #: ./_main.cfg:1803
@@ -755,26 +758,33 @@ msgid ""
 "\n"
 "In addition to them, we can buy some foods in our ally villages. Foraging foods from those villages is not impossible but not recommended."
 msgstr ""
+"Nós podemos obter comida sem custo nas seguintes ocasiões.\n"
+"\n"
+"<span color='yellow'>- no escritório no Posto Avançado principal\n"
+"- Nos Fortes do Norte e do Sul (se eles estiverem sob controle do Reino)\n"
+"- Nos Postos Avançados do Oeste e do Leste (se eles estiverem sob controle do Reino)</span>\n"
+"\n"
+"Além destes, nós podemos comprar comidas nos vilarejos aliados. Saquear comida desses vilarejos não é impossível mas não é recomendado."
 
 #. [message]
 #: ./_main.cfg:1813
 msgid "<span color='yellow'>Keep in the mind that starvation is the most terrible enemy.</span> If starved, quickly return to the outposts, forts, or villages and get/buy some foods. <span color='yellow'>Then, take a rest in the bed for a night.</span> Good sleeping is necessary to regain health."
-msgstr ""
+msgstr "<span color='yellow'Tenha em mente que a fome é o mais terrível inimigo.</span> Se estiverem com fome, retorne rapidamente para os postos avançados, fortes, ou vilarejos e pegue/compre comida. <span color='yellow'>A seguir durma na cama por uma noite.</span> Dormir bem é necessário para recuperar a saúde."
 
 #. [option]
 #: ./_main.cfg:1819
 msgid "Loyalty"
-msgstr ""
+msgstr "Lealdade"
 
 #. [message]
 #: ./_main.cfg:1823
 msgid "Almost all the non-leader units have their own loyalty to their superior. Low loyalty units might BETRAY THEIR SIDE. If low loyalty units are in danger of their lives, they might betray and flee. I will talk you some specific issues when you recruit soldiers. The most important criterion is <span color='yellow'>HP=5</span>, if the HP is lower than that value, usual units will begin to consider betrayal."
-msgstr ""
+msgstr "Quase todas as unidades que não lideram tem sua própria lealdade com o superior. Unidades com pouca lealdade podem TRAIR O LADO EM QUE ESTÁ. Se unidades pouco leais estão sob risco de vida, eles podem trair e fugir. Eu lhe falarei questões mais específicas quando você recrutar soldados. O critério mais importante é <span color='yellow'>HP=5</span>, se o HP deles estiver abaixo desse valor, unidades normais começarão a considerar traição."
 
 #. [option]
 #: ./_main.cfg:1829
 msgid "Fame"
-msgstr ""
+msgstr "Fama"
 
 #. [message]
 #: ./_main.cfg:1833
@@ -782,11 +792,13 @@ msgid ""
 "<b>Fame</b>\n"
 "Fame is your objective value or worth. You can know the value at the office. If your fame becomes bigger, enemies would give you some title. To increase the fame, you have to win the battle, capture the village or forts. If you wanna meet the general and ask something to him, you need some fame at least. On the other hand, if you fame becomes bigger, you might not able to do an easy task such as patroling."
 msgstr ""
+"<b>Fama</b>\n"
+"Fama é o seu valor ou estima. Você pode saber os valores no escritório. Se sua fama se tornar maior, inimigos podem lhe dar uma distinção honorífica. Para aumentar a fama, você tem que vencer batalhas, capturar vilarejos ou fortes. Se você quiser visitar o general e pedir-lhe algo, você precisa de pelo menos um pouco de fama. Por outro lado, se sua fama aumenta, você pode não ter mais permissão para fazer tarefas fáceis como o patrulhamento."
 
 #. [option]
 #: ./_main.cfg:1840
 msgid "Capturing Villages"
-msgstr ""
+msgstr "Capturando Vilarejos"
 
 #. [message]
 #: ./_main.cfg:1844
@@ -794,11 +806,13 @@ msgid ""
 "<b>Capture</b>\n"
 "We can attack enemy villages, outposts, forts. The enemy ones are marked with green, ours are marked with blue. We must defeat the guardian troops next to villages. Guardian units can be easily identified by their name, <span color='yellow'><i>Imperial Guard</i></span>."
 msgstr ""
+"<b>Capturar</b>\n"
+"Nós podemos capturar dos inimigos seus vilarejos, postos avançados e fortes. Os dos inimigos são marcados com verde, os nosso são marcados de azul. Nós precisamos derrotar as tropas guardiãs ao lado dos vilarejos. Guardiães podem ser facilmente identificados pelo nome, <span color='yellow'><i>Guardiões do Império</i></span>."
 
 #. [option]
 #: ./_main.cfg:1851
 msgid "Right Click Menu"
-msgstr ""
+msgstr "Menu do Botão Direito"
 
 #. [message]
 #: ./_main.cfg:1855
@@ -806,12 +820,14 @@ msgid ""
 "<b>Right Click Menu</b>\n"
 "There are some special right click menus. You can access this by right clicking on you. You can check the current status of your group. There is also a jukebox and music selector, please check them out! If you have UMC music books addons installed, you can choose the songs from them. (REQUEST: Please report the author if there are some mistakes in the title of musics or in something others.) You can change some settings related to the gameplay."
 msgstr ""
+"<b>Menu do Botão Direito</b>\n"
+"Há alguns menus especiais com o botão direito. Você pode acessá-los clicando com o direito em você. Nele você pode verificar o estado atual do seu grupo. Há também um toca música e um seletor de música, por favor veja-os! Se você tem os UMC music books (addons) instalados, você pode selecionar músicas deles. (PEDIDO: Por favor relate ao autor se há algum erro nos títulos das músicas ou em outra coisa.) Você também pode alterar algumas coisas relacionadas à jogabilidade."
 
 #. [option]
 #. [set_menu_item]: id=z_settings
 #: ./_main.cfg:1862 ./utils/menus.cfg:298
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #. [message]
 #: ./_main.cfg:1866
@@ -824,31 +840,38 @@ msgid ""
 "- Enable dialog-only version of the Outpost\n"
 "Some of them might be useful to you. Please try."
 msgstr ""
+"<b>Configurações</b>\n"
+"Você pode alternar algumas configurações a partir deste menu. Atualmente, os seguintes items são modificáveis.\n"
+"- Omitir mensagens de novo dia\n"
+"- Habilitar o encerramento automático de turno no Campo (nem sempre)\n"
+"- Ver os movimentos da IA no Campo (pode ser irritante)\n"
+"- Habilitar a versão somente-diálogo no Posto Avançado\n"
+"Alguns deles podem ser úteis para você. Por favor experimente."
 
 #. [option]
 #: ./_main.cfg:1878 ./_main.cfg:1956
 msgid "Back"
-msgstr ""
+msgstr "Voltar"
 
 #. [message]
 #: ./_main.cfg:1904
 msgid "Here are some minor topics related to the system."
-msgstr ""
+msgstr "Há alguns tópicos menores relacionados ao sistema."
 
 #. [option]
 #: ./_main.cfg:1907
 msgid "Your Title"
-msgstr ""
+msgstr "Sua Distinção Honorífica"
 
 #. [message]
 #: ./_main.cfg:1911
 msgid "If you get enough fame, you will get a title suitable to you. This title is determined by your enemy, you cannot choose the name. The name might be decided from your behavior... If you commit something to be blamed, your title will be an unhonorful one."
-msgstr ""
+msgstr "Se você conseguir fama o suficiente, você receberá uma distinção honorífica adequada. Esse distinção é determinada pelo seu inimigo, você não pode escolher o nome. O nome deve ser decidido pelo seu comportamento... Se você fizer algo condenável, seu título será um desonroso."
 
 #. [option]
 #: ./_main.cfg:1917
 msgid "Guard Troops"
-msgstr ""
+msgstr "Tropas Guardiãs"
 
 #. [message]
 #: ./_main.cfg:1921
@@ -857,11 +880,14 @@ msgid ""
 "\n"
 "It should be noted that those guards never move."
 msgstr ""
+"Algumas topas do Reino/Império tem um nome especial, <b>Guardiões</b>. Eles são os guardiões da ponte, vilarejos e pequenos postos avançados. Se estes guardas forem derrotados, o vilarejo ou posto avançado serão ocupados pelo lado atacante. Você deve verificar cuidadosamente o nome da tropa se você quer capturar um vilarejo ou qualquer lugar.\n"
+"\n"
+"Deve-se notar que esses guardas nunca se movem."
 
 #. [option]
 #: ./_main.cfg:1929
 msgid "Assault Troops"
-msgstr ""
+msgstr "Tropas de Assalto"
 
 #. [message]
 #: ./_main.cfg:1933
@@ -869,12 +895,14 @@ msgid ""
 "Kingdom and Empire sometimes plan to capture some village or outpost with their troops. In this case, special troops having <span color='red'>Assault</span> in their unit stat will appear on the Field.\n"
 "\n"
 "Assault will not last forever. That stat will be removed after a certain period. Once the period finished, the assault troops will transform into normal troops."
-msgstr ""
+msgstr "O Reino e o Império às vezes planeja capturar algum vilarejo ou posto avançado com as tropas deles. Nesse caso, tropas especiais tendo <span color='red'>Assalto</span> nas características da unidade aparecerão no Campo."
+"\n"
+"Assalto não dura para sempre. A característica será removida depois de um certo período. Uma vez que o período termina, as tropas de assalto se transformarão em tropas normais."
 
 #. [option]
 #: ./_main.cfg:1941
 msgid "Which field units will be saved?"
-msgstr ""
+msgstr "Quais unidades do campo serão salvas?"
 
 #. [message]
 #: ./_main.cfg:1945
@@ -886,26 +914,32 @@ msgid ""
 "\n"
 "Here injured guard do not consider number of members. If its HP is not max, they will be saved and reappear."
 msgstr ""
+"Normalmente, unidades (tropas) no Campo serão descartadas quando você é envolvido uma escaramuça ou você entra no posto avançado. Mas as seguintes unidades serão salvas e reaparecerão quando você voltar ao Campo.\n"
+"\n"
+"- unidades guardiães feridas (guardas de vilarejos ou guardas de postos avançados)\n"
+"- tropas de assalto\n"
+"\n"
+"Aqui guardas feridos não considera o número de membros. Se o HP não é o máximo, eles serão salvos e reaparecerão."
 
 #. [message]
 #: ./_main.cfg:2134
 msgid "Do you wanna change settings?"
-msgstr ""
+msgstr "Você quer alterar as configurações?"
 
 #. [option]
 #: ./_main.cfg:2137
 msgid "Disable new day messages. <span color='green'><b>(Now: Enabled)</b></span>"
-msgstr ""
+msgstr "Desabilitar as mensagens de dia novo. <span color='green'><b>(Agora: Habilitado)</b></span>"
 
 #. [option]
 #: ./_main.cfg:2147
 msgid "Enable new day messages. <span color='red'><b>(Now: Disabled)</b></span>"
-msgstr ""
+msgstr "Habilitar as mensagens de dia novo. <span color='red'><b>(Agora: Desabilitado)</b></span>"
 
 #. [option]
 #: ./_main.cfg:2157
 msgid "Disable auto turn end on the Field. <span color='green'><b>(Now: Enabled)</b></span>"
-msgstr ""
+msgstr "Desabilitar término automático de turno no Campo. <span color='green'><b>(Agora: Habilitado)</b></span>"
 
 #. [option]
 #: ./_main.cfg:2167
@@ -913,11 +947,13 @@ msgid ""
 "Enable auto turn end on the Field. <span color='red'><b>(Now: Disabled)</b></span>\n"
 "<small>Your turn automatically ends once you finish up move points (when not on villages/castles and no enemies around).</small>"
 msgstr ""
+"Habilitar término automático de turno no Campo. <span color='red'><b>(Agora: Desabilitado)</b></span>\n"
+"<small>Seu turno encerra automaticamente quando o você não tem mais pontos de movimentação (quando não estiver em vilarejos/castelos e sem inimigos ao redor).</small>"
 
 #. [option]
 #: ./_main.cfg:2178
 msgid "Do not skip AI moves on Field. <span color='green'><b>(Now: Skip)</b></span>"
-msgstr ""
+msgstr "Não pular os movimentos da IA no Campo. <span color='green'><b>(Agora: Pular)</b></span>"
 
 #. [option]
 #: ./_main.cfg:2188
@@ -925,11 +961,13 @@ msgid ""
 "Skip AI moves on Field. <span color='red'><b>(Now: Not Skip)</b></span>\n"
 "<small>If skipped, AI moves will not be shown.</small>"
 msgstr ""
+"Pular os movimento da IA no Campo. <span color='red'><b>(Agora: Não Pular)</b></span>\n"
+"<small>Se pulados, movimentos da IA não serão mostrados..</small>"
 
 #. [option]
 #: ./_main.cfg:2199
 msgid "Disable dialog-only mode of Outpost. <span color='green'><b>(Now: Dialog-only)</b></span>"
-msgstr ""
+msgstr "Desabilitar modo somente-diálogo no Posto Avançado. <span color='green'><b>(Agora: Somente-diálogo)</b></span>"
 
 #. [option]
 #: ./_main.cfg:2209
