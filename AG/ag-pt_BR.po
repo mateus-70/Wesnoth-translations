@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: A Group in a War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-20 09:33-0300\n"
+"PO-Revision-Date: 2020-10-20 09:49-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt\n"
@@ -37,6 +37,7 @@ msgstr ""
 "\n"
 "Uma campanha simples no estilo RPG. Há algumas funcionalidades estranhas na jogabilidade, jogadores de primeira viagem não devem escolher o nível Difícil.\n"
 "\n"
+"(Nível intermediário a experiente. Versão:"
 
 
 #. [campaign]: id=A_Group
@@ -492,7 +493,7 @@ msgstr "Obrigado! (sair)"
 #. [message]
 #: ./_main.cfg:1327
 msgid "You can receive $ag_charged_salary gold."
-msgstr "Você pode receber $ag_charged_salary gold."
+msgstr "Você pode receber $ag_charged_salary ouros."
 
 #. [message]
 #: ./_main.cfg:1335
@@ -1224,7 +1225,7 @@ msgid ""
 msgstr ""
 "Exército do Reino... Nós já perdemos o forte do norte e muitos soldados. Mas... mas nós ainda temos este posto avançado!\n"
 "\n"
-"NÓS NÃO ESTAMOS PERDIDOS! SOLDADOS, PEGUEM SUAS ARMAS! AGUENTEM FIRME! MATEM OS INIMIGOS!!!\n"
+"NÓS NÃO ESTAMOS PERDIDOS! SOLDADOS, PEGUEM SUAS ARMAS! AGUENTEM FIRME! MATEM OS INIMIGOS!!!"
 
 #. [message]: speaker=unit
 #: ./scenarios/Battle.cfg:352
@@ -3255,7 +3256,7 @@ msgstr "Eu nunca pensei que eu pudesse sobreviver a guerra. Obrigado!"
 
 #: ./utils/message_speakers.cfg:28
 msgid "A peasant of $ag_village_name"
-msgstr "Um aldeão da $ag_village_name"
+msgstr "Um aldeão do/da $ag_village_name"
 
 #. [note]
 #: ./utils/skirmish_utils.cfg:7
