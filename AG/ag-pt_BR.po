@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: A Group in a War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-26 10:38-0300\n"
-"Last-Translator: Andrei Machado <andreisp.machado@yahoo.com>\n"
+"PO-Revision-Date: 2020-10-31 10:33-0300\n"
+"Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "Pentarctagon, Elvish_Hunter, Huston, e tantos outros pela compilação d
 #: _main.cfg:128
 #, fuzzy
 msgid "and all the developers of BfW!"
-msgstr "e todos os desenvolvedores de BpW"
+msgstr "e todos os desenvolvedores de BpW!"
 
 #. [message]: speaker=narrator
 #: _main.cfg:195 _main.cfg:238
@@ -372,7 +372,7 @@ msgstr "Para nosso arrependimento, você não pode nos pagar. Então temos que i
 #. [event]
 #: _main.cfg:712
 msgid "<span color='yellow'>$pay_money</span> gold payed for your party members!"
-msgstr "<span color='yellow'>$pay_money</span> ouro pago para os membros da sua equipe!"
+msgstr "<span color='yellow'>$pay_money</span> peças de ouro pago para os membros da sua equipe!"
 
 #. [message]
 #: _main.cfg:816
@@ -388,7 +388,7 @@ msgstr "<span color='yellow'>$tmp_food</span> comidas consumidas. ($ag_food|/$ag
 #: _main.cfg:975
 #, fuzzy
 msgid "You could not defeat bridge guards within the period..."
-msgstr "Você não poderia derrotar os guardas da ponte dentro do período..."
+msgstr "Você não conseguiu derrotar os guardas da ponte dentro do período..."
 
 #. [message]
 #: _main.cfg:975 _main.cfg:991 _main.cfg:1029 scenarios/Battle.cfg:442
@@ -484,7 +484,7 @@ msgstr "<small>Nota: o salário atual é determinado a partir do dia do pagament
 #. [message]
 #: _main.cfg:1291
 msgid "Your current fame is <span color='yellow'>$ag_fame|</span>. You can get <span color='green'>$ag_salary</span> gold every ten days."
-msgstr "Sua fama atual é <span color='yellow'>$ag_fame|</span>. Você pode receber <span color='green'>$ag_salary</span> ouros a cada dez dias."
+msgstr "Sua fama atual é <span color='yellow'>$ag_fame|</span>. Você pode receber <span color='green'>$ag_salary</span> peças de ouro a cada dez dias."
 
 #. [option]
 #: _main.cfg:1298
@@ -494,7 +494,7 @@ msgstr "Obrigado! (sair)"
 #. [message]
 #: _main.cfg:1327
 msgid "You can receive $ag_charged_salary gold."
-msgstr "Você pode receber $ag_charged_salary ouros."
+msgstr "Você pode receber $ag_charged_salary peças de ouro."
 
 #. [message]
 #: _main.cfg:1335
@@ -616,7 +616,7 @@ msgstr "Nós temos que <span color='yellow'>atacar o Forte do Norte</span> dentr
 #: _main.cfg:1665
 #, fuzzy
 msgid "We have to <span color='yellow'>attack Imperial main outpost</span> within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
-msgstr "Nós temos que <span color='yellow'>atacar o posto avançado principal Imperial</span> dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
+msgstr "Nós temos que <span color='yellow'>atacar o principal posto avançado do Império</span> dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
 #. [message]
 #: _main.cfg:1672
@@ -632,7 +632,7 @@ msgstr "Nós temos que <span color='yellow'>escoltar comboios</span> para o post
 #: _main.cfg:1689
 #, fuzzy
 msgid "You should get enough fame first to get enough income. At least you should have 70 gold income. (Your current income is $ag_salary|.) That amount of fund is necessary to keep 5-6 soldiers, which is minimum necessary number to fight against an enemy troop. To raise up your fame, the safest way is to accomplish relatively easy missions such as night patroling of the outpost."
-msgstr "Primeiro você deve ter fama o suficiente para receber suficiente receita. Você deve ter pelo menos 70 ouro de receita. (Sua receita atual é $ag_salary|.) Essa quantia de fundos é necessária para manter 5-6 soldados, que é o número mínimo necessário para lutar contra uma tropa inimiga. Para aumentar sua fama, o jeito mais seguro é realizar missões relativamente fáceis, como o patrulhamento noturno do posto avançado."
+msgstr "Primeiro você deve ter fama suficiente para receber receita suficiente. Você deve ter pelo menos 70 de receita. (Sua receita atual é $ag_salary|.) Essa quantia de fundos é necessária para manter 5-6 soldados, que é o número mínimo necessário para lutar contra uma tropa inimiga. Para aumentar sua fama, o jeito mais seguro é realizar missões relativamente fáceis, como o patrulhamento noturno do posto avançado."
 
 #. [message]
 #: _main.cfg:1693
@@ -643,19 +643,19 @@ msgstr "Primeiro de tudo, você deve juntar 1-3 aldeões, mateiroes ou rufiões 
 #: _main.cfg:1702
 #, fuzzy
 msgid "We, Kingdom army must regain the South Fort. Recruit and train your members first. You then attack enemy troops around the South Fort. You may try to regain villages in south of the river. Once you get enough power to attack the Fort, launch an assult collaborating with main army. <span color='yellow'>Breaking the bridge is a good option when attacking.</span> If the bridge does not work, reinforcement from the North Fort cannot appear."
-msgstr "Nós, o exército do Reino devemos primeiro reconquistar o Forte do Sul. Recrute e treine seus membros primeiro. Então ataque as tropas inimigas próximo ao Forte do Sul. Você pode tentar reconquistar as aldeias ao sul do rio. Uma vez que você tenha poder suficiente para atacar o Forte, lance uma investida colaborada com o exército principal. <span color='yellow'>Romper a ponte é uma boa opção quando for atacar.</span> Se a ponte não funciona, reforços do Forte do Norte não aparecerão."
+msgstr "Nós, o exército do Reino devemos primeiro reconquistar o Forte do Sul. Recrute e treine seus membros primeiro. Então ataque as tropas inimigas próximo ao Forte do Sul. Você pode tentar reconquistar as aldeias ao sul do rio. Uma vez que você seja forte suficiente para atacar o Forte, lance uma investida colaborada com o exército principal. <span color='yellow'>Romper a ponte é uma boa opção quando for atacar.</span> Se a ponte não funciona, reforços do Forte do Norte não aparecerão."
 
 #. [message]
 #: _main.cfg:1711
 #, fuzzy
 msgid "Our target is the North Fort. We should attack there with our general. If you could prove yourself, you can ask him to attack the fort with you. The way to prove yourself is very simple, win the battles. Capturing the villages and small outposts in the north side of the river are also good options. <span color='yellow'>Outpost East, Village-N-W-River, and Village-N-C</span> are important points. If you managed to occupy all those points, enemy reinforcement might not bother us when attacking the North Fort. But be careful when crossing the river... Nagas are there. They are almost invincible in the water. Passing bridge might be a safer option, though we need to defeat bridge guards."
-msgstr "Nosso alvo é o Forte do Norte. Nós devemos atacá-lo com nosso general. Se você conseguir dar uma prova de si, você pode pedir a ele para atacar o forte com você. O jeito de provar a si mesmo é simples, vença as batalhas. Capturando as aldeias e os pequenos postos avançados do lado norte do rio também são boas opções. <span color='yellow'>Posto avançado Leste, Aldeia-N-O-Rio, e Aldeia-N-C</span> são também pontos importantes. Se você conseguir ocupar todos esses pontos, reforços inimigos podem deixar de nos incomodar quando atacando o Forte do Norte. Mas tome cuidado quando atravessar o rio... Nagas estão lá. Eles são quase invencíveis na água. Atravessar a ponte pode ser uma opção mais segura, mas primeiro precisamos derrotar os guardas da ponte."
+msgstr "Nosso alvo é o Forte do Norte. Nós devemos atacá-lo com nosso general. Se você conseguir dar uma prova de si, você pode pedir a ele para atacar o forte com você. O jeito de provar a si mesmo é simples, vença as batalhas. Capturando as aldeias e os pequenos postos avançados do lado norte do rio também são boas opções. <span color='yellow'>Posto avançado Leste, Aldeia-N-O-Rio, e Aldeia-N-C</span> são também pontos importantes. Se você conseguir ocupar todos esses pontos, reforços inimigos podem não nos incomodar quando atacarmos o Forte do Norte. Mas tome cuidado quando atravessar o rio... Nagas estão lá. Eles são quase invencíveis na água. Atravessar a ponte pode ser uma opção mais segura, mas primeiro precisamos derrotar os guardas da ponte."
 
 #. [message]
 #: _main.cfg:1726
 #, fuzzy
 msgid "There are some alien systems in this campaign, check it out carefully."
-msgstr "Há alguns sistemas alienígenas nesta campanha, verifique-os cuidadosamente."
+msgstr "Há alguns sistemas bem diferentes das campanhas típicas, verifique-os cuidadosamente."
 
 #. [option]
 #: _main.cfg:1729
@@ -720,7 +720,7 @@ msgid ""
 "You can recruit soldiers only in our main Outpost (at least in this version). The cost of recruiting is different from the standard gameplay. This is because of some skills and loyalty issues. I will talk you some more details when you recruit the soldiers."
 msgstr ""
 "<b>Recrutando soldados</b>\n"
-"Você pode recrutar soldados somente no nosso Posto Avançado principal (pelo menos nesta versão). O custo do recrutameto é diferente de um jogo típico. Isso se deve a algumas questões sobre habilidades e lealdade. Eu falarei com mais detalhes quando você for recrutar os soldados."
+"Você pode recrutar soldados somente no nosso Principal Posto Avançado (pelo menos nesta versão). O custo do recrutameto é diferente de um jogo típico. Isso se deve a algumas questões sobre habilidades e lealdade. Eu falarei com mais detalhes quando você for recrutar os soldados."
 
 #. [message]
 #: _main.cfg:1778
@@ -729,7 +729,7 @@ msgid ""
 "Recalling soldiers can be done in the our main Outpost, please come to the keep where I am. You can recall soldiers once you fired. (You can fire units on that place, too.) This recalling is necessary only if you fired units, or units leave you due to your bankruptcy. On average, the recalling is not an usual event. <b>It is noteworthy that firing units itself does not have disadvantage other than the cost for recalling (20g). If there is an urgent problem about money, firing units can be an option.</b>"
 msgstr ""
 "<b>Convocando soldados</b>\n"
-"Convocando soldados pode ser feito no nosso Posto Avançado principal, por favor venha na torre de menagem onde eu estou. Você pode convocar soldados uma vez que você demitiu eles. (Você pode demiti-los também naquele lugar.) Esta convocação só é necessária se você demitiu unidades, ou unidades te deixaram por causa da sua falência. De forma geral, convocar não é um evento usual. <b>É importante notar que demitir unidades não tem desvantagens além do custo de convocação (20 de ouro). Se ocorrer um problema de dinheiro urgente, demitir unidades pode ser uma opção.</b>"
+"Convocando soldados pode ser feito no nosso Principal Posto Avançado, por favor venha na torre de menagem onde eu estou. Você pode convocar soldados uma vez que você demitiu eles. (Você pode demiti-los também naquele lugar.) Esta convocação só é necessária se você demitiu unidades, ou unidades te deixaram por causa da sua falência. De forma geral, convocar não é um evento usual. <b>É importante notar que demitir unidades não tem desvantagens além do custo de convocação (20 peças de ouro). Se ocorrer um problema de dinheiro urgente, demitir unidades pode ser uma opção.</b>"
 
 #. [message]
 #: _main.cfg:1783
@@ -747,7 +747,7 @@ msgid ""
 "You can get money in the offices (main Outpost, North Fort, and South Fort) every 10 days. Your current base income is $ag_salary|, this value depends on your fame. In addition, when you did good jobs such as capturing villages or killing enemy leaders, you can get extra money. Be care on the your base income and upkeep. <span color='yellow'>If your base income is 30, 3 soldiers (30 gold upkeep in 10 days) will be the reasonable limit for the number of the soldiers.</span>"
 msgstr ""
 "<b>Como conseguir dinheiro?</b>\n"
-"Você pode pegar dinheiro nos escritórios (Posto Avançado principal, Forte do Norte, e Forte do Sul) a cada 10 dias. Sua receita base atual é $ag_salary|, este valor depende da sua fama. Além disso, quando quando você faz bons trabalhos como capturar aldeias ou matar líderes inimigos, você pode obter dinheiro extra. Tenha cuidado com sua receita base e o custo de manutenção. <span color='yellow'>Se sua receita base é 30, 3 soldados (30 ouros de manutenção em 10 dias) serão um limite razoável para o número de soldados.</span>"
+"Você pode pegar dinheiro nos escritórios (Principal Posto Avançado, Forte do Norte, e Forte do Sul) a cada 10 dias. Sua receita base atual é $ag_salary|, este valor depende da sua fama. Além disso, quando quando você faz bons trabalhos como capturar aldeias ou matar líderes inimigos, você pode obter dinheiro extra. Tenha cuidado com sua receita base e o custo de manutenção. <span color='yellow'>Se sua receita base é 30, 3 soldados (30 peças de ouro de manutenção em 10 dias) serão um limite razoável para o número de soldados.</span>"
 
 #. [option]
 #: _main.cfg:1795
@@ -772,7 +772,7 @@ msgid ""
 msgstr ""
 "Nós podemos obter comida sem custo nas seguintes ocasiões.\n"
 "\n"
-"<span color='yellow'>- no escritório do Posto Avançado principal\n"
+"<span color='yellow'>- no escritório do Principal Posto Avançado\n"
 "- Nos Fortes do Norte e do Sul (se eles estiverem sob controle do Reino)\n"
 "- Nos Postos Avançados do Oeste e do Leste (se eles estiverem sob controle do Reino)</span>\n"
 "\n"
@@ -1020,7 +1020,7 @@ msgstr "Feito."
 #. [message]: speaker=narrator
 #: _main.cfg:2270
 msgid "Debug current status"
-msgstr "Estado atual de Debug"
+msgstr "Estado atual de depuração"
 
 #. [option]: speaker=narrator
 #: _main.cfg:2272
@@ -1074,13 +1074,13 @@ msgid ""
 "mission time: $ag_ongoing_mission_time\n"
 "work var: $ag_ongoing_mission_value"
 msgstr ""
-"Estatísticas das Ações:\n"
-"ações atuais: $ag_ongoing_action\n"
-"lado das ações: $ag_ongoing_action_side\n"
-"tempo das ações: $ag_ongoing_action_time\n"
+"Estatísticas da Ação:\n"
+"ação atual: $ag_ongoing_action\n"
+"lado da ação: $ag_ongoing_action_side\n"
+"tempo da ação: $ag_ongoing_action_time\n"
 "sinal de construção: $ag_ongoing_action_done_build\n"
 "\n"
-"Estatísticas das Missões:\n"
+"Estatísticas da Missão:\n"
 "missão atual: $ag_ongoing_mission\n"
 "tempo de missão: $ag_ongoing_mission_time\n"
 "work var: $ag_ongoing_mission_value"
@@ -1161,7 +1161,7 @@ msgstr "<span color='#33FF33'><i>Batedor</i></span>\n"
 #: lua/theme_items.lua:157 lua/theme_items.lua:164 lua/theme_items.lua:176
 #, fuzzy
 msgid "have hide"
-msgstr "esconde"
+msgstr "tem a aptidão de esconder"
 
 #. [lua]: wesnoth.theme_items.unit_weapons
 #: lua/theme_items.lua:163
@@ -1181,7 +1181,7 @@ msgstr "tropa de assalto"
 #. [scenario]: id=Last_Battle
 #: scenarios/Battle.cfg:7
 msgid "Attack the main Outpost"
-msgstr "Ataque o Posto Avançado principal"
+msgstr "Ataque o Principal Posto Avançado"
 
 #. [label]
 #: scenarios/Battle.cfg:86 scenarios/Bridge.cfg:65 scenarios/Fort.cfg:73
@@ -1253,7 +1253,7 @@ msgstr "Nós capturamos o Posto Avançado! Nós derrotamos o Império!!!!!!"
 #. [message]
 #: scenarios/Battle.cfg:361
 msgid "I cannot believe it... We captured the main outpost of the Empire only by ourselves...? It is a dream... We maybe sleeping in the bedroom of our Outpost... or we all already died....?"
-msgstr "Eu não consigo acreditar... Nós capturamos o posto avançado principal do Império sozinhos...? Isso é um sonho... Talvez eu esteja dormindo no dormitório do nosso Posto Avançado... ou nós todos morremos....?"
+msgstr "Eu não consigo acreditar... Nós capturamos o principal posto avançado do Império sozinhos...? Isso é um sonho... Talvez eu esteja dormindo no dormitório do nosso Posto Avançado... ou nós todos morremos....?"
 
 #. [message]: speaker=unit
 #: scenarios/Battle.cfg:365
@@ -1346,7 +1346,7 @@ msgid ""
 msgstr ""
 "... Você venceu a batalha, mas você não pode sobreviver. Sua bravura é excelente demais, mas sua fama não é suficiente para você se salvar. Este é um simples resultado político. Generais do Reino estavam realmente preocupados com sua promoção; eles estão com medo de você superá-los. A guerra estava quase terminada quando você capturou o Forte do Norte. Sua bravura excedente foi totalmente mal recebida por eles, então eles lhe assassinaram. Embora estes mesmos generais declararão que você foi assassinado por soldados Imperiais.\n"
 "\n"
-"Para evitar tal fim, você deve ganhar mais e mais fama antes de terminar a guerra. Mas se sua fama ficar muito alta, os generais não lhe ajudarão no ataque ao posto avançado principal. Então você terá que capturar o posto avançado principal do inimigo somente com sua tropa. É uma tarefa difícil, mas você terá que fazer isso.\n"
+"Para evitar tal fim, você deve ganhar mais e mais fama antes de terminar a guerra. Mas se sua fama ficar muito alta, os generais não lhe ajudarão no ataque ao principal posto avançado. Então você terá que capturar o principal posto avançado do inimigo somente com sua tropa. É uma tarefa difícil, mas você terá que fazer isso.\n"
 "\n"
 "Se você tentar capturar o posto avançado somente com a sua tropa, eu lhe darei algum benefício...\n"
 "<span color='yellow' size='smaller'>Há uma médica elfa no campo. Encontre-a. As habilidades dela podem ser necessárias para completar essa difícil tarefa...</span>"
@@ -1392,7 +1392,7 @@ msgstr "Hm. Meu palpite mostrou-se completamente correto! Este grupo conseguiu f
 #: scenarios/Epilogue.cfg:264
 #, fuzzy
 msgid "Anyway, I can go back to our forest safely now. Thank you, everyone! See you!"
-msgstr "De qualquer forma, eu posso voltar em segurança para nossa floresta agora. Obrigado à todos! Vejo vocês!"
+msgstr "De qualquer forma, eu posso voltar em segurança para nossa floresta agora. Obrigado à todos! Vejo vocês por aí!"
 
 #. [message]: speaker=Karl
 #: scenarios/Epilogue.cfg:272
@@ -1584,7 +1584,7 @@ msgstr "A habilidade de medicar dela pode ser útil. Embora nós ainda não veri
 #: scenarios/Field.cfg:390
 #, fuzzy
 msgid "No definitely not! Such an elvish child must be thrown away!"
-msgstr "Não, definitivamente não! Devemos nos livrar de criança élfica desse tipo!"
+msgstr "Não, definitivamente não! Devemos nos livrar de uma criança élfica desse tipo!"
 
 #. [message]
 #: scenarios/Field.cfg:394
@@ -1665,7 +1665,7 @@ msgstr "Guarda do Império"
 #: scenarios/Field.cfg:1635
 #, fuzzy
 msgid "We have to escort convoys to destination. We cannot attack Imperial stronghold now."
-msgstr "Nós temos que escoltar o comboio para o destino. Não podemos atacar pontos defendidos do Império agora."
+msgstr "Nós temos que escoltar o comboio para o destino. Não podemos atacar fortificações do Império agora."
 
 #. [message]
 #: scenarios/Field.cfg:1703
@@ -1725,7 +1725,7 @@ msgstr "Eu não sou estúpido."
 #. [message]
 #: scenarios/Field.cfg:1789
 msgid "...attacking enemy main outpost now is entirely suicidal. At least we should capture the nouth fort first. Otherwise, we are surely sandwitched by soldiers of main outpost and north fort."
-msgstr "...atacar o posto avançado principal do inimigo agora é completamente suicida. Nós devemos pelo menos capturar o forte norte primeiro. Senão, nós vamos ser ensanduichados pelos soldados do posto avançado principal e do forte do norte."
+msgstr "...atacar o principal posto avançado do inimigo agora é completamente suicida. Nós devemos pelo menos capturar o forte norte primeiro. Senão, nós vamos ser ensanduichados pelos soldados do principal posto avançado e do forte do norte."
 
 #. [option]
 #: scenarios/Field.cfg:1800
@@ -1735,7 +1735,7 @@ msgstr "Vamos fazer o assalto final!"
 #. [message]
 #: scenarios/Field.cfg:1821
 msgid "...attacking enemy main outpost only by us is suicidal."
-msgstr "...atacar o posto avançado principal do inimigo sozinhos é suicídio."
+msgstr "...atacar o principal posto avançado do inimigo sozinhos é suicídio."
 
 #. [option]
 #: scenarios/Field.cfg:1824
@@ -1785,7 +1785,7 @@ msgstr "requisitar suprimentos alimentares"
 #. [option]
 #: scenarios/Field.cfg:2456
 msgid "buy some food by 10 gold"
-msgstr "comprar um pouco de comida por 10 de ouro"
+msgstr "comprar um pouco de comida por 10 peças de ouro"
 
 #. [option]
 #: scenarios/Field.cfg:2470
@@ -1820,12 +1820,12 @@ msgstr "Sair"
 #. [label]
 #: scenarios/Field.cfg:2705
 msgid "Main Outpost (Kingdom)"
-msgstr "Posto Avançado Principal (Reino)"
+msgstr "Principal Posto Avançado (Reino)"
 
 #. [label]
 #: scenarios/Field.cfg:2710
 msgid "Main Outpost (Empire)"
-msgstr "Posto Avançado Principal (Império)"
+msgstr "Principal Posto Avançado (Império)"
 
 #. [case]
 #. [label]
@@ -2409,7 +2409,7 @@ msgstr ""
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1107
 msgid "Get a trait for 100 gold:\n"
-msgstr "Obtenha uma característica por 100 de ouro:\n"
+msgstr "Obtenha uma característica por 100 peças de ouro:\n"
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1108
@@ -2490,22 +2490,22 @@ msgstr "Habilidades de Batedor e Esconder?"
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1273
 msgid "Recruit a Thief for 8 gold. (can Hide)"
-msgstr "Recrutar um Gatuno por 8 de ouro. (pode Esconder)"
+msgstr "Recrutar um Gatuno por 8 peças de ouro. (pode Esconder)"
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1286
 msgid "Recruit a Thug for 7 gold."
-msgstr "Recrutar um Meliante por 7 de ouro."
+msgstr "Recrutar um Meliante por 7 peças de ouro."
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1299
 msgid "Recruit a Poacher for 9 gold. (can Hide)"
-msgstr "Recrutar um Matuto por 9 de ouro. (pode Esconder)"
+msgstr "Recrutar um Matuto por 9 peças de ouro. (pode Esconder)"
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1312
 msgid "Recruit a Footpad for 10 gold. (can Scout)"
-msgstr "Recrutar um Salteador por 10 de ouro. (Batedor)"
+msgstr "Recrutar um Salteador por 10 peças de ouro. (Batedor)"
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1325 scenarios/Outpost.cfg:1427
@@ -2531,22 +2531,22 @@ msgstr "Eles não são soldados regulares, ao contrário desses que empregam-se 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1376
 msgid "Recruit a Spearman for 20 gold."
-msgstr "Recrutar um Lanceiro Desmonstado por 20 de ouro."
+msgstr "Recrutar um Lanceiro Desmontado por 20 peças de ouro."
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1389
 msgid "Recruit a Bowman for 20 gold."
-msgstr "Recrutar um Arqueiro por 20 de ouro."
+msgstr "Recrutar um Arqueiro por 20 peças de ouro."
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1401
 msgid "Recruit a Fencer for 50 gold. (can Hide)"
-msgstr "Recrutar um Esgrimista por 50 de ouro. (pode Esconder)"
+msgstr "Recrutar um Esgrimista por 50 peças de ouro. (pode Esconder)"
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1414
 msgid "Recruit a Cavalryman for 45 gold. (can Scout)"
-msgstr "Recrutar um Equestre por 45 de ouro. (Batedor)"
+msgstr "Recrutar um Equestre por 45 peças de ouro. (Batedor)"
 
 #. [message]: speaker=narrator
 #: scenarios/Outpost.cfg:1458
@@ -2566,17 +2566,17 @@ msgstr "Eles são completos amadores em combate. Mas são muito leais ao Reino e
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1478
 msgid "Recruit a Peasant for 3 gold."
-msgstr "Recrutar um Aldeão por 3 de ouro."
+msgstr "Recrutar um Aldeão por 3 peças de ouro."
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1490
 msgid "Recruit a Woodsman for 4 gold. (can Hide)"
-msgstr "Recrutar um Mateiro por 4 de ouro. (pode Esconder)"
+msgstr "Recrutar um Mateiro por 4 peças de ouro. (pode Esconder)"
 
 #. [option]: speaker=narrator
 #: scenarios/Outpost.cfg:1502
 msgid "Recruit a Ruffian for 5 gold."
-msgstr "Recrutar um Rufião por 5 de ouro."
+msgstr "Recrutar um Rufião por 5 peças de ouro."
 
 #. [message]: speaker=Local General
 #: scenarios/Outpost.cfg:1543
@@ -2586,12 +2586,12 @@ msgstr "Oi pra você, qual é sua requisição?"
 #. [option]: speaker=Local General
 #: scenarios/Outpost.cfg:1546
 msgid "Recruit a Food Carriage for your troop by 25 gold and 50 fame. (increase food max by 50)"
-msgstr "Recrutar uma Carruagem de Comida para sua tropa por 25 de ouro e 50 de fama. (aumenta capacidade máxima de comida em 50)"
+msgstr "Recrutar uma Carruagem de Comida para sua tropa por 25 peças de ouro e 50 de fama. (aumenta capacidade máxima de comida em 50)"
 
 #. [option]: speaker=Local General
 #: scenarios/Outpost.cfg:1546
 msgid "<span color='yellow' size='smaller'>requirement: 25 gold and 110 fame</span>"
-msgstr "<span color='yellow' size='smaller'>requerimento: 25 de ouro e 110 de fama</span>"
+msgstr "<span color='yellow' size='smaller'>requerimento: 25 peças de ouro e 110 de fama</span>"
 
 #. [message]
 #: scenarios/Outpost.cfg:1564
@@ -2620,7 +2620,7 @@ msgid ""
 "\n"
 "Be careful. Or, you will be assassinated by those worms. You should be quiet and do nothing, this is the best way to survive. ... <span color='yellow'>Or, achieve further great success. If you become such a legendary hero, even those worms cannot kill you...</span>"
 msgstr ""
-"... Desculpe, o senhor general na nossa capital me disse para não assaltar em colaboração contigo. Então eu não posso ajudar. Aquele nobre e seus camaradas acreditam que nós já vencemos esta guerra. A única questão que resta para eles é saber quem vai fazer a maior façanha, quem irá capturar o posto avançado principal do Império. Eles podem acreditar que você já fez demais. Eles não podem permitir mais sucessos de sua parte. Como você deve compreender, isso é política boba. Sua promoção rápida também atraiu a inveja e o rancor deles. Nunca os subestime.\n"
+"... Desculpe, o senhor general na nossa capital me disse para não assaltar em colaboração contigo. Então eu não posso ajudar. Aquele nobre e seus camaradas acreditam que nós já vencemos esta guerra. A única questão que resta para eles é saber quem vai fazer a maior façanha, quem irá capturar o principal posto avançado do Império. Eles podem acreditar que você já fez demais. Eles não podem permitir mais sucessos de sua parte. Como você deve compreender, isso é política boba. Sua promoção rápida também atraiu a inveja e o rancor deles. Nunca os subestime.\n"
 "\n"
 "Tenha cuidado. Ou, você será assassinado por esses vermes. Você deve ficar quieto e não fazer nada, esse é o melhor jeito de sobreviver. ... <span color='yellow'>Ou, conquistar um sucesso ainda maior. Se você se tornar um herói lendário, esses vermes não poderão te matar...</span>"
 
@@ -2689,17 +2689,17 @@ msgstr "Certo, vamos tentar."
 #. [option]: speaker=Local General
 #: scenarios/Outpost.cfg:1705
 msgid "<span color='yellow' size='smaller'>requirement: 26 gold and 100 of fame</span>"
-msgstr "<span color='yellow' size='smaller'>requerimento: 26 de ouro e 100 de fama</span>"
+msgstr "<span color='yellow' size='smaller'>requerimento: 26 peças de ouro e 100 de fama</span>"
 
 #. [option]: speaker=Local General
 #: scenarios/Outpost.cfg:1705
 msgid "Request to crash the Bridge. (by 25 gold)"
-msgstr "Requisitar a destruição da Ponte. (por 25 de ouro)"
+msgstr "Requisitar a destruição da Ponte. (por 25 peças de ouro)"
 
 #. [message]: speaker=Local General
 #: scenarios/Outpost.cfg:1715
 msgid "Actually we should regain the South Fort. If we can exclude the reinforcement from the North fort by breaking the Bridge, the mission becomes much easier. But in order to do that, we must remove the troops on the bridge. You, can you <span color='yellow'>eliminate the enemies on the bridge within 10 days</span>? In addition, you should provide <span color='yellow'>25 gold</span> for engineers."
-msgstr "Na verdade nós devemos reconquistar o Forte do Sul. Se nós conseguirmos impedir os reforços do Forte do Norte destruindo a Ponte, a missão será muito mais fácil. Mas para fazer isso, precisamos primeiro retirar as tropas da ponte. Você, você consegue<span color='yellow'>eliminar os inimigos na ponte dentro de 10 dias</span>? Além disso, você deve fornecer <span color='yellow'>25 de ouro</span> para os engenheiros."
+msgstr "Na verdade nós devemos reconquistar o Forte do Sul. Se nós conseguirmos impedir os reforços do Forte do Norte destruindo a Ponte, a missão será muito mais fácil. Mas para fazer isso, precisamos primeiro retirar as tropas da ponte. Você, você consegue<span color='yellow'>eliminar os inimigos na ponte dentro de 10 dias</span>? Além disso, você deve fornecer <span color='yellow'>25 peças de ouro</span> para os engenheiros."
 
 #. [option]: speaker=Local General
 #: scenarios/Outpost.cfg:1718
@@ -2756,7 +2756,7 @@ msgstr "escritório"
 #: scenarios/Outpost.cfg:1956
 #, fuzzy
 msgid "Enemies intruded into this Outpost for some purpose. These intruders are now stuck at <span color='yellow'>$enemy_place_full|</span>. Kill them all! Slayer of their leader surely win a name!"
-msgstr "Intrusos inimigos apareceram por algum motivo. Esses intrusos estão presos no <span color='yellow'>$enemy_place_full|</span>. Matem todos! O assassino do líder com certeza vai ganhar um nome!"
+msgstr "Intrusos inimigos apareceram neste Posto Avançado por algum motivo. Esses intrusos estão presos no <span color='yellow'>$enemy_place_full|</span>. Matem todos! O assassino do líder com certeza vai ganhar um nome!"
 
 #. [message]
 #: scenarios/Outpost.cfg:1973
@@ -2985,7 +2985,7 @@ msgstr "Tropa"
 #: units/Troop.cfg:50
 #, fuzzy
 msgid "attack"
-msgstr "atacar"
+msgstr "ataque"
 
 #. [message]: speaker=$unit.id
 #: utils/deaths.cfg:15
@@ -3020,12 +3020,12 @@ msgstr "(Ah, meu bug do custo de manutenção foi arrumado, Que autor idiota!)"
 #. [message]
 #: utils/fame.cfg:201
 msgid "Amount of financial support is decreased from <span color='yellow'>$current_salary|</span> to <span color='yellow'>$ag_salary|</span> gold... You should prove yourself!"
-msgstr "A quantidade de suporte financeiro foi diminuida de <span color='yellow'>$current_salary|</span> para <span color='yellow'>$ag_salary|</span> ouro... Você deve provar o seu valor!"
+msgstr "A quantidade de suporte financeiro foi diminuida de <span color='yellow'>$current_salary|</span> para <span color='yellow'>$ag_salary|</span> peças de ouro... Você deve provar o seu valor!"
 
 #. [message]
 #: utils/fame.cfg:210
 msgid "Amount of financial support is increased from <span color='yellow'>$current_salary|</span> to <span color='yellow'>$ag_salary|</span> gold!!!"
-msgstr "A quantidade de suporte financeiro foi aumentada de <span color='yellow'>$current_salary|</span> para <span color='yellow'>$ag_salary|</span> ouro!!!"
+msgstr "A quantidade de suporte financeiro foi aumentada de <span color='yellow'>$current_salary|</span> para <span color='yellow'>$ag_salary|</span> peças de ouro!!!"
 
 #. [message]
 #: utils/foods.cfg:29
@@ -3145,7 +3145,7 @@ msgid ""
 msgstr ""
 "...nós temos uma toxina que é muito eficaz contra nagas. Mas nosso general neste posto avançado não quer usá-la... Se você usá-la, o ódio dos Nagas por nós aumentará.\n"
 "\n"
-"Você pode usar a toxina, mas tenha em mente que isso é uma ato vergonhoso. Se você pagar <span color='yellow'>25 ouro</span>, eu te dareo um frasco da toxina."
+"Você pode usar a toxina, mas tenha em mente que isso é uma ato vergonhoso. Se você pagar <span color='yellow'>25 peças de ouro</span>, eu te darei um frasco da toxina."
 
 #. [option]: type=Royal Guard
 #: utils/message_catalogs.cfg:50
@@ -3190,7 +3190,7 @@ msgstr "Sua missão atual é <span color='yellow'>atacar o forte do norte com no
 #. [message]: type=Royal Guard
 #: utils/message_catalogs.cfg:118
 msgid "Your current mission is to <span color='yellow'>attack Imperial main outpost with our general</span>. You have to begin attack within <span color='yellow'>$ag_ongoing_mission_time days</span>."
-msgstr "Sua missão atual é <span color='yellow'>atacar o posto avançado principal do Império com nosso general</span>. Você tem que iniciar o ataque dentro de <span color='yellow'>$ag_ongoing_mission_time dias</span>."
+msgstr "Sua missão atual é <span color='yellow'>atacar o principal posto avançado do Império com nosso general</span>. Você tem que iniciar o ataque dentro de <span color='yellow'>$ag_ongoing_mission_time dias</span>."
 
 #. [message]: type=Royal Guard
 #: utils/message_catalogs.cfg:126
@@ -3226,7 +3226,7 @@ msgstr "Você é meu querido cavaleiro! Até mais!"
 #: utils/message_catalogs.cfg:164
 #, fuzzy
 msgid "female^May the further success be in your life."
-msgstr "Que ainda mais sucesso esteja em sua vida."
+msgstr "Que você seja ainda mais bem sucedido em sua vida."
 
 #. [else]
 #: utils/message_catalogs.cfg:167
@@ -3496,7 +3496,9 @@ msgstr ""
 "\n"
 "Os humanos construiram a maldita Ponte. Nós não fizemos nada durante a construção porque isso não parecia ser nocivo à nós e era muito perigoso assaltar terreno não-aquático. Alguns jovens guerreiros insistiram em atacar a ponte e os trabalhadores. Eu rejeitei a sugestão deles para evitar riscos.\n"
 "\n"
-"Nosso ódio contra aquela ponte continuou crescendo dia após dia. Mas nós não podíamos nos vingar, porque humanos não chegavam perto da água do rio, e nós tínhamos que ir para terra firme se quiséssemos atacar a ponte. Nós não somos covardes, mas nós não somos estúpidos. Alguns assaltos imprudentes à ponte que eu fiquei sabendo tiveram sucesso em danificar a ponte. A danificada, parcialmente destruída ponte, foi consertada dentro de uma semana. Por outro lado, houveram muitas tentativas que terminaram emfracasso."
+"Depois da construção da ponte, o Rio mudou inesperadamente. A água do rio torno-se turva, o número de peixes e conchas havia claramente diminuido... Eu ainda não sei a causa precisa do fenômeno, mas eu acredito que foi por causa da ponte.\n"
+"\n"
+"Nosso ódio contra aquela ponte continuou crescendo dia após dia. Mas nós não podíamos nos vingar, porque humanos não chegavam perto da água do rio, e nós tínhamos que ir para terra firme se quiséssemos atacar a ponte. Nós não somos covardes, mas nós não somos estúpidos. Alguns assaltos imprudentes à ponte que eu fiquei sabendo tiveram sucesso em danificar a ponte. A danificada, parcialmente destruída ponte, foi consertada dentro de uma semana. Por outro lado, houveram muitas tentativas que terminaram em fracasso."
 
 #. [part]
 #: utils/storytxt.cfg:135
@@ -3699,19 +3701,19 @@ msgstr "aumenta a resistência perfurante em 20% e diminui a resistência cortan
 #: utils/traits.cfg:307
 #, fuzzy
 msgid "trait^assisted"
-msgstr "assistido"
+msgstr "auxiliado"
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:308
 #, fuzzy
 msgid "trait-female^assisted"
-msgstr "assistida"
+msgstr "auxiliada"
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:309
 #, fuzzy
 msgid "thanks to Clammy, your defense increased 10% in most terrains and the melee damage increased by 1."
-msgstr "Graças ao Clammy, sua defesa aumenta em 10% na maioria dos terrenos e o dano de corpo a corpo aumenta em 1."
+msgstr "graças ao Clammy, sua defesa aumenta em 10% na maioria dos terrenos e o dano de corpo a corpo aumenta em 1."
 
 #. [then]
 #: utils/troop.cfg:36
