@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: A Group in a War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-31 10:33-0300\n"
+"PO-Revision-Date: 2020-10-31 10:56-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt\n"
@@ -1243,7 +1243,7 @@ msgid ""
 msgstr ""
 "Exército do Reino... Nós já perdemos o forte do norte e muitos soldados. Mas... mas nós ainda temos este posto avançado!\n"
 "\n"
-"NÓS NÃO ESTAMOS PERDIDOS! SOLDADOS, PEGUEM SUAS ARMAS! AGUENTEM FIRME! MATEM OS INIMIGOS!!!"
+"NÓS NÃO ESTAMOS PERDIDOS! SOLDADOS, ÀS ARMAS! AGUENTEM FIRME! MATEM OS INIMIGOS!!!"
 
 #. [message]: speaker=unit
 #: scenarios/Battle.cfg:352
@@ -2851,7 +2851,7 @@ msgstr "Escaramuça"
 #. [case]
 #: scenarios/Skirmish.cfg:109
 msgid "Goblin flagbearer? ..<i>$ag_title</i>! ...... Soldiers, to arms!"
-msgstr "Góblin porta-bandeira? ..<i>$ag_title</i>! ...... Soldados, peguem suas armas!"
+msgstr "Góblin porta-bandeira? ..<i>$ag_title</i>! ...... Soldados, às armas!"
 
 #. [case]
 #: scenarios/Skirmish.cfg:113
@@ -2861,7 +2861,7 @@ msgstr "<i>$ag_title</i>. Que inimigo honrável! Você poderia nos mostrar sua f
 #. [case]
 #: scenarios/Skirmish.cfg:117
 msgid "<i>$ag_title</i>... ..... to arms, soldiers."
-msgstr "<i>$ag_title</i>... ..... peguem suas armas, soldados."
+msgstr "<i>$ag_title</i>... ..... às armas, soldados."
 
 #. [else]
 #: scenarios/Skirmish.cfg:120
@@ -2871,7 +2871,7 @@ msgstr "<i>$ag_title</i>! Nós estamos condenados!! .. Não! Nós mataremos esse
 #. [case]
 #: scenarios/Skirmish.cfg:131
 msgid "Goblin flagbearer..? It is <i>$ag_title</i>! To arms, soldiers! Never underestimate them!!"
-msgstr "Góblin porta-bandeira..? É <i>$ag_title</i>! Peguem suas armas, soldados! Nunca subestimem-os!!"
+msgstr "Góblin porta-bandeira..? É <i>$ag_title</i>! Às armas, soldados! Nunca subestimem-os!!"
 
 #. [case]
 #: scenarios/Skirmish.cfg:135
@@ -2881,7 +2881,7 @@ msgstr "Ele é <i>$ag_title</i>! Nós somos sortudos! É uma ótima oportunidade
 #. [case]
 #: scenarios/Skirmish.cfg:139
 msgid "<i>$ag_title</i>.. I am honored our troop can face you. Soldiers, to arms!!"
-msgstr "<i>$ag_title</i>.. Eu estou honrado que nossa tropa defronte a sua. Soldados, peguem suas armas!!"
+msgstr "<i>$ag_title</i>.. Eu estou honrado que nossa tropa defronte a sua. Soldados, às armas!!"
 
 #. [case]
 #: scenarios/Skirmish.cfg:143
@@ -2896,7 +2896,7 @@ msgstr "Ele é <i>$ag_title</i>! Tomem cuidado, todos!"
 #. [case]
 #: scenarios/Skirmish.cfg:156
 msgid "Enemies ahead! Soldiers, to arms!"
-msgstr "Inimigos à frente! Soldados, peguem suas armas!"
+msgstr "Inimigos à frente! Soldados, às armas!"
 
 #. [case]
 #: scenarios/Skirmish.cfg:160
@@ -2916,7 +2916,7 @@ msgstr "Vermes do Reino! Esmaguem-os!!"
 #. [case]
 #: scenarios/Skirmish.cfg:172
 msgid "To arms!!"
-msgstr "Peguem suas armas!!"
+msgstr "Às armas!!"
 
 #. [else]
 #: scenarios/Skirmish.cfg:175
