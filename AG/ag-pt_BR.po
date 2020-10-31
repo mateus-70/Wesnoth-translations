@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: A Group in a War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-31 10:56-0300\n"
+"PO-Revision-Date: 2020-10-31 11:01-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt\n"
@@ -106,32 +106,32 @@ msgstr "Referência à Campanhas UMC"
 #. [entry]
 #: _main.cfg:80
 msgid "Trapped, Strange Legacy (by Heindal)"
-msgstr ""
+msgstr "Trapped, Strange Legacy (por Heindal)"
 
 #. [entry]
 #: _main.cfg:83
 msgid "Legend of the Invincibles (by Dugi)"
-msgstr ""
+msgstr "Legend of the Invincibles (por Dugi)"
 
 #. [entry]
 #: _main.cfg:86
 msgid "Swamplings (by boru)"
-msgstr ""
+msgstr "Swamplings (by boru)"
 
 #. [entry]
 #: _main.cfg:89
 msgid "Ooze Mini Campaign, Elvish Dynasty RPG (by SpenceLack)"
-msgstr ""
+msgstr "Ooze Mini Campaign, Elvish Dynasty RPG (por SpenceLack)"
 
 #. [entry]
 #: _main.cfg:92
 msgid "The Sojournings of Grog (by Eros)"
-msgstr ""
+msgstr "The Sojournings of Grog (por Eros)"
 
 #. [entry]
 #: _main.cfg:95
 msgid "Inky's Quest (by Telchin)"
-msgstr ""
+msgstr "Inky's Quest (por Telchin)"
 
 #. [entry]
 #: _main.cfg:98
