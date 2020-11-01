@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: A Group in a War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-31 11:01-0300\n"
-"Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
+"PO-Revision-Date: 2020-10-31 20:57-0300\n"
+"Last-Translator: Andrei Machado <andreisp.machado@yahoo.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -170,7 +170,6 @@ msgstr "Pentarctagon, Elvish_Hunter, Huston, e tantos outros pela compilação d
 
 #. [entry]
 #: _main.cfg:128
-#, fuzzy
 msgid "and all the developers of BfW!"
 msgstr "e todos os desenvolvedores de BpW!"
 
@@ -386,7 +385,6 @@ msgstr "<span color='yellow'>$tmp_food</span> comidas consumidas. ($ag_food|/$ag
 
 #. [message]
 #: _main.cfg:975
-#, fuzzy
 msgid "You could not defeat bridge guards within the period..."
 msgstr "Você não conseguiu derrotar os guardas da ponte dentro do período..."
 
@@ -614,7 +612,6 @@ msgstr "Nós temos que <span color='yellow'>atacar o Forte do Norte</span> dentr
 
 #. [message]
 #: _main.cfg:1665
-#, fuzzy
 msgid "We have to <span color='yellow'>attack Imperial main outpost</span> within <span color='yellow'>$ag_ongoing_mission_time|</span> days."
 msgstr "Nós temos que <span color='yellow'>atacar o principal posto avançado do Império</span> dentro de <span color='yellow'>$ag_ongoing_mission_time|</span> dias."
 
@@ -630,7 +627,6 @@ msgstr "Nós temos que <span color='yellow'>escoltar comboios</span> para o post
 
 #. [message]
 #: _main.cfg:1689
-#, fuzzy
 msgid "You should get enough fame first to get enough income. At least you should have 70 gold income. (Your current income is $ag_salary|.) That amount of fund is necessary to keep 5-6 soldiers, which is minimum necessary number to fight against an enemy troop. To raise up your fame, the safest way is to accomplish relatively easy missions such as night patroling of the outpost."
 msgstr "Primeiro você deve ter fama suficiente para receber receita suficiente. Você deve ter pelo menos 70 de receita. (Sua receita atual é $ag_salary|.) Essa quantia de fundos é necessária para manter 5-6 soldados, que é o número mínimo necessário para lutar contra uma tropa inimiga. Para aumentar sua fama, o jeito mais seguro é realizar missões relativamente fáceis, como o patrulhamento noturno do posto avançado."
 
@@ -641,13 +637,11 @@ msgstr "Primeiro de tudo, você deve juntar 1-3 aldeões, mateiroes ou rufiões 
 
 #. [message]
 #: _main.cfg:1702
-#, fuzzy
 msgid "We, Kingdom army must regain the South Fort. Recruit and train your members first. You then attack enemy troops around the South Fort. You may try to regain villages in south of the river. Once you get enough power to attack the Fort, launch an assult collaborating with main army. <span color='yellow'>Breaking the bridge is a good option when attacking.</span> If the bridge does not work, reinforcement from the North Fort cannot appear."
-msgstr "Nós, o exército do Reino devemos primeiro reconquistar o Forte do Sul. Recrute e treine seus membros primeiro. Então ataque as tropas inimigas próximo ao Forte do Sul. Você pode tentar reconquistar as aldeias ao sul do rio. Uma vez que você seja forte suficiente para atacar o Forte, lance uma investida colaborada com o exército principal. <span color='yellow'>Romper a ponte é uma boa opção quando for atacar.</span> Se a ponte não funciona, reforços do Forte do Norte não aparecerão."
+msgstr "Nós, o exército do Reino, devemos primeiro reconquistar o Forte do Sul. Recrute e treine seus membros primeiro. Então ataque as tropas inimigas próximo ao Forte do Sul. Você pode tentar reconquistar as aldeias ao sul do rio. Uma vez que você seja forte suficiente para atacar o Forte, lance uma investida colaborada com o exército principal. <span color='yellow'>Romper a ponte é uma boa opção quando for atacar.</span> Se a ponte não funciona, reforços do Forte do Norte não aparecerão."
 
 #. [message]
 #: _main.cfg:1711
-#, fuzzy
 msgid "Our target is the North Fort. We should attack there with our general. If you could prove yourself, you can ask him to attack the fort with you. The way to prove yourself is very simple, win the battles. Capturing the villages and small outposts in the north side of the river are also good options. <span color='yellow'>Outpost East, Village-N-W-River, and Village-N-C</span> are important points. If you managed to occupy all those points, enemy reinforcement might not bother us when attacking the North Fort. But be careful when crossing the river... Nagas are there. They are almost invincible in the water. Passing bridge might be a safer option, though we need to defeat bridge guards."
 msgstr "Nosso alvo é o Forte do Norte. Nós devemos atacá-lo com nosso general. Se você conseguir dar uma prova de si, você pode pedir a ele para atacar o forte com você. O jeito de provar a si mesmo é simples, vença as batalhas. Capturando as aldeias e os pequenos postos avançados do lado norte do rio também são boas opções. <span color='yellow'>Posto avançado Leste, Aldeia-N-O-Rio, e Aldeia-N-C</span> são também pontos importantes. Se você conseguir ocupar todos esses pontos, reforços inimigos podem não nos incomodar quando atacarmos o Forte do Norte. Mas tome cuidado quando atravessar o rio... Nagas estão lá. Eles são quase invencíveis na água. Atravessar a ponte pode ser uma opção mais segura, mas primeiro precisamos derrotar os guardas da ponte."
 
@@ -1159,7 +1153,6 @@ msgstr "<span color='#33FF33'><i>Batedor</i></span>\n"
 
 #. [lua]: wesnoth.theme_items.unit_weapons
 #: lua/theme_items.lua:157 lua/theme_items.lua:164 lua/theme_items.lua:176
-#, fuzzy
 msgid "have hide"
 msgstr "tem a aptidão de esconder"
 
@@ -1335,7 +1328,6 @@ msgstr "Clammy"
 
 #. [message]
 #: scenarios/Epilogue.cfg:129
-#, fuzzy
 msgid ""
 "... You have won the battle, but you cannot survive. You exploit is too execellent, but your fame is not enough to save yourself. This is a result from simple politics. Generals of the Kingdom were really worried about your promotion; they are afraid you will overtake them. The war was almost finished when you captured the North fort. Your further exploits were completely unwelcome to them so they assassinated you. Those generals will declare you are assassinated by the remaining Imperial soldiers, though.\n"
 "\n"
@@ -1348,7 +1340,7 @@ msgstr ""
 "\n"
 "Para evitar tal fim, você deve ganhar mais e mais fama antes de terminar a guerra. Mas se sua fama ficar muito alta, os generais não lhe ajudarão no ataque ao principal posto avançado. Então você terá que capturar o principal posto avançado do inimigo somente com sua tropa. É uma tarefa difícil, mas você terá que fazer isso.\n"
 "\n"
-"Se você tentar capturar o posto avançado somente com a sua tropa, eu lhe darei algum benefício...\n"
+"Se você tentar capturar o posto avançado somente com a sua tropa, eu lhe darei algum benefício e o ajudarei no Campo...\n"
 "<span color='yellow' size='smaller'>Há uma médica elfa no campo. Encontre-a. As habilidades dela podem ser necessárias para completar essa difícil tarefa...</span>"
 
 #. [option]
@@ -1390,9 +1382,8 @@ msgstr "Hm. Meu palpite mostrou-se completamente correto! Este grupo conseguiu f
 
 #. [message]: speaker=Fiona
 #: scenarios/Epilogue.cfg:264
-#, fuzzy
 msgid "Anyway, I can go back to our forest safely now. Thank you, everyone! See you!"
-msgstr "De qualquer forma, eu posso voltar em segurança para nossa floresta agora. Obrigado à todos! Vejo vocês por aí!"
+msgstr "De qualquer forma, eu posso voltar em segurança para nossa floresta agora. Obrigada à todos! Vejo vocês por aí!"
 
 #. [message]: speaker=Karl
 #: scenarios/Epilogue.cfg:272
@@ -1582,7 +1573,6 @@ msgstr "A habilidade de medicar dela pode ser útil. Embora nós ainda não veri
 
 #. [option]
 #: scenarios/Field.cfg:390
-#, fuzzy
 msgid "No definitely not! Such an elvish child must be thrown away!"
 msgstr "Não, definitivamente não! Devemos nos livrar de uma criança élfica desse tipo!"
 
@@ -1663,7 +1653,6 @@ msgstr "Guarda do Império"
 
 #. [message]
 #: scenarios/Field.cfg:1635
-#, fuzzy
 msgid "We have to escort convoys to destination. We cannot attack Imperial stronghold now."
 msgstr "Nós temos que escoltar o comboio para o destino. Não podemos atacar fortificações do Império agora."
 
@@ -2754,9 +2743,8 @@ msgstr "escritório"
 
 #. [message]
 #: scenarios/Outpost.cfg:1956
-#, fuzzy
 msgid "Enemies intruded into this Outpost for some purpose. These intruders are now stuck at <span color='yellow'>$enemy_place_full|</span>. Kill them all! Slayer of their leader surely win a name!"
-msgstr "Intrusos inimigos apareceram neste Posto Avançado por algum motivo. Esses intrusos estão presos no <span color='yellow'>$enemy_place_full|</span>. Matem todos! O assassino do líder com certeza vai ganhar um nome!"
+msgstr "Intrusos invadiram este Posto Avançado por algum motivo. Esses intrusos agora estão presos no <span color='yellow'>$enemy_place_full|</span>. Matem todos! Quem matar o líder deles com certeza vai ganhar um nome!"
 
 #. [message]
 #: scenarios/Outpost.cfg:1973
@@ -2983,7 +2971,6 @@ msgstr "Tropa"
 
 #. [attack]: type=blade
 #: units/Troop.cfg:50
-#, fuzzy
 msgid "attack"
 msgstr "ataque"
 
@@ -3224,7 +3211,6 @@ msgstr "Você é meu querido cavaleiro! Até mais!"
 
 #. [case]
 #: utils/message_catalogs.cfg:164
-#, fuzzy
 msgid "female^May the further success be in your life."
 msgstr "Que você seja ainda mais bem sucedido em sua vida."
 
@@ -3482,7 +3468,6 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:125
-#, fuzzy
 msgid ""
 "The day has come.\n"
 "\n"
@@ -3699,21 +3684,18 @@ msgstr "aumenta a resistência perfurante em 20% e diminui a resistência cortan
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:307
-#, fuzzy
 msgid "trait^assisted"
 msgstr "auxiliado"
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:308
-#, fuzzy
 msgid "trait-female^assisted"
 msgstr "auxiliada"
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:309
-#, fuzzy
 msgid "thanks to Clammy, your defense increased 10% in most terrains and the melee damage increased by 1."
-msgstr "graças ao Clammy, sua defesa aumenta em 10% na maioria dos terrenos e o dano de corpo a corpo aumenta em 1."
+msgstr "graças ao Clammy, sua defesa aumenta em 10% na maioria dos terrenos e o dano de ataques corpo a corpo em 1."
 
 #. [then]
 #: utils/troop.cfg:36
