@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: A Group in a War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-10-22 10:08+0900\n"
-"PO-Revision-Date: 2020-10-31 20:57-0300\n"
-"Last-Translator: Andrei Machado <andreisp.machado@yahoo.com>\n"
+"PO-Revision-Date: 2020-11-02 13:24-0300\n"
+"Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -246,7 +246,7 @@ msgstr "Guardião"
 #. [then]
 #: _main.cfg:350
 msgid "Hungry"
-msgstr "Fome"
+msgstr "Esfomeado"
 
 #. [else]
 #: _main.cfg:353
@@ -386,7 +386,7 @@ msgstr "<span color='yellow'>$tmp_food</span> comidas consumidas. ($ag_food|/$ag
 #. [message]
 #: _main.cfg:975
 msgid "You could not defeat bridge guards within the period..."
-msgstr "Você não conseguiu derrotar os guardas da ponte dentro do período..."
+msgstr "Você não conseguiu derrotar as guardas da ponte dentro do período..."
 
 #. [message]
 #: _main.cfg:975 _main.cfg:991 _main.cfg:1029 scenarios/Battle.cfg:442
@@ -643,13 +643,12 @@ msgstr "Nós, o exército do Reino, devemos primeiro reconquistar o Forte do Sul
 #. [message]
 #: _main.cfg:1711
 msgid "Our target is the North Fort. We should attack there with our general. If you could prove yourself, you can ask him to attack the fort with you. The way to prove yourself is very simple, win the battles. Capturing the villages and small outposts in the north side of the river are also good options. <span color='yellow'>Outpost East, Village-N-W-River, and Village-N-C</span> are important points. If you managed to occupy all those points, enemy reinforcement might not bother us when attacking the North Fort. But be careful when crossing the river... Nagas are there. They are almost invincible in the water. Passing bridge might be a safer option, though we need to defeat bridge guards."
-msgstr "Nosso alvo é o Forte do Norte. Nós devemos atacá-lo com nosso general. Se você conseguir dar uma prova de si, você pode pedir a ele para atacar o forte com você. O jeito de provar a si mesmo é simples, vença as batalhas. Capturando as aldeias e os pequenos postos avançados do lado norte do rio também são boas opções. <span color='yellow'>Posto avançado Leste, Aldeia-N-O-Rio, e Aldeia-N-C</span> são também pontos importantes. Se você conseguir ocupar todos esses pontos, reforços inimigos podem não nos incomodar quando atacarmos o Forte do Norte. Mas tome cuidado quando atravessar o rio... Nagas estão lá. Eles são quase invencíveis na água. Atravessar a ponte pode ser uma opção mais segura, mas primeiro precisamos derrotar os guardas da ponte."
+msgstr "Nosso alvo é o Forte do Norte. Nós devemos atacá-lo com nosso general. Se você conseguir dar uma prova de si, você pode pedir a ele para atacar o forte com você. O jeito de provar a si mesmo é simples, vença as batalhas. Capturando as aldeias e os pequenos postos avançados do lado norte do rio também são boas opções. <span color='yellow'>Posto avançado Leste, Aldeia-N-O-Rio, e Aldeia-N-C</span> são também pontos importantes. Se você conseguir ocupar todos esses pontos, reforços inimigos podem não nos incomodar quando atacarmos o Forte do Norte. Mas tome cuidado quando atravessar o rio... Nagas estão lá. Eles são quase invencíveis na água. Atravessar a ponte pode ser uma opção mais segura, mas primeiro precisamos derrotar a guarda da ponte."
 
 #. [message]
 #: _main.cfg:1726
-#, fuzzy
 msgid "There are some alien systems in this campaign, check it out carefully."
-msgstr "Há alguns sistemas bem diferentes das campanhas típicas, verifique-os cuidadosamente."
+msgstr "Esta campanha possui alguns sistemas diferentes. Leia-os atentamente."
 
 #. [option]
 #: _main.cfg:1729
@@ -1038,7 +1037,7 @@ msgid ""
 msgstr ""
 "Pontuação do Comportamento:\n"
 "cruel: $ag_behave.cruel\n"
-"fome: $ag_behave.hungry\n"
+"esfomeado: $ag_behave.hungry\n"
 "covarde: $ag_behave_coward\n"
 "apressado: $ag_behave.rusher\n"
 "sentinela: $ag_behave.sentinel\n"
@@ -1055,7 +1054,6 @@ msgstr "ação e missão"
 
 #. [message]: speaker=narrator
 #: _main.cfg:2295
-#, fuzzy
 msgid ""
 "Action stat:\n"
 "current action: $ag_ongoing_action\n"
@@ -1077,7 +1075,7 @@ msgstr ""
 "Estatísticas da Missão:\n"
 "missão atual: $ag_ongoing_mission\n"
 "tempo de missão: $ag_ongoing_mission_time\n"
-"work var: $ag_ongoing_mission_value"
+"valor da variável missão: $ag_ongoing_mission_value"
 
 #. [option]: speaker=narrator
 #: _main.cfg:2309
@@ -1469,7 +1467,7 @@ msgstr ""
 "<b>Resumo do Seu Comportamento:</b>\n"
 "\n"
 "<tt>Cruel   :</tt> $ag_behave.cruel\n"
-"<tt>Fome  :</tt> $ag_behave.hungry\n"
+"<tt>Esfomeado:</tt> $ag_behave.hungry\n"
 "<tt>Covarde  :</tt> $ag_behave.coward\n"
 "<tt>Apressado  :</tt> $ag_behave.rusher\n"
 "<tt>Sentinela:</tt> $ag_behave.sentinel\n"
@@ -1624,7 +1622,7 @@ msgstr "Karl, um anão ferreiro de runas se juntou!"
 #. [message]
 #: scenarios/Field.cfg:506
 msgid "New bridge guard appears!"
-msgstr "Novos guardas da ponte aparecem!"
+msgstr "Nova guarda da ponte aparece!"
 
 #. [floating_text]
 #: scenarios/Field.cfg:637
@@ -3276,7 +3274,7 @@ msgstr "Um aldeão do/da $ag_village_name"
 #. [note]
 #: utils/skirmish_utils.cfg:7
 msgid "You can flee from the battle. But note that soldiers in the map shall be killed when you fled from the battle. To make survive the soldiers, flee them before You."
-msgstr "Você pode fujir da batalha. Mas note que soldados no mapa serão mortos quando você fujir da batalha. Para fazer que eles sobreviverem, elesprecisam fugir antes de Você."
+msgstr "Você pode fujir da batalha. Mas note que soldados no mapa serão mortos quando você fujir da batalha. Para fazer que eles sobreviverem, eles precisam fugir antes de Você."
 
 #. [objective]: condition=win
 #: utils/skirmish_utils.cfg:16
