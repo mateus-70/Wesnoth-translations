@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2020-11-02 22:45-0300\n"
+"PO-Revision-Date: 2020-11-17 00:39-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgstr "Fácil"
 #. [difficulty]
 #: ./_main.cfg:44
 msgid "Defense!"
-msgstr "Defesa!"
+msgstr "Defeda!"
 
 #. [difficulty]
 #: ./_main.cfg:45
@@ -288,7 +288,7 @@ msgstr "Pena do Céu"
 #. [option]
 #: ./_main.cfg:357 ./scenarios/Field.cfg:7416
 msgid "Frozen Peak"
-msgstr ""
+msgstr "Pico Congelado"
 
 #. [event]
 #. [option]
@@ -317,229 +317,229 @@ msgstr ""
 #. [option]
 #: ./_main.cfg:378 ./scenarios/Field.cfg:7486
 msgid "Great Plain"
-msgstr ""
+msgstr "Planície Grandiosa"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:380 ./scenarios/Field.cfg:7498
 msgid "Mother Plain"
-msgstr ""
+msgstr "Planície Mãe"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:387 ./scenarios/Field.cfg:7320
 msgid "Silent Stream"
-msgstr ""
+msgstr "Corrente Silenciosa"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:389 ./scenarios/Field.cfg:7332
 msgid "River Aunt"
-msgstr ""
+msgstr "Rio da Tia"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:391 ./scenarios/Field.cfg:7344
 msgid "Blue River"
-msgstr ""
+msgstr "Rio Azul"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:395 ./scenarios/Field.cfg:7356
 msgid "Great Lake"
-msgstr ""
+msgstr "Lago Grandioso"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:397 ./_main.cfg:398 ./scenarios/Field.cfg:7368
 msgid "Lake Eyes"
-msgstr ""
+msgstr "Olhos do Lago"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:400 ./scenarios/Field.cfg:7380
 msgid "Waterless Lake"
-msgstr ""
+msgstr "Lago Sem Água"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:402 ./scenarios/Field.cfg:7392
 msgid "Dark Pool"
-msgstr ""
+msgstr "Piscina Negra"
 
 #. [event]
 #: ./_main.cfg:406
 msgid "Widow Forest"
-msgstr ""
+msgstr "Floresta Viúva"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:408 ./scenarios/Field.cfg:7522
 msgid "Great Forest"
-msgstr ""
+msgstr "Floresta Grandiosa"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:410 ./scenarios/Field.cfg:7534
 msgid "Red Woods"
-msgstr ""
+msgstr "Madeiras Vermelhas"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:414 ./scenarios/Field.cfg:7546
 msgid "The Ocean"
-msgstr ""
+msgstr "O Oceano"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:416 ./scenarios/Field.cfg:7568
 msgid "Death Desert"
-msgstr ""
+msgstr "Deserto da Morte"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:418 ./scenarios/Field.cfg:7580
 msgid "Valley Windy"
-msgstr ""
+msgstr "Vale Ventoso"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:420 ./scenarios/Field.cfg:7592
 msgid "Murky Swamp"
-msgstr ""
+msgstr "Pântano Nebuloso"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:422 ./scenarios/Field.cfg:7604
 msgid "Deserter's Narrow"
-msgstr ""
+msgstr "Estreito dos Desertores"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:424 ./scenarios/Field.cfg:7616
 msgid "Great Dragon’s Nose"
-msgstr ""
+msgstr "Nariz do Dragão Grandioso"
 
 #. [label]
 #. [option]
 #: ./_main.cfg:428 ./scenarios/Field.cfg:7628
 msgid "Wrath of Gaia"
-msgstr ""
+msgstr "Ira de Gaia"
 
 #. [message]
 #: ./_main.cfg:643
 msgid "Do you want to change settings?"
-msgstr ""
+msgstr "Você quer mudar as configurações?"
 
 #. [option]
 #: ./_main.cfg:646
 msgid "Initialize music list"
-msgstr ""
+msgstr "Inicializar lista de músicas"
 
 #. [message]
 #: ./_main.cfg:650
 msgid "Really reinitialize music list?"
-msgstr ""
+msgstr "Quer mesmo reinicializar a lista de músicas?"
 
 #. [option]
 #: ./_main.cfg:653 ./scenarios/Field.cfg:1489 ./scenarios/Field.cfg:1586 ./scenarios/Field.cfg:1684 ./scenarios/Field.cfg:1782 ./scenarios/Field.cfg:5222 ./scenarios/Field.cfg:5315
 msgid "Yes!"
-msgstr ""
+msgstr "Sim!"
 
 #. [option]
 #: ./_main.cfg:663 ./scenarios/Field.cfg:1516 ./scenarios/Field.cfg:1613 ./scenarios/Field.cfg:1711 ./scenarios/Field.cfg:1809 ./scenarios/Field.cfg:5232 ./scenarios/Field.cfg:5253 ./scenarios/Field.cfg:6501
 msgid "No!"
-msgstr ""
+msgstr "Não!"
 
 #. [option]
 #: ./_main.cfg:670
 msgid "Mark enemy caution zone.<span color='red'>(Now: not marked)</span>"
-msgstr ""
+msgstr "Marcar zona de cuidado do inimigo.<span color='red'>(Agora: não marcado)</span>"
 
 #. [option]
 #: ./_main.cfg:691
 msgid "Unmark enemy caution zone.<span color='green'>(Now: marked)</span>"
-msgstr ""
+msgstr "Desmarcar zona de cuidado do inimigo.<span color='green'>(Agora: marcado)</span>"
 
 #. [option]
 #: ./_main.cfg:712
 msgid "Done."
-msgstr ""
+msgstr "Feito."
 
 #. [message]
 #: ./_main.cfg:737
 msgid "Clammy^What?"
-msgstr ""
+msgstr "O quê?"
 
 #. [option]
 #: ./_main.cfg:740
 msgid "<span color='yellow'>Important Notices</span>"
-msgstr ""
+msgstr "<span color='yellow'>Notícias Importantes</span>"
 
 #. [option]
 #: ./_main.cfg:749
 msgid "Strategy Guide for Newbie by Clammy"
-msgstr ""
+msgstr "Guia Estratégico para Novatos de Clammy"
 
 #. [option]
 #: ./_main.cfg:758
 msgid "<span color='yellow'>Gold</span>"
-msgstr ""
+msgstr "<span color='yellow'>Ouro</span>"
 
 #. [option]
 #: ./_main.cfg:767
 msgid "<span color='yellow'>Soldiers and troops</span>"
-msgstr ""
+msgstr "<span color='yellow'>Soldados e tropas</span>"
 
 #. [option]
 #: ./_main.cfg:776
 msgid "Attack and damage"
-msgstr ""
+msgstr "Ataque e dano"
 
 #. [option]
 #: ./_main.cfg:785
 msgid "<span color='yellow'>Special units/buildings</span>"
-msgstr ""
+msgstr "<span color='yellow'>Unidades/construções especiais</span>"
 
 #. [option]
 #: ./_main.cfg:794
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Miscelânea"
 
 #. [option]
 #: ./_main.cfg:803 ./scenarios/Field.cfg:5448 ./scenarios/Field.cfg:5751 ./scenarios/Field.cfg:7647
 msgid "Thanks. (Leave here)"
-msgstr ""
+msgstr "Obrigado. (Sair)"
 
 #. [message]
 #: ./_main.cfg:828
 msgid "Which one do you want to know?"
-msgstr ""
+msgstr "Qual você quer saber?"
 
 #. [option]
 #: ./_main.cfg:831
 msgid "<span color='yellow'>Important menu items colored with yellow</span>"
-msgstr ""
+msgstr "<span color='yellow'>Itens importantes do menu estão coloridos de amarelo</span>"
 
 #. [message]
 #: ./_main.cfg:835
 msgid "Menu items colored with <span color='yellow'>yellow</span> are important ones. Please read those items at least."
-msgstr ""
+msgstr "Itens de menu coloridos com <span color='yellow'>amarelo</span> são importantes. Por favor leia pelo menos esses itens."
 
 #. [option]
 #: ./_main.cfg:841
 msgid "<span color='yellow'>You should NOT move from Fusia!</span>"
-msgstr ""
+msgstr "<span color='yellow'>Você NÃO deve sair de Fusia!</span>"
 
 #. [message]
 #: ./_main.cfg:845
 msgid "You (You Company) should not move from Fusia if there are no urgent issues. For example, if you are in Fusia, a random soldier will be recruited every turn without any costs. But if you are not in Fusia, this doesn't happen. Various other office tasks such as troop management and sending spies also require you."
-msgstr ""
+msgstr "Você (Você Companhia) não deve sair de Fusia se não houver questões urgentes. Por exemplo, se você está em Fusia, um soldado aleatório será recrutado em todos os turnos sem nenhum custo. Mas se você não estiver em Fusia, isso não acontecerá. Várias outras tarefas de escritório como o gerenciamento da tropa e envio de espiões também requerem você."
 
 #. [option]
 #: ./_main.cfg:851
 msgid "<span color='yellow'><b>How to build a troop?</b></span>"
-msgstr ""
+msgstr "<span color='yellow'><b>Como montar uma tropa?</b></span>"
 
 #. [message]
 #: ./_main.cfg:855
@@ -557,11 +557,23 @@ msgid ""
 "<b>8.</b>: Choose <span color='yellow'>Add/Remove members</span> and add members.\n"
 "<b>9.</b>: Right click the unit again and choose <span color='yellow'>Go for the War!</span> item."
 msgstr ""
+"O secretário bem ali, Redy, auxilia você a fazer uma tropa. Primeiro, <span color='yellow'>você precisa de um soldado com bravura maior do que 50.</span> Bravura mais alta é requerida para uma tropa maior. Então, você pode pedir ao secretário para fazer uma tropa. Nesse estágio, a tropa criada em somente um membro; o líder. Para adicionar outros membros, você pode adicioná-los <span color='yellow'>clicando com o botão direito na tropa na sala de espera</span> (um cômodo abaixo deste escritório). Para enviar a tropa criada para o Campo, você precisa escolher o item 'Vá para a Guerra!' no menu do botão direito.\n"
+"\n"
+"Resumindo,\n"
+"<b>1.</b>: Prepare <span color='yellow'>soldados com bravura maior do que 50</span>.\n"
+"<b>2.</b>: Mova-se para <span color='yellow'>Peça ao secretário</span> hexágono neste escritório.\n"
+"<b>3.</b>: Escolha <span color='yellow'>menu Esquadrão/Pelotão/Companhia</span>.\n"
+"<b>4.</b>: Escolha <span color='yellow'>Criar um Esquadrão/Pelotão/Companhia</span>.\n"
+"<b>5.</b>: Escolha um comandante e clique em OK.\n"
+"<b>6.</b>: Sair do menu.\n"
+"<b>7.</b>: <span color='yellow'>Clique com o direito na tropa criada</span> na sala de espera (o cômodo abaixo).\n"
+"<b>8.</b>: Escolha <span color='yellow'>Adicionar/Remover membros</span> e adicione membros.\n"
+"<b>9.</b>: Clique com o direito na unidade novamente e escolha o item <span color='yellow'>Vá para a Guerra!</span>."
 
 #. [option]
 #: ./_main.cfg:872
 msgid "<span color='yellow'>Income system!</span>"
-msgstr ""
+msgstr "<span color='yellow'>Sistema de Receita!</span>"
 
 #. [message]
 #: ./_main.cfg:876
@@ -570,11 +582,14 @@ msgid ""
 "\n"
 "Keep in the mind this most important aspect about funding: <span color='yellow'>if our fund runs out, we are doomed</span>."
 msgstr ""
+"Receita consiste na <b>receita</b> base e <b>receita bônus</b>. Despesas consistem em <b>manutenção</b> e <b>outras perdas</b>. Por favor leia os tópicos correspondentes para saber mais detalhes.\n"
+"\n"
+"Tenha em mente este aspecto mais importante sobre receita: <span color='yellow'>se nossos fundos acabarem, nós estaremos arruinados</span>."
 
 #. [option]
 #: ./_main.cfg:884
 msgid "Do not starve!"
-msgstr ""
+msgstr "Não passe fome!"
 
 #. [message]
 #: ./_main.cfg:888
@@ -584,10 +599,11 @@ msgid ""
 "On the other hand, enemy troops never starve. It is due to the skill level of the stupid author of this campaign..."
 msgstr ""
 
+
 #. [option]
 #: ./_main.cfg:896
 msgid "<span color='yellow'>Tips for Battles!</span>"
-msgstr ""
+msgstr "<span color='yellow'>Dicas para Batalhas!</span>"
 
 #. [message]
 #: ./_main.cfg:900
@@ -598,11 +614,16 @@ msgid ""
 "<b>Leadership</b>:\n"
 "Effect of leadership skill is different from the normal battles. If the leader has this skill, attack damage is increased (it is not shown in status window). There are no effects for adjacent allied unit."
 msgstr ""
+"<b>Cerque a Unidade Inimiga</b>:\n"
+"Você deve cercar a unidade inimiga com suas tropas antes de atacar. Porque essas unidades adjacentes tem efeito positivo nas batalhas através do 'coeficiente' de dano de ataque (veja o tópico correspondente para detalhes), embora elas não são diretamente envolvidas. Quanto mais unidades adjacentes ao inimigo, mais dano no inimigo e menos dano sofrido do inimigo. O oposto também é verdade, suas unidades não devem ser cercadas por unidades inimigas.\n"
+"\n"
+"<b>Liderança</b>:\n"
+"O efeito da habilidade liderança é diferente das batalhas normais. Se o líder tiver essa habilidade, o dano de ataque é aumentado (isso não é mostrado na janela de status). Não há efeitos para unidade aliada adjacente."
 
 #. [option]
 #: ./_main.cfg:910
 msgid "Enemy Guardians/Enemy Leaders!"
-msgstr ""
+msgstr "Guardiães Inimigos/Líderes Inimigos!"
 
 #. [message]
 #: ./_main.cfg:914
@@ -613,11 +634,16 @@ msgid ""
 "\n"
 "Around the leaders and guardians, enemies will spawn to guard the place. You should defeat guardian/leader or leave there to remove spawned troops. The spawning number depends on the gold of that side. If there are not enough money, enemy will not spawn. If you want to know funding status of sides, send spies to target sides."
 msgstr ""
+"Líderes inimigos estão na capital do lado correspondente. Para derrotar um lado, você ou um lado aliado devem derrotar o líder do lado alvo.\n"
+"\n"
+"Alguns lados têm tropas guardiãs em certos lugares, normalmente em cidades que não são a capital. Por exemplo, o Império tem um guardião na 'a Boca', e o Reino tem um no 'Forte de Linha de Frente'. Se você conseguir derrotar o guardião, uma Bandeira que prova que você ocupa aquele lugar irá aparecer.\n"
+"\n"
+"Ao redor dos líderes e guardiães, inimigos aparecerão para defender o lugar. Você deve derrotar o guardião/líder ou sair dali para as tropas que surgiram. A quantidade que surge depende do ouro daquele lado. Se não houver ouro suficiente, o inimigo não irá aparecer. Se você quiser saber o estado dos fundos dos inimigos, envie espiões para os lados alvos."
 
 #. [option]
 #: ./_main.cfg:924
 msgid "<span color='yellow'>Build watchtowers!</span>"
-msgstr ""
+msgstr "<span color='yellow'>Construa torres de vigia!</span>"
 
 #. [message]
 #: ./_main.cfg:929
@@ -626,11 +652,14 @@ msgid ""
 "\n"
 "(Buildings can be destroyed intentionally from the right click menu when Engineers are on the adjacent hex.)"
 msgstr ""
+"Torres de vigia são um tipo muito útil de construção. Essas construções não têm qualquer habilidade de ataque, mas <span color='yellow'>elas conseguem limpar a neblina de um tamanho significativo de area.</span> O custo de operação também é barato, 1 ouro por turno. Construa elas para notar as ações inimigas. Mas não as construa num lugar muito próximo aos inimigos. Eles irão destruir a torre imediatamente.\n"
+"\n"
+"(Construções podem ser destruidas intencionalmente a partir do menu do botão direito quando os Engenheiros estiverem num hexágono adjacente.)"
 
 #. [option]
 #: ./_main.cfg:937
 msgid "Do not build many Foodstorages!"
-msgstr ""
+msgstr "Não construa muitos Armazéns de Comida!"
 
 #. [message]
 #: ./_main.cfg:942
@@ -639,11 +668,14 @@ msgid ""
 "\n"
 "Buildings can be destroyed intentionally from the right click menu when Engineers are in the adjacent hex."
 msgstr ""
+"Armazém de Comida é um tipo especial de construção. Seu custo de operação é alto (5 ouros por turno), mas ela provê comida para as tropas adjacentes no início dos turnos. Tenha certeza de destruí-las uma vez que não forem mais necessárias.\n"
+"\n"
+"(Construções podem ser destruidas intencionalmente a partir do menu do botão direito quando os Engenheiros estiverem num hexágono adjacente.)"
 
 #. [option]
 #: ./_main.cfg:950
 msgid "How to help allies?"
-msgstr ""
+msgstr "Como ajudar aliados?"
 
 #. [message]
 #: ./_main.cfg:954
@@ -652,26 +684,29 @@ msgid ""
 "\n"
 "This way of aid is the most effective for us goblins. (Cynically) Because we goblins can recruit a troop by very low cost! 100 gold is well enough for us."
 msgstr ""
+"Se algum líder aliado estiver em perido, você deve ajudá-lo. O jeito mais simples é matar os inimigos com suas tropas. Mas isso só é possível quando há tropas nas redondezas. O que fazemos quando não há tropas em prontidão? A resposta é simples, <span color='yellow'>envie dinheiro a eles usando o emissário</span>. O dinheiro chegará no início do próximo turno, normalmente isso é mais rápido do que suas tropas. O líder recrutará novas tropas usando aquele dinheir e derrotará os inimigos.\n"
+"\n"
+"Esse método de ajuda é o mais efetivo para nós góblins. (Cinicamente) Porque nós góblins podemos recrutar uma tropa a um custo muito baixo! 100 ouros é mais que suficiente para nós."
 
 #. [option]
 #: ./_main.cfg:962 ./_main.cfg:1132 ./_main.cfg:1206 ./_main.cfg:1317 ./_main.cfg:1429 ./_main.cfg:1542 ./_main.cfg:1667 ./scenarios/Field.cfg:5333 ./scenarios/Field.cfg:6114 ./scenarios/Field.cfg:6402 ./scenarios/Field.cfg:6515 ./scenarios/Field.cfg:6720 ./scenarios/Field.cfg:6845 ./scenarios/Field.cfg:6914 ./scenarios/Field.cfg:7111 ./scenarios/Field.cfg:7161 ./scenarios/Field.cfg:7296 ./scenarios/Field.cfg:7640
 msgid "Back"
-msgstr ""
+msgstr "Voltar"
 
 #. [message]
 #: ./_main.cfg:987
 msgid "I can give you an instruction about the strategy."
-msgstr ""
+msgstr "Eu posso dar a você instruções sobre estratégia."
 
 #. [option]
 #: ./_main.cfg:990
 msgid "Basic strategy"
-msgstr ""
+msgstr "Estratégia básica"
 
 #. [message]
 #: ./_main.cfg:994
 msgid "At first, we should defeat Dunefolks. There will be no other options except when goblins were defeated other factions."
-msgstr ""
+msgstr "Em primeiro lugar, nós precisamos derrotar os Dunefolks. Não haverá outras opções exceto quando góblins forem derrotados por outras facções."
 
 #. [message]
 #: ./_main.cfg:998
@@ -682,16 +717,21 @@ msgid ""
 "\n"
 "In addition, cities of dwarves and trolls are bit far from Fusia. We may need some tricks to supply food..."
 msgstr ""
+"Para o próximo passo, anões devem ser derrotados. Porque eles podem facilmente passar pelas montanhas e atacar Fusia diretamente. Mas atacar os anões é um pouco difícil por causa das montanhas ?? . Se tentarmos atacar do oeste, tropas do Reino vindos do Forte de Linha de Frente com certeza nos atacarão. Por outro lado, se atacarmos pelo leste, trolls nos emboscarão.\n"
+"\n"
+"Eu acho que nós devemos derrotar <b>Trolls</b> e depois atacar os <b>Anões</b>. Nós, góblins podemos ser úteis nesse ataque.\n"
+"\n"
+"Além disso, as cidades dos anões são um pouco longe de Fusia. Talvez nós precisemos alguns truques para suprir comida..."
 
 #. [message]
 #: ./_main.cfg:1006
 msgid "After defeating trolls and dwarves, you should attack orcs/drakes or saurians/elves. The choice is up to you. Orcs may have vast number of soldiers, so defeating them may not be easy. But once we defeat orcs, we can secure the eastern part of the land. On the other hand, saurians and elves may be defeated somewhat easier than orcs. But their positions are very close to the Kingdom or Imperial outposts. It may be difficult to save them when they were attacked."
-msgstr ""
+msgstr "Depois de derrotar os trolls e anões, você deve atacar orcs/drakes ou sarians/elfos. A escolha é sua. Orcs podem ter um grande número de soldados então derrotá-los pode não ser fácil. Mas uma vez que nós derrotarmos os orcs, nós podemos estar seguros na parte leste dessa terra. Por outro lado, saurians e elfos podem ser ?? mais fáceis do que os orcs. Mas as posiçoes deles são bem próximas aos postos avançados do Reino ou do Império. Pode ser difícil salvá-los quando eles forem atacados."
 
 #. [option]
 #: ./_main.cfg:1012
 msgid "against Kingdom"
-msgstr ""
+msgstr "contra o Reino"
 
 #. [message]
 #: ./_main.cfg:1016
@@ -700,11 +740,12 @@ msgid ""
 "\n"
 "It is to be noted here that we should not get close to their outposts. If they find us near their outpost, they will surely send troops."
 msgstr ""
+"Derrotar o Reino é quase impossível. Eles devem ter um grande número de soldados e líderes. Nós devemos ser defensivos contra eles. O Portão Sul é o ponto crítico. Nós devemos bloqueá-los lá. Algumas das tropas deles virão pela Floresta Fling ou pelo lado leste de Fusia. Não ?? essas tropas.\n"
 
 #. [option]
 #: ./_main.cfg:1024
 msgid "against Empire"
-msgstr ""
+msgstr "contra o Império"
 
 #. [message]
 #: ./_main.cfg:1028
@@ -713,11 +754,14 @@ msgid ""
 "\n"
 "It is to be noted here that we should not get close to their outposts. If they find us near their outpost, they will surely send us troops."
 msgstr ""
+"A estratégia básica é a mesma que a contra o Reino. Nós devemos bloqueá-los no Portão Norte. Góblins da cidade Goba também serão atacados por eles. Você pode precisar enviar dinheiro aos góblins.\n"
+"\n"
+"Deve ser notado aqui que nós não devemos chegar perto dos postos avançados deles. Se eles nos encontrarem próximos de seus postros avançados, eles com certeza enviarão tropas contra nós."
 
 #. [option]
 #: ./_main.cfg:1036
 msgid "against Goblins"
-msgstr ""
+msgstr "contra Góblins"
 
 #. [message]
 #: ./_main.cfg:1040
@@ -726,11 +770,14 @@ msgid ""
 "\n"
 "Goblin troops have rider type soldiers. Expected to be effective to kill enemy shooters."
 msgstr ""
+"Nós somos aliados, então você pode não precisar lutar conosco. Mas se o líder na cidade Goga for derrotado, você deve se apressar para reconquistar o controle.\n"
+"\n"
+"Tropas góblin tem ?? . Espera-se serem efetivos para matar atiradores inimigos."
 
 #. [option]
 #: ./_main.cfg:1048
 msgid "<span color='yellow'>against Dunefolks</span>"
-msgstr ""
+msgstr "<span color='yellow'>contra Dunefolks</span>"
 
 #. [message]
 #: ./_main.cfg:1052
