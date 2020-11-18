@@ -1,9 +1,10 @@
+# _riders_
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2020-11-17 00:39-0300\n"
+"PO-Revision-Date: 2020-11-18 01:13-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -598,6 +599,9 @@ msgid ""
 "\n"
 "On the other hand, enemy troops never starve. It is due to the skill level of the stupid author of this campaign..."
 msgstr ""
+"Tome cuidado com a quantidade de comida. Se ela acabar, soldados na tropa ficam esfomeados e recebem dano a cada turno. Para pegar comida, você precisa mover suas tropas para <span color='yellow'>aldeia, torre de menagem, ou um hexágono adjacente a Fusia, a uma Bandeira ou um Armazém de Comida</span>. Note que as comidas NÃO são fornecidas quandos as unidades se movem para esses hexágonos. Elas são fornecidas no início do turno.\n"
+"\n"
+"Por outro lado, tropas inimigas nunca ficam esfomeadas. Isso é por causa do nível de habilidade do estúpido autor desta campanha..."
 
 
 #. [option]
@@ -786,11 +790,14 @@ msgid ""
 "\n"
 "Their troops do not have very strange features, healers might be the only special types."
 msgstr ""
+"Eles são o primeiro alvo. O número deles pode não ser tão grande. Nós precisamos de 3-5 tropas para derrotá-los. Mas nunca os subestime, porque eles são bons em lutar na areia e a habilidade de um soldado individual é um pouco alta.\n"
+"\n"
+"As tropas deles não tem aspectos muito estranhos, curandeiros devem ser os únicos tipos especiais."
 
 #. [option]
 #: ./_main.cfg:1060
 msgid "against Orcs"
-msgstr ""
+msgstr "contra Orcs"
 
 #. [message]
 #: ./_main.cfg:1064
@@ -801,21 +808,26 @@ msgid ""
 "\n"
 "Their raiding party sometimes appears and attack the goblins. You should kill the parties as soon as possible to keep intimacy with goblins."
 msgstr ""
+"Se eles tentarem atacar Fusia, góblins funcionarão como um escudo. Por favor envie dinheiro se eles estiverem com problemas. De qualquer maneira, o número de soldados orcs pode ser muito grande, se dinheiro for fornecido pelo Reino ou Império.\n"
+"\n"
+"Para atacá-los, você pode precisar fornecer comida para suas tropas pois não há aldeias próximas ao lugar deles. A cura de soldados também pode ser um problema. Você deve enviar um grande número de tropas se você quiser tentar derrotá-los por causa dos problemas acima e do grande número deles. A melhor hora para atacar-los é quando eles estiverem lutando contra os draconatos.\n"
+"\n"
+"O grupo de saqueadores às vezes aparecem e ataca os góblins. Você deve destruir os grupos o mais rápido possível para manter a intimidade com os góblins."
 
 #. [option]
 #: ./_main.cfg:1074
 msgid "<span color='yellow'>against Dwarves</span>"
-msgstr ""
+msgstr "<span color='yellow'>contra Anões</span>"
 
 #. [message]
 #: ./_main.cfg:1078
 msgid "As an enemy, they are awsome foes for Fusia. Fusia is well guarded by the mountains, but those mountains cannot be a barrier against dwarves. So you have to defeat them as soon as possible. But west side is guarded by the Frontline Fort of the Kingdom, and the east part overlaps with the troll territory. It is very difficult to attack them directly. We should defeat trolls first, and then attack dwarves from the east. If they remain as an enemy, we will surely get ambushed over the mountains."
-msgstr ""
+msgstr "Como inimigos, eles são oponentes pavorosos para Fusia. Fusia é bem protegida pelas montanhas, mas essas montanhas não são uma barreira contra anões. Então você deve derrotá-los o mais rápido possível. Mas o lado oeste é protegido pelo Forte de Linha de Frente do Reino, e no leste parte do território sobrepõe-se com território troll. É muito difícil atacá-los diretamente. Nós devemos atacar os trolls primeiro, e depois atacar os anões pelo leste. Se eles continuarem sendo inimigos, com certeza nós seremos emboscados sobre as montanhas."
 
 #. [option]
 #: ./_main.cfg:1084
 msgid "against Trolls"
-msgstr ""
+msgstr "contra Trolls"
 
 #. [message]
 #: ./_main.cfg:1088
@@ -826,21 +838,26 @@ msgid ""
 "\n"
 "They sometimes fight against dwarves. That is a great chance for us. We should send troops immediately and crash them at once!"
 msgstr ""
+"A habilidade de regeneração deles é terrivelmente irritante. Você deve terminar a batalha rapidamente. Caso contrário, você irá depois de algum tempo ser derrotado por eles. Ajuda dos góblins será agradável contra os trolls.\n"
+"\n"
+"Você não deve lutar com eles em colinhas ou montanhas. Eles não são bons em lutar no plano, neve ou na floresta. Escolha cuidadosa do campo de batalha é crucial em guerras.\n "
+"\n"
+"Eles às vezes lutam contra os anões. Essa é uma ótima oportunidade para nós. Nós devemos enviar tropas imediatamente e esmagá-los de uma vez por todas!"
 
 #. [option]
 #: ./_main.cfg:1098
 msgid "against Elves"
-msgstr ""
+msgstr "contra Elfos"
 
 #. [message]
 #: ./_main.cfg:1102
 msgid "Their home is too far from here. That is the only problem. They have skilled soldiers, but the number cannot be so large due to their nature. They are sometimes fighting against saurians."
-msgstr ""
+msgstr "O lugar deles é bem longe daqui. Esse é o único problema. Eles têm soldados habilidosos, mas o número não pode ser tão grande devido à natureza deles. Eles às vezes estão lutando contra os lagartos."
 
 #. [option]
 #: ./_main.cfg:1108
 msgid "against Drakes"
-msgstr ""
+msgstr "contra Draconatos"
 
 #. [message]
 #: ./_main.cfg:1112
@@ -849,11 +866,14 @@ msgid ""
 "\n"
 "They sometimes fight against orcs, it can be a good chance to attack those two sides."
 msgstr ""
+"Eles podem não ser um inimigo direto à Fusia. Mas eles são os inimigos primários dos góblins em Goba. Felizmente, se você enviar dinheiro aos góblins devidamente, ataques dos draconatos podem ser bloqueados sem tropas de Fusia.\n"
+"\n"
+"Eles às vezes lutam contra orcs, pode ser uma boa oportunidade para atacar esses dois lados."
 
 #. [option]
 #: ./_main.cfg:1120
 msgid "against Saurians"
-msgstr ""
+msgstr "contra Lagartos"
 
 #. [message]
 #: ./_main.cfg:1124
@@ -862,36 +882,39 @@ msgid ""
 "\n"
 "There are no villages around their home, and there are many swamps instead. Be careful also about terrains."
 msgstr ""
+"O ponto mais importante sobre essa raça é os seus soldados principais, escaramuçadores são considerados como _riders_. Isso significa que seu líder atirador será facilmente morto por esses escaramuçadores. Então você deve ser cuidadoso com a organização da tropa.\n"
+"\n"
+"Não há aldeias ao redor do lugar deles, ao invés, há muito pântano. Seja cuidadoso com o terreno."
 
 #. [message]
 #: ./_main.cfg:1157
 msgid "Which topic do you want to know?"
-msgstr ""
+msgstr "Que tópico você quer saber?"
 
 #. [option]
 #: ./_main.cfg:1160
 msgid "Income"
-msgstr ""
+msgstr "Receita"
 
 #. [message]
 #: ./_main.cfg:1164
 msgid "Income consists of <b>base income</b> and <b>bonus income</b>. The former is the main income of this country. <b>Base income</b> can be increased by defeating other sides."
-msgstr ""
+msgstr "Receita consiste da <b>receita base</b> e <b>receita bônus</b>. A primeira é a principal receita deste país. <b>Receita base</b> pode ser aumentada derrotando outros lados."
 
 #. [message]
 #: ./_main.cfg:1168
 msgid "<b>Bonus income</b> is rather special style of income. This can be obtained if you send paperpushers to enemy villages or if you conquered the enemy outposts (excluding main outpost of sides). In the latter case, you may get a Flag unit at the defeated enemy outpost."
-msgstr ""
+msgstr "<b>Receita bônus</b> é um tipo um pouco especial de receita. Esta pode ser obtida quando você envia burocratas às aldeias inimigas ou se você conquistou postos avançados inimigos (excluindo o principal posto avançado dos lados). No último caso, você pode receber uma unidade Bandeira no posto avançado derrotado do inimigo."
 
 #. [message]
 #: ./_main.cfg:1172
 msgid "If you find a treasure and it does not have special power, you may get gold instead. This is the only way to get large amount of money instantly."
-msgstr ""
+msgstr "Se você encontrar um tesouro e ele não tiver nenhum poder especial, você pode, ao invés disso, pegar ouro. Este é o único jeito de conseguir grandes quantidades de ouro instantaneamente."
 
 #. [option]
 #: ./_main.cfg:1178
 msgid "Outgo"
-msgstr ""
+msgstr "Despesas"
 
 #. [message]
 #: ./_main.cfg:1182
@@ -904,11 +927,18 @@ msgid ""
 "\n"
 "If there are bandits in our land, the income can be reduced. It is to be noted special units (such as Engineers) in antechamber do not require upkeep. If there are no jobs for them, send them to the antechamber to save money."
 msgstr ""
+"Você precisa de dinheiro para fazer algo especial.\n"
+"\n"
+"1: Usar unidades especiais no Campo (Engenheiros, Burocratas)\n"
+"2: Manter construções (Torre de Vigia, Armazém de Comida)\n"
+"3: Recrutar uma unidade líder ou soldado.\n"
+"\n"
+"Se houverem bandidos em nossa terra, a receita será reduzida. Deve ser notado que unidades especiais (tais como Engenheiros) na sala de espera não requerem manutenção. Se não houver trabalhos para eles, envie-os à sala de espera para economizar dinheiro."
 
 #. [option]
 #: ./_main.cfg:1194
 msgid "<span color='yellow'>How to use gold?</span>"
-msgstr ""
+msgstr "<span color='yellow'>Como usar ouro?</span>"
 
 #. [message]
 #: ./_main.cfg:1198
@@ -917,16 +947,19 @@ msgid ""
 "\n"
 "On the other hand, you should keep some amounts of gold for urgent tasks... For example, to help allies and to prepare sudden increases of outgo by bandits."
 msgstr ""
+"Recrutar um comandante por 40 ouros é o uso primário. Unidades de nível baixo são recrutadas automaticamene todos os turnos (se você estiver em Fusia), mas esses novatos não podem ser comandantes imediatamente. Se você tem comandantes suficiente e não muitos soldados, recrutar um lanceiro desmontado/arqueiro por 10 ouros é uma escolha razoável.\n"
+"\n"
+"Por outro lado, você deve guardar alguma quantidade de ouro para tarefas urgentes... Por exemplo, para ajudar aliados e preparar aumentos súbidos de despesas causadas por bandidos."
 
 #. [message]
 #: ./_main.cfg:1232
 msgid "Unit system is very much different from usual campaigns, you should understand the difference."
-msgstr ""
+msgstr "O sistema das Unidades é bem diferente das campanhas típicas, você deve entender a diferença."
 
 #. [option]
 #: ./_main.cfg:1235
 msgid "<span color='yellow'>Max level of unit</span>"
-msgstr ""
+msgstr "<span color='yellow'>Nívem máximo da unidade</span>"
 
 #. [message]
 #: ./_main.cfg:1239
@@ -935,11 +968,14 @@ msgid ""
 "\n"
 "If an unit is already in his/her maxlevel, experience required for the next level becomes 999."
 msgstr ""
+"Nível máximo da unidade é determinado quando ele/ela é criado, independentemente do tipo de unidade. Por exemplo, se o nível máximo de um lanceiro desmontado é 1, ele não consegue se tornar um espadachim/piqueiro. Então unidades com nível máximo alto são muito raras e importantes. Por favor não desperdice unidades de nível máximo alto.\n"
+"\n"
+"Se uma unidade já está no seu nível máximo, a experiência requerida para o próximo nível torna-se 999."
 
 #. [option]
 #: ./_main.cfg:1247
 msgid "Exploit"
-msgstr ""
+msgstr "Bravura"
 
 #. [message]
 #: ./_main.cfg:1251
@@ -1300,27 +1336,27 @@ msgstr ""
 #. [message]: speaker=narrator
 #: ./_main.cfg:1745
 msgid "You recruited a spearman!"
-msgstr ""
+msgstr "Você recrutou um lanceiro desmontado!"
 
 #. [message]: speaker=narrator
 #: ./_main.cfg:1753
 msgid "You recruited a bowman!"
-msgstr ""
+msgstr "Você recrutou um arqueiro!"
 
 #. [message]: speaker=narrator
 #: ./_main.cfg:1767
 msgid "You recruited a mage!"
-msgstr ""
+msgstr "Você recrutou um mago!"
 
 #. [message]: speaker=narrator
 #: ./_main.cfg:1783
 msgid "You recruited a horseman!"
-msgstr ""
+msgstr "Você recrutou um soldado montado!"
 
 #. [message]: speaker=narrator
 #: ./_main.cfg:1791
 msgid "You recruited a cavalryman!"
-msgstr ""
+msgstr "Você recrutou um equestre!"
 
 #. [language]
 #: ./_main.cfg:1836
@@ -1337,7 +1373,7 @@ msgstr ""
 #. [side]
 #: ./lua/actions.lua:767 ./scenarios/Field.cfg:7036 ./scenarios/Prologue.cfg:782 ./utils/sides.cfg:9 ./utils/sides.cfg:46
 msgid "Fusia"
-msgstr ""
+msgstr "Fusia"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
