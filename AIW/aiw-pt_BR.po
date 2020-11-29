@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2020-11-28 02:03-0300\n"
+"PO-Revision-Date: 2020-11-29 01:01-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -1362,7 +1362,7 @@ msgid ""
 "Still this skill is very helpful in harsh circumstances."
 msgstr ""
 "Arsenio and Heinrich:\n"
-"Os alcoólatras têm a aptidão <span color='yellow'>vento forte</span>. Ela aumenta o dano de ataque e reduz o dano recebido. É basicamente o mesmo que a sua habilidade <b>desastre</b>, mas o efeito é um pouco mais fraco do que a sua. Na verdade, se as tropas dos alcoólatras superam com grande diferença o número de inimigos, essa habilidade pode reduzir a vantagem um pouco. Eles não são tão cuidadosos se eles têm uma grande vantagem.\n"
+"Os alcoólatras têm a aptidão <span color='yellow'>ventos fortes</span>. Ela aumenta o dano de ataque e reduz o dano recebido. É basicamente o mesmo que a sua habilidade <b>desastre</b>, mas o efeito é um pouco mais fraco do que a sua. Na verdade, se as tropas dos alcoólatras superam com grande diferença o número de inimigos, essa habilidade pode reduzir a vantagem um pouco. Eles não são tão cuidadosos se eles têm uma grande vantagem.\n"
 "\n"
 "Essa aptidão ajuda muito em situações difíceis."
 
@@ -3838,131 +3838,131 @@ msgstr "Esta é a terra-de-nenhum-homem! Ninguém sabe detalhes sobre esse lugar
 #. [message]
 #: ./scenarios/Field.cfg:7480
 msgid "Vast dry plain locates just south of this city! That place is really useless! But if this plain disappears, this country will be immediately swallowed by the Kingdom!! Generals in Crownia may hesitate vast attack to this country due to the existence of this vast dry plain!"
-msgstr ""
+msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é realmente inútil! Mas se este planície desaparecer, este país será imediatamente engolido pelo Reino!! Os generais em Crownia podem hesitar um grande ataque a este país devido a existência desta planície vasta e seca!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7491
 msgid "Furtile plain in the north west!! Just west of the Imperial capital city, Sceptoria!! This plain used to be a forest! But people exploited this place for farming very very long ago!"
-msgstr ""
+msgstr "Planície fértil a noroeste!! Logo a oeste da capital Imperial, Sceptoria!! Esta planície costumava ser uma floresta! Mas as pessoas exploraram este lugar para agricultura há muito muito tempo atrás!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7503
 msgid "The most futile plain around here!! It locates near Crownia, south-west from here!! This futile plain is the symbol of the Kingdom's power!"
-msgstr ""
+msgstr "A planície mais fértil por aqui!! Localiza-se perto de Crownia, a sudoeste daqui!! Este planície fértil é o símbolo do poder do Reino!"
 
 #. [option]
 #: ./scenarios/Field.cfg:7510
 msgid "Fling Forest/Widow Forest"
-msgstr ""
+msgstr "Floresta de Fling/Floresta da Viúva"
 
 #. [message]
 #: ./scenarios/Field.cfg:7515
 msgid "Fling is in west, Widow is in east of this city! This place where Fusia stands was also a forest many years ago! Do you know this fact!? Humans trimmed trees around this place and develop villages, and eventually the bridge! Now Fling is spreading towards west, and Widow is getting smaller very slowly!! You should take care this miserable widow!! And damn Fling spawns bandits! Burn it out that terrible asshole!"
-msgstr ""
+msgstr "Fling fica a oeste, Viúva fica a leste desta cidade! Este lugar onde Fusia está era também uma floresta muitos anos atrás! Você conhece este fato!? Os humanos cortaram as árvores deste lugar e desenvolveram aldeias, e eventualmente a ponte! Agora Fling se espalha ao oeste e Viúva está ficando menor bem devagar!! Você deve cuidar desta viúva miserável!! E na droga de Fling aparecem bandidos! Queime aquele terrível idiota!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7527
 msgid "Home of elves... hive of green monsters... That is the most horrible place in this land! We should not enter that place!! I don't want to speak of that place!! Never ask me!"
-msgstr ""
+msgstr "Casa dos elfos... colônia dos monstros verdes... Aquele é o lugar mais horrível nesta terra! Nós não devemos adentrar naquele lugar!! Eu não quero falar daquele lugar!! Nunca me pergunte!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7539
 msgid "Tiny woods close to the dwarven city! It locates south-east of this city! Woods are little bit precious materials for us, dwarves!! You should not disturb that forest!! Otherwise, your head have to say goodbye to your body!!!"
-msgstr ""
+msgstr "Pequena floresta próxima a cidade dos anões! Localiza-se a sudeste desta cidade! Madeira é um material um pouco precioso para nós, anões!! Você não deve mexer com aquela floresta!! Senão sua cabeça pode dizer adeus ao seu corpo!!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7551
 msgid "Nothing to say! It is the sea in the west!! There must be many other lands beyond that sea!! I wanna visit those places! But I hate ships!! It is a very big problem!! Damn it!"
-msgstr ""
+msgstr "Nada a dizer! É o mar ao oeste!! Deve haver tantas outras terras além daquele mar!! Eu quero visitar esses lugares! Mas eu odeio navios!! É um problema gigante!! Droga!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7562
 msgid "Home of sand humans!! Geographically, no one knows the reason why there is a desert at that place!! Name of this desert comes from the fact! I consider the reason might lie in the mountain surrounding the desert!! Detailed investigation is surely necessary! You should provide me enough resources to investigate there!"
-msgstr ""
+msgstr "A casa dos homens da areia!! Geograficamente, ninguém sabe o porquê há um deserto naquele lugar!! O nome desse deserto vem deste fato! Eu pondero que o motivo possa estar entre as montanhas cercando o deserto!! Uma investigação detalhada é com certeza necessária! Você deve me fornecer recursos suficientes para investigar lá!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7573
 msgid "Another desert in the north! Simply dry land there! Very harsh but not strange!! That damn place is nothing interesting!! Such a terrible place must be removed from the land!"
-msgstr ""
+msgstr "Outro deserto no norte! Lá é simplesmente uma terra seca! Muito severa mas não estranha!! Aquela droga de lugar não é nada interessante!! Um lugar tão terrível deveria ser removido da terra!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7585
 msgid "Plain close the Great Lake! It locates at the very south of this city! Very comfortable place to live! But nothing interesting to us, geographers! Ignore such a boring place!"
-msgstr ""
+msgstr "Planície próxima ao Grande Lago! Localiza-se muito ao sul desta cidade! Um lugar muito confortável de se viver! Mas nada interessante para nós, geógrafos! Ignore um lugar tão enfadonho!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7597
 msgid "Damn it!! Such a dirty place must be burned out! It locates west of this place!! Stupid lizards are living there!"
-msgstr ""
+msgstr "Droga!! Um lugar tão sujo deve ser queimado! Localiza-se a oeste daqui!! Lagartos estúpidos vivem lá!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7609
 msgid "Huh? It is a pathway for coward on the east of Crownia! You pitiful humans often use that path to avoid Wet Mountain city! We, brave dwarves never choose such a cowardish way! We can penetrate Valen Mountains!"
-msgstr ""
+msgstr "Hein? É um caminho para covardes a leste de Crownia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, bravos anões nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Valen Mountains!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7621
 msgid "Great Dragon!? Ha! Funny arrogant name! That volcano is inactive! Nothing danger! If that volcano is really active, those cowardish lizards are immediately swallowed by an eruption of that volcano! I believe that should be renamed to Tiny Baby’s Nose!"
-msgstr ""
+msgstr "Grande Dragão!? Ha! Nome engraçado e arrogante! Esse vulcão é inativo! Nenhum perigo! Se aquele vulcão fosse de fato ativo, aqueles lagartos covardes seriam imediatamente engolidos pela erupção do vulcão. Eu creio que ele deveria ser renomeado para Nariz da Pequena Bebê!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7633
 msgid "Really active volcano! It is quite danger!! We should not get close to it! But rare minerals are available around that terribly danger volcano! You should deactivate that volcano by your power for us!!"
-msgstr ""
+msgstr "Vulcão ativo de verdade! É bem perigoso!! Nós não devemos chegar próximos dele! Mas minerais raros estão disponíveis ao redor daquele terrivelmente perigoso vulcão! Você deve desativar aquele vulcão com seu poder para nós!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7687
 msgid "Wait! You did not send a troop to the Field. Ask secretary to build a troop, add members to the troop from the right-clicking menu at the antechamber (bottom of this map), and then send them to the field from the right-clicking menu."
-msgstr ""
+msgstr "Espere! Você não enviou uma tropa para o Campo. Peça ao secretário para construir uma tropa, adicione membros à tropa a partir do menu do botão direito na sala de espera (na parte inferior deste mapa), e depois envie-os ao campo a partir d menu do botão direito."
 
 #. [message]
 #: ./scenarios/Field.cfg:7691
 msgid "Would you stay here to build troops?"
-msgstr ""
+msgstr "Você gostaria de ficar aqui para montar tropas?"
 
 #. [option]
 #: ./scenarios/Field.cfg:7698
 msgid "No! I never need any other troops! Single troop is enough to defeat the World!"
-msgstr ""
+msgstr "Não! Eu nunca precisei de nenhuma outra tropa! Só uma tropa é suficiente para derrotar o Mundo!"
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:7721
 msgid "Leave the office?"
-msgstr ""
+msgstr "Deixar o escritório?"
 
 #. [message]
 #: ./scenarios/Field.cfg:7792
 msgid "We succeed to gather all the local people! Even Kingdom and Empire cannot defeat us easily! We have won! Our freedom shall not be violated by them anymore!!!"
-msgstr ""
+msgstr "Nós conseguimos juntar todos os povos locais! Mesmo o Reino e o Império não podem nos derrotar facilmente! Nós vencemos! Nossa liberdade não será mais violada por eles!!!"
 
 #. [message]: speaker=$second_unit.id
 #: ./scenarios/Field.cfg:7818
 msgid "Kingdom capital is fallen! We managed to do it!"
-msgstr ""
+msgstr "A capital do Reino caiu! Nós conseguimos faze isso!"
 
 #. [message]: speaker=$second_unit.id
 #: ./scenarios/Field.cfg:7841
 msgid "Imperial capital is fallen! We did it!"
-msgstr ""
+msgstr "A capital do Império caiu! Nós conseguimos!"
 
 #. [message]: speaker=$new_unit.id
 #: ./scenarios/Field.cfg:8069
 msgid "... We surrender to you..."
-msgstr ""
+msgstr "... Nós nos rendemos..."
 
 #. [message]: speaker=$new_unit.id
 #: ./scenarios/Field.cfg:8105
 msgid "I shall order raiding parties to disband, they will not bother goblins any more."
-msgstr ""
+msgstr "Eu ordenarei as tropas de assalto para se dispersarem, eles não incomodarão os góblins mais."
 
 #. [message]
 #: ./scenarios/Field.cfg:8372
 msgid "Fusia is fallen! We are doomed!"
-msgstr ""
+msgstr "Fusia caiu! Nós estamos condenados!"
 
 #: ./scenarios/Prelude.cfg:6
 msgid "The Wicked"
-msgstr ""
+msgstr "O Imoral"
 
 #. [message]
 #: ./scenarios/Prelude.cfg:18
@@ -3975,116 +3975,124 @@ msgid ""
 "\n"
 "To get second bonus, you need to play Epilogue scenario of AG 0.2.1 or later for BfW 1.14."
 msgstr ""
+"Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um Grupo numa Guerra (UG)! Para minha felicidade, você já completou UG. Você pode importar alguns dados de UG para UGI (com um pequeno bônus). Você gostaria de importar?\n"
+"\n"
+"<span color='yellow'>Bônus: 'Você' ganha 15 HPs adicionais.</span>\n"
+"<span color='yellow'>Bônus: alguns soldados de UG podem aparecerem como comandantes.</span>\n"
+"Bônus: se Fiona/Karl sobreviveram à guerra anterior, eles também aparecerão.\n"
+"\n"
+"Para receber o segundo bônus, você precisa jogar o cenário Epílogo de UG 0.2.1 ou posterior para BpW 1.14."
+
 
 #. [option]
 #: ./scenarios/Prelude.cfg:27
 msgid "Definitely yes!"
-msgstr ""
+msgstr "Definitivamente sim!"
 
 #. [option]
 #: ./scenarios/Prelude.cfg:38
 msgid "No thanks!"
-msgstr ""
+msgstr "Não, obrigado!"
 
 #. [message]
 #: ./scenarios/Prelude.cfg:48
 msgid "Welcome to An Independence War (AIW) campaign, sequel of A Group in a War (AG)! If you have completed AG campaign, you can inherit some data from the clear data. But unfortunately, you seem not to have such data. If you completed early versions of AG and still have save data of Epilogue, I recommend you to see the Epilogue of A Group in a War once more, and then play this campaign."
-msgstr ""
+msgstr "Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um Grupo numa Guerra (UG)! Se você completou a campanha UG, você pode herdar dados. Mas infelizmente, você não parece ter tais dados. Se você completou versões anteriores de UG e ainda tem os dados salvos do Epílogo, eu recomendo que você veja o Epílogo de Um Grupo numa Guerra mais uma vez, e depois jogue esta campanha.\n"
 
 #: ./scenarios/Prelude.cfg:55
 msgid "Geographer"
-msgstr ""
+msgstr "Geógrafo"
 
 #: ./scenarios/Prelude.cfg:56
 msgid "Avaron"
-msgstr ""
+msgstr "Avaron"
 
 #. [scenario]: id=Prelude
 #: ./scenarios/Prelude.cfg:111
 msgid "Prelude"
-msgstr ""
+msgstr "Prelúdio"
 
 #. [unit]: type=Grand Marshal, id=You
 #: ./scenarios/Prologue.cfg:331 ./utils/message_speakers.cfg:6
 msgid "You"
-msgstr ""
+msgstr "Você"
 
 #. [unit]: type=Clammy, id=Clammy
 #. [unit]: type=Clammy, id=DummyClammy
 #. [unit_type]: id=Clammy, race=goblin
 #: ./scenarios/Prologue.cfg:349 ./scenarios/Prologue.cfg:1003 ./units/Clammy.cfg:7 ./utils/message_speakers.cfg:12
 msgid "Clammy"
-msgstr ""
+msgstr "Clammy"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:783 ./utils/sides.cfg:61
 msgid "Kingdom"
-msgstr ""
+msgstr "Reino"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:784 ./utils/sides.cfg:79
 msgid "Empire"
-msgstr ""
+msgstr "Império"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:785 ./utils/sides.cfg:97
 msgid "Goblins"
-msgstr ""
+msgstr "Góblins"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:786 ./utils/sides.cfg:115
 msgid "Dunefolks"
-msgstr ""
+msgstr "Dunefolks"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:787 ./utils/sides.cfg:133
 msgid "Orcs"
-msgstr ""
+msgstr "Orcs"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:788 ./utils/sides.cfg:151
 msgid "Dwarves"
-msgstr ""
+msgstr "Anões"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:789 ./utils/sides.cfg:169
 msgid "Trolls"
-msgstr ""
+msgstr "Trolls"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:790 ./utils/sides.cfg:187
 msgid "Elves"
-msgstr ""
+msgstr "Elfos"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:791 ./utils/sides.cfg:205
 msgid "Merfolks"
-msgstr ""
+msgstr "Merfolks"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:792 ./utils/sides.cfg:226
 msgid "Drakes"
-msgstr ""
+msgstr "Draconatos"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:793 ./utils/sides.cfg:245
 msgid "Saurians"
-msgstr ""
+msgstr "Lagartos"
 
 #. [side]
 #: ./scenarios/Prologue.cfg:794 ./utils/sides.cfg:24 ./utils/sides.cfg:264
 msgid "Monsters"
-msgstr ""
+msgstr "Monstros"
 
 #. [scenario]: id=Prologue
 #: ./scenarios/Prologue.cfg:940
 msgid "Prologue"
-msgstr ""
+msgstr "Prólogo"
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1014
 msgid "Would you skip introduction?"
-msgstr ""
+msgstr "Você gostaria de pular a introdução?"
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1032
@@ -4093,6 +4101,10 @@ msgid ""
 "\n"
 "(You can enter the office from the right click menu if your troop is in Fusia.)"
 msgstr ""
+"OK, vamos entrar no escritório\n"
+"\n"
+"(Você pode entrar no escritório a partir do menu do botão direito se sua tropa estiver em Fusia.)"
+
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1053
@@ -4100,32 +4112,34 @@ msgid ""
 "OK. This is our new capital, <span color='yellow'>Fusia</span>. Fusia is also the tentative name of this new country. We have to save this city and country.\n"
 "(City names will be shown in the map, it is not necessary to take a note.)"
 msgstr ""
+"OK. Esta é nossa nova capital, <span color='yellow'>Fusia</span>. Fusia é também a tentativa de nome deste novo país. Nós temos que salvar esta cidade e o país.\n"
+"(Os nomes das cidades serão mostrados no mapa, não é necessário anotá-los.)"
 
 #. [unit]: type=Key, id=Key
 #. [unit_type]: id=Key, race=mechanical
 #: ./scenarios/Prologue.cfg:1066 ./scenarios/Prologue.cfg:1089 ./scenarios/Prologue.cfg:1111 ./scenarios/Prologue.cfg:1134 ./units/Key.cfg:5
 msgid "Cursor"
-msgstr ""
+msgstr "Cursor"
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1073
 msgid "This is capital village of us, goblins. Only we goblins are the ally now. Please protect this city from enemies."
-msgstr ""
+msgstr "Esta é a aldeia capital nossa, góblins. Só nós góblins somos aliados agora. Por favor proteja esta cidade de inimigos."
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1096
 msgid "This is <span color='yellow'>Emira-Malikah</span>, capital city of Dunefolks. This might be a primary target of us. Enemies at this position is potentially too dangerous."
-msgstr ""
+msgstr "Esta é <span color='yellow'>Emira-Malikah</span>, a capital dos Dunefolks. Esta pode ser um alvo primário para nós. Inimigos nesta posição são perigosos demais."
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1119
 msgid "This is <span color='yellow'>Frontline Fort</span>. As the name indicates, this fort is the frontline fort of the Kingdom, recently built. We should check the actions of this fort."
-msgstr ""
+msgstr "Este é <span color='yellow'>Forte de Frente de Linha</span>. Como o nome indica, este forte é o forte da frente da linha do Reino e recentemente construído. Nós devemos fiscalizar as ações deste forte."
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1142
 msgid "This is <span color='yellow'>The Mouth</span>. The entrance of the Empire. We should care about this fort. But they are not a primary enemy."
-msgstr ""
+msgstr "Esta é <span color='yellow'>A Boca</span>. A entrada do Império. Nós devemos tomar cuidado com este forte. Mas eles não são um inimigo primário."
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1152
@@ -4137,150 +4151,157 @@ msgid ""
 "\n"
 "We outnumber the Dunefolks, but they would have support from the Empire and we have not enough commanders. We should train soldiers/commanders in the battle against bandits first. If there are experienced commanders, we can defeat dunefolks easily..."
 msgstr ""
+"Há vários outros fortes e raças. Mas isso será discutido depois. O que nós devemos discutir agora é:\n"
+"\n"
+"<span color='yellow'>Derrotar os bandidos na Floreta de Fling. (sudoeste do nosso país)</span>\n"
+"<span color='yellow'>Derrotar os Dunefolks para assegurar nossas terras o mais rápido possível.</span>\n"
+"\n"
+"Nós temos mais soldados que os Dunefolks, mas eles terão suporte do Império e nós não temos comandantes suficientes. Nós devemos treinar soldados/comandantes na batalha contra os bandidos primeiro. Se houver comandantes experientes o suficiente, nós poderemos derrotar os dunefolks facilmente..."
+
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1170
 msgid "Well, back to Fusia."
-msgstr ""
+msgstr "Certo, de volta a Fusia."
 
 #. [scenario]: id=Skirmish
 #: ./scenarios/Skirmish.cfg:86
 msgid "Skirmish"
-msgstr ""
+msgstr "Escaramuça"
 
 #. [label]
 #: ./scenarios/Skirmish.cfg:274
 msgid "retreat!"
-msgstr ""
+msgstr "recuar!"
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:343
 msgid "If you want to retreat, move the leader here."
-msgstr ""
+msgstr "Se você quer recuar, mova o líder até aqui."
 
 #. [message]: speaker=unit
 #: ./scenarios/Skirmish.cfg:360
 msgid "Should we retreat?"
-msgstr ""
+msgstr "Devemos recuar?"
 
 #. [option]: speaker=unit
 #: ./scenarios/Skirmish.cfg:363
 msgid "Never!"
-msgstr ""
+msgstr "Nunca!"
 
 #. [option]: speaker=unit
 #: ./scenarios/Skirmish.cfg:368
 msgid "Retreat!"
-msgstr ""
+msgstr "Recuar!"
 
 #. [message]
 #. [message]: speaker=unit
 #: ./scenarios/Skirmish.cfg:372 ./scenarios/Skirmish.cfg:597
 msgid "Soldiers, retreat!"
-msgstr ""
+msgstr "Soldados, recuar!"
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:431 ./scenarios/Skirmish.cfg:460 ./utils/deaths.cfg:74
 msgid "Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:435
 msgid "No! Don't die! We can't fight without you!"
-msgstr ""
+msgstr "Não! Não morra! Nós não podemos lutar sem você!"
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:445 ./utils/deaths.cfg:89
 msgid "Unbelievable... I failed..."
-msgstr ""
+msgstr "Inacreditável... Eu falhei..."
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:449 ./utils/deaths.cfg:93
 msgid "Clammy!!!"
-msgstr ""
+msgstr "Clammy!!!"
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:473
 msgid "Our leader is slain! We must retreat immediately!"
-msgstr ""
+msgstr "Nosso líder foi morto! Nós devemos recuar imediatamente!"
 
 #. [message]
 #: ./scenarios/Skirmish.cfg:531
 msgid "We have defeated the enemies!"
-msgstr ""
+msgstr "Nós derrotamos os inimigos!"
 
 #. [terrain_type]: id=unhealable_city_village
 #. [terrain_type]: id=unhealable_human_village
 #: ./terrain/terrain.cfg:6 ./terrain/terrain.cfg:17 ./terrain/terrain.cfg:19
 msgid "Village (no healing)"
-msgstr ""
+msgstr "Aldeia (sem medicação)"
 
 #. [terrain_type]: id=unhealable_city_village
 #: ./terrain/terrain.cfg:8
 msgid "Human City (no healing)"
-msgstr ""
+msgstr "Cidade Humana (sem medicação)"
 
 #. [terrain_type]: id=oasis
 #: ./terrain/terrain.cfg:28
 msgid "Oasis (no healing)"
-msgstr ""
+msgstr "Oasis (sem medicação)"
 
 #. [unit_type]: id=Building Foodstorage, race=mechanical
 #: ./units/BuildingFoodstorage.cfg:5
 msgid "Building Foodstorage"
-msgstr ""
+msgstr "Contruir um Armazém de Comida"
 
 #. [unit_type]: id=Building Foodstorage, race=mechanical
 #. [unit_type]: id=Foodstorage, race=mechanical
 #: ./units/BuildingFoodstorage.cfg:21 ./units/Foodstorage.cfg:19
 msgid "Be careful to rats!"
-msgstr ""
+msgstr "Tenha cuidado com ratos!"
 
 #. [unit_type]: id=Building Watchtower, race=mechanical
 #: ./units/BuildingWatchtower.cfg:5
 msgid "Building Watchtower"
-msgstr ""
+msgstr "Construindo Torre de Vigia"
 
 #. [unit_type]: id=Building Watchtower, race=mechanical
 #. [unit_type]: id=Watchtower, race=mechanical
 #: ./units/BuildingWatchtower.cfg:21 ./units/Watchtower.cfg:20
 msgid "Watchtowers are important facilities to guard something from enemies. Though, this inexpensive watchtower is definitely fragile."
-msgstr ""
+msgstr "Torres de Vigia são construções importantes para proteger algo dos inimigos. Embora esta torre de vigia barata é definitivamente frágil."
 
 #. [unit_type]: id=Clammy, race=goblin
 #: ./units/Clammy.cfg:21
 msgid "Some goblins, surviving an uncountable number of battles, become capable to lead other goblins to battle and even non-goblin soldiers. They are called Warbanners and are no longer bullied by other races. Clammy is further outstanding one among those Warbanners."
-msgstr ""
+msgstr "Alguns góblins, sobrevivendo um número incontável de batalhas, tornam-se capaz de liderar outros góblins e até mesmo soldados não góblins à batalha. Eles são chamados Porta-bandeira e não são mais maltratados pelas outras raças. Clammy é ainda mais excepcional dentre esses porta-bandeiras."
 
 #. [attack]: type=pierce
 #: ./units/Clammy.cfg:41
 msgid "spear"
-msgstr ""
+msgstr "lança"
 
 #. [attack]: type=pierce
 #: ./units/Clammy.cfg:50
 msgid "javelin"
-msgstr ""
+msgstr "dardo"
 
 #. [unit_type]: id=Engineers, race=dwarf
 #: ./units/Engineers.cfg:21
 msgid "They cannot fight well, but can create useful tools and build valuable buildings."
-msgstr ""
+msgstr "Eles não podem lutar bem, mas conseguem criar ferramentas úteis e fazer valiosas construções."
 
 #. [unit_type]: id=Flag, race=mechanical
 #: ./units/Flag.cfg:19
 msgid "This place is occupied by an enemy side."
-msgstr ""
+msgstr "Este lugar é ocupado por um lado inimigo."
 
 #. [unit_type]: id=Key, race=mechanical
 #: ./units/Key.cfg:18
 msgid "This is a dummy unit. Never mind."
-msgstr ""
+msgstr "Esta é uma simulação de unidade. Não ligue."
 
 #. [unit_type]: id=Paperpusher, race=human
 #: ./units/Paperpusher.cfg:20
 msgid "These people are very famous for there shabby behaviors."
-msgstr ""
+msgstr "Essas pessoas são bem famosas pelos seus comportamentos injustos."
 
 #. [unit_type]: id=Company
 #. [unit_type]: id=Drake Company
@@ -4290,7 +4311,7 @@ msgstr ""
 #. [unit_type]: id=Troll Company
 #: ./units/army_drake/Company.cfg:7 ./units/army_dwarvish/Company.cfg:7 ./units/army_elven/Company.cfg:7 ./units/army_human/Company.cfg:7 ./units/army_orcish/Company.cfg:7 ./units/army_troll/Company.cfg:7
 msgid "Company"
-msgstr ""
+msgstr "Companhia"
 
 #. [unit_type]: id=Battalion
 #. [unit_type]: id=Company
@@ -4320,43 +4341,43 @@ msgstr ""
 #. [unit_type]: id=Troll Squad
 #: ./units/army_drake/Company.cfg:21 ./units/army_drake/Platoon.cfg:21 ./units/army_drake/Squad.cfg:21 ./units/army_dune/Platoon.cfg:21 ./units/army_dune/Squad.cfg:21 ./units/army_dwarvish/Company.cfg:21 ./units/army_dwarvish/Platoon.cfg:21 ./units/army_dwarvish/Squad.cfg:21 ./units/army_elven/Company.cfg:21 ./units/army_elven/Platoon.cfg:21 ./units/army_elven/Squad.cfg:21 ./units/army_goblin/Platoon.cfg:21 ./units/army_goblin/Squad.cfg:21 ./units/army_human/Battalion.cfg:21 ./units/army_human/Company.cfg:21 ./units/army_human/Platoon.cfg:21 ./units/army_human/Squad.cfg:21 ./units/army_orcish/Battalion.cfg:21 ./units/army_orcish/Company.cfg:21 ./units/army_orcish/Platoon.cfg:21 ./units/army_orcish/Squad.cfg:21 ./units/army_saurian/Platoon.cfg:21 ./units/army_saurian/Squad.cfg:21 ./units/army_troll/Company.cfg:21 ./units/army_troll/Platoon.cfg:21 ./units/army_troll/Squad.cfg:21
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #. [attack]: type=none
 #: ./units/army_drake/Company.cfg:27 ./units/army_drake/Platoon.cfg:27 ./units/army_drake/Squad.cfg:27 ./units/army_dune/Platoon.cfg:27 ./units/army_dune/Squad.cfg:27 ./units/army_dwarvish/Company.cfg:27 ./units/army_dwarvish/Platoon.cfg:27 ./units/army_dwarvish/Squad.cfg:27 ./units/army_elven/Company.cfg:27 ./units/army_elven/Platoon.cfg:27 ./units/army_elven/Squad.cfg:27 ./units/army_goblin/Platoon.cfg:27 ./units/army_goblin/Squad.cfg:27 ./units/army_human/Battalion.cfg:27 ./units/army_human/Company.cfg:27 ./units/army_human/Platoon.cfg:27 ./units/army_human/Squad.cfg:27 ./units/army_orcish/Battalion.cfg:27 ./units/army_orcish/Company.cfg:27 ./units/army_orcish/Platoon.cfg:27 ./units/army_orcish/Squad.cfg:27 ./units/army_saurian/Platoon.cfg:27 ./units/army_saurian/Squad.cfg:27 ./units/army_troll/Company.cfg:27 ./units/army_troll/Platoon.cfg:27 ./units/army_troll/Squad.cfg:27
 msgid "members"
-msgstr ""
+msgstr "membros"
 
 #. [attack]: type=none
 #: ./units/army_drake/Company.cfg:39 ./units/army_drake/Platoon.cfg:39 ./units/army_drake/Squad.cfg:39 ./units/army_dune/Platoon.cfg:39 ./units/army_dune/Squad.cfg:39 ./units/army_dwarvish/Company.cfg:39 ./units/army_dwarvish/Platoon.cfg:39 ./units/army_dwarvish/Squad.cfg:39 ./units/army_elven/Company.cfg:39 ./units/army_elven/Platoon.cfg:39 ./units/army_elven/Squad.cfg:39 ./units/army_goblin/Platoon.cfg:39 ./units/army_goblin/Squad.cfg:39 ./units/army_human/Battalion.cfg:39 ./units/army_human/Company.cfg:39 ./units/army_human/Platoon.cfg:39 ./units/army_human/Squad.cfg:39 ./units/army_orcish/Battalion.cfg:39 ./units/army_orcish/Company.cfg:39 ./units/army_orcish/Platoon.cfg:39 ./units/army_orcish/Squad.cfg:39 ./units/army_saurian/Platoon.cfg:39 ./units/army_saurian/Squad.cfg:39 ./units/army_troll/Company.cfg:39 ./units/army_troll/Platoon.cfg:39 ./units/army_troll/Squad.cfg:39
 msgid "foods"
-msgstr ""
+msgstr "comida"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
 #: ./units/army_drake/Company.cfg:51 ./units/army_drake/Platoon.cfg:51 ./units/army_drake/Squad.cfg:51 ./units/army_dune/Platoon.cfg:51 ./units/army_dune/Squad.cfg:51 ./units/army_dwarvish/Company.cfg:51 ./units/army_dwarvish/Platoon.cfg:51 ./units/army_dwarvish/Squad.cfg:51 ./units/army_elven/Company.cfg:51 ./units/army_elven/Platoon.cfg:51 ./units/army_elven/Squad.cfg:51 ./units/army_goblin/Platoon.cfg:51 ./units/army_goblin/Squad.cfg:51 ./units/army_human/Battalion.cfg:51 ./units/army_human/Company.cfg:51 ./units/army_human/Platoon.cfg:51 ./units/army_human/Squad.cfg:51 ./units/army_orcish/Battalion.cfg:51 ./units/army_orcish/Company.cfg:51 ./units/army_orcish/Platoon.cfg:51 ./units/army_orcish/Squad.cfg:51 ./units/army_saurian/Platoon.cfg:51 ./units/army_saurian/Squad.cfg:51 ./units/army_troll/Company.cfg:51 ./units/army_troll/Platoon.cfg:51 ./units/army_troll/Squad.cfg:51
 msgid "close range"
-msgstr ""
+msgstr "corpo a corpo"
 
 #. [attack]: type=pierce
 #: ./units/army_drake/Company.cfg:61 ./units/army_drake/Platoon.cfg:61 ./units/army_drake/Squad.cfg:61 ./units/army_dune/Platoon.cfg:61 ./units/army_dune/Squad.cfg:61 ./units/army_dwarvish/Company.cfg:61 ./units/army_dwarvish/Platoon.cfg:61 ./units/army_dwarvish/Squad.cfg:61 ./units/army_elven/Company.cfg:61 ./units/army_elven/Platoon.cfg:61 ./units/army_elven/Squad.cfg:61 ./units/army_goblin/Platoon.cfg:61 ./units/army_goblin/Squad.cfg:61 ./units/army_human/Battalion.cfg:61 ./units/army_human/Company.cfg:61 ./units/army_human/Platoon.cfg:61 ./units/army_human/Squad.cfg:61 ./units/army_orcish/Battalion.cfg:61 ./units/army_orcish/Company.cfg:61 ./units/army_orcish/Platoon.cfg:61 ./units/army_orcish/Squad.cfg:61 ./units/army_saurian/Platoon.cfg:61 ./units/army_saurian/Squad.cfg:61 ./units/army_troll/Company.cfg:61 ./units/army_troll/Platoon.cfg:61 ./units/army_troll/Squad.cfg:61
 msgid "long range"
-msgstr ""
+msgstr "longa distância"
 
 #. [attack]: type=none
 #: ./units/army_drake/Company.cfg:72 ./units/army_drake/Platoon.cfg:72 ./units/army_drake/Squad.cfg:72 ./units/army_dune/Platoon.cfg:72 ./units/army_dune/Squad.cfg:72 ./units/army_dwarvish/Company.cfg:72 ./units/army_dwarvish/Platoon.cfg:72 ./units/army_dwarvish/Squad.cfg:72 ./units/army_elven/Company.cfg:72 ./units/army_elven/Platoon.cfg:72 ./units/army_elven/Squad.cfg:72 ./units/army_goblin/Platoon.cfg:72 ./units/army_goblin/Squad.cfg:72 ./units/army_human/Battalion.cfg:72 ./units/army_human/Company.cfg:72 ./units/army_human/Platoon.cfg:72 ./units/army_human/Squad.cfg:72 ./units/army_orcish/Battalion.cfg:72 ./units/army_orcish/Company.cfg:72 ./units/army_orcish/Platoon.cfg:72 ./units/army_orcish/Squad.cfg:72 ./units/army_saurian/Platoon.cfg:72 ./units/army_saurian/Squad.cfg:72 ./units/army_troll/Company.cfg:72 ./units/army_troll/Platoon.cfg:72 ./units/army_troll/Squad.cfg:72
 msgid "close range (vanguards)"
-msgstr ""
+msgstr "corpo a corpo (vanguardeiros)"
 
 #. [attack]: type=none
 #: ./units/army_drake/Company.cfg:83 ./units/army_drake/Platoon.cfg:83 ./units/army_drake/Squad.cfg:83 ./units/army_dune/Platoon.cfg:83 ./units/army_dune/Squad.cfg:83 ./units/army_dwarvish/Company.cfg:83 ./units/army_dwarvish/Platoon.cfg:83 ./units/army_dwarvish/Squad.cfg:83 ./units/army_elven/Company.cfg:83 ./units/army_elven/Platoon.cfg:83 ./units/army_elven/Squad.cfg:83 ./units/army_goblin/Platoon.cfg:83 ./units/army_goblin/Squad.cfg:83 ./units/army_human/Battalion.cfg:83 ./units/army_human/Company.cfg:83 ./units/army_human/Platoon.cfg:83 ./units/army_human/Squad.cfg:83 ./units/army_orcish/Battalion.cfg:83 ./units/army_orcish/Company.cfg:83 ./units/army_orcish/Platoon.cfg:83 ./units/army_orcish/Squad.cfg:83 ./units/army_saurian/Platoon.cfg:83 ./units/army_saurian/Squad.cfg:83 ./units/army_troll/Company.cfg:83 ./units/army_troll/Platoon.cfg:83 ./units/army_troll/Squad.cfg:83
 msgid "close range (riders)"
-msgstr ""
+msgstr "corpo a corpo (cavaleiros)"
 
 #. [attack]: type=none
 #: ./units/army_drake/Company.cfg:94 ./units/army_drake/Platoon.cfg:94 ./units/army_drake/Squad.cfg:94 ./units/army_dune/Platoon.cfg:94 ./units/army_dune/Squad.cfg:94 ./units/army_dwarvish/Company.cfg:94 ./units/army_dwarvish/Platoon.cfg:94 ./units/army_dwarvish/Squad.cfg:94 ./units/army_elven/Company.cfg:94 ./units/army_elven/Platoon.cfg:94 ./units/army_elven/Squad.cfg:94 ./units/army_goblin/Platoon.cfg:94 ./units/army_goblin/Squad.cfg:94 ./units/army_human/Battalion.cfg:94 ./units/army_human/Company.cfg:94 ./units/army_human/Platoon.cfg:94 ./units/army_human/Squad.cfg:94 ./units/army_orcish/Battalion.cfg:94 ./units/army_orcish/Company.cfg:94 ./units/army_orcish/Platoon.cfg:94 ./units/army_orcish/Squad.cfg:94 ./units/army_saurian/Platoon.cfg:94 ./units/army_saurian/Squad.cfg:94 ./units/army_troll/Company.cfg:94 ./units/army_troll/Platoon.cfg:94 ./units/army_troll/Squad.cfg:94
 msgid "close range (shooters)"
-msgstr ""
+msgstr "corpo a corpo (atiradores)"
 
 #. [unit_type]: id=Drake Platoon
 #. [unit_type]: id=Dune Platoon
@@ -4369,7 +4390,7 @@ msgstr ""
 #. [unit_type]: id=Troll Platoon
 #: ./units/army_drake/Platoon.cfg:7 ./units/army_dune/Platoon.cfg:7 ./units/army_dwarvish/Platoon.cfg:7 ./units/army_elven/Platoon.cfg:7 ./units/army_goblin/Platoon.cfg:7 ./units/army_human/Platoon.cfg:7 ./units/army_orcish/Platoon.cfg:7 ./units/army_saurian/Platoon.cfg:7 ./units/army_troll/Platoon.cfg:7
 msgid "Platoon"
-msgstr ""
+msgstr "Pelotão"
 
 #. [unit_type]: id=Drake Squad
 #. [unit_type]: id=Dune Squad
@@ -4382,58 +4403,58 @@ msgstr ""
 #. [unit_type]: id=Troll Squad
 #: ./units/army_drake/Squad.cfg:7 ./units/army_dune/Squad.cfg:7 ./units/army_dwarvish/Squad.cfg:7 ./units/army_elven/Squad.cfg:7 ./units/army_goblin/Squad.cfg:7 ./units/army_human/Squad.cfg:7 ./units/army_orcish/Squad.cfg:7 ./units/army_saurian/Squad.cfg:7 ./units/army_troll/Squad.cfg:7
 msgid "Squad"
-msgstr ""
+msgstr "Esquadrão"
 
 #. [unit_type]: id=Battalion
 #. [unit_type]: id=Orcish Battalion
 #: ./units/army_human/Battalion.cfg:7 ./units/army_orcish/Battalion.cfg:7
 msgid "Battalion"
-msgstr ""
+msgstr "Batalhão"
 
 #. [message]: speaker=$btbd.id
 #: ./utils/deaths.cfg:28
 msgid "Building under construction is also destroyed!"
-msgstr ""
+msgstr "A construção que estava sendo feita também é destruída!"
 
 #. [message]
 #: ./utils/deaths.cfg:78
 msgid "No! Don't die! We cannot fight without you!"
-msgstr ""
+msgstr "Não! Não morra! Nós não podemos lutar sem você!"
 
 #. [message]
 #: ./utils/deaths.cfg:103
 msgid "Christopher^Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [message]
 #: ./utils/deaths.cfg:113
 msgid "Arsenio^Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [message]
 #: ./utils/deaths.cfg:123
 msgid "Heinrich^Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [message]
 #: ./utils/deaths.cfg:133
 msgid "Andrzej^Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [set_menu_item]: id=aiw_right_menu_A_debug
 #: ./utils/debug.cfg:13
 msgid "Side status manager (debug)"
-msgstr ""
+msgstr "Gerenciador de estados dos lados (depuração)"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:17
 msgid "What kind of information?"
-msgstr ""
+msgstr "Que tipo de informação?"
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:19
 msgid "spy"
-msgstr ""
+msgstr "espitão"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:23
@@ -4453,26 +4474,40 @@ msgid ""
 "Saurians: $aiw_spy[12].done\n"
 "Monsters: $aiw_spy[13].done"
 msgstr ""
+"O estado atual é:\n"
+"\n"
+"Reino: $aiw_spy[2].done\n"
+"Império: $aiw_spy[3].done\n"
+"Góblins: $aiw_spy[4].done\n"
+"Khalifados: $aiw_spy[5].done\n"
+"Orcs: $aiw_spy[6].done\n"
+"Anões: $aiw_spy[7].done\n"
+"Trolls: $aiw_spy[8].done\n"
+"Elfos: $aiw_spy[9].done\n"
+"Merfolks: $aiw_spy[10].done\n"
+"Draconatos: $aiw_spy[11].done\n"
+"Lagartos: $aiw_spy[12].done\n"
+"Monstros: $aiw_spy[13].done"
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:38
 msgid "Activate all."
-msgstr ""
+msgstr "Ativar todos."
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:57
 msgid "Deactivate all."
-msgstr ""
+msgstr "Desativar todos."
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:76
 msgid "Do nothing."
-msgstr ""
+msgstr "Não fazer nada."
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:82
 msgid "gold"
-msgstr ""
+msgstr "ouro"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:87
@@ -4492,11 +4527,25 @@ msgid ""
 "Saurians: $aiw_gold[12].value\n"
 "Monsters: $aiw_gold[13].value"
 msgstr ""
+"Ouro atual:\n"
+"\n"
+"Reino: $aiw_gold[2].value\n"
+"Império: $aiw_gold[3].value\n"
+"Góblins: $aiw_gold[4].value\n"
+"Khalifados: $aiw_gold[5].value\n"
+"Orcs: $aiw_gold[6].value\n"
+"Anões: $aiw_gold[7].value\n"
+"Trolls: $aiw_gold[8].value\n"
+"Elfos: $aiw_gold[9].value\n"
+"Merfolks: $aiw_gold[10].value\n"
+"Draconatos: $aiw_gold[11].value\n"
+"Lagartos: $aiw_gold[12].value\n"
+"Monstros: $aiw_gold[13].value"
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:105
 msgid "intimacy"
-msgstr ""
+msgstr "intimidade"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:109
@@ -4516,11 +4565,25 @@ msgid ""
 "Saurians: $aiw_side_stat[12].intimacy\n"
 "Monsters: $aiw_side_stat[13].intimacy"
 msgstr ""
+"intimidade:\n"
+"\n"
+"Reino: $aiw_side_stat[2].intimacy\n"
+"Império: $aiw_side_stat[3].intimacy\n"
+"Góblins: $aiw_side_stat[4].intimacy\n"
+"Khalifados: $aiw_side_stat[5].intimacy\n"
+"Orcs: $aiw_side_stat[6].intimacy\n"
+"Anões: $aiw_side_stat[7].intimacy\n"
+"Trolls: $aiw_side_stat[8].intimacy\n"
+"Elfos: $aiw_side_stat[9].intimacy\n"
+"Merfolks: $aiw_side_stat[10].intimacy\n"
+"Draconatos: $aiw_side_stat[11].intimacy\n"
+"Lagartos: $aiw_side_stat[12].intimacy\n"
+"Monstros: $aiw_side_stat[13].intimacy"
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:127
 msgid "ally"
-msgstr ""
+msgstr "aliado"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:131
@@ -4541,11 +4604,26 @@ msgid ""
 "Saurians: $aiw_side_stat[12].ally\n"
 "Monsters: $aiw_side_stat[13].ally"
 msgstr ""
+"estados dos aliados:\n"
+"\n"
+"Fusia: $aiw_side_stat[1].ally\n"
+"Reino: $aiw_side_stat[2].ally\n"
+"Império: $aiw_side_stat[3].ally\n"
+"Góblins: $aiw_side_stat[4].ally\n"
+"Khalifados: $aiw_side_stat[5].ally\n"
+"Orcs: $aiw_side_stat[6].ally\n"
+"Anões: $aiw_side_stat[7].ally\n"
+"Trolls: $aiw_side_stat[8].ally\n"
+"Elfos: $aiw_side_stat[9].ally\n"
+"Merfolks: $aiw_side_stat[10].ally\n"
+"Draconatos: $aiw_side_stat[11].ally\n"
+"Lagartos: $aiw_side_stat[12].ally\n"
+"Monstros: $aiw_side_stat[13].ally"
 
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:150
 msgid "target"
-msgstr ""
+msgstr "alvo"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:154
@@ -4566,36 +4644,51 @@ msgid ""
 "Saurians: $aiw_team[$aiw_side_stat[12].target].name\n"
 "Monsters: $aiw_team[$aiw_side_stat[13].target].name"
 msgstr ""
+"alvo:\n"
+"\n"
+"Fusia: $aiw_team[$aiw_side_stat[1].target].name\n"
+"Reino: $aiw_team[$aiw_side_stat[2].target].name\n"
+"Império: $aiw_team[$aiw_side_stat[3].target].name\n"
+"Góblins: $aiw_team[$aiw_side_stat[4].target].name\n"
+"Khalifados: $aiw_team[$aiw_side_stat[5].target].name\n"
+"Orcs: $aiw_team[$aiw_side_stat[6].target].name\n"
+"Anões: $aiw_team[$aiw_side_stat[7].target].name\n"
+"Trolls: $aiw_team[$aiw_side_stat[8].target].name\n"
+"Elfos: $aiw_team[$aiw_side_stat[9].target].name\n"
+"Merfolks: $aiw_team[$aiw_side_stat[10].target].name\n"
+"Draconatos: $aiw_team[$aiw_side_stat[11].target].name\n"
+"Lagartos: $aiw_team[$aiw_side_stat[12].target].name\n"
+"Monstros: $aiw_team[$aiw_side_stat[13].target].name"
 
 #. [floating_text]
 #: ./utils/field_utils_attacks.cfg:908
 msgid "<span color='#ff0000'>$attacker_current_hp|</span>"
-msgstr ""
+msgstr "<span color='#ff0000'>$attacker_current_hp|</span>"
 
 #. [floating_text]
 #: ./utils/field_utils_attacks.cfg:915
 msgid "<span color='#00ff00'>$attacker_current_hp|</span>"
-msgstr ""
+msgstr "<span color='#00ff00'>$attacker_current_hp|</span>"
 
 #. [floating_text]
 #: ./utils/field_utils_attacks.cfg:924
 msgid "<span color='#ff0000'>$defender_current_hp|</span>"
-msgstr ""
+msgstr "<span color='#ff0000'>$defender_current_hp|</span>"
 
 #. [floating_text]
 #: ./utils/field_utils_attacks.cfg:931
 msgid "<span color='#00ff00'>$defender_current_hp|</span>"
-msgstr ""
+msgstr "<span color='#00ff00'>$defender_current_hp|</span>"
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/firsttime.cfg:37
 msgid "Excellent! We, engineers, will also help you and your country. We can build buildings such as <span color='yellow'>Watchtowers</span> and <span color='yellow'>Foodstorages</span> on the field. Our power might be useful for coming full-scale war against Kingdom and Empire. Ask your goblin about the details of our power. He knows well our skills."
-msgstr ""
+msgstr "Excelente! Nós, engenheiros, também iremos ajudar você e seu país. Nós podemos fazer construções tais como <span color='yellow'>Torres de Vigia</span> e <span color='yellow'>Armazéns de Comida</span> no campo. Nossas capacidades podem ser úteis para a guerra em grande escala contra o Reino e o Império. Pergunte ao seu góblin detalhes sobre nossas capacidades. Ele conhece bem nossas habilidades."
 
 #. [message]
 #: ./utils/firsttime.cfg:85
 msgid "Here is the office. You can build a troop, recruit commanders, send spies to enemies, send an emissary."
-msgstr ""
+msgstr "Aqui é o escritório. Você pode construir uma tropa, recrutar comandantes, enviar espiões aos inimigos e enviar um emissário."
 
 #. [message]
 #: ./utils/firsttime.cfg:89
@@ -4609,6 +4702,14 @@ msgid ""
 "\n"
 "A Squad will be created at the antechamber below."
 msgstr ""
+"Você primeiro deve construir uma tropa.\n"
+"\n"
+"Primeiro, vá até o <span color='yellow'>hex Peça ao secretário</span>.\n"
+"Segundo, escolha o item <span color='yellow'>Menu de Esquadrão/Pelotão/Companhia</span>.\n"
+"Terceiro, escolha o item <span color='yellow'>Criar um Esquadrão/Pelotão/Companhia</span>.\n"
+"Quarto, <span color='yellow'>escolha uma unidade como líder</span> de um Esquadrão.\n"
+"\n"
+"Um Esquadrão será criado na sala de espera abaixo."
 
 #. [message]
 #: ./utils/firsttime.cfg:100
@@ -4617,31 +4718,34 @@ msgid ""
 "\n"
 "This is the basic way to build a troop. If you have troubles building a troop or something others, please ask me."
 msgstr ""
+"Depois, você deve adicionar membros clicando com o botão direito na tropa recém criada. Uma vez que você teve sucesso em montar a tropa, escolha o item <i>Vá para a Guerra</i> a partir do menu do botão direito.\n"
+"\n"
+"Este é o jeito básico de montar uma tropa. Se você tiver problemas em montar uma tropa ou em algo mais, por favor pergunte-me."
 
 #. [message]
 #: ./utils/firsttime.cfg:106
 msgid "You should not add soldiers to your troop now. Your are already an extremely skilled and respected leader. Further experience of you is just a waste. Give a chance for young commanders and soldiers."
-msgstr ""
+msgstr "Você não deve adicionar soldados à sua tropa agora. Você já é um líder estremamente habilidoso e respeitado. Experiência além dessa para você é apenas um desperdício. Dê a chance para os jovens comandantes e soldados."
 
 #. [message]
 #: ./utils/firsttime.cfg:110
 msgid "On a final note, <span color='yellow'>a soldier is automatically recruited every turn</span> in the Field. So you usually do not need to recruit soldiers here. Much moneys will be needed later, you should save. But if you have enough soldiers and money, recruiting a commander is a wise decision."
-msgstr ""
+msgstr "Uma nota final, <span color='yellow'>um soldado é recrutado automaticamente por turno</span> no Campo. Então, normalmente você não precisa recrutar soldados aqui. Muito dinheiro será necessário depois, você deve poupar. Mas se você tem soldados e dinheiro suficientes, recrutar um comandantes é uma decisão sábia."
 
 #. [message]
 #: ./utils/firsttime.cfg:145
 msgid "There is a bandit group in the Fling forest. We should send a troop there to restore our income. Sorry to repeat the warning, my lord. <span color='yellow'>YOUR TROOP SHOULD BE IN FUSIA. IF YOU ARE NOT IN FUSIA, MOST OF MANAGEMENTS ARE IMPOSSIBLE.</span>."
-msgstr ""
+msgstr "Há um grupo de bandidos na Floresta de Fling. Nós devemos enviar uma tropa até lá para recuperar nossa receita. Desculpe por repetir a advertência, meu lorde. <span color='yellow'>SUA TROPA DEVE FICAR EM FUSIA. SE VOCÊ NÃO ESTIVER EM FUSIA, A MAIOR PARTE DA GERÊNCIA É IMPOSSÍVEL</span>."
 
 #. [message]
 #: ./utils/firsttime.cfg:149
 msgid "Now, we have to fight against the world. At first, we should crash the bandit in the Fling Forest, southwest from here. You should send a newly built troop there for their training. We cannot identify the exact location of bandits in the fog. So we have to get close to them first."
-msgstr ""
+msgstr "Agora, nós devemos lutar contra o mundo. Primeiramente, nós devemos esmagar os bandidos na Floresta de Fling, sudoeste daqui. Você deve enviar uma tropa recém montada lá para treinamento. Nós não conseguimos identificar a localização exata dos bandidos na neblina. Então nós precisamo nos aproximar deles primeiro."
 
 #. [message]
 #: ./utils/firsttime.cfg:162
 msgid "If you wanna enter the office from the Field, right-clicking your troop and select a menu item <i>Enter the Office</i>. This command is available only if you are at Fusia (59,35)."
-msgstr ""
+msgstr "Se você quiser entrar no escritório a partir do Campo, clique com o botão direito na sua tropa e selecione o item do menu <i>Entrar no Escritório</i>. Este comando está disponível somente se você estiver em Fusia (59,35)."
 
 #. [message]
 #: ./utils/firsttime.cfg:175
@@ -4650,226 +4754,229 @@ msgid ""
 "\n"
 "If you cannot identify the location of the treasure, ask $aiw_geographer_name|. He will tell you a hint if you pay some money."
 msgstr ""
+"Você pode receber ouro ou itens especiais pela caça ao tesouro. Você pode comprar mapas do tesouro dos nagas. Você encontra o tesouro no campo e depois você precisa trazer ele de volta a Fusia.  <span color='yellow'>Você pode procurar somente um tesouro por vez</span> devido a problemas técnicos de interface...).Uma vez que você obter um mapa, o mapa (4x4) será mostrado ao lado direito do Escritório.\n"
+"\n"
+"Se você não puder identificar a localização do tesouro, peça ao $aiw_geographer_name|. Ele dirá a você uma dica se você pagar alguma quantia."
 
 #. [message]
 #: ./utils/firsttime.cfg:190
 msgid "Now new troop is created. Please take a look at the antechamber below."
-msgstr ""
+msgstr "Agora a nova tropa foi criada. Por favor dê uma olhada na sala de espera abaixo."
 
 #. [message]
 #: ./utils/firsttime.cfg:197
 msgid "New troops are created here. When you right click a troop, you may find <span color='yellow'>Add/Remove members</span> menu item. You can add/remove members of the troop using this menu."
-msgstr ""
+msgstr "Novas tropas são montadas aqui. Quando você clica com o botão direito numa tropa, você encontra o item de menu <span color='yellow'>Adicionar/Remover membros</span>. Você pode adicionar/remover membros na tropa usando este menu."
 
 #. [message]
 #: ./utils/firsttime.cfg:213
 msgid "Hello, again! I will help you again by my healing skill!"
-msgstr ""
+msgstr "Olá, novamente! Eu ajudarei você de novo com minhas habilidades curativas!"
 
 #. [message]
 #: ./utils/firsttime.cfg:217
 msgid "Ah, why you are still here?"
-msgstr ""
+msgstr "Ah, por que você ainda está aqui?"
 
 #. [message]
 #: ./utils/firsttime.cfg:221
 msgid "Simply because I like all of you! I don't want to lose any of you! So I'm still here! There is no other reason!"
-msgstr ""
+msgstr "Simplesmente porque eu gosto de todos vocês! Eu não queria perder nenhum de vocês! Por isso estou aqui! Não há outro motivo!"
 
 #. [message]
 #: ./utils/firsttime.cfg:225
 msgid "Heh, so what is the true reason?"
-msgstr ""
+msgstr "eh? então qual é o verdadeiro motivo?"
 
 #. [message]
 #: ./utils/firsttime.cfg:229
 msgid "It's because the Great Forest is terribly far from here! I, a very smart girl, realized that unmerciful fact just after the previous war! So I chose to stay here to avoid a long journey!"
-msgstr ""
+msgstr "É porque a Grande Floresta é terrivemente longe daqui! Eu, uma garota muito inteligente percebi este fato não misericordioso logo após a guerra anterior! Então eu escolhi ficar aqui para evitar uma longa jornada!"
 
 #. [message]
 #: ./utils/firsttime.cfg:233
 msgid "*sigh* ... Please help us again."
-msgstr ""
+msgstr "*suspira* ... Por favor nos ajude novamente."
 
 #. [message]
 #: ./utils/firsttime.cfg:237
 msgid "Yeah!"
-msgstr ""
+msgstr "Claro!"
 
 #. [message]
 #: ./utils/firsttime.cfg:243
 msgid "Go ahead, yeah!"
-msgstr ""
+msgstr "Vá em frente!"
 
 #. [objectives]
 #: ./utils/global.cfg:7
 msgid "Fight for the freedom"
-msgstr ""
+msgstr "Lute pela liberdade"
 
 #. [objective]: condition=win
 #: ./utils/global.cfg:10
 msgid "Occupy a capital city of Empire or Kingdom"
-msgstr ""
+msgstr "Ocupe uma capital do Império ou do Reino"
 
 #. [objective]: condition=win
 #: ./utils/global.cfg:14
 msgid "Gather/Defeat all forces of local people"
-msgstr ""
+msgstr "Reúna/Derrote todas as forças do povo local"
 
 #. [objective]: condition=lose
 #: ./utils/global.cfg:18
 msgid "Fall of Fusia"
-msgstr ""
+msgstr "Queda de Fusia"
 
 #. [objective]: condition=lose
 #: ./utils/global.cfg:22
 msgid "Bankruptcy of Fusia (your country)"
-msgstr ""
+msgstr "Falência de Fusia (seu país)"
 
 #. [note]
 #: ./utils/global.cfg:25
 msgid "Local people mean Dunefolks, Goblins, Orcs, Elves, Dwarves, Trolls, Drakes, Saurians, and Merfolks."
-msgstr ""
+msgstr "Povo local significa Dunefolks, Góblins, Orcs, Elfos, Anões, Trolls, Draconatos, Lagartos e Merfolks."
 
 #. [message]
 #: ./utils/gold.cfg:33
 msgid "No money! We are doomed!"
-msgstr ""
+msgstr "Acabou o dinheiro! Nós estamos condenados!"
 
 #. [set_menu_item]: id=aiw_right_menu_a_enter_office
 #: ./utils/menu.cfg:48
 msgid "Enter the Office"
-msgstr ""
+msgstr "Entrar no Escritório"
 
 #. [set_menu_item]: id=aiw_right_menu_a_build_watchtower
 #: ./utils/menu.cfg:84
 msgid "Build/Destroy Building"
-msgstr ""
+msgstr "Fazer/Destruir uma Construção"
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:127
 msgid "Shall we destroy this $tmp_building_to_be_destroyed_type.name under construction?"
-msgstr ""
+msgstr "Nós devemos destruir esta $tmp_building_to_be_destroyed_type.name em construção?"
 
 #. [option]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:130 ./utils/menu.cfg:193
 msgid "Yes! (immediately destroyed)"
-msgstr ""
+msgstr "Sim! (destruição imediata)"
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:165
 msgid "We are already building one. Now, it is impossible to build/destroy another one. Please wait $tmp_engineers.variables.period turns for completion of the construction."
-msgstr ""
+msgstr "Nós já estamos construindo uma. Agora, é impossível construir/destruir outra. Por favor espere $tmp_engineers.variables.period turnos para o término da construção."
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:190
 msgid "Shall we destroy this $tmp_building_to_be_destroyed_type.name|?"
-msgstr ""
+msgstr "Devemos destruir esta $tmp_building_to_be_destroyed_type.name|?"
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:215
 msgid "Cannot create a building here."
-msgstr ""
+msgstr "Não se pode fazer uma construção aqui."
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:221
 msgid "Do we create a building here?"
-msgstr ""
+msgstr "Fazer uma construção aqui?"
 
 #. [option]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:224
 msgid "Build a Watchtower (needs 5 turns to build, one gold per turn as a running cost)"
-msgstr ""
+msgstr "Construir uma Torre de Vigia (precisa de 5 turnos para construir, 1 ouro por turno como custo de funcionamento)"
 
 #. [option]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:265
 msgid "Build a Foodstorage (needs 3 turns to build, 5 gold per turn as a running cost)"
-msgstr ""
+msgstr "Construir um Armazém de Comida (precisa de 3 turnos para construir, 5 ouros por turno como custo de funcionamento)"
 
 #. [set_menu_item]: id=aiw_right_menu_a_enter_antechamber
 #: ./utils/menu.cfg:325
 msgid "Enter the antechamber of Fusia"
-msgstr ""
+msgstr "Entrar na sala de espera de Fusia"
 
 #. [message]: speaker=$tmp_unit_stored.id
 #: ./utils/menu.cfg:354
 msgid "We are now building a watchtower. We cannot stop this task."
-msgstr ""
+msgstr "Nós estamos agora construindo uma torre de vigia. Nós não podemos parar esta tarefa."
 
 #. [message]
 #: ./utils/menu.cfg:360
 msgid "Does $tmp_unit_stored.name enter the antechamber of Fusia?"
-msgstr ""
+msgstr "$tmp_unit_stored.name deve entrar na sala de espera de Fusia?"
 
 #. [option]
 #: ./utils/menu.cfg:363
 msgid "Yes."
-msgstr ""
+msgstr "Sim."
 
 #. [option]
 #: ./utils/menu.cfg:386 ./utils/menu.cfg:437
 msgid "No."
-msgstr ""
+msgstr "Não."
 
 #. [set_menu_item]: id=aiw_right_menu_a_go_for_war
 #: ./utils/menu.cfg:399
 msgid "Go for the War! (Leave here and go to the field)"
-msgstr ""
+msgstr "Vá para a Guerra! (Sair daqui e ir ao campo)"
 
 #. [message]
 #: ./utils/menu.cfg:418
 msgid "Does $tmp_unit_going.name go for the battle field?"
-msgstr ""
+msgstr "$tmp_unit_going.name deve ir ao campo de batalha?"
 
 #. [option]
 #: ./utils/menu.cfg:421
 msgid "Go!"
-msgstr ""
+msgstr "Vai!"
 
 #. [set_menu_item]: id=aiw_right_menu_b_help
 #: ./utils/menu.cfg:448
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #. [set_menu_item]: id=aiw_right_menu_c_troop_member_management
 #: ./utils/menu.cfg:461
 msgid "Add/Remove members"
-msgstr ""
+msgstr "Adicionar/Remover membros"
 
 #. [set_menu_item]: id=aiw_right_menu_d_troop_status
 #: ./utils/menu.cfg:485
 msgid "Show status of this group"
-msgstr ""
+msgstr "Mostrar o estado deste grupo"
 
 #. [message]: speaker=narrator
 #: ./utils/menu.cfg:573
 msgid "What is my new role?"
-msgstr ""
+msgstr "Qual é minha nova função?"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:576
 msgid "Vanguard [F]"
-msgstr ""
+msgstr "Vanguardeiro [V]"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:596
 msgid "Shooter [B]"
-msgstr ""
+msgstr "Atirador [A]"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:616
 msgid "Rider [R]"
-msgstr ""
+msgstr "Cavaleiro [C]"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:639
 msgid "Refugee [X]"
-msgstr ""
+msgstr "Refugiado [X]"
 
 #. [set_menu_item]: id=aiw_right_menu_y_information
 #: ./utils/menu.cfg:674
 msgid "General Information"
-msgstr ""
+msgstr "Informações Gerais"
 
 #. [message]: speaker=narrator
 #: ./utils/menu.cfg:756
@@ -4888,99 +4995,112 @@ msgid ""
 "<span color='yellow'>Bandits:</span>\n"
 "$tmp_bandit_info"
 msgstr ""
+"<b>Informações</b>\n"
+"\n"
+"<span color='yellow'>Aliados:</span>\n"
+"$tmp_ally_list\n"
+"\n"
+"<span color='yellow'>Espiões:</span>\n"
+"$tmp_spy_info\n"
+"\n"
+"<span color='yellow'>Fundos:</span>\n"
+"base income: $aiw_funding[1].base_income\n"
+"\n"
+"<span color='yellow'>Bandidos:</span>\n"
+"$tmp_bandit_info"
 
 #. [set_menu_item]: id=aiw_right_menu_z_jukebox
 #: ./utils/menu.cfg:778
 msgid "Jukebox/Music Player"
-msgstr ""
+msgstr "Jukebox/Toca Música"
 
 #. [tj_launch_manager3]
 #: ./utils/menu.cfg:783
 msgid "Field Music"
-msgstr ""
+msgstr "Música do Campo"
 
 #. [tj_launch_manager3]
 #: ./utils/menu.cfg:785
 msgid "Battle Music"
-msgstr ""
+msgstr "Música de Batalha"
 
 #. [tj_launch_manager3]
 #: ./utils/menu.cfg:787
 msgid "Office Music"
-msgstr ""
+msgstr "Música do Escritório"
 
 #. [set_menu_item]: id=aiw_right_menu_z_settings
 #: ./utils/menu.cfg:796
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #. [message]
 #: ./utils/message_catalog.cfg:8
 msgid "There are no reserve soldiers."
-msgstr ""
+msgstr "Não unidades na reserva."
 
 #. [command]
 #: ./utils/message_speakers.cfg:42 ./utils/office_utils.cfg:311
 msgid "Redy"
-msgstr ""
+msgstr "Redy"
 
 #: ./utils/message_speakers.cfg:54
 msgid "Fiona"
-msgstr ""
+msgstr "Fiona"
 
 #: ./utils/message_speakers.cfg:72 ./utils/message_speakers.cfg:78
 msgid "Emissary"
-msgstr ""
+msgstr "Emissário"
 
 #. [message]
 #: ./utils/office_utils.cfg:141
 msgid "What to do for $tmp_managing_troop.name|?"
-msgstr ""
+msgstr "O que fazer com $tmp_managing_troop.name|?"
 
 #. [option]
 #: ./utils/office_utils.cfg:145
 msgid "Add a unit to $tmp_managing_troop.name|."
-msgstr ""
+msgstr "Adicionar uma unidade em $tmp_managing_troop.name|."
 
 #. [message]
 #: ./utils/office_utils.cfg:152
 msgid "$tmp_managing_troop.name is already full. Cannot add new member anymore."
-msgstr ""
+msgstr "$tmp_managing_troop.name já está cheia. Não é possível adicionar novos membros."
 
 #. [lua]
 #: ./utils/office_utils.cfg:161
 msgid "Add to troop"
-msgstr ""
+msgstr "Adicionar uma tropa"
 
 #. [option]
 #: ./utils/office_utils.cfg:189
 msgid "Remove a unit from $tmp_managing_troop.name|."
-msgstr ""
+msgstr "Remover uma unidade de $tmp_managing_troop.name|."
 
 #. [message]
 #: ./utils/office_utils.cfg:205
 msgid "You want to retire? ... it is impossible."
-msgstr ""
+msgstr "Você quer se aposentar? ... isso é impossível."
 
 #. [message]
 #: ./utils/office_utils.cfg:211
 msgid "Leader unit cannot be removed. If you want to remove leader, please disband $tmp_managing_troop.name instead."
-msgstr ""
+msgstr "A unidade líder não pode ser removida. Se você quer remover o líder, por favor disperse $tmp_managing_troop.name."
 
 #. [message]
 #: ./utils/office_utils.cfg:228
 msgid "... You cannot remove me from this troop."
-msgstr ""
+msgstr "... Você não pode me remover desta tropa."
 
 #. [option]
 #: ./utils/office_utils.cfg:267
 msgid "Disband $tmp_managing_troop.name"
-msgstr ""
+msgstr "Dispersar $tmp_managing_troop.name"
 
 #. [message]
 #: ./utils/office_utils.cfg:279
 msgid "Really disband $tmp_managing_troop.name|?"
-msgstr ""
+msgstr "Quer realmente dispersar $tmp_managing_troop.name|?"
 
 #. [option]
 #: ./utils/office_utils.cfg:300
@@ -4988,61 +5108,63 @@ msgid ""
 "Grant magic item to this troop\n"
 "<span color='yellow' size='smaller'>A troop can have only one trait/item. Once granted item cannot be unequipped even when the troop is disbanded.</span>"
 msgstr ""
+"Conceder um item mágico a esta tropa\n"
+"<span color='yellow' size='smaller'>Uma tropa pode ter somente uma característica/item. Uma vez concedido um item, ele não pode ser desequipado mesom se a tropa for dispersa.</span>"
 
 #. [command]
 #: ./utils/office_utils.cfg:310
 msgid "Grant which one?"
-msgstr ""
+msgstr "Conceder qual?"
 
 #. [case]
 #. [value]
 #: ./utils/office_utils.cfg:328 ./utils/treasures.cfg:173
 msgid "Tome of Disaster"
-msgstr ""
+msgstr "Tomo do Desastre"
 
 #. [case]
 #. [value]
 #: ./utils/office_utils.cfg:355 ./utils/treasures.cfg:178
 msgid "Wand of Storm"
-msgstr ""
+msgstr "Varinha da Tempestade"
 
 #. [case]
 #. [value]
 #: ./utils/office_utils.cfg:382 ./utils/treasures.cfg:183
 msgid "Sail of Mystic"
-msgstr ""
+msgstr "Velas do Místico"
 
 #. [case]
 #. [value]
 #: ./utils/office_utils.cfg:409 ./utils/treasures.cfg:188
 msgid "Staff of Silent"
-msgstr ""
+msgstr "Cajado do Silêncio"
 
 #. [case]
 #. [value]
 #: ./utils/office_utils.cfg:436 ./utils/treasures.cfg:193
 msgid "Orb of Regenerate"
-msgstr ""
+msgstr "Esfera da Regeneração"
 
 #. [value]
 #: ./utils/office_utils.cfg:465
 msgid "Not now"
-msgstr ""
+msgstr "Agora não"
 
 #. [option]
 #: ./utils/office_utils.cfg:478
 msgid "Quit"
-msgstr ""
+msgstr "Sair"
 
 #. [message]: speaker=narrator
 #: ./utils/sides.cfg:441 ./utils/sides.cfg:462 ./utils/sides.cfg:483 ./utils/sides.cfg:504 ./utils/sides.cfg:525 ./utils/sides.cfg:546 ./utils/sides.cfg:567 ./utils/sides.cfg:588 ./utils/sides.cfg:609
 msgid "base income of Fusia is increased by $inc|!"
-msgstr ""
+msgstr "a receita base de Fusia aumentou em $inc|!"
 
 #. [message]: speaker=narrator
 #: ./utils/sides.cfg:452 ./utils/sides.cfg:473 ./utils/sides.cfg:494 ./utils/sides.cfg:515 ./utils/sides.cfg:536 ./utils/sides.cfg:557 ./utils/sides.cfg:578 ./utils/sides.cfg:599 ./utils/sides.cfg:620
 msgid "base income of Fusia is decreased by $inc|!"
-msgstr ""
+msgstr "a receita base de Fusia caiu em $inc|!"
 
 #. [part]
 #: ./utils/storytxt.cfg:9
@@ -5051,6 +5173,9 @@ msgid ""
 "\n"
 "(Secret scenario of <i>A Group in a War</i>, The Nagas, is also related to this campaign.)"
 msgstr ""
+"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma sequência para <i>Um Grupo numa Guerra</i> que você já jogou.\n"
+"\n"
+"(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é relacionado com esta campanha.)"
 
 #. [part]
 #: ./utils/storytxt.cfg:17
@@ -5060,11 +5185,15 @@ msgid ""
 "\n"
 "(Secret scenario of <i>A Group in a War</i>, The Nagas, is also related to this campaign.)"
 msgstr ""
+"<b>ADVERTÊNCIA:</b>\n"
+"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma sequência para <i>Um Grupo numa Guerra</i>. Alguns personagens e a história estão intimamente ligadas com essa campanha. Se você ainda não jogou aquela campanha, eu recomendo que você jogue a prequela, <i>Um Grupo Numa Guerra</i> primeiro. Embora isso seja só uma sugestão.\n"
+"\n"
+"(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é relacionado com esta campanha.)"
 
 #. [part]
 #: ./utils/storytxt.cfg:26
 msgid "After the war"
-msgstr ""
+msgstr "Depois da guerra"
 
 #. [part]
 #: ./utils/storytxt.cfg:28
@@ -5073,11 +5202,14 @@ msgid ""
 "\n"
 "Anyway, I had become a lord, wished by people. According to my brilliant secretary whose long name I cannot remember correctly, the end of war was the prior desire of these people. Actually, people never mind who is the winner, just expecting the end of the war."
 msgstr ""
+"Depois daquela guerra, surpreendentemente, eu <i>me tornei</i> um prefeito do que anteriormente era o campo de combate. As pessoas lá (incluindo os góblins) me saudaram entusiasmadamente como um novo lorde. Eu não vou esquecer esse cenário na minha vida. Era um cenário de fato surpreendente e animado... muito impressionado. Eu não pude emitir uma única palavra devido aquela profunda impressão. Eu falei ao Clammy, um góblin brilhante, que também estava na cerimônia, mas a resposta dele foi bem rígida: <i>Naquela hora, você foi silencioso como sempre. Nunca pareceu estar tão impressionado. Eu tenho certeza que o povo sentiu a mesma impressão já que o seu jeito reservado é muito bem conhecido por aqui.</i>\n"
+"\n"
+"De qualquer forma, eu me tornei um lorde, desejado pelo povo. De acordo com meu brilhante secretário cujo longo nome eu não consigo me lembrar corretamente, o término da guerra era o antigo desejo dessas pessoas. Na verdade, pessoas nem se importavam com quem fosse o vencedor, apenas esperavam o término da guerra."
 
 #. [part]
 #: ./utils/storytxt.cfg:38
 msgid "My first duty as a mayor was restoring the damage of the war. It involves damages on villages, farms, roads, forests, bla bla bla. Cleaning of the River was also the important job. The previous (temporal) mayor had tried to clean up the river by killing hostile lives there. But I decided to choose more peaceful way to cleanup the River. It took several months to begin negotiations with nagas. But finally, we managed to make peace. We appreciate the smart and kind goblin and the brave naga for bringing a peace in this land."
-msgstr ""
+msgstr "Meu primeiro dever como prefeito era restaurar o dano da guerra. Isso envolvia danos as aldeias, fazendas, ruas, florestas, bla bla bla. A limpeza do Rio também era um trabalho importante. O prefeito (temporário) anterior tentou limpar o rio matando as vidas hostis vivendo lá. Mas eu decidi escolher meios mais pacíficos para a limpeza do Rio. Levou vários meses para começar as negociações com os nagas. Mas finalmente, nós conseguimos estabelecer paz. Nós agradecemos ao gentil e esperto góblin e o bravo naga por trazer paz nesta terra."
 
 #. [part]
 #: ./utils/storytxt.cfg:41
@@ -5088,16 +5220,17 @@ msgid ""
 "\n"
 "I hate wars, but I have anticipated this new war, I made a preparation of the war during these two years. Both of former outposts are restored as small forts, and the North fort aside the River is rebuilt as a small castle. But east and west guards are not enough now. We have a lot of things to do. Honestly, the war itself is within the range of prediction, but I do not think this land is involved again. There are many other unexpected, unwelcome things. The most unexpected fact among them is ..."
 msgstr ""
+"Agora, quase dois anos se passaram desde que eu me tornei prefeito. A paz está preparando para trazer um próspero futuro para nossa terra. Mas ... a outra guerra aconteceu como eu imaginei.\n"
 
 #. [part]
 #: ./utils/storytxt.cfg:48
 msgid "<span color='red'><b>This war is caused by me. Not by an accident, very intentionally.</b></span>"
-msgstr ""
+msgstr "<span color='red'><b>Esta guerra é causada por mim. Não por acidente, muito intencionalmente.</b></span>"
 
 #. [part]
 #: ./utils/storytxt.cfg:53
 msgid "An Independence War: Cause"
-msgstr ""
+msgstr "Uma Guerra de Independência: Causa"
 
 #. [part]
 #: ./utils/storytxt.cfg:54
@@ -5106,6 +5239,9 @@ msgid ""
 "\n"
 "Kingdom recently changed their minds about attitude towards non-human races... This wording is not so correct, because their attitude towards elves and dwarves does not change significantly. Anyway, the problem is their attitude towards races such as goblins, nagas, and saurians. Kingdom commanded me to forfeit all rights of them without providing any reasons. I asked the government the reason and purpose... what I got from the officer is just a waste of the time. I had been negotiating patiently with them, but in vain."
 msgstr ""
+"...\n"
+"\n"
+"O Reino recentemente mudou de ideia sobre atitudes em direção a raças não humanas... Essas palavras não são tão corretas, porque a atitudedeles contra elfos e anões não mudou significativamente. De qualquer forma, o problema é a atitude na direção de raças como góblins, nagas e lagartos. O Reino comandou-me para retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu negociei pacientemente com eles, mas em vão."
 
 #. [part]
 #: ./utils/storytxt.cfg:64
@@ -5114,6 +5250,9 @@ msgid ""
 "\n"
 "There had been some other ways, but I decided ... to fight against the Kingdom ... or, against the world. Our allies are small bunch of goblins and nearly extinct nagas. Kingdom, Empire, and all the allies of them are the enemies. Such war is apparently ridiculous. I will surely die in the war, but our will stay longer in this world and will change something."
 msgstr ""
+"Então, aquele burocraa desgraçado e arrogante veio da capital, Crownia, para publicar e executar a nova lei. Eu prendi aquele verme e forcei-o a retornar. Honestamente, eu queria fazê-lo retornar ao barro. De qualquer forma, este evento fez-me perceber que não há tempo para negociação.\n"
+"\n"
+"Havia outros jeitos, mas eu decidi ... em lutar contra o Reino ... ou, contra o mundo. Nossos aliados são um pequeno punhado de góblins e os quase extintos nagas. Reino, Império e todos os aliados deles são os inimigos. Tal guerra é aparentemente ridícula. Eu com certeza irei morrer nesta guerra, mas nosso desejo permanecerá neste mundo e mudará algo."
 
 #. [part]
 #: ./utils/storytxt.cfg:69
@@ -5122,11 +5261,14 @@ msgid ""
 "\n"
 "I honestly told those pessimistic words to our core members. Did you expect how many of members? Five, or ten? The answer is TWO (excluding me). So in other word, I told to the secretary and Clammy. As I recall, I should have called the leader of naga, $aiw_naga_head_name. Why I forgot about him? I had been really confusing at that time... Anyway, if they wanted to leave here, I would gladly accept the offer."
 msgstr ""
+"...\n"
+"\n"
+"Eu honestamente falei essas palavras pessimistas para os nossos membros principais. Você esperava quantos membros? Cinco, dez? A resposta é DOIS (tirando eu). Então em outras palavras, eu falei ao secretário e ao Clammy. Pelo que lembro, eu deveria ter chamado o líder naga, $aiw_naga_head_name. Por que eu esqueci dele? Eu estava realmente confuso nessa hora... De qualquer forma, se eles quisessem sair daqui, eu iria aceitar a oferta contentemente."
 
 #. [part]
 #: ./utils/storytxt.cfg:74
 msgid "But the responses from these two were completely beyond my expectation... in good meaning."
-msgstr ""
+msgstr "Mas as respostas desses dois foram completamente além das minhas expectativas... no bom sentido."
 
 #. [part]
 #: ./utils/storytxt.cfg:77
@@ -5134,6 +5276,8 @@ msgid ""
 "<b>Clammy</b>:\n"
 "I will help you as in the previous war. Actually, the odds are not so bad. You simply overestimated the armies of Kingdom and Empire. Both of them are not in the good situation in financial view. They cannot concentrate on us. Small bunch of troops will attack us, but it may not be enough to defeat us. In addition, as you know, generals in their capital are not so smart."
 msgstr ""
+"<b>Clammy</b>:\n"
+"Eu irei ajudar você como na guerra anterior. Na verdade, as chances não são tão ruins. Você simplesmente superestima os exércitos do Reino e do Império. Ambos não estão em boa situação do ponto de vista financeiro. Eles não podem se concentrar em nós. Pequenos punhados de tropas nos atacarão, mas isso pode não ser suficiente para nos derrotar. Além disso, como você sabe, os generais na capital não são tão inteligentes."
 
 #. [part]
 #: ./utils/storytxt.cfg:84
@@ -5147,6 +5291,14 @@ msgid ""
 "\n"
 "Direct attack from Empire may not happen, but they may use indirect ways... If I were the general of Empire, I will give some money to Dunefolks and ask to attack us. Or, hire some bandits to bother us. Once we show our weakness, Empire will directly attack us with all the might."
 msgstr ""
+"<b>O Secretario</b>:\n"
+"O Império pode não se envolver diretamente neste estágio inicial.\n"
+"\n"
+"O Reino nunca aceitará nosso país, e o rei com certeza declara que esta terra pertence formalmente ao Reino. O Reino pode não pedir ajuda ao Império como uma prova de força.\n"
+"\n"
+"Se o Império atacar-nos diretamente nessa situação, claramente significa que o pacto da guerra anterior foi quebrado. Isso pode resultar em uma guerra direta entre o Império e o Reino. O Império nunca desejaria uma guerra tão desastrosa. Além disso, o Império tem medo de você, eles podem não querer lutar contra você.\n"
+"\n"
+"Ataques diretos contra o Império pode não acontecer, mas eles podem usar de meios indiretos... Se eu fosse o general do Império, eu daria algum dinheiro aos Dunefolks e pediria para eles nos atacarem. Ou, contrataria alguns bandidos para nos incomodar. Uma vez que mostrássemos nossa fraqueza, o Império vai atacar diretamente com tudo."
 
 #. [part]
 #: ./utils/storytxt.cfg:97
@@ -5155,214 +5307,217 @@ msgid ""
 "\n"
 "My desperate decision doesn’t seem to be concerned seriously. What a brilliant tacticians they are! Those two guys could become a better lord than me. Anyway, there is no way back. We must proceed."
 msgstr ""
+"...\n"
+"\n"
+"Minha decisão desesperada não parece ter sido levada muito a sério. Que táticos brilhanes eles são! Esses dois caras poderiam se tornar melhores lordes do que eu. De qualquer forma, não há como voltar atrás. Nós devemos prosseguir."
 
 #. [time]: id=aiw_dawn_hour
 #: ./utils/tod.cfg:8
 msgid "Dawn"
-msgstr ""
+msgstr "Amanhecer"
 
 #. [time]: id=aiw_morning_hour1
 #: ./utils/tod.cfg:19
 msgid "Morning - First Hour"
-msgstr ""
+msgstr "Manhã - Primeira Hora"
 
 #. [time]: id=aiw_morning_hour2
 #: ./utils/tod.cfg:28
 msgid "Morning - Second Hour"
-msgstr ""
+msgstr "Manhã - Segunda Hora"
 
 #. [time]: id=aiw_midday_hour
 #: ./utils/tod.cfg:37
 msgid "Midday"
-msgstr ""
+msgstr "Meio-dia"
 
 #. [time]: id=aiw_afternoon_hour1
 #: ./utils/tod.cfg:46
 msgid "Afternoon - First Hour"
-msgstr ""
+msgstr "Tarde - Primeira Hora"
 
 #. [time]: id=aiw_afternoon_hour2
 #: ./utils/tod.cfg:55
 msgid "Afternoon - Second Hour"
-msgstr ""
+msgstr "Tarde - Segunda Hora"
 
 #. [time]: id=aiw_dusk_hour
 #: ./utils/tod.cfg:64
 msgid "Dusk"
-msgstr ""
+msgstr "Anoitecer"
 
 #. [time]: id=aiw_first_watch_hour1
 #: ./utils/tod.cfg:75
 msgid "First Watch - First Hour"
-msgstr ""
+msgstr "Noite - Primeira Hora"
 
 #. [time]: id=aiw_first_watch_hour2
 #: ./utils/tod.cfg:87
 msgid "First Watch - Second Hour"
-msgstr ""
+msgstr "Noite - Segunda Hora"
 
 #. [time]: id=aiw_midnight_hour
 #: ./utils/tod.cfg:99
 msgid "Midnight"
-msgstr ""
+msgstr "Meia-noite"
 
 #. [time]: id=second_watch_hour1
 #: ./utils/tod.cfg:111
 msgid "Second Watch - First Hour"
-msgstr ""
+msgstr "Madrugada - Primeira Hora"
 
 #. [time]: id=second_watch_hour2
 #: ./utils/tod.cfg:123
 msgid "Second Watch - Second Hour"
-msgstr ""
+msgstr "Madrugada - Segunda Hora"
 
 #. [message]: speaker=narrator
 #: ./utils/trait_utils.cfg:240
 msgid "Error: unknown trait $hoge is detected."
-msgstr ""
+msgstr "Erro: característica desconhecida $hoge foi detectada."
 
 #. [trait]: id=tough
 #: ./utils/traits.cfg:6
 msgid "trait^tough"
-msgstr ""
+msgstr "durão"
 
 #. [trait]: id=tough
 #: ./utils/traits.cfg:7
 msgid "trait-female^tough"
-msgstr ""
+msgstr "durona"
 
 #. [trait]: id=tough
 #: ./utils/traits.cfg:8
 msgid "increase all physical resistance by 10%."
-msgstr ""
+msgstr "aumenta todas as resistências físicas em 10%."
 
 #. [trait]: id=impenetrable
 #: ./utils/traits.cfg:23
 msgid "trait^impenetrable"
-msgstr ""
+msgstr "impenetrável"
 
 #. [trait]: id=impenetrable
 #: ./utils/traits.cfg:24
 msgid "trait-female^impenetrable"
-msgstr ""
+msgstr "impenetrável"
 
 #. [trait]: id=impenetrable
 #: ./utils/traits.cfg:25
 msgid "increase pierce resistance by 20% and decrease blade resistance by 10%."
-msgstr ""
+msgstr "aumenta a resistência perfurante em 20% e diminui a resistência cortante em 10%."
 
 #. [trait]: id=assisted
 #: ./utils/traits.cfg:39
 msgid "trait^assisted"
-msgstr ""
+msgstr "auxiliado"
 
 #. [trait]: id=assisted
 #: ./utils/traits.cfg:40
 msgid "trait-female^assisted"
-msgstr ""
+msgstr "auxiliada"
 
 #. [trait]: id=assisted
 #: ./utils/traits.cfg:41
 msgid "thanks to Clammy, your defense increased 10% in most terrains and the melee damage increased by 1."
-msgstr ""
+msgstr "graças ao Clammy, sua defesa aumenta 10% na maioria dos terrenos e o dano corpo a corpo aumenta em 1."
 
 #. [trait]: id=disaster
 #: ./utils/traits.cfg:68
 msgid "trait^disaster"
-msgstr ""
+msgstr "desastre"
 
 #. [trait]: id=disaster
 #: ./utils/traits.cfg:69
 msgid "trait-female^disaster"
-msgstr ""
+msgstr "desastre"
 
 #. [trait]: id=disaster
 #: ./utils/traits.cfg:70
 msgid "your incredible skill grants a disastrous strength to this troop."
-msgstr ""
+msgstr "sua aptidão inacreditável garante força desastrosa para esta tropa"
 
 #. [trait]: id=storm
 #: ./utils/traits.cfg:77
 msgid "trait^storm"
-msgstr ""
+msgstr "tempestade"
 
 #. [trait]: id=storm
 #: ./utils/traits.cfg:78
 msgid "trait-female^storm"
-msgstr ""
+msgstr "tempestade"
 
 #. [trait]: id=storm
 #: ./utils/traits.cfg:79
 msgid "this stormy troop will easily crash enemy troops"
-msgstr ""
+msgstr "esta tropa estrondosa irá esmagar tropas inimigas facilmente"
 
 #. [trait]: id=leading_wind
 #: ./utils/traits.cfg:86
 msgid "trait^leading wind"
-msgstr ""
+msgstr "ventos fortes"
 
 #. [trait]: id=leading_wind
 #: ./utils/traits.cfg:87
 msgid "trait-female^leading wind"
-msgstr ""
+msgstr "ventos fortes"
 
 #. [trait]: id=leading_wind
 #: ./utils/traits.cfg:88
 msgid "this troop is assisted by a leading wind"
-msgstr ""
+msgstr "esta tropa é auxiliada por ventos fortes"
 
 #. [trait]: id=calm
 #: ./utils/traits.cfg:95
 msgid "trait^calm"
-msgstr ""
+msgstr "calmaria"
 
 #. [trait]: id=calm
 #: ./utils/traits.cfg:96
 msgid "trait-female^calm"
-msgstr ""
+msgstr "calmaria"
 
 #. [trait]: id=calm
 #: ./utils/traits.cfg:97
 msgid "this troop is quite steadfast against enemy attacks"
-msgstr ""
+msgstr "esta tropa tem uma posição defensiva contra ataques inimigos"
 
 #. [trait]: id=healing
 #: ./utils/traits.cfg:104
 msgid "trait^healing"
-msgstr ""
+msgstr "medicação"
 
 #. [trait]: id=healing
 #: ./utils/traits.cfg:105
 msgid "trait-female^healing"
-msgstr ""
+msgstr "medicação"
 
 #. [trait]: id=healing
 #: ./utils/traits.cfg:106
 msgid "units in this troop will be healed 8 points every turn"
-msgstr ""
+msgstr "unidades nesta tropa serão medicadas 8 pontos a cada turno"
 
 #: ./utils/treasures.cfg:4
 msgid "Fire,Ice,Icy,Dark,Holy,Glorious,Tremendous,Sneaking,Invisible,Amazing,Black,Ancient,Shadow,Earth,Brilliant,Flame,Gold,Platinum"
-msgstr ""
+msgstr "Fogo,Gelo,Glacial,Sombrio,Sagrado,Glorioso,Tremendo,Sorrateiro,Invisível,Surpreendente,Ancião,Sombra,Terra,Brilhante,Chama,Ouro,Platina"
 
 #: ./utils/treasures.cfg:7
 msgid "Sword,Blade,Dagger,Gem,Diamond,Scepter,Wand,Spear,Armor,Helmet,Staff,Axe,Rod,Cross,Statue,Beads,Turban,Hood,Flag,Knife,Crown"
-msgstr ""
+msgstr "Espada,Lâmina,Adaga,Gema,Diamante,Cetro,Varinha,Lança,Armadura,Capacete,Cajado,Machado,Bastão,Cruz,Estátua,Miçangas,Capuz,Bandeira,Faca,Coroa"
 
 #. [message]
 #: ./utils/treasures.cfg:225
 msgid "$tusvt.name|... This doesn't seem to have a special power. It is better to sell."
-msgstr ""
+msgstr "$tusvt.name|... Isso não parece ter um poder especial. É melhor vender."
 
 #. [message]
 #: ./utils/treasures.cfg:229
 msgid "You get $tusvt.gold gold!"
-msgstr ""
+msgstr "Você recebeu $tusvt.gold ouros!"
 
 #. [message]
 #: ./utils/treasures.cfg:238
 msgid "Merfolk Treasure! We should ask $aiw_naga_head_name to persuade merfolks to join us!"
-msgstr ""
+msgstr "Tesouro Merfolk! Nós devemos pedir ao $aiw_naga_head_name para persuadir os merfolks a se unirem a nós!"
 
 #. [message]
 #: ./utils/treasures.cfg:247
@@ -5371,4 +5526,7 @@ msgid ""
 "\n"
 "Note: you can grant it to a troop from troop management menu at antechamber of the Office."
 msgstr ""
+"$tusvt.name|, este é aparentemente um item mágico. Ele pode ser útil nesta guerra. Nós devemos dar ele a alguma tropa.\n"
+"\n"
+"Nota: você pode conceder este item para uma tropa a partir do menu de gerenciamento da tropa na sala de espera do Escritório."
 
