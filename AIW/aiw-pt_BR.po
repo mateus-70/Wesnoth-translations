@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2020-11-29 01:01-0300\n"
+"PO-Revision-Date: 2020-12-30 14:44-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 "Lute contra o mundo para salvar seu povo.\n"
 "\n"
-"Intermediário até experiente (contém sistemas diferentes).\n"
+"Nível de intermediário a experiente (contém sistemas diferentes).\n"
 "UMC Music Books (1-12) e West's Chronicles (I e II) não são necessários mas são recomendados."
 
 #. [campaign]: id=An_Independence_War
@@ -53,7 +53,7 @@ msgstr "Fácil"
 #. [difficulty]
 #: ./_main.cfg:44
 msgid "Defense!"
-msgstr "Defeda!"
+msgstr "Defenda!"
 
 #. [difficulty]
 #: ./_main.cfg:45
@@ -93,7 +93,7 @@ msgstr "Fontes de Imagens"
 #. [entry]
 #: ./_main.cfg:70
 msgid "Strange Legacy campaign: furnitures and watchtowers"
-msgstr "Campanha Strange Legacy: móveis e torres de vigia"
+msgstr "Campanha Strange Legacy: mobília e torres de vigia"
 
 #. [entry]
 #: ./_main.cfg:73
@@ -165,18 +165,18 @@ msgstr "Portão Sul"
 #. [then]
 #: ./_main.cfg:178 ./scenarios/Field.cfg:2527 ./scenarios/Field.cfg:7101
 msgid "Frontline Fort"
-msgstr "Forte de linha de Frente"
+msgstr "Forte de Linha de Frente"
 
 #. [event]
 #: ./_main.cfg:182
 msgid "Fling Forest"
-msgstr "Floresta Fling"
+msgstr "Floresta Namorico"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:184 ./scenarios/Field.cfg:7476
 msgid "Windy Plain"
-msgstr "Planícies de Vento"
+msgstr "Planícies dos Ventos"
 
 #. [event]
 #. [option]
@@ -194,7 +194,7 @@ msgstr "Deserto Misterioso"
 #. [then]
 #: ./_main.cfg:216 ./scenarios/Field.cfg:2529
 msgid "Wet Mountain City"
-msgstr "Cidade da Montanha Úmida"
+msgstr "Cidade da Montanha Molhada"
 
 #. [label]
 #. [then]
@@ -205,12 +205,12 @@ msgstr "Cidade do Lago da Montanha"
 #. [label]
 #: ./_main.cfg:228
 msgid "King Port City"
-msgstr "Cidade Porto do Rei"
+msgstr "Cidade Portuária do Reino"
 
 #. [label]
 #: ./_main.cfg:234
 msgid "Crownia (Capital)"
-msgstr "Crownia (Capital)"
+msgstr "Coronia (Capital)"
 
 #. [label]
 #: ./_main.cfg:248
@@ -220,7 +220,7 @@ msgstr "Sceptoria (Capital)"
 #. [label]
 #: ./_main.cfg:254
 msgid "Emperor Port City"
-msgstr "Cidade Porto Imperial"
+msgstr "Cidade Portuária do Império"
 
 #. [label]
 #. [option]
@@ -283,7 +283,7 @@ msgstr "Slicks (Capital)"
 #. [option]
 #: ./_main.cfg:351 ./scenarios/Field.cfg:7404
 msgid "Heaven's Peak"
-msgstr "Pena do Céu"
+msgstr "Pico Celestial"
 
 #. [label]
 #. [option]
@@ -307,18 +307,18 @@ msgstr "Planalto do Vaga-lume"
 #. [option]
 #: ./_main.cfg:367 ./_main.cfg:368 ./scenarios/Field.cfg:7452
 msgid "Valen Mountains"
-msgstr ""
+msgstr "Montanhas do Vale"
 
 #. [label]
 #: ./_main.cfg:374
 msgid "Undisturbable Plain"
-msgstr "Liso Imperturbável"
+msgstr "Planície Imperturbável"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:378 ./scenarios/Field.cfg:7486
 msgid "Great Plain"
-msgstr "Planície Grandiosa"
+msgstr "Grande Planície"
 
 #. [event]
 #. [option]
@@ -330,13 +330,13 @@ msgstr "Planície Mãe"
 #. [option]
 #: ./_main.cfg:387 ./scenarios/Field.cfg:7320
 msgid "Silent Stream"
-msgstr "Corrente Silenciosa"
+msgstr "Córrego Silencioso"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:389 ./scenarios/Field.cfg:7332
 msgid "River Aunt"
-msgstr "Rio da Tia"
+msgstr "Rio Tia"
 
 #. [event]
 #. [option]
@@ -348,7 +348,7 @@ msgstr "Rio Azul"
 #. [option]
 #: ./_main.cfg:395 ./scenarios/Field.cfg:7356
 msgid "Great Lake"
-msgstr "Lago Grandioso"
+msgstr "Grande Lago"
 
 #. [event]
 #. [option]
@@ -360,13 +360,13 @@ msgstr "Olhos do Lago"
 #. [option]
 #: ./_main.cfg:400 ./scenarios/Field.cfg:7380
 msgid "Waterless Lake"
-msgstr "Lago Sem Água"
+msgstr "Lago Seco"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:402 ./scenarios/Field.cfg:7392
 msgid "Dark Pool"
-msgstr "Piscina Negra"
+msgstr "Charco Negro"
 
 #. [event]
 #: ./_main.cfg:406
@@ -377,13 +377,13 @@ msgstr "Floresta Viúva"
 #. [option]
 #: ./_main.cfg:408 ./scenarios/Field.cfg:7522
 msgid "Great Forest"
-msgstr "Floresta Grandiosa"
+msgstr "Grande Floresta"
 
 #. [event]
 #. [option]
 #: ./_main.cfg:410 ./scenarios/Field.cfg:7534
 msgid "Red Woods"
-msgstr "Madeiras Vermelhas"
+msgstr "Bosque Vermelho"
 
 #. [event]
 #. [option]
@@ -419,7 +419,7 @@ msgstr "Estreito dos Desertores"
 #. [option]
 #: ./_main.cfg:424 ./scenarios/Field.cfg:7616
 msgid "Great Dragon’s Nose"
-msgstr "Nariz do Dragão Grandioso"
+msgstr "Nariz do Grande Dragão"
 
 #. [label]
 #. [option]
@@ -500,7 +500,7 @@ msgstr "Ataque e dano"
 #. [option]
 #: ./_main.cfg:785
 msgid "<span color='yellow'>Special units/buildings</span>"
-msgstr "<span color='yellow'>Unidades/construções especiais</span>"
+msgstr "<span color='yellow'>Unidades especiais/construções</span>"
 
 #. [option]
 #: ./_main.cfg:794
@@ -520,12 +520,12 @@ msgstr "Qual você quer saber?"
 #. [option]
 #: ./_main.cfg:831
 msgid "<span color='yellow'>Important menu items colored with yellow</span>"
-msgstr "<span color='yellow'>Itens importantes do menu estão coloridos de amarelo</span>"
+msgstr "<span color='yellow'>Itens importantes do menu estão coloridos em amarelo</span>"
 
 #. [message]
 #: ./_main.cfg:835
 msgid "Menu items colored with <span color='yellow'>yellow</span> are important ones. Please read those items at least."
-msgstr "Itens de menu coloridos com <span color='yellow'>amarelo</span> são importantes. Por favor leia pelo menos esses itens."
+msgstr "Itens de menu coloridos em <span color='yellow'>amarelo</span> são importantes. Por favor leia pelo menos esses itens."
 
 #. [option]
 #: ./_main.cfg:841
@@ -535,7 +535,7 @@ msgstr "<span color='yellow'>Você NÃO deve sair de Fusia!</span>"
 #. [message]
 #: ./_main.cfg:845
 msgid "You (You Company) should not move from Fusia if there are no urgent issues. For example, if you are in Fusia, a random soldier will be recruited every turn without any costs. But if you are not in Fusia, this doesn't happen. Various other office tasks such as troop management and sending spies also require you."
-msgstr "Você (Você Companhia) não deve sair de Fusia se não houver questões urgentes. Por exemplo, se você está em Fusia, um soldado aleatório será recrutado em todos os turnos sem nenhum custo. Mas se você não estiver em Fusia, isso não acontecerá. Várias outras tarefas de escritório como o gerenciamento da tropa e envio de espiões também requerem você."
+msgstr "Você (Você Companhia) não deve sair de Fusia se não houver questões urgentes. Por exemplo, se você está em Fusia, um soldado aleatório será recrutado em cada turno sem nenhum custo. Mas se você não estiver em Fusia, isso não acontecerá. Muitas outras tarefas de escritório como o gerenciamento da tropa e envio de espiões também precisam de você."
 
 #. [option]
 #: ./_main.cfg:851
@@ -558,11 +558,11 @@ msgid ""
 "<b>8.</b>: Choose <span color='yellow'>Add/Remove members</span> and add members.\n"
 "<b>9.</b>: Right click the unit again and choose <span color='yellow'>Go for the War!</span> item."
 msgstr ""
-"O secretário bem ali, Redy, auxilia você a fazer uma tropa. Primeiro, <span color='yellow'>você precisa de um soldado com bravura maior do que 50.</span> Bravura mais alta é requerida para uma tropa maior. Então, você pode pedir ao secretário para fazer uma tropa. Nesse estágio, a tropa criada em somente um membro; o líder. Para adicionar outros membros, você pode adicioná-los <span color='yellow'>clicando com o botão direito na tropa na sala de espera</span> (um cômodo abaixo deste escritório). Para enviar a tropa criada para o Campo, você precisa escolher o item 'Vá para a Guerra!' no menu do botão direito.\n"
+"O secretário bem ali, Redy, auxilia você a fazer uma tropa. Primeiro, <span color='yellow'>você precisa de um soldado com proeza maior do que 50.</span> Proeza mais alta é requerida para uma tropa maior. Assim, você pode pedir ao secretário para fazer uma tropa. Nesse estágio, a tropa criada tem somente um membro: o líder. Para adicionar outros membros, você pode adicioná-los <span color='yellow'>clicando com o botão direito na tropa na sala de espera</span> (um cômodo abaixo deste escritório). Para enviar a tropa criada para o Campo, você precisa escolher o item 'Vá para a Guerra!' no menu do botão direito.\n"
 "\n"
 "Resumindo,\n"
-"<b>1.</b>: Prepare <span color='yellow'>soldados com bravura maior do que 50</span>.\n"
-"<b>2.</b>: Mova-se para <span color='yellow'>Peça ao secretário</span> hexágono neste escritório.\n"
+"<b>1.</b>: Prepare <span color='yellow'>soldados com proeza maior do que 50</span>.\n"
+"<b>2.</b>: Mova-se para o hex <span color='yellow'>Peça ao secretário</span> neste escritório.\n"
 "<b>3.</b>: Escolha <span color='yellow'>menu Esquadrão/Pelotão/Companhia</span>.\n"
 "<b>4.</b>: Escolha <span color='yellow'>Criar um Esquadrão/Pelotão/Companhia</span>.\n"
 "<b>5.</b>: Escolha um comandante e clique em OK.\n"
@@ -601,7 +601,7 @@ msgid ""
 msgstr ""
 "Tome cuidado com a quantidade de comida. Se ela acabar, soldados na tropa ficam esfomeados e recebem dano a cada turno. Para pegar comida, você precisa mover suas tropas para <span color='yellow'>aldeia, torre de menagem, ou um hexágono adjacente a Fusia, a uma Bandeira ou um Armazém de Comida</span>. Note que as comidas NÃO são fornecidas quandos as unidades se movem para esses hexágonos. Elas são fornecidas no início do turno.\n"
 "\n"
-"Por outro lado, tropas inimigas nunca ficam esfomeadas. Isso é por causa do nível de habilidade do estúpido autor desta campanha..."
+"Por outro lado, tropas inimigas nunca ficam esfomeadas. Isso é por causa do nível de habilidade do autor estúpido desta campanha..."
 
 
 #. [option]
@@ -640,7 +640,7 @@ msgid ""
 msgstr ""
 "Líderes inimigos estão na capital do lado correspondente. Para derrotar um lado, você ou um lado aliado devem derrotar o líder do lado alvo.\n"
 "\n"
-"Alguns lados têm tropas guardiãs em certos lugares, normalmente em cidades que não são a capital. Por exemplo, o Império tem um guardião na 'a Boca', e o Reino tem um no 'Forte de Linha de Frente'. Se você conseguir derrotar o guardião, uma Bandeira que prova que você ocupa aquele lugar irá aparecer.\n"
+"Alguns lados têm tropas guardiãs em certos lugares, normalmente em cidades que não são a capital. Por exemplo, o Império tem um guardião em 'a Boca', e o Reino tem um no 'Forte de Linha de Frente'. Se você conseguir derrotar o guardião, uma Bandeira que prova que você ocupa aquele lugar irá aparecer.\n"
 "\n"
 "Ao redor dos líderes e guardiães, inimigos aparecerão para defender o lugar. Você deve derrotar o guardião/líder ou sair dali para as tropas que surgiram. A quantidade que surge depende do ouro daquele lado. Se não houver ouro suficiente, o inimigo não irá aparecer. Se você quiser saber o estado dos fundos dos inimigos, envie espiões para os lados alvos."
 
@@ -656,9 +656,9 @@ msgid ""
 "\n"
 "(Buildings can be destroyed intentionally from the right click menu when Engineers are on the adjacent hex.)"
 msgstr ""
-"Torres de vigia são um tipo muito útil de construção. Essas construções não têm qualquer habilidade de ataque, mas <span color='yellow'>elas conseguem limpar a neblina de um tamanho significativo de area.</span> O custo de operação também é barato, 1 ouro por turno. Construa elas para notar as ações inimigas. Mas não as construa num lugar muito próximo aos inimigos. Eles irão destruir a torre imediatamente.\n"
+"Torres de vigia são um tipo muito útil de construção. Essas construções não têm qualquer habilidade de ataque, mas <span color='yellow'>elas conseguem limpar a neblina de uma área significativa.</span> O custo de operação também é barato, 1 ouro por turno. Construa-as para notar as ações inimigas. Mas não as construa num lugar muito próximo aos inimigos. Eles destruirão a torre imediatamente.\n"
 "\n"
-"(Construções podem ser destruidas intencionalmente a partir do menu do botão direito quando os Engenheiros estiverem num hexágono adjacente.)"
+"(Construções podem ser destruídas intencionalmente a partir do menu do botão direito quando os Engenheiros estiverem num hex adjacente.)"
 
 #. [option]
 #: ./_main.cfg:937
@@ -672,9 +672,9 @@ msgid ""
 "\n"
 "Buildings can be destroyed intentionally from the right click menu when Engineers are in the adjacent hex."
 msgstr ""
-"Armazém de Comida é um tipo especial de construção. Seu custo de operação é alto (5 ouros por turno), mas ela provê comida para as tropas adjacentes no início dos turnos. Tenha certeza de destruí-las uma vez que não forem mais necessárias.\n"
+"Armazém de Comida é um tipo especial de construção. Seu custo de operação é alto (5 ouros por turno), mas ele provê comida para as tropas adjacentes no início dos turnos. Tenha certeza de destruí-los uma vez que não forem mais necessários.\n"
 "\n"
-"(Construções podem ser destruidas intencionalmente a partir do menu do botão direito quando os Engenheiros estiverem num hexágono adjacente.)"
+"(Construções podem ser destruídas intencionalmente a partir do menu do botão direito quando os Engenheiros estiverem num hex adjacente.)"
 
 #. [option]
 #: ./_main.cfg:950
@@ -683,12 +683,13 @@ msgstr "Como ajudar aliados?"
 
 #. [message]
 #: ./_main.cfg:954
+#, fuzzy
 msgid ""
 "If an ally leader is in danger, you have to help him. The simplest way is to kill enemies by your troops. But it is possible only if there are troops nearby. What do we do if there are no suitable troops? The answer is simple, <span color='yellow'>send money to them using emissary</span>. The money will arrive at the beginning of the next turn, usually this maybe faster than your troops. The leader will recruit new troops using that money and will defeat the enemies.\n"
 "\n"
 "This way of aid is the most effective for us goblins. (Cynically) Because we goblins can recruit a troop by very low cost! 100 gold is well enough for us."
 msgstr ""
-"Se algum líder aliado estiver em perido, você deve ajudá-lo. O jeito mais simples é matar os inimigos com suas tropas. Mas isso só é possível quando há tropas nas redondezas. O que fazemos quando não há tropas em prontidão? A resposta é simples, <span color='yellow'>envie dinheiro a eles usando o emissário</span>. O dinheiro chegará no início do próximo turno, normalmente isso é mais rápido do que suas tropas. O líder recrutará novas tropas usando aquele dinheir e derrotará os inimigos.\n"
+"Se algum líder aliado estiver em perigo, você deve ajudá-lo. O jeito mais simples é matar os inimigos com suas tropas. Mas isso só é possível quando há tropas nas proximidades. O que faremos quando não houver tropas em prontidão? A resposta é simples, <span color='yellow'>envie dinheiro a eles usando o emissário</span>. O dinheiro chegará no início do próximo turno, normalmente isso é mais rápido do que suas tropas. O líder recrutará novas tropas usando aquele dinheiro e derrotará os inimigos.\n"
 "\n"
 "Esse método de ajuda é o mais efetivo para nós góblins. (Cinicamente) Porque nós góblins podemos recrutar uma tropa a um custo muito baixo! 100 ouros é mais que suficiente para nós."
 
@@ -721,16 +722,16 @@ msgid ""
 "\n"
 "In addition, cities of dwarves and trolls are bit far from Fusia. We may need some tricks to supply food..."
 msgstr ""
-"Para o próximo passo, anões devem ser derrotados. Porque eles podem facilmente passar pelas montanhas e atacar Fusia diretamente. Mas atacar os anões é um pouco difícil por causa das montanhas ?? . Se tentarmos atacar do oeste, tropas do Reino vindos do Forte de Linha de Frente com certeza nos atacarão. Por outro lado, se atacarmos pelo leste, trolls nos emboscarão.\n"
+"No próximo passo, anões devem ser derrotados. Porque eles podem facilmente passar pelas montanhas e atacar Fusia diretamente. Mas atacar os anões é um pouco difícil por causa das montanhas impedindo-nos. Se tentarmos atacar do oeste, tropas do Reino vindos do Forte de Linha de Frente com certeza nos atacarão. Por outro lado, se atacarmos pelo leste, trolls nos emboscarão.\n"
 "\n"
-"Eu acho que nós devemos derrotar <b>Trolls</b> e depois atacar os <b>Anões</b>. Nós, góblins podemos ser úteis nesse ataque.\n"
+"Eu acho que nós devemos derrotar <b>Trolls</b> e depois atacar os <b>Anões</b>. Nós góblins, podemos ser úteis nesse ataque.\n"
 "\n"
-"Além disso, as cidades dos anões são um pouco longe de Fusia. Talvez nós precisemos alguns truques para suprir comida..."
+"Além disso, as cidades dos anões são um pouco longe de Fusia. Talvez nós precisemos de alguns truques para suprir comida..."
 
 #. [message]
 #: ./_main.cfg:1006
 msgid "After defeating trolls and dwarves, you should attack orcs/drakes or saurians/elves. The choice is up to you. Orcs may have vast number of soldiers, so defeating them may not be easy. But once we defeat orcs, we can secure the eastern part of the land. On the other hand, saurians and elves may be defeated somewhat easier than orcs. But their positions are very close to the Kingdom or Imperial outposts. It may be difficult to save them when they were attacked."
-msgstr "Depois de derrotar os trolls e anões, você deve atacar orcs/drakes ou sarians/elfos. A escolha é sua. Orcs podem ter um grande número de soldados então derrotá-los pode não ser fácil. Mas uma vez que nós derrotarmos os orcs, nós podemos estar seguros na parte leste dessa terra. Por outro lado, saurians e elfos podem ser ?? mais fáceis do que os orcs. Mas as posiçoes deles são bem próximas aos postos avançados do Reino ou do Império. Pode ser difícil salvá-los quando eles forem atacados."
+msgstr "Depois de derrotar os trolls e anões, você deve atacar orcs/daconatos ou lagartos/elfos. A escolha é sua. Orcs podem ter um grande número de soldados então derrotá-los pode não ser fácil. Mas uma vez que nós derrotarmos os orcs, nós podemos estar seguros na parte leste dessa terra. Por outro lado, pode ser um pouco mais fácil derrotar lagartos e elfos do que os orcs. Mas as posições deles são bem próximas aos postos avançados do Reino ou do Império. Pode ser difícil salvá-los quando eles forem atacados."
 
 #. [option]
 #: ./_main.cfg:1012
@@ -744,7 +745,9 @@ msgid ""
 "\n"
 "It is to be noted here that we should not get close to their outposts. If they find us near their outpost, they will surely send troops."
 msgstr ""
-"Derrotar o Reino é quase impossível. Eles devem ter um grande número de soldados e líderes. Nós devemos ser defensivos contra eles. O Portão Sul é o ponto crítico. Nós devemos bloqueá-los lá. Algumas das tropas deles virão pela Floresta Fling ou pelo lado leste de Fusia. Não ?? essas tropas.\n"
+"Derrotar o Reino é quase impossível. Eles devem ter um grande número de soldados e líderes. Nós devemos ser defensivos contra eles. O Portão Sul é o ponto crítico. Nós devemos bloqueá-los lá. Algumas das tropas deles virão pela Floresta Namorico ou pelo lado leste de Fusia. Não esqueça dessas tropas.\n"
+"\n"
+"Deve ser notado aqui que não devemos nos aproximar dos postos avançados deles. Se eles nos encontrarem próximos dos seus postos avançados, com certeza eles enviarão tropas."
 
 #. [option]
 #: ./_main.cfg:1024
@@ -760,7 +763,7 @@ msgid ""
 msgstr ""
 "A estratégia básica é a mesma que a contra o Reino. Nós devemos bloqueá-los no Portão Norte. Góblins da cidade Goba também serão atacados por eles. Você pode precisar enviar dinheiro aos góblins.\n"
 "\n"
-"Deve ser notado aqui que nós não devemos chegar perto dos postos avançados deles. Se eles nos encontrarem próximos de seus postros avançados, eles com certeza enviarão tropas contra nós."
+"Deve ser notado aqui que não devemos nos aproximar dos postos avançados deles. Se eles nos encontrarem próximos dos seus postos avançados, com certeza eles enviarão tropas."
 
 #. [option]
 #: ./_main.cfg:1036
@@ -774,9 +777,9 @@ msgid ""
 "\n"
 "Goblin troops have rider type soldiers. Expected to be effective to kill enemy shooters."
 msgstr ""
-"Nós somos aliados, então você pode não precisar lutar conosco. Mas se o líder na cidade Goga for derrotado, você deve se apressar para reconquistar o controle.\n"
+"Nós somos aliados, então você pode não precisar lutar conosco. Mas se o líder na cidade Goga for derrotado, você deve se apressar para reobter o controle.\n"
 "\n"
-"Tropas góblin tem ?? . Espera-se serem efetivos para matar atiradores inimigos."
+"Tropas góblin tem soldados do tipo cavaleiro. É esperado que sejam efetivos para matar atiradores inimigos."
 
 #. [option]
 #: ./_main.cfg:1048
@@ -790,7 +793,7 @@ msgid ""
 "\n"
 "Their troops do not have very strange features, healers might be the only special types."
 msgstr ""
-"Eles são o primeiro alvo. O número deles pode não ser tão grande. Nós precisamos de 3-5 tropas para derrotá-los. Mas nunca os subestime, porque eles são bons em lutar na areia e a habilidade de um soldado individual é um pouco alta.\n"
+"Eles são o primeiro alvo. O número deles pode não ser tão grande. Nós precisamos de 3-5 tropas para derrotá-los. Mas nunca os subestime, porque eles são bons em lutar na areia e a habilidade de um soldado individual é bem alta.\n"
 "\n"
 "As tropas deles não tem aspectos muito estranhos, curandeiros devem ser os únicos tipos especiais."
 
@@ -810,9 +813,9 @@ msgid ""
 msgstr ""
 "Se eles tentarem atacar Fusia, góblins funcionarão como um escudo. Por favor envie dinheiro se eles estiverem com problemas. De qualquer maneira, o número de soldados orcs pode ser muito grande, se dinheiro for fornecido pelo Reino ou Império.\n"
 "\n"
-"Para atacá-los, você pode precisar fornecer comida para suas tropas pois não há aldeias próximas ao lugar deles. A cura de soldados também pode ser um problema. Você deve enviar um grande número de tropas se você quiser tentar derrotá-los por causa dos problemas acima e do grande número deles. A melhor hora para atacar-los é quando eles estiverem lutando contra os draconatos.\n"
+"Para atacá-los, você pode precisar fornecer comida para suas tropas pois não há aldeias próximas à casa deles. A cura de soldados também pode ser um problema. Você deve enviar um grande número de tropas se você quiser tentar derrotá-los, por causa dos problemas acima e do grande número deles. A melhor hora para ataca-los é quando eles estiverem lutando contra os draconatos.\n"
 "\n"
-"O grupo de saqueadores às vezes aparecem e ataca os góblins. Você deve destruir os grupos o mais rápido possível para manter a intimidade com os góblins."
+"Os grupos de incursão às vezes aparecem e atacam os góblins. Você deve destruir os grupos o mais rápido possível para manter a intimidade com os góblins."
 
 #. [option]
 #: ./_main.cfg:1074
@@ -822,7 +825,7 @@ msgstr "<span color='yellow'>contra Anões</span>"
 #. [message]
 #: ./_main.cfg:1078
 msgid "As an enemy, they are awsome foes for Fusia. Fusia is well guarded by the mountains, but those mountains cannot be a barrier against dwarves. So you have to defeat them as soon as possible. But west side is guarded by the Frontline Fort of the Kingdom, and the east part overlaps with the troll territory. It is very difficult to attack them directly. We should defeat trolls first, and then attack dwarves from the east. If they remain as an enemy, we will surely get ambushed over the mountains."
-msgstr "Como inimigos, eles são oponentes pavorosos para Fusia. Fusia é bem protegida pelas montanhas, mas essas montanhas não são uma barreira contra anões. Então você deve derrotá-los o mais rápido possível. Mas o lado oeste é protegido pelo Forte de Linha de Frente do Reino, e no leste parte do território sobrepõe-se com território troll. É muito difícil atacá-los diretamente. Nós devemos atacar os trolls primeiro, e depois atacar os anões pelo leste. Se eles continuarem sendo inimigos, com certeza nós seremos emboscados sobre as montanhas."
+msgstr "Como inimigos, eles são oponentes pavorosos para Fusia. Fusia é bem protegida pelas montanhas, mas essas montanhas não são uma barreira contra anões. Então você deve derrotá-los o mais rápido possível. Mas o lado oeste é protegido pelo Forte de Linha de Frente do Reino, e no leste parte do território sobrepõe-se com território troll. É muito difícil atacá-los diretamente. Nós devemos atacar os trolls primeiro, e depois atacar os anões pelo leste. Se eles continuarem sendo inimigos, com certeza nós seremos emboscados através as montanhas."
 
 #. [option]
 #: ./_main.cfg:1084
@@ -838,9 +841,9 @@ msgid ""
 "\n"
 "They sometimes fight against dwarves. That is a great chance for us. We should send troops immediately and crash them at once!"
 msgstr ""
-"A habilidade de regeneração deles é terrivelmente irritante. Você deve terminar a batalha rapidamente. Caso contrário, você irá depois de algum tempo ser derrotado por eles. Ajuda dos góblins será agradável contra os trolls.\n"
+"A habilidade de regeneração deles é terrivelmente irritante. Você deve terminar a batalha rapidamente. Caso contrário, você irá depois de algum tempo ser derrotado por eles. Ajuda dos góblins será boa contra os trolls.\n"
 "\n"
-"Você não deve lutar com eles em colinhas ou montanhas. Eles não são bons em lutar no plano, neve ou na floresta. Escolha cuidadosa do campo de batalha é crucial em guerras.\n "
+"Você não deve lutar com eles em colinhas ou montanhas. Eles não são bons em lutar no plano, neve ou na floresta. A escolha cuidadosa do campo de batalha é crucial em guerras.\n "
 "\n"
 "Eles às vezes lutam contra os anões. Essa é uma ótima oportunidade para nós. Nós devemos enviar tropas imediatamente e esmagá-los de uma vez por todas!"
 
@@ -852,7 +855,7 @@ msgstr "contra Elfos"
 #. [message]
 #: ./_main.cfg:1102
 msgid "Their home is too far from here. That is the only problem. They have skilled soldiers, but the number cannot be so large due to their nature. They are sometimes fighting against saurians."
-msgstr "O lugar deles é bem longe daqui. Esse é o único problema. Eles têm soldados habilidosos, mas o número não pode ser tão grande devido à natureza deles. Eles às vezes estão lutando contra os lagartos."
+msgstr "A casa deles é bem longe daqui. Esse é o único problema. Eles têm soldados habilidosos, mas o número não pode ser tão grande devido à natureza deles. Eles às vezes estão lutando contra os lagartos."
 
 #. [option]
 #: ./_main.cfg:1108
@@ -882,9 +885,9 @@ msgid ""
 "\n"
 "There are no villages around their home, and there are many swamps instead. Be careful also about terrains."
 msgstr ""
-"O ponto mais importante sobre essa raça é os seus soldados principais, escaramuçadores são considerados como _cavalaria_. Isso significa que seu líder atirador será facilmente morto por esses escaramuçadores. Então você deve ser cuidadoso com a organização da tropa.\n"
+"O ponto mais importante sobre essa raça é os seus soldados principais, escaramuçadores são considerados como cavaleiros. Isso significa que seu líder atirador será facilmente morto por esses escaramuçadores. Então você deve ser cuidadoso com a organização da tropa.\n"
 "\n"
-"Não há aldeias ao redor do lugar deles, ao invés, há muito pântano. Seja cuidadoso com o terreno."
+"Não há aldeias ao redor da casa deles, ao invés disso, há muito pântano. Seja cuidadoso com o terreno."
 
 #. [message]
 #: ./_main.cfg:1157
@@ -947,7 +950,7 @@ msgid ""
 "\n"
 "On the other hand, you should keep some amounts of gold for urgent tasks... For example, to help allies and to prepare sudden increases of outgo by bandits."
 msgstr ""
-"Recrutar um comandante por 40 ouros é o uso primário. Unidades de nível baixo são recrutadas automaticamene todos os turnos (se você estiver em Fusia), mas esses novatos não podem ser comandantes imediatamente. Se você tem comandantes suficiente e não muitos soldados, recrutar um lanceiro desmontado/arqueiro por 10 ouros é uma escolha razoável.\n"
+"Recrutar um comandante por 40 ouros é o uso primário. Unidades de nível baixo são recrutadas automaticamene todos os turnos (se você estiver em Fusia), mas esses novatos não podem ser comandantes imediatamente. Se você tem comandantes o suficiente e não muitos soldados, recrutar um lanceiro desmontado/arqueiro por 10 ouros é uma escolha sensata.\n"
 "\n"
 "Por outro lado, você deve guardar alguma quantidade de ouro para tarefas urgentes... Por exemplo, para ajudar aliados e preparar aumentos súbidos de despesas causadas por bandidos."
 
@@ -959,7 +962,7 @@ msgstr "O sistema das Unidades é bem diferente das campanhas típicas, você de
 #. [option]
 #: ./_main.cfg:1235
 msgid "<span color='yellow'>Max level of unit</span>"
-msgstr "<span color='yellow'>Nívem máximo da unidade</span>"
+msgstr "<span color='yellow'>Nível máximo da unidade</span>"
 
 #. [message]
 #: ./_main.cfg:1239
@@ -968,19 +971,19 @@ msgid ""
 "\n"
 "If an unit is already in his/her maxlevel, experience required for the next level becomes 999."
 msgstr ""
-"Nível máximo da unidade é determinado quando ele/ela é criado, independentemente do tipo de unidade. Por exemplo, se o nível máximo de um lanceiro desmontado é 1, ele não consegue se tornar um espadachim/piqueiro. Então unidades com nível máximo alto são muito raras e importantes. Por favor não desperdice unidades de nível máximo alto.\n"
+"O nível máximo da unidade é determinado quando ele/ela é criado, independentemente do tipo de unidade. Por exemplo, se o nível máximo de um lanceiro desmontado é 1, ele não conseguirá se tornar um espadachim/piqueiro. Então unidades com nível máximo alto são muito raras e importantes. Por favor não desperdice unidades de nível máximo alto.\n"
 "\n"
 "Se uma unidade já está no seu nível máximo, a experiência requerida para o próximo nível torna-se 999."
 
 #. [option]
 #: ./_main.cfg:1247
 msgid "Exploit"
-msgstr "Bravura"
+msgstr "Proeza"
 
 #. [message]
 #: ./_main.cfg:1251
 msgid "Exploits represent fame/achievement of this unit. This value is not concerned with unit level. Low level units can have big exploits, high level units with very low exploit are possible. This value is important only for leader of a troop. <span color='yellow'>Exploit of 50 is required for Squad leader, 120 for Platoon leader, and 250 for Company leader.</span> We can't organize Battalion. That is a special troop for leaders of Kingdom, Empire, and orcs."
-msgstr "Bravura representa a fama/conquistas desta unidade. Este valor não leva em conta o nível da unidade. Unidades de baixo nível podem ter grande bravura, unidades de nível algo com bravura muito baixa é possível. Este valor é importante somente para o líder da tropa. <span color='yellow'>É necessário 50 de Bravura para ser um líder de esquadrão, 120 para líder de Pelotão e 250 para líder de Companhia.</span> Nós não podemos organizar Batalhão. Essa é uma unidade especial para os líderes do Reino, Império e orcs."
+msgstr "Proeza representa a fama/conquistas desta unidade. Este valor não leva em conta o nível da unidade. Unidades de baixo nível podem ter grande proeza, unidades de nível algo com proeza muito baixa é possível. Este valor é importante somente para o líder da tropa. <span color='yellow'>É necessário 50 de Proeza para ser um líder de esquadrão, 120 para líder de Pelotão e 250 para líder de Companhia.</span> Nós não podemos organizar Batalhão. Essa é uma unidade especial para os líderes do Reino, Império e orcs."
 
 #. [option]
 #: ./_main.cfg:1257
@@ -996,11 +999,11 @@ msgid ""
 "\n"
 "The last type of unit, Refugee, is a special one. They are not involved in any battles. The leader can't be a refugee. If you have terribly injured units in your troop, you may switch them to refugees type. Refugees are marked with <b>X</b>"
 msgstr ""
-"Todos os tipos de unidade são divididos em <b>vanguardeiro, atirador ou cavaleiro</b>. Unidades boas em corpo a corpo são classificadas como vanguardeiros. Por outro lado, unidades boas em ataques de longo alcance, médicos ou comandantes (tendo liderança) são classificados como atiradores. Soldados mistos são normalmente considerados vanguardeiros. Unidades montadas e outras unidades ágeis (como lagartos) são considerados cavaleiros. Note que unidades montadas nem sempre são consideradas cavaleiros. Vanguardeiros, atiradores e cavaleiros são marcados com <b>F</b>(forward), <b>B</b>(back) e <b>R</b>(rider) na janela de estado, respectivamente.\n"
+"Todos os tipos de unidade são divididos em <b>vanguardeiro, atirador ou cavaleiro</b>. Unidades boas em corpo a corpo são classificadas como vanguardeiras. Por outro lado, unidades boas em ataques de longo alcance, médicos ou comandantes (tendo liderança) são classificados como atiradoras. Soldados mistos são normalmente considerados vanguardeiras. Unidades montadas e outras unidades ágeis (como lagartos) são considerados cavaleiras. Note que unidades montadas nem sempre são consideradas cavaleiras. Vanguardeiros, atiradores e cavaleiros são marcados com <b>V</b>(vanguarda), <b>A</b>(atirador) e <b>C</b>(cavalaria) na janela de estado, respectivamente.\n"
 "\n"
-"Você pode mudar a função da unidade a partir da janela de estado da tropa. Note que a classe cavaleiro fica disponível somente para algumas unidades específicas. A maioria das unidades não pode ser cavaleiro.\n"
+"Você pode mudar a função da unidade a partir da janela de estado da tropa. Note que a classe cavaleiro fica disponível somente para algumas unidades específicas. A maioria das unidades não pode ser cavaleira.\n"
 "\n"
-"O último tipo de unidade, Refugiado, é um tipo especial. Eles não são envolvidos em nenhuma batalha. O líder não pode se um refugiado. Se você tiver unidades gravemente feridas na sua tropa, você pode colocá-los com o tipo refugiado. Refugiados são marcados com <b>X</b>"
+"O último tipo de unidade, Refugiado, é um tipo especial. Eles não são envolvidos em nenhuma batalha. O líder não pode ser um refugiado. Se você tiver unidades gravemente feridas na sua tropa, você pode colocá-los com o tipo refugiado. Refugiados são marcados com <b>X</b>"
 
 #. [option]
 #: ./_main.cfg:1271
@@ -1009,6 +1012,7 @@ msgstr "<span color='yellow'>Medicação</span>"
 
 #. [message]
 #: ./_main.cfg:1275
+#, fuzzy
 msgid ""
 "Healing mechanism is complicated (due to the balancing reason). Please read it carefully. If several conditions are satisfied simultaneously, the best one will be chosen.\n"
 "\n"
@@ -1033,18 +1037,18 @@ msgid ""
 "\n"
 "Note that if there is an enemy unit adjacent, amount of the healing is significantly reduced even in the village. Troops never get poison, you do not need to care about it. Poison got in the skirmishes (on non-Field map, such as battles against bandits in the Fling forest) is also cured when exiting from the skirmish."
 msgstr ""
-"O mecanismo de medicação é complicado (devido à questão de balanceamento). Por favor leia-a atentamente. Se várias condições forem satisfeitas simultaneamnete, a melhor será escolhida.\n"
+"O mecanismo de medicação é complicado (devido a questão de balanceamento). Por favor leia-a atentamente. Se várias condições forem satisfeitas simultaneamnete, a melhor será escolhida.\n"
 "\n"
 "<span color='green'>+8</span>:\n"
 "1. se a tropa estiver em <span color='red'>Aldeia, Castelo, Torre de Menagem ou algum hex adjacente à Fusia</span> e <b>não houver unidades inimigas adjacentes</b>\n"
-"2. se uma tropa tiver a habilidade medicação??\n"
+"2. se a tropa tiver a habilidade medicação\n"
 "\n"
 "<span color='green'>+6</span>:\n"
 "1. se a tropa tiver uma unidade com medicar +8 e <b>não houver unidade inimigas adjacentes</b>\n"
 "2. se a unidade tiver habilidade de regeneração\n"
 "\n"
 "<span color='green'>+4</span>:\n"
-"1. se a tropa tiver uma unidade com medicar +4 <b>não houver unidade inimigas adjacentes</b>\n"
+"1. se a tropa tiver uma unidade com medicar +4 e <b>não houver unidade inimigas adjacentes</b>\n"
 "\n"
 "<span color='green'>+3</span>:\n"
 "1. se a tropa tiver uma unidade com medicar +8\n"
@@ -1054,10 +1058,8 @@ msgstr ""
 "2. se não houver unidade inimigas adjacentes\n"
 "3. se há unidades inimigas adjacentes mas a tropa está em aldeias ou castelos\n"
 "\n"
-"Note que se houver uma unidade inimiga adjaecnte, a qualidade da medicação é reduzida significativamente mesmo na aldeia. Tropas nunca ficam envenenadas, você não precisa se preocupar com isso. Envenenamentos obtidos de escaramuças (num mapa diferente do Campo, tais como batalhas contra bandidos na Floresta de Fling) também são curadas ao sair da escaramuça."
-"O mecanismo de medicação é complicado (devido à questão de balanceamento). Por favor leia-a atentamente. Se várias condições forem satisfeitas simultaneamente, a melhor será escolhida.\n"
-"\n"
-""
+"Note que se houver uma unidade inimiga adjacente, a qualidade da medicação é reduzida significativamente mesmo na aldeia. Tropas nunca ficam envenenadas, você não precisa se preocupar com isso. Envenenamentos obtidos de escaramuças (num mapa diferente do Campo, tais como batalhas contra bandidos na Floresta Namorico) também são curadas ao sair da escaramuça."
+
 
 #. [option]
 #: ./_main.cfg:1302
@@ -1077,7 +1079,7 @@ msgstr ""
 "Recrutamento automático acontece em alguns lugares desta campanha.\n"
 "\n"
 "1. Um soldado será recrutado a cada turno se você estiver em Fusia.\n"
-"   (se o número total de soldados or menor do que $aiw_max_soldiers|)\n"
+"   (se o número total de soldados for menor do que $aiw_max_soldiers|)\n"
 "2. O Líder inimigo e Tropas Guardiãs recrutam um soldado por turno\n"
 "   (quando não há inimigos adjacentes.)"
 
@@ -1106,7 +1108,7 @@ msgstr ""
 "<b>Corpo a Corpo: soma do ataque corpo a corpo dos VANGUARDEIROS.</b>\n"
 "<b>Longa Distância: soma do ataque de longa distância de TODAS AS UNIDADES (exceto REFUGIADOS).</b>\n"
 "\n"
-"Entretanto há alguns casos especiais. Cavaleiros tem uma função especial na batalha (veja o tópico correspondente para mais detalhes). Ataques de longa distância de vanguardeiros/cavaleiros serão um pouco reduzidos (multiplicados por <b>0.6</b>) a partir da habilidade básica deles. Por outro lado, ataques de longa distância dos atiradores é aumentado (multiplicado por <b>1.2</b>). Ataques corpo a corpo de atiradores podem ser ativos quando não há guardas deles (mais precisamente, quando eles são envolvidos diretamente em batalha corpo a corpo.)."
+"Entretanto há alguns casos especiais. Cavaleiros tem uma função especial na batalha (veja o tópico correspondente para mais detalhes). Ataques de longa distância de vanguardeiros/cavaleiros serão um pouco reduzidos (multiplicados por <b>0.6</b>) a partir da habilidade básica deles. Por outro lado, ataques de longa distância dos atiradores são aumentados (multiplicados por <b>1.2</b>). Ataques corpo a corpo de atiradores podem ser ativos quando não há guardas deles (mais precisamente, quando eles são envolvidos diretamente em batalha corpo a corpo.)."
 
 #. [option]
 #: ./_main.cfg:1361
@@ -1133,7 +1135,7 @@ msgid ""
 "\n"
 "The calculated damage is scattered to <b>ALL THE ENEMY TROOP UNITS</b>, where <i>ranged attack damage</i> is the displayed attack damage, and <i>enemy defense</i> is the ordinary unit defense at the current terrain. Units may not die easily by the ranged attack since it is scattered to all the unit. On the other hand, in the melee attack, target units (vanguards or shooters) may die easily because the damage concentrated on them. For about damage coefficient, see the topic about that."
 msgstr ""
-"Ataque e contra-ataque são feitos simultaneamente. Mesmo se você derrotar a tropa inimiga com seu ataque, você recebe o dano de contra-ataque.\n"
+"Ataque e contra-ataque são feitos simultaneamente. Mesmo se você pode derrotar a tropa inimiga com seu ataque, você recebe o dano de contra-ataque.\n"
 "\n"
 "Ataque de longa distância é calculado assim:\n"
 "(dano de ataque de longa distância) * (coeficiente) * (defesa inimiga)\n"
@@ -1440,7 +1442,7 @@ msgid ""
 msgstr ""
 "Uma vez que eles aparecem, você deve derrotá-los enviando uma tropa. Nós devemos prevenir o aparecimento deles. <span color='yellow'>Bandidos e monstros podem não aparecer em nosso alcance visual</span> porque eles têm medo de nós. Se você colocar tropas na região deles ou construir torres de vigia nessas regiões, você consegue prevenir o aparecimento deles.\n"
 "\n"
-"Os bandidos da Floresta de Fling podem ser um representante barato ao exército Imperial. Uma vez que o Império fazer ações diretas por eles mesmos, esses bandidos não aparecerão mais.\n"
+"Os bandidos da Floresta Namorico podem ser um representante barato ao exército Imperial. Uma vez que o Império fazer ações diretas por eles mesmos, esses bandidos não aparecerão mais.\n"
 "\n"
 "Por favor tenha em mente que esses bandidos normais podem ser suprimidos desse jeito, mas soldados treinados especialmente ou agentes nunca estremecem conosco. Esse inimigos podem aparecer dentro do nosso alcance visual."
 
@@ -1509,7 +1511,7 @@ msgstr "Porto do Reino"
 #. [then]
 #: ./lua/actions.lua:771 ./scenarios/Field.cfg:2530 ./scenarios/Field.cfg:7053
 msgid "Crownia"
-msgstr "Crownia"
+msgstr "Coronia"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
@@ -1635,7 +1637,7 @@ msgstr "EXP"
 #. [lua]: aiw_show_status_table
 #: ./lua/status.lua:515
 msgid "status^exploit"
-msgstr "bravura"
+msgstr "proeza"
 
 #. [lua]: aiw_show_status_table
 #: ./lua/status.lua:525
@@ -1905,7 +1907,7 @@ msgstr "Hmm. Ele é realmente um mago capaz. Seu poder pode talvez já seja maio
 #. [message]: speaker=Redy
 #: ./scenarios/Epilogue.cfg:1761
 msgid "I never throw away my current tasks. Because those tasks indirectly increased my skills. I had been a very very ordinary mage when I was in the mage academy in Crownia. My power is increased after I got current position. Logic of magics is not so much different from the other kinds of logics. Learning non-magic things can improve my magics. Training of magics, such as firing fireballs, is of course regularly performing, though."
-msgstr "Eu nunca abandono minhas tarefas atuais. Porque essas tarefas aumentaram incrivelmente minhas habilidades. Eu era um mago muito muito ordinário quando eu estava na academia de magos em Crownia. Meu poder aumentou depois que eu cheguei na minha ocupação atual. A lógica da magia não é tão diferente de outros tipos de lógica. Aprender coisas fora da magia pode melhor minha magia. Treinamento de magia, tais como atirar bolas de fogo, claro, é efetuado regularmente."
+msgstr "Eu nunca abandono minhas tarefas atuais. Porque essas tarefas aumentaram incrivelmente minhas habilidades. Eu era um mago muito muito ordinário quando eu estava na academia de magos em Coronia. Meu poder aumentou depois que eu cheguei na minha ocupação atual. A lógica da magia não é tão diferente de outros tipos de lógica. Aprender coisas fora da magia pode melhor minha magia. Treinamento de magia, tais como atirar bolas de fogo, claro, é efetuado regularmente."
 
 #. [message]: speaker=Andrzej
 #: ./scenarios/Epilogue.cfg:1766
@@ -2161,7 +2163,7 @@ msgstr ""
 #. [message]
 #: ./scenarios/Field.cfg:1125
 msgid "A new bandit group is reported to appear in Fling forest. There are $aiw_field_bandits_fling.length of bandit groups in that forest now."
-msgstr "Há um informe que um novo grupo de bandidos apareceu na Floresta de Fling. Há $aiw_field_bandits_fling.length grupo(s) de bandidos agora naquela floresta."
+msgstr "Há um informe que um novo grupo de bandidos apareceu na Floresta Namorico. Há $aiw_field_bandits_fling.length grupo(s) de bandidos agora naquela floresta."
 
 #. [message]
 #: ./scenarios/Field.cfg:1185
@@ -2580,7 +2582,7 @@ msgstr "Eu só conheço os licores humanos ao redor daqui, os terríveis licores
 #. [message]
 #: ./scenarios/Field.cfg:3549
 msgid "Liquors... brews... I wanna drink... We could not drink these days because we had been in eastern mountains for more than one month. Now we are on the way back to the Crownia."
-msgstr "Licores... cervejas... Eu quero beber... Nós não conseguimos beber esses dias porque nós estávamos nas montanhas do leste por mais de um mês. Agora estamos no caminho de volta para Crownia."
+msgstr "Licores... cervejas... Eu quero beber... Nós não conseguimos beber esses dias porque nós estávamos nas montanhas do leste por mais de um mês. Agora estamos no caminho de volta para Coronia."
 
 #. [message]
 #: ./scenarios/Field.cfg:3554
@@ -2620,7 +2622,7 @@ msgstr "Ufa. Ótimas cervejas! A propósito, há eventos recentes no Reino recen
 #. [message]
 #: ./scenarios/Field.cfg:3646
 msgid "Hm. There was a big event. A province declared independence from the Kingdom. Ah, but that happend in the very rural part of the Kingdom. Effects on Crownia might be very limited."
-msgstr "Hm. Houve um grande evento. Uma província declarou independência do Reino. Ah, mas isso aconteceu numa parte bem rural do Reino. Os efeitos em Crownia podem ser bem limitados."
+msgstr "Hm. Houve um grande evento. Uma província declarou independência do Reino. Ah, mas isso aconteceu numa parte bem rural do Reino. Os efeitos em Coronia podem ser bem limitados."
 
 #. [message]
 #: ./scenarios/Field.cfg:3651
@@ -2657,7 +2659,7 @@ msgid ""
 msgstr ""
 "Vocês visitam o rei rebelde e depois bebem cervejas com este general dos rebeldes.\n"
 "\n"
-"... Deve haver tantos espiões do Reino e do Império nesta cidade, e eles podem observar o comportamento de vocês. Vocês podem voltar a Crownia, meus amigos?"
+"... Deve haver tantos espiões do Reino e do Império nesta cidade, e eles podem observar o comportamento de vocês. Vocês podem voltar a Coronia, meus amigos?"
 
 #. [message]
 #: ./scenarios/Field.cfg:3682
@@ -2739,7 +2741,7 @@ msgstr ""
 #. [message]
 #: ./scenarios/Field.cfg:3856
 msgid "Hm. If I stayed one more week on Crownia, I might be hanged. Am I not your friend?"
-msgstr "Hm. Se eu ficasse mais uma semana em Crownia, eu poderia ser enforcado. Eu não sou seu amigo?"
+msgstr "Hm. Se eu ficasse mais uma semana em Coronia, eu poderia ser enforcado. Eu não sou seu amigo?"
 
 #. [message]
 #: ./scenarios/Field.cfg:3861
@@ -3064,7 +3066,7 @@ msgstr "Promoção!"
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:4773
 msgid "$tmp_leader_name got enough exploits! The troop becomes a $tu_type_name|!"
-msgstr "$tmp_leader_name ganhou bravura suficiente! A tropa tornou-se $tu_type_name|!"
+msgstr "$tmp_leader_name ganhou proeza suficiente! A tropa tornou-se $tu_type_name|!"
 
 #. [event]
 #: ./scenarios/Field.cfg:4818
@@ -3296,7 +3298,7 @@ msgstr "Escolher uma unidade como líder"
 #. [message]
 #: ./scenarios/Field.cfg:5608
 msgid "No suitable soldier as a leader. (a leader unit requires at least 50 of exploit.)"
-msgstr "Nenhum soldado está apto a ser líder. (uma unidade líder requer pelo menos 50 de bravura.)"
+msgstr "Nenhum soldado está apto a ser líder. (uma unidade líder requer pelo menos 50 de proeza.)"
 
 #. [option]
 #: ./scenarios/Field.cfg:5618
@@ -3642,7 +3644,7 @@ msgstr "A capital do Reino fica a <b>Sudoeste</b>! A cidade central do Reino em 
 #. [message]
 #: ./scenarios/Field.cfg:7070
 msgid "The biggest port of the Kingdom! Very urban place unlike here! It locates <b>West</b> from here, north of Crownia! Famous for good foods, metals, jewelries, beers, and liquors! Everything is available there! I want to move to that kind of rich city! But I don't like silent city like that!"
-msgstr "O maior porto do Reino! Um lugar muito urbanizado diferentemente daqui! Fica localizado a <b>Oeste</b> daqui, ao norte de Crownia! Famosa por comida boa, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
+msgstr "O maior porto do Reino! Um lugar muito urbanizado diferentemente daqui! Fica localizado a <b>Oeste</b> daqui, ao norte de Coronia! Famosa por comida boa, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7082
@@ -3652,7 +3654,7 @@ msgstr "Relativamente uma cidade nova, ao <b>Sul</b> daqui! É conhecida como um
 #. [message]
 #: ./scenarios/Field.cfg:7094
 msgid "Rural old city in <b>South West</b>! It had been a capital of the Kingdom since the founding of that country! About 200 years ago, a smart king decided to move the capital to Crownia from that rural old city!!! I know history well as well as geography! History and geography is tightly linked!!"
-msgstr "Velha cidade rural a <b>Sudoeste</b>! Ela foi a capital do Reino desde a fundação daquele país! Cerca de 200 anos atrás, um rei inteligente decidiu mover a capital daquela velha cidade rural para Crownia!!! Eu sei história tão bem quanto geografia! História e geografia estão fortemente ligadas!!"
+msgstr "Velha cidade rural a <b>Sudoeste</b>! Ela foi a capital do Reino desde a fundação daquele país! Cerca de 200 anos atrás, um rei inteligente decidiu mover a capital daquela velha cidade rural para Coronia!!! Eu sei história tão bem quanto geografia! História e geografia estão fortemente ligadas!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7105
@@ -3677,7 +3679,7 @@ msgstr "O maior porto do Império! Não há nada mais a dizer! A cidade portuár
 #. [message]
 #: ./scenarios/Field.cfg:7154
 msgid "A fort just <b>North</b> from here! It was built just after the previous war! Empire scums lost this land by your deeds, hahahahaha!! If the Empire joins attacks on Fusia, this fort may become the frontline fort! This fort is also close to the one of monkey cities! You should care those monkeys when fighting against the Empire!"
-msgstr "Um forte logo ao <b>Norte</b> daqui! Ele foi construído logo após a última guerra! Os vermes do Império perderam esta terra pelas tuas ações, hahahahaha!! Se o Império juntar-se ao ataque em Fusia, este forte pode se tornar um forte de frente de linha! Este forte também fica próximo a uma das cidades dos macacos! Você deve cuidar desses macacos quando lutando contra o Império!"
+msgstr "Um forte logo ao <b>Norte</b> daqui! Ele foi construído logo após a última guerra! Os vermes do Império perderam esta terra pelas tuas ações, hahahahaha!! Se o Império juntar-se ao ataque em Fusia, este forte pode se tornar um forte de linha de frente! Este forte também fica próximo a uma das cidades dos macacos! Você deve cuidar desses macacos quando lutando contra o Império!"
 
 #. [option]
 #: ./scenarios/Field.cfg:7168
@@ -3813,7 +3815,7 @@ msgstr "Lugar terrivelmente servero!! É muito alto e é bem frio!!! Eu acredito
 #. [message]
 #: ./scenarios/Field.cfg:7433
 msgid "Very dry and harsh place around Heaven's Peak!! There are monsters around and no water available there!! I cannot understand why monsters can survive there! There must be a hidden water supply there?! I wanna investigate!!"
-msgstr "Lugar rigoroso e muito seco ao redor do Heaven's Peak!! Há monstros ao redor e nenhuma água disponível!! Eu não consigo entender porquê monstros podem sobreviver lá! Deve haver uma fonte de água escondida?! Eu quero investigar!!"
+msgstr "Lugar rigoroso e muito seco ao redor do Pico Celestial!! Há monstros ao redor e nenhuma água disponível!! Eu não consigo entender porquê monstros podem sobreviver lá! Deve haver uma fonte de água escondida?! Eu quero investigar!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7445
@@ -3838,7 +3840,7 @@ msgstr "Esta é a terra-de-nenhum-homem! Ninguém sabe detalhes sobre esse lugar
 #. [message]
 #: ./scenarios/Field.cfg:7480
 msgid "Vast dry plain locates just south of this city! That place is really useless! But if this plain disappears, this country will be immediately swallowed by the Kingdom!! Generals in Crownia may hesitate vast attack to this country due to the existence of this vast dry plain!"
-msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é realmente inútil! Mas se este planície desaparecer, este país será imediatamente engolido pelo Reino!! Os generais em Crownia podem hesitar um grande ataque a este país devido a existência desta planície vasta e seca!"
+msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é realmente inútil! Mas se este planície desaparecer, este país será imediatamente engolido pelo Reino!! Os generais em Coronia podem hesitar um grande ataque a este país devido a existência desta planície vasta e seca!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7491
@@ -3848,17 +3850,17 @@ msgstr "Planície fértil a noroeste!! Logo a oeste da capital Imperial, Sceptor
 #. [message]
 #: ./scenarios/Field.cfg:7503
 msgid "The most futile plain around here!! It locates near Crownia, south-west from here!! This futile plain is the symbol of the Kingdom's power!"
-msgstr "A planície mais fértil por aqui!! Localiza-se perto de Crownia, a sudoeste daqui!! Este planície fértil é o símbolo do poder do Reino!"
+msgstr "A planície mais fértil por aqui!! Localiza-se perto de Coronia, a sudoeste daqui!! Este planície fértil é o símbolo do poder do Reino!"
 
 #. [option]
 #: ./scenarios/Field.cfg:7510
 msgid "Fling Forest/Widow Forest"
-msgstr "Floresta de Fling/Floresta da Viúva"
+msgstr "Floresta Namorico/Floresta Viúva"
 
 #. [message]
 #: ./scenarios/Field.cfg:7515
 msgid "Fling is in west, Widow is in east of this city! This place where Fusia stands was also a forest many years ago! Do you know this fact!? Humans trimmed trees around this place and develop villages, and eventually the bridge! Now Fling is spreading towards west, and Widow is getting smaller very slowly!! You should take care this miserable widow!! And damn Fling spawns bandits! Burn it out that terrible asshole!"
-msgstr "Fling fica a oeste, Viúva fica a leste desta cidade! Este lugar onde Fusia está era também uma floresta muitos anos atrás! Você conhece este fato!? Os humanos cortaram as árvores deste lugar e desenvolveram aldeias, e eventualmente a ponte! Agora Fling se espalha ao oeste e Viúva está ficando menor bem devagar!! Você deve cuidar desta viúva miserável!! E na droga de Fling aparecem bandidos! Queime aquele terrível idiota!"
+msgstr "Namorico fica a oeste, Viúva fica a leste desta cidade! Este lugar onde Fusia está era também uma floresta muitos anos atrás! Você conhece este fato!? Os humanos cortaram as árvores deste lugar e desenvolveram aldeias, e eventualmente a ponte! Agora Fling se espalha ao oeste e Viúva está ficando menor bem devagar!! Você deve cuidar desta viúva miserável!! E na droga de Namorico aparecem bandidos! Queime aquele terrível idiota!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7527
@@ -3898,7 +3900,7 @@ msgstr "Droga!! Um lugar tão sujo deve ser queimado! Localiza-se a oeste daqui!
 #. [message]
 #: ./scenarios/Field.cfg:7609
 msgid "Huh? It is a pathway for coward on the east of Crownia! You pitiful humans often use that path to avoid Wet Mountain city! We, brave dwarves never choose such a cowardish way! We can penetrate Valen Mountains!"
-msgstr "Hein? É um caminho para covardes a leste de Crownia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, bravos anões nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Valen Mountains!"
+msgstr "Hein? É um caminho para covardes a leste de Coronia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, bravos anões nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Valen Mountains!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7621
@@ -3997,7 +3999,7 @@ msgstr "Não, obrigado!"
 #. [message]
 #: ./scenarios/Prelude.cfg:48
 msgid "Welcome to An Independence War (AIW) campaign, sequel of A Group in a War (AG)! If you have completed AG campaign, you can inherit some data from the clear data. But unfortunately, you seem not to have such data. If you completed early versions of AG and still have save data of Epilogue, I recommend you to see the Epilogue of A Group in a War once more, and then play this campaign."
-msgstr "Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um Grupo numa Guerra (UG)! Se você completou a campanha UG, você pode herdar dados. Mas infelizmente, você não parece ter tais dados. Se você completou versões anteriores de UG e ainda tem os dados salvos do Epílogo, eu recomendo que você veja o Epílogo de Um Grupo numa Guerra mais uma vez, e depois jogue esta campanha.\n"
+msgstr "Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um Grupo numa Guerra (UG)! Se você completou a campanha UG, você pode herdar dados. Mas infelizmente, você não parece ter tais dados. Se você completou versões anteriores de UG e ainda tem os dados salvos do Epílogo, eu recomendo que você veja o Epílogo de Um Grupo numa Guerra mais uma vez, e depois jogue esta campanha."
 
 #: ./scenarios/Prelude.cfg:55
 msgid "Geographer"
@@ -4134,7 +4136,7 @@ msgstr "Esta é <span color='yellow'>Emira-Malikah</span>, a capital dos Dunefol
 #. [message]
 #: ./scenarios/Prologue.cfg:1119
 msgid "This is <span color='yellow'>Frontline Fort</span>. As the name indicates, this fort is the frontline fort of the Kingdom, recently built. We should check the actions of this fort."
-msgstr "Este é <span color='yellow'>Forte de Frente de Linha</span>. Como o nome indica, este forte é o forte da frente da linha do Reino e recentemente construído. Nós devemos fiscalizar as ações deste forte."
+msgstr "Este é <span color='yellow'>Forte de Linha de Frente </span>. Como o nome indica, este forte é o forte de linha de frente do Reino e recentemente construído. Nós devemos fiscalizar as ações deste forte."
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1142
@@ -4153,7 +4155,7 @@ msgid ""
 msgstr ""
 "Há vários outros fortes e raças. Mas isso será discutido depois. O que nós devemos discutir agora é:\n"
 "\n"
-"<span color='yellow'>Derrotar os bandidos na Floreta de Fling. (sudoeste do nosso país)</span>\n"
+"<span color='yellow'>Derrotar os bandidos na Floreta Namorico. (sudoeste do nosso país)</span>\n"
 "<span color='yellow'>Derrotar os Dunefolks para assegurar nossas terras o mais rápido possível.</span>\n"
 "\n"
 "Nós temos mais soldados que os Dunefolks, mas eles terão suporte do Império e nós não temos comandantes suficientes. Nós devemos treinar soldados/comandantes na batalha contra os bandidos primeiro. Se houver comandantes experientes o suficiente, nós poderemos derrotar os dunefolks facilmente..."
@@ -4702,7 +4704,7 @@ msgid ""
 "\n"
 "A Squad will be created at the antechamber below."
 msgstr ""
-"Você primeiro deve construir uma tropa.\n"
+"Antes de tudo, você deve construir uma tropa.\n"
 "\n"
 "Primeiro, vá até o <span color='yellow'>hex Peça ao secretário</span>.\n"
 "Segundo, escolha o item <span color='yellow'>Menu de Esquadrão/Pelotão/Companhia</span>.\n"
@@ -4735,12 +4737,12 @@ msgstr "Uma nota final, <span color='yellow'>um soldado é recrutado automaticam
 #. [message]
 #: ./utils/firsttime.cfg:145
 msgid "There is a bandit group in the Fling forest. We should send a troop there to restore our income. Sorry to repeat the warning, my lord. <span color='yellow'>YOUR TROOP SHOULD BE IN FUSIA. IF YOU ARE NOT IN FUSIA, MOST OF MANAGEMENTS ARE IMPOSSIBLE.</span>."
-msgstr "Há um grupo de bandidos na Floresta de Fling. Nós devemos enviar uma tropa até lá para recuperar nossa receita. Desculpe por repetir a advertência, meu lorde. <span color='yellow'>SUA TROPA DEVE FICAR EM FUSIA. SE VOCÊ NÃO ESTIVER EM FUSIA, A MAIOR PARTE DA GERÊNCIA É IMPOSSÍVEL</span>."
+msgstr "Há um grupo de bandidos na Floresta Namorico. Nós devemos enviar uma tropa até lá para recuperar nossa receita. Desculpe por repetir a advertência, meu lorde. <span color='yellow'>SUA TROPA DEVE FICAR EM FUSIA. SE VOCÊ NÃO ESTIVER EM FUSIA, A MAIOR PARTE DA GERÊNCIA É IMPOSSÍVEL</span>."
 
 #. [message]
 #: ./utils/firsttime.cfg:149
 msgid "Now, we have to fight against the world. At first, we should crash the bandit in the Fling Forest, southwest from here. You should send a newly built troop there for their training. We cannot identify the exact location of bandits in the fog. So we have to get close to them first."
-msgstr "Agora, nós devemos lutar contra o mundo. Primeiramente, nós devemos esmagar os bandidos na Floresta de Fling, sudoeste daqui. Você deve enviar uma tropa recém montada lá para treinamento. Nós não conseguimos identificar a localização exata dos bandidos na neblina. Então nós precisamo nos aproximar deles primeiro."
+msgstr "Agora, nós devemos lutar contra o mundo. Primeiramente, nós devemos esmagar os bandidos na Floresta Namorico, sudoeste daqui. Você deve enviar uma tropa recém montada lá para treinamento. Nós não conseguimos identificar a localização exata dos bandidos na neblina. Então nós precisamo nos aproximar deles primeiro."
 
 #. [message]
 #: ./utils/firsttime.cfg:162
@@ -5209,7 +5211,7 @@ msgstr ""
 #. [part]
 #: ./utils/storytxt.cfg:38
 msgid "My first duty as a mayor was restoring the damage of the war. It involves damages on villages, farms, roads, forests, bla bla bla. Cleaning of the River was also the important job. The previous (temporal) mayor had tried to clean up the river by killing hostile lives there. But I decided to choose more peaceful way to cleanup the River. It took several months to begin negotiations with nagas. But finally, we managed to make peace. We appreciate the smart and kind goblin and the brave naga for bringing a peace in this land."
-msgstr "Meu primeiro dever como prefeito era restaurar o dano da guerra. Isso envolvia danos as aldeias, fazendas, ruas, florestas, bla bla bla. A limpeza do Rio também era um trabalho importante. O prefeito (temporário) anterior tentou limpar o rio matando as vidas hostis vivendo lá. Mas eu decidi escolher meios mais pacíficos para a limpeza do Rio. Levou vários meses para começar as negociações com os nagas. Mas finalmente, nós conseguimos estabelecer paz. Nós agradecemos ao gentil e esperto góblin e o bravo naga por trazer paz nesta terra."
+msgstr "Meu primeiro dever como prefeito era restaurar o dano da guerra. Isso envolvia danos as aldeias, fazendas, ruas, florestas, bla bla bla. A limpeza do Rio também era um trabalho importante. O prefeito (temporário) anterior tentou limpar o rio matando as vidas hostis vivendo lá. Mas eu decidi escolher meios mais pacíficos para a limpeza do Rio. Levou vários meses para começar as negociações com os nagas. Mas finalmente, nós conseguimos estabelecer paz. Nós agradecemos ao gentil e esperto góblin e o bravo naga por trazerem paz para esta terra."
 
 #. [part]
 #: ./utils/storytxt.cfg:41
@@ -5221,6 +5223,10 @@ msgid ""
 "I hate wars, but I have anticipated this new war, I made a preparation of the war during these two years. Both of former outposts are restored as small forts, and the North fort aside the River is rebuilt as a small castle. But east and west guards are not enough now. We have a lot of things to do. Honestly, the war itself is within the range of prediction, but I do not think this land is involved again. There are many other unexpected, unwelcome things. The most unexpected fact among them is ..."
 msgstr ""
 "Agora, quase dois anos se passaram desde que eu me tornei prefeito. A paz está preparando para trazer um próspero futuro para nossa terra. Mas ... a outra guerra aconteceu como eu imaginei.\n"
+"\n"
+"Infelizmente, nossa terra IRÁ ser envolvida nesta nova guerra. Nós temos que nos preparar para a guerra. Eu expliquei imediatamente a situação ao Clammy e pedi para ele se juntar como funcionário do quartel-general . Este bravo góblin alegremente aceitou minha oferta. Honestamente, eu não queria envolvê-lo. Mas é praticamente impossível encontrar uma pessoa melhor do que ele.\n"
+"\n"
+"Eu odeio guerras, mas eu antecipei esta nova guerra, eu fiz seu preparo durante esses dois anos. Ambos os antigos postos avançados foram reformados como pequenos fortes, e o Forte do Norte foi reconstruído ao lado do Rio como um pequeno castelo. Mas os guardas do leste e oeste não são suficientes agora. Nós temos muitas coisas a fazer. Honestamente, a guerra em si está dentro do esperado, mas eu não acho que a terra em si será envolvida novamente. Há várias outras coisas inesperadas e indesejadas. A mais inesperada dentre elas é ..."
 
 #. [part]
 #: ./utils/storytxt.cfg:48
@@ -5241,7 +5247,7 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"O Reino recentemente mudou de ideia sobre atitudes em direção a raças não humanas... Essas palavras não são tão corretas, porque a atitudedeles contra elfos e anões não mudou significativamente. De qualquer forma, o problema é a atitude na direção de raças como góblins, nagas e lagartos. O Reino comandou-me para retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu negociei pacientemente com eles, mas em vão."
+"O Reino recentemente mudou de ideia sobre atitudes com as raças não humanas... Essas palavras não são tão corretas, porque a atitudedeles com elfos e anões não mudou significativamente. De qualquer forma, o problema é a atitude com raças como góblins, nagas e lagartos. O Reino comandou-me para retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu negociei pacientemente com eles, mas em vão."
 
 #. [part]
 #: ./utils/storytxt.cfg:64
@@ -5250,7 +5256,7 @@ msgid ""
 "\n"
 "There had been some other ways, but I decided ... to fight against the Kingdom ... or, against the world. Our allies are small bunch of goblins and nearly extinct nagas. Kingdom, Empire, and all the allies of them are the enemies. Such war is apparently ridiculous. I will surely die in the war, but our will stay longer in this world and will change something."
 msgstr ""
-"Então, aquele burocraa desgraçado e arrogante veio da capital, Crownia, para publicar e executar a nova lei. Eu prendi aquele verme e forcei-o a retornar. Honestamente, eu queria fazê-lo retornar ao barro. De qualquer forma, este evento fez-me perceber que não há tempo para negociação.\n"
+"Então, aquele burocrata desgraçado e arrogante veio da capital, Coronia, para publicar e executar a nova lei. Eu prendi aquele verme e forcei-o a retornar. Honestamente, eu queria fazê-lo retornar ao barro. De qualquer forma, este evento fez-me perceber que não há tempo para negociação.\n"
 "\n"
 "Havia outros jeitos, mas eu decidi ... em lutar contra o Reino ... ou, contra o mundo. Nossos aliados são um pequeno punhado de góblins e os quase extintos nagas. Reino, Império e todos os aliados deles são os inimigos. Tal guerra é aparentemente ridícula. Eu com certeza irei morrer nesta guerra, mas nosso desejo permanecerá neste mundo e mudará algo."
 
