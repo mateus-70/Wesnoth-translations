@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2021-01-04 20:52-0300\n"
+"PO-Revision-Date: 2021-01-08 23:28-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -2417,7 +2417,7 @@ msgstr "...?"
 #. [unit]: type=Master Bowman, id=ChristopherDummy
 #: ./scenarios/Field.cfg:3245 ./scenarios/Field.cfg:3456 ./utils/message_speakers.cfg:18
 msgid "Christopher"
-msgstr "Christopher"
+msgstr "Cristofer"
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:3260 ./scenarios/Field.cfg:3524
@@ -2437,7 +2437,7 @@ msgstr "... Quem é você? Aqui é o escritório do prefeito. (... Por que esses
 #. [message]
 #: ./scenarios/Field.cfg:3283
 msgid "Goblin...? Oh, so you are Clammy. Amazingly smart goblin you are! I am Christopher, a friend of your lord. We, Arsenio, Heinrich, and Andrzej were roommates at the academy."
-msgstr "Um góblin...? Oh, então você é Clammy. Você é um góblin surpreendentemente esperto! Eu sou Christopher, um amigo do seu lorde. Nós, Arsenio, Heinrich e Andrzej éramos colegas de turma na academia."
+msgstr "Um góblin...? Oh, então você é o Clammy. Você é um góblin surpreendentemente esperto! Eu sou Cristofer, um amigo do seu mestre. Nós, Arsenio, Heinrich e Andrzej éramos colegas de turma na academia."
 
 #. [message]
 #: ./scenarios/Field.cfg:3288
@@ -2452,12 +2452,12 @@ msgstr "Motivo? Você diz que eu devo ter um motivo para ver um amigo? Ridículo
 #. [message]
 #: ./scenarios/Field.cfg:3298
 msgid "I agree. Reasons are not really necessary to see a friend... as long as it is peaceful days."
-msgstr "Eu concordo. Motivos não são de fato necessário para ver um amigo... pelo menos enquanto forem dias de paz."
+msgstr "Eu concordo. Motivos não são de fato necessário para ver um amigo... pelo menos em dias de paz."
 
 #. [message]
 #: ./scenarios/Field.cfg:3303
 msgid "? You say it is not peaceful days now? New war happens recently? If so, I should go back to my job immediately. Actually, I left the current job without any reports to colleagues. Ah.. I must apologize to that idiot boss. Anyway, where does the war happen?"
-msgstr "? Você quer dizer que não são dias pacíficos agora? Uma nova guerra aconteceu recentemente? Se sim, eu devo voltar imediatamente ao meu trabalho. Na verdade, eu deixei meu trabalho atual sem nem avisar meus colegas. Ah.. Eu devo pedir desculpas para aquele chefe idiota. De qualquer forma, onde a guerra acontece?"
+msgstr "? Você quer dizer que agora não são dias pacíficos? Uma nova guerra aconteceu recentemente? Se sim, eu devo voltar imediatamente ao meu trabalho. Na verdade, eu deixei meu trabalho atual sem nem avisar meus colegas. Ah.. Eu devo pedir desculpas para aquele chefe idiota. De qualquer forma, onde é a guerra?"
 
 #. [message]
 #: ./scenarios/Field.cfg:3308
@@ -2507,7 +2507,7 @@ msgstr "Ei Clammy, você deve estar brincando comigo. Você é realmente intelig
 #. [message]
 #: ./scenarios/Field.cfg:3375
 msgid "(is Clammy kidding Christopher?)"
-msgstr "(Clammy está brincando com Christopher?)"
+msgstr "(Clammy está brincando com Cristofer?)"
 
 #. [option]
 #: ./scenarios/Field.cfg:3377
@@ -2517,7 +2517,7 @@ msgstr "Não está brincando."
 #. [option]
 #: ./scenarios/Field.cfg:3380
 msgid "Too bad."
-msgstr "Bem ruim."
+msgstr "Muito ruim."
 
 #. [option]
 #: ./scenarios/Field.cfg:3383
@@ -2533,12 +2533,12 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"O único caminho que resta é me juntar a ti. Ah! Eu me junto a vocês! Droga!!"
+"O único caminho que resta é me juntar a vocês. Ah! Eu me junto a vocês! Droga!!"
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:3398
 msgid "Christopher joins Fusia as a commander!"
-msgstr "Christopher junta-se a Fusia como um comandante!"
+msgstr "Cristofer junta-se a Fusia como um comandante!"
 
 #. [unit]: type=Elvish Sharpshooter, id=Arsenio
 #: ./scenarios/Field.cfg:3474 ./utils/message_speakers.cfg:24
@@ -2579,7 +2579,7 @@ msgstr ""
 #. [message]
 #: ./scenarios/Field.cfg:3544
 msgid "I know only human liquors available around here, terribly bad orcish ones, and drakish ones. Human liquors and drakish ones are different, but both are yummy."
-msgstr "Eu só conheço os licores humanos ao redor daqui, os terríveis licores dor orcs, e dos draconatos. Licores dos humanos e dos draconatos são diferentes, mas ambos são deliciosos."
+msgstr "Eu só conheço os licores humanos ao redor daqui, os terríveis licores dos orcs, e dos draconatos. Licores dos humanos e dos draconatos são diferentes, mas ambos são deliciosos."
 
 #. [message]
 #: ./scenarios/Field.cfg:3549
@@ -2589,12 +2589,12 @@ msgstr "Licores... cervejas... Eu quero beber... Nós não conseguimos beber ess
 #. [message]
 #: ./scenarios/Field.cfg:3554
 msgid "(I am sure they may not know the situation. It sounds very good!)"
-msgstr "(Eu tenho certeza que eles não sabem a situação. Isso soa muito bom!)"
+msgstr "(Eu tenho certeza que eles não sabem a situação. Isso soa muito bem!)"
 
 #. [message]
 #: ./scenarios/Field.cfg:3559
 msgid "You wanna drink? Ah, you are really alcoholics as usual. Ok, I will treat you instead of that very busy mayor. Fortunately I know this city very well."
-msgstr "Vocês querem beber? Ah, vocês são muito alcoólatras como sempre. Ok, eu tratarei de vocês ao invés daquele prefeito muito ocupado. Felizmente eu conheço esta cidade muito bem."
+msgstr "Vocês querem beber? Ah, vocês estão bem alcoólatras como sempre. Ok, eu tratarei de vocês ao invés daquele prefeito muito ocupado. Felizmente eu conheço muito bem esta cidade."
 
 #. [message]
 #: ./scenarios/Field.cfg:3564
@@ -2609,7 +2609,7 @@ msgstr "Hehehe..."
 #. [message]
 #: ./scenarios/Field.cfg:3621
 msgid "... You said nothing, as usual, and we will get two another commanders."
-msgstr "... Você não disse nada, como sempre, e nós obtemos outros dois comandantes."
+msgstr "... Você não disse nada, como sempre, e nós obteremos outros dois comandantes."
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:3636
@@ -2619,7 +2619,7 @@ msgstr "(três horas depois...)"
 #. [message]
 #: ./scenarios/Field.cfg:3641
 msgid "Phew. Great beers! By the way, are there any events in the Kingdom recently? As we had been in the mountains, we know nothing about recent events."
-msgstr "Ufa. Ótimas cervejas! A propósito, há eventos recentes no Reino recentemente? Como nós estávamos nas montanhas, nós não sabemos de eventos recentes."
+msgstr "Ufa. Ótimas cervejas! A propósito, ocorreu algum evento recentemente no Reino? Como nós estávamos nas montanhas, nós não sabemos de eventos recentes."
 
 #. [message]
 #: ./scenarios/Field.cfg:3646
@@ -2629,7 +2629,7 @@ msgstr "Hm. Houve um grande evento. Uma província declarou independência do Re
 #. [message]
 #: ./scenarios/Field.cfg:3651
 msgid "... It is surprising. I get sober a little bit, another glass of liquor is necessary. Anyway, which province? I cannot guess what idiot does such a silly affair. Tell us details."
-msgstr "... É surpreendente. Eu fiquei um pouco sóbrio, outro copo de licor é necessário. De qualquer maneira, qual província? Eu não consigo adivinhar que idiota faria negócios tão bobos. Diga-nos os detalhes."
+msgstr "... É surpreendente. Eu fiquei um pouco sóbrio, outro copo de licor é necessário. De qualquer maneira, qual província? Eu não consigo adivinhar que idiota faria uma coisa tão boba. Conte-nos detalhes."
 
 #. [message]
 #: ./scenarios/Field.cfg:3656
@@ -2727,7 +2727,7 @@ msgstr "(parece bem irritado)"
 #. [message]
 #: ./scenarios/Field.cfg:3844
 msgid "Hi. I am Clammy. Nice to meet you, Andrzej. Can I ask you why you are so angry?"
-msgstr "Oi. Eu sou Clammy. Prazer em conhecer você, Andrzej. Posso perguntar porque você está tão irritado?"
+msgstr "Oi. Eu sou Clammy. Prazer em conhecer você, Andrzej. Posso perguntar por que você está tão irritado?"
 
 #. [message]
 #: ./scenarios/Field.cfg:3849
@@ -2736,9 +2736,9 @@ msgid ""
 "\n"
 "I can understand why Fusia betrays the Kingdom. But I cannot understand why that trickster and alcoholics suddenly betray Kingdom. Did you ask them to join you before the declaration? Why you didn’t ask me?"
 msgstr ""
-"Hm. Prazer em conhecer você, Clammy. Eu estou irritado pela traiçao de Christopher, Arsenio, Heinrich e destecara.\n"
+"Hm. Prazer em conhecer você, Clammy. Eu estou irritado por causa da traição de Cristofer, Arsenio, Heinrich e deste cara.\n"
 "\n"
-"Eu posso entender o porquê Fusia trai o Reino. Mas eu não consigo entender o porquê esse vigarista e os alcoólicos de repente traem o Reino. Você pediu a ele para se unirem a vocês antes da declaração? Por que você não me pediu?"
+"Eu posso entender o porquê Fusia traiu o Reino. Mas eu não consigo entender o porquê esse vigarista e os alcoólicos de repente traíram o Reino também. Você pediu a ele para se unirem a vocês antes da declaração? Por que você não me pediu?"
 
 #. [message]
 #: ./scenarios/Field.cfg:3856
@@ -2759,7 +2759,7 @@ msgid ""
 msgstr ""
 "... Certo, eu responderei ao invés daquele cara silencioso.\n"
 "\n"
-"Este cara pediu para eu me juntar antecipadamente, mas ele não pediu para o Christopher, o Arsenio, o Heinrich e você, para não incomodar."
+"Este cara pediu para eu me juntar antecipadamente, mas ele não pediu para Cristofer, Arsenio, Heinrich nem você, para não incomodar."
 
 #. [message]
 #: ./scenarios/Field.cfg:3873
@@ -2773,9 +2773,9 @@ msgid ""
 "\n"
 "For other two, Christopher tricked them to join Fusia using alcohols... when they accidentally visited here after their mission in the eastern mountains."
 msgstr ""
-"Primeiramente, Christopher acidentalmente visitou-nos logo após a declaração, sem avisar seus colegas. Ele perdeu o caminho de volta e juntou-se à Fusia.\n"
+"Primeiramente, Cristofer acidentalmente visitou-nos logo após a declaração, sem avisar seus colegas. Ele perdeu o caminho de volta e juntou-se à Fusia.\n"
 "\n"
-"Para os outros dois, Christopher enganou-os para juntar-se a Fusia usando álcool... quando eles acidentalmente visitaram este lugar depois da missão nas montanhas do leste."
+"Para os outros dois, Cristofer enganou-os para juntar-se a Fusia usando álcool... quando eles acidentalmente visitaram este lugar depois da missão nas montanhas do leste."
 
 #. [message]
 #: ./scenarios/Field.cfg:3885
@@ -2806,7 +2806,7 @@ msgid ""
 msgstr ""
 "Hm. Você é realmente brilhante, Clammy.\n"
 "\n"
-"Ei meu novo lorde, eu quero fazer uma requisição à você. Posso atirar um míssil mágico no vigarista? Porque o erro dele colocou em risco minha vida."
+"Ei meu novo mestre, eu quero fazer uma requisição à você. Posso atirar um míssil mágico no vigarista? Porque o erro dele colocou em risco minha vida."
 
 #. [message]
 #: ./scenarios/Field.cfg:3915
@@ -2831,7 +2831,7 @@ msgstr "Hm. Obrigado."
 #. [message]
 #: ./scenarios/Field.cfg:3941
 msgid "Christopher, rest in peace."
-msgstr "Christopher, descanse em paz."
+msgstr "Cristofer, descanse em paz."
 
 #. [message]
 #: ./scenarios/Field.cfg:3955
@@ -2861,12 +2861,12 @@ msgstr "Chefe! Eu voltei!"
 #. [message]
 #: ./scenarios/Field.cfg:4106
 msgid "... You are $eptmp.name|?"
-msgstr "... Você é $eptmp.name|?"
+msgstr "... É você $eptmp.name|?"
 
 #. [message]
 #: ./scenarios/Field.cfg:4111
 msgid "Yes, Clammy. I come back here to fight together with the boss and you again!"
-msgstr "Sim, Clammy. Eu voltei aqui para lutar junto ao chefe e a você novamente!"
+msgstr "Sim, Clammy. Eu voltei aqui para lutar junto ao chefe e à você novamente!"
 
 #. [message]
 #: ./scenarios/Field.cfg:4116
@@ -2906,7 +2906,7 @@ msgstr "... Você era um soldado Imperial naquela guerra?"
 #. [message]: speaker=Assassin
 #: ./scenarios/Field.cfg:4253
 msgid "Yes. But I was a low-ranked officer at that time. I have promoted to the current position due to the many deaths of generals in that war. So, I should thank someone who killed them. And of course I know you, Mr. Clammy. Your fame as a tactician is also spreading out among the Empire. We, Imperial army, are respecting and afraid of you. I come here to propose a plan benefitable to all of us."
-msgstr "Sim. Mas eu era um ofical de baixa patente naqueles tempos. Eu fui promovido à minha posição atual devido a grande quantidade de mortes de generais naquela guerra. Então eu devo agradecer alguém, quem os matou. E com certeza eu conheço você, Sr. Clammy. Sua fama como tático também se espalha Império afora. Nós do exército Imperial, respeitamos e temos medo de você. Eu venho aqui propor um plano benéfico para todos nós."
+msgstr "Sim. Mas eu era um ofical de baixa patente naqueles tempos. Eu fui promovido à minha posição atual devido a grande quantidade de mortes de generais naquela guerra. Então eu devo agradecer quem os matou. E com certeza eu conheço você, Sr. Clammy. Sua fama como tático também se espalha Império afora. Nós do exército Imperial, respeitamos e temos medo de você. Eu venho aqui propor um plano benéfico para todos nós."
 
 #. [message]
 #: ./scenarios/Field.cfg:4263
@@ -2916,7 +2916,7 @@ msgstr "Qual é o plano?"
 #. [message]: speaker=Assassin
 #: ./scenarios/Field.cfg:4268
 msgid "Our main enemy is the Kingdom, not Fusia. We can permit this country and its independence if you support attack to the Kingdom. This place is actually an important place for transporting, but we really need is a fertile land which can yield plenty of foods. As you know, most of our land is dry, not fertile."
-msgstr "Nosso inimigo principal é o Reino, não Fusia. Nós podemos permitir este país com sua independência se vocês nos ajudarem a atacar o Reino. Este lugar é na verdade um lugar importante para transporte, mas nós precisamos mesmo é de uma terra fértil onde poçamos plantar comida em abundância. Como vocês sabem, a maior parte de nossa terra é seca, infértil."
+msgstr "Nosso inimigo principal é o Reino, não Fusia. Nós podemos permitir este país com sua independência se vocês nos ajudarem a atacar o Reino. Este lugar é na verdade um lugar importante para transporte, mas nós precisamos mesmo é de uma terra fértil onde possamos plantar comida em abundância. Como vocês sabem, a maior parte de nossa terra é seca, infértil."
 
 #. [message]
 #: ./scenarios/Field.cfg:4273
@@ -2948,7 +2948,7 @@ msgstr "(Clammy, o que você acha? Eu conheço a maioria dos generais Imperiais,
 #. [message]
 #: ./scenarios/Field.cfg:4301
 msgid "(... We should not reject this offer. But... I feel uneasy from him. There might be something wrong...)"
-msgstr "(... Nós não devemos rejeitar esta oferta. Mas... sinto-me desconfortável com ele. Pode haver algo errado...)"
+msgstr "(... Nós não devemos rejeitar esta oferta. Mas... sinto-me desconfortável com ele. Pode ter algo errado...)"
 
 #. [message]: speaker=Assassin
 #: ./scenarios/Field.cfg:4306
@@ -2988,12 +2988,12 @@ msgstr "Mig, nos diga mais detalhes."
 #. [message]: speaker=Mig
 #: ./scenarios/Field.cfg:4356
 msgid "This coward was one of the generals guarding this fort at that war. When the fort was fallen, this coward commanded us to block the pursuit of the Kingdom army. Ah, of course that coward immediately escaped after commanding us just to save his life."
-msgstr "Este covarde foi um dos generais deste forte naquela guerra. Quando o forte caiu, este covarde comandou-nos para impedir a perseguição do exército do Reino. Ah, claro que aquele covarde escapou imediatamente depois de comandar-nos só para salvar sua vida."
+msgstr "Este covarde foi um dos generais deste forte naquela guerra. Quando o forte caiu, este covarde ordenou-nos para impedir a perseguição do exército do Reino. Ah, claro que aquele covarde escapou imediatamente depois de ordenar, só para salvar sua vida."
 
 #. [message]
 #: ./scenarios/Field.cfg:4361
 msgid "That sounds bad, but it is not so uncommon..."
-msgstr "Isso soa ruim, mas não tão incomum..."
+msgstr "Isso soa mau, mas não tão incomum..."
 
 #. [message]: speaker=Hid
 #: ./scenarios/Field.cfg:4366
@@ -3003,12 +3003,12 @@ msgstr "A história não terminou ainda, infelizmente. Nós conseguimos afugenta
 #. [message]: speaker=Mig
 #: ./scenarios/Field.cfg:4371
 msgid "We could not understand what was going on then. We had waited and asked the guards with patience. Then, the final answer had come from the fort. It was an arrow. They shot us. All we could do was getting away from the fort."
-msgstr "Nós não conseguimos entender o que estava acontecendo com eles. Nós esperamos e pedimos aos guardas com paciência. Então, a resposta final veio do forte. Era uma flecha. Eles atiraram em nós. Tudo o que pudemos fazer era se distanciar do forte."
+msgstr "Nós não conseguimos entender o que estava acontecendo com eles. Nós esperamos e pedimos aos guardas com paciência. Então, a resposta final veio do forte. Era uma flecha. Eles atiraram em nós. Tudo o que pudemos fazer foi se distanciar do forte."
 
 #. [message]: speaker=Mig
 #: ./scenarios/Field.cfg:4376
 msgid "According to the friends in the Empire, the reason why we were attacked was clarified. That coward reported we soldiers betrayed the Empire and repelled generals from the fort. I cannot understand why people can believe such a cheap lie."
-msgstr "De acordo com os amigos no Império, o motivo pelo qual nós fomos atacados foi esclarecida. Aquele covarde reportou que nós traímos o Império e expulsou generais do forte. Eu não consigo entender o porquê das pessoas conseguirem acreditar numa mentira tão barata."
+msgstr "De acordo com os amigos no Império, o motivo pelo qual nós fomos atacados foi esclarecido. Aquele covarde reportou que nós traímos o Império e expulsou generais do forte. Eu não consigo entender o porquê das pessoas conseguirem acreditar numa mentira tão barata."
 
 #. [message]: speaker=Hid
 #: ./scenarios/Field.cfg:4381
@@ -3023,7 +3023,7 @@ msgstr "Eu... Eu... sou..."
 #. [message]
 #: ./scenarios/Field.cfg:4400
 msgid ".... This dagger seems to be dipped in some toxin. So this guy tries to assassinate my lord? Ridiculous. It is very hard to expect such a desperate aim. The assassination never be succeeded even when those two guards do not stop this idiot. Mig and Hid, this one is not merely a coward! This is amazingly stupid!"
-msgstr ".... Esta adaga parece ter sido mergulhada em alguma toxina. Então esse cara tenta assassinar meu lorde? Ridículo. É bem difícil imaginar um objetivo tão desesperado. O assassinato nunca teria sucesso mesmo quando esses dois guardas não parassem esse idiota. Mig e Hig, esse aí não é meramente um covarde! É surpreendentemente estúpido!"
+msgstr ".... Esta adaga parece ter sido mergulhada em alguma toxina. Então esse cara tenta assassinar meu mestre? Ridículo. É bem difícil imaginar um objetivo tão desesperado. O assassinato nunca teria sucesso mesmo se esses dois guardas não parassem esse idiota. Mig e Hig, esse aí não é meramente um covarde! É surpreendentemente estúpido!"
 
 #. [message]
 #: ./scenarios/Field.cfg:4405
@@ -3033,7 +3033,7 @@ msgstr "(O que é realmente surpreendente para mim é esses dois guardas... Eles
 #. [message]
 #: ./scenarios/Field.cfg:4410
 msgid "Someone in the Empire might command this suicidal mission to this idiot. The commander itself is not so important. Empire directly takes an action to Fusia, it is the problem. They may begin direct military actions to us. We should take a care to the north region more."
-msgstr "Alguém do Império pode ter comandado esta missão suicida a este idiota. O comandante em si não é tão importante. O Império tomou uma ação direta contra Fuisa, isto é o problema. Eles podem começar ações militares diretas sobre nós. Nós devemos ter mais cuidado da região norte."
+msgstr "Alguém do Império pode ter ordenado esta missão suicida a este idiota. O comandante em si não é tão importante. O Império tomou uma ação direta contra Fuisa, este é o problema. Eles podem começar ações militares diretas sobre nós. Nós devemos ter mais cuidado da região norte."
 
 #. [message]: speaker=Mig
 #: ./scenarios/Field.cfg:4415
@@ -3048,7 +3048,7 @@ msgstr "Não. Nós não temos tempo suficiente e saber o nome não é tão bené
 #. [message]: speaker=Assassin
 #: ./scenarios/Field.cfg:4425
 msgid "NO! PLEASE! PLEASE LET ME ALIVE!!"
-msgstr "NÃO! POR FAVOR! POR FAVOR DEIXE-ME VIVER!!"
+msgstr "NÃO! POR FAVOR! POR FAVOR ME DEIXEM VIVER!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:4430
@@ -3119,12 +3119,12 @@ msgstr "(Eu não sei o que ele está fazendo. Ele está realmente me protegendo.
 #. [message]
 #: ./scenarios/Field.cfg:5069
 msgid "(He is guarding me.. Maybe, he is really guarding me.... Still, I cannot believe it... Did he already know Christopher, Arsenio, Heinrich, and Andrzej? It is unconceivable... What is the criteria for him? That was just a lucky?"
-msgstr "(Ele está me protegendo.. Talvez, ele está realmente me protegendo.... Ainda, eu não consigo acreditar... Ele já conhecia Christopher, Arsenio, Heinrich e Andrzej? É inconcebível... Qual é o critério para ele? Aquilo foi somente sorte?)"
+msgstr "(Ele está me protegendo.. Talvez, ele esteja realmente me protegendo.... Ainda, eu não consigo acreditar... Ele já conhecia Cristofer, Arsenio, Heinrich e Andrzej? É inconcebível... Qual é o critério para ele? Aquilo foi somente sorte?)"
 
 #. [message]
 #: ./scenarios/Field.cfg:5075
 msgid "(He is always looking around.)"
-msgstr "(Ele sempre está olhando por toda parte.)"
+msgstr "(Ele sempre está olhando em volta.)"
 
 #. [message]
 #: ./scenarios/Field.cfg:5079
@@ -3134,7 +3134,7 @@ msgstr "(...mas ele nunca se move daquele lugar. Ele olha de relance para todas 
 #. [message]
 #: ./scenarios/Field.cfg:5083
 msgid "(Who assigned these two soldiers here? At least, it is not me...)"
-msgstr "(Quem fixou esses dois soldados aqui? Pelo menos, não fui eu...)"
+msgstr "(Quem colocou esses dois soldados aqui? Pelo menos, não fui eu...)"
 
 #. [message]
 #: ./scenarios/Field.cfg:5104
@@ -3149,7 +3149,7 @@ msgstr "Oi, você tem uma requisição para mim?"
 #. [option]
 #: ./scenarios/Field.cfg:5187
 msgid "<span color='yellow'>Send special treasure to merfolks and persuade to join us.</span>"
-msgstr "<span color='yellow'>Envie um tesouro especial aos merfolks e persuadir eles a unirem-se a nós.</span>"
+msgstr "<span color='yellow'>Envie um tesouro especial aos merfolks e persuada-os a unirem-se a nós.</span>"
 
 #. [message]
 #: ./scenarios/Field.cfg:5196
@@ -3169,7 +3169,7 @@ msgstr "Eles já nos deram uma requisição. Você quer requisitar outra tarefa?
 #. [message]
 #: ./scenarios/Field.cfg:5239
 msgid "They will surely request some treasure for our request. The request might become easier as our power increased. Try to persuade them now?"
-msgstr "Eles com certeza irão requisitar algum terouso para a tarefa. A requisição pode tornar-se mais fácil quando tivermos um grande poder. Tentar persuadir eles agora?"
+msgstr "Eles com certeza irão requisitar algum terouso pela nossa requisição. A requisição pode tornar-se mais fácil quando tivermos um grande poder. Tentar persuadir eles agora?"
 
 #. [option]
 #: ./scenarios/Field.cfg:5242
