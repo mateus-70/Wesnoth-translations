@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2021-01-08 23:28-0300\n"
+"PO-Revision-Date: 2021-01-14 19:25-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -3193,17 +3193,17 @@ msgstr "Você precisa de um mapa?"
 #. [option]
 #: ./scenarios/Field.cfg:5270
 msgid "Get a new treasure map for <span color='yellow'>5g</span>!"
-msgstr "Obtenha um novo mapa do tesouro por <span color='yellow'>5 ouro</span>!"
+msgstr "Obtenha um novo mapa do tesouro por <span color='yellow'>5 ouros</span>!"
 
 #. [message]
 #: ./scenarios/Field.cfg:5281
 msgid "Hm. Here is the new map. I hope you will find something valuable treasure. Let me see if you find out valuable one."
-msgstr "Hm. Aqui está o novo mapa. Eu espero que você encontre algum tesouro valioso. Deixe eu saber se você encontra algum valioso."
+msgstr "Hm. Aqui está o novo mapa. Eu espero que você encontre algum tesouro valioso. Deixe-me saber se você encontrar algum valioso."
 
 #. [message]
 #: ./scenarios/Field.cfg:5297
 msgid "Ugh. Sorry, no maps are left now. Please wait for a while. I will bring at least one map when I come here next time."
-msgstr "Aff. Desculpe, nenhum mapa restou. Por favor espere um pouco. Eu trarei pelo menos um mapa quando eu retornar aqui na próxima vez."
+msgstr "Aff. Desculpe, não resta nenhum mapa. Por favor espere um pouco. Eu trarei pelo menos um mapa quando eu retornar aqui na próxima vez."
 
 #. [option]
 #: ./scenarios/Field.cfg:5305
@@ -3237,7 +3237,7 @@ msgid ""
 "<span size='smaller'>costs <span color='yellow'>2g</span> to send; costs <span color='yellow'>1g</span> to keep every turn</span>"
 msgstr ""
 "Enviar um espião\n"
-"<span size='smaller'>custo <span color='yellow'>2 ouros</span> para enviar; custos <span color='yellow'>1 ouro</span> para manter a cada turno</span>"
+"<span size='smaller'>custo <span color='yellow'>2 ouros</span> para enviar; custos <span color='yellow'>1 ouro</span> para manter por turno</span>"
 
 #. [option]
 #: ./scenarios/Field.cfg:5407
@@ -3247,7 +3247,7 @@ msgstr "Informações sobre outros lados (precisa de um espião ativo)"
 #. [option]
 #: ./scenarios/Field.cfg:5428
 msgid "Send an emissary to other side."
-msgstr "Enviar um emissário ao outro lado."
+msgstr "Enviar um emissário a outro lado."
 
 #. [message]
 #: ./scenarios/Field.cfg:5440
@@ -3318,13 +3318,13 @@ msgid ""
 "<span color='yellow'>Recruit an experienced commander for <b>40g</b>\n"
 "<span size='smaller'>NOTE: a level 2 unit who can be a leader of squad</span></span>"
 msgstr ""
-"<span color='yellow'>Recrutar uma comandante experiênte por <b>40 ouros</b>\n"
+"<span color='yellow'>Recrutar um comandante experiente por <b>40 ouros</b>\n"
 "<span size='smaller'>NOTA: uma unidade nível 2 que pode liderar um esquadrão</span></span>"
 
 #. [option]
 #: ./scenarios/Field.cfg:5639
 msgid "<span color='yellow'>Recruit a spearman or bowman for <b>10g</b></span>"
-msgstr "<span color='yellow'>Recrutar um lanceiro desmontado ou um arqueiro por <b>10 ouros</b></span>"
+msgstr "<span color='yellow'>Recrutar um lanceiro desmontado ou arqueiro por <b>10 ouros</b></span>"
 
 #. [option]
 #: ./scenarios/Field.cfg:5652
@@ -3347,7 +3347,7 @@ msgid ""
 "<span size='smaller'>NOTE: costs <b>1g</b> to keep when they are on the Field</span></span>"
 msgstr ""
 "<span color='yellow'>Recrutar um grupo de engenheiros por <b>20 ouros</b>\n"
-"<span size='smaller'>NOTA: custa <b>1 ouro</b> para manter quando eles estão no Campo</span></span>"
+"<span size='smaller'>NOTA: custa <b>1 ouro</b> para manutenção quando eles estão no Campo</span></span>"
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:5706
@@ -3361,7 +3361,7 @@ msgid ""
 "<span size='smaller'>NOTE: costs <b>1g</b> to keep when they are on the Field. This unit is not useful in the early stage of the game!</span>"
 msgstr ""
 "Recrutar um Burocrata por <b>2 ouros</b>.\n"
-"<span size='smaller'>NOTA: custa <b>1 ouro</b> para manter quando eles estão no Campo. Esta unidade não é útil no estágio inicial do jogo!</span>"
+"<span size='smaller'>NOTA: custa <b>1 ouro</b> para manutenção quando eles estão no Campo. Esta unidade não é útil no estágio inicial do jogo!</span>"
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:5738
@@ -3442,7 +3442,7 @@ msgstr ""
 "<u>alvo</u>                 : $aiw_team[$aiw_side_stat[$work].target].name\n"
 "<u>aliado</u>               : $ally_text\n"
 "</tt>\n"
-"<span color='yellow'>Intimacy</span><tt>\n"
+"<span color='yellow'>Intimidade</span><tt>\n"
 "<u>intimidade</u>           : $aiw_side_stat[$work].intimacy\n"
 "</tt>"
 
@@ -3486,7 +3486,7 @@ msgstr "Obrigado. (Finalizar)"
 #. [message]
 #: ./scenarios/Field.cfg:6281
 msgid "To which side? Money will be delivered to the target side on the beginning of next turn."
-msgstr "Para qual lado? O dinheiro será entregue ao lado destino no início do próximo turno."
+msgstr "Para qual lado? O dinheiro será entregue ao lado destinatário no início do próximo turno."
 
 #. [message]
 #: ./scenarios/Field.cfg:6370
@@ -3496,7 +3496,7 @@ msgstr "O emissário não consegue ir lá sozinho, e não há necessidade de env
 #. [message]
 #: ./scenarios/Field.cfg:6426 ./scenarios/Field.cfg:6859
 msgid "How much amount?"
-msgstr "Qual quantida?"
+msgstr "Qual quantidade?"
 
 #. [option]
 #: ./scenarios/Field.cfg:6429 ./scenarios/Field.cfg:6862
@@ -3516,12 +3516,12 @@ msgstr "25 ouros"
 #. [option]
 #: ./scenarios/Field.cfg:6459 ./scenarios/Field.cfg:6892
 msgid "input value"
-msgstr "entrar com valor"
+msgstr "inserir um valor"
 
 #. [message]
 #: ./scenarios/Field.cfg:6463
 msgid "Please input amount of gold (input 0 to cancel)"
-msgstr "Por favor entre com a quantida de ouro (entre com 0 para cancelar)"
+msgstr "Por favor insira a quantidade de ouro (insira 0 para cancelar)"
 
 #. [text_input]
 #: ./scenarios/Field.cfg:6465 ./scenarios/Field.cfg:6898
@@ -3550,13 +3550,14 @@ msgstr "Primeiro, precisamos determinar qual lado atacar."
 
 #. [message]
 #: ./scenarios/Field.cfg:6545
+#, fuzzy
 msgid "Ask which side to attack $aiw_team[$aiw_emissary.attack].name|?"
 msgstr "Perguntar qual lado atacar $aiw_team[$aiw_emissary.attack].name|?"
 
 #. [message]
 #: ./scenarios/Field.cfg:6572
 msgid "$aiw_team[$aiw_emissary.attack].name| is very distant from $aiw_team[$aiw_emissary.target].name|. In my humble opinion, it may not be good idea to ask them. Do you really ask them?"
-msgstr "$aiw_team[$aiw_emissary.attack].name| é muito distante de $aiw_team[$aiw_emissary.target].name|. Na minha humilde opinião, pode não ser uma boa ideia pedir isso a eles. Você quer de fato pedir a eles?"
+msgstr "$aiw_team[$aiw_emissary.attack].name| é muito distante dos $aiw_team[$aiw_emissary.target].name|. Na minha humilde opinião, pode não ser uma boa ideia pedir isso a eles. Você quer realmente pedir a eles?"
 
 #. [option]
 #: ./scenarios/Field.cfg:6575 ./scenarios/Field.cfg:6610 ./scenarios/Field.cfg:6740
@@ -3591,7 +3592,7 @@ msgstr "Para qual lado? O emissário chegará ao lado destino no início do pró
 #. [message]
 #: ./scenarios/Field.cfg:6896
 msgid "Please input amount of gold"
-msgstr "Por favor entre com a quantia de ouro"
+msgstr "Por favor entre com a quantidade de ouro"
 
 #. [message]
 #: ./scenarios/Field.cfg:6996
@@ -3626,7 +3627,7 @@ msgstr "Países/Cidades"
 #. [message]
 #: ./scenarios/Field.cfg:7033 ./scenarios/Field.cfg:7050 ./scenarios/Field.cfg:7122
 msgid "Many cities in this land!! Which one!? Say!"
-msgstr "Muitas cidades nesta terra!! Qual especificamente!? Diga!"
+msgstr "Há muitas cidades nesta terra!! Qual especificamente!? Diga!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7040
@@ -3641,12 +3642,12 @@ msgstr "Cidades do Reino (ir ao submenu)"
 #. [message]
 #: ./scenarios/Field.cfg:7058
 msgid "Kingdom capital city in <b>South West</b>! The central city of the Kingdom in terms of many aspects! I believe this is the second greatest city in this land! It is vast and well-guarded!! The academy is also in this city!!! Ah?! What is the greatest city?! It is definitely Knerg! Dwarvish capital!!"
-msgstr "A capital do Reino fica a <b>Sudoeste</b>! A cidade central do Reino em muitos aspectos! Eu acredito que esta é a segunda maior cidade desta terra! É vasta e bem protegida!! A academia também fica nessa cidade!!! Ah?! Qual é a maior cidade?! É definitivamente Knerg! A capitão dos Anões!!"
+msgstr "A capital do Reino fica a <b>Sudoeste</b>! É a cidade central do Reino em muitos aspectos! Eu acredito que esta é a segunda maior cidade desta terra! É vasta e bem protegida!! A academia também fica nessa cidade!!! Ah?! Qual é a maior cidade?! É definitivamente Knerg! A capital dos Anões!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7070
 msgid "The biggest port of the Kingdom! Very urban place unlike here! It locates <b>West</b> from here, north of Crownia! Famous for good foods, metals, jewelries, beers, and liquors! Everything is available there! I want to move to that kind of rich city! But I don't like silent city like that!"
-msgstr "O maior porto do Reino! Um lugar muito urbanizado diferentemente daqui! Fica localizado a <b>Oeste</b> daqui, ao norte de Coronia! Famosa por comida boa, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
+msgstr "O maior porto do Reino! Um lugar muito urbanizado diferentemente daqui! Fica localizado a <b>Oeste</b> daqui, ao norte de Coronia! Famosa por boa comida, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7082
@@ -3671,7 +3672,7 @@ msgstr "Cidades do Império (ir ao submenu)"
 #. [message]
 #: ./scenarios/Field.cfg:7130
 msgid "Capital city of the Empire locating in the <b>North</b>! The biggest city in the north of the River! The vast plains around this city provides enormous amount of foods to the Empire! Attacking this city is incredibly hard due to the guard of the fort, the Mouth!!"
-msgstr "A capital do Império localiza-se no <b>Norte</b>! A maior cidade ao norte do Rio! As vastas planícies ao redor desta cidade fornece grandes quantidade de comida ao Império! Atacar esta cidade é incrivelmente difícil devido ao guarda do forte, A Boca!!"
+msgstr "A capital do Império localiza-se no <b>Norte</b>! A maior cidade ao norte do Rio! As vastas planícies ao redor desta cidade fornecem grandes quantidade de comida ao Império! Atacar esta cidade é incrivelmente difícil devido a guarda do forte, A Boca!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7142
@@ -3711,12 +3712,12 @@ msgstr "OK! Góblins são muito bravos e horríveis!"
 #. [message]
 #: ./scenarios/Field.cfg:7203
 msgid "Sand-human city <b>North West</b> from here! They are good merchants as well as good mercenaries!! They provide good irons and jewelries to us dwarves! There may be good mines in the mountain close to their city! They are tough negotiator but once promised they never break promises!!!"
-msgstr "A cidade dos homens da area ao <b>Nordeste</b> daqui! Eles são bons mercadores bem como mercenários!! Eles fornecem bons ferros e joalherias para nós anões! Pod haver boas minas naquela montanha próxima à cidade deles! Eles são negociadores duros mas uma vez que prometem eles nunca quebram suas promessas!!!"
+msgstr "A cidade dos homens a <b>Noroeste</b> daqui! Eles são bons mercadores e também bons mercenários!! Eles fornecem bons ferros e joalherias para nós anões! Pode haver boas minas naquela montanha próxima à cidade deles! Eles são negociadores duros mas uma vez que prometem eles nunca quebram suas promessas!!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7215
 msgid "Baragor...?! It is a pig farm! No civilization there!! Pigs are easily tamed by anything!! Foods, money, or battles!! But be care, they are too stupid to remember promises!!! Such uncivilized pigs must be exterminated!!"
-msgstr "Baragor...?! É uma fazenda de porcos! Nenhuma civilização lá!! Porcos são facilmente domáveis por qualquer coisa!! Comida, dinheiro, ou batalhas!! Mas tenha cuidado, eles são muito estúpidos para lembrar de promessas!!! Tais porcos incivilizados devem ser exterminados!!"
+msgstr "Baragor...?! É uma fazenda de porcos! Sem civilização lá!! Porcos são facilmente domáveis por qualquer coisa!! Comida, dinheiro ou batalhas!! Mas tenha cuidado, eles são muito estúpidos para lembrar de promessas!!! Tais porcos incivilizados devem ser exterminados!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7227
@@ -3732,17 +3733,17 @@ msgstr ""
 #. [message]
 #: ./scenarios/Field.cfg:7241
 msgid "Um, uncivilized residence of rocky idiots in <b>East</b>! They are stupid, greedy, coward, and stupid!! If you give money to those idiots, they definitely follow you!! They are really stupid and greedy!!! But I recommend you to annihilate them! Because their smell like ass!!"
-msgstr "Um, residência dos idiotas pedregosos incivilizados a <b>Leste</b>! Eles são estúpidos, ambiciosos, covardes e estúpidos!! Se você der dinheiro a esses idiotas, eles definitivamente seguirão você!! Eles são realmente estúpidos e ambiciosos!!! Mas eu recomendo você aniquilá-los porque eles cheiram igual um traseiro!!"
+msgstr "Hm, residência dos idiotas pedregosos incivilizados a <b>Leste</b>! Eles são estúpidos, ambiciosos, covardes e estúpidos!! Se você der dinheiro a esses idiotas, eles definitivamente seguirão você!! Eles são realmente estúpidos e ambiciosos!!! Mas eu recomendo você aniquilá-los porque eles cheiram igual um traseiro!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7253
 msgid "Sylvania... Residence of green monsters in the <b>West</b>.. Dull idiots often say they are peaceful race!! Ha, definitely not!! When I entered the Great Forest to get woods, they immediately shot me without any warnings!! They definitely tried to kill me!! Such violent monsters cannot be tamed!!!"
-msgstr "Sylvania... Residência dos monstros verdes a <b>Oeste</b>. Idiotas aborrecidos dizem que eles são uma raça pacífica!! Ha, definitivamente não!! Quando eu entrei na Floresta Grande para pegar madeira, eles imediatamente atiraram em mim sem avisar!! Eles definitivamente tentaram me matar!! Monstros tão violentos não podem ser domesticados!!!"
+msgstr "Sylvania... Residência dos monstros verdes a <b>Oeste</b>. Idiotas aborrecidos frequentemente dizem que eles são uma raça pacífica!! Ha, definitivamente não!! Quando eu entrei na Grande Floresta para pegar madeira, eles imediatamente atiraram em mim sem avisar!! Eles definitivamente tentaram me matar!! Monstros tão violentos não podem ser domesticados!!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7265
 msgid "Free Aqua?! It must be a fish market in <b>Far West</b>!!! I dont know fish market! There maybe so many fishes!! But there may not be irons and other metals!! We civilized beings cannot arrive there without ships! Ridiculous!!! I want to grill those damn fishes!!"
-msgstr "Free Aqua?! Deve ser uma mercado de peixes no <b>Oeste Distante</b>!!! Eu não conheço mercado de peixes! Deve haver tantos peixes!! Mas não deve ter ferros e outros metais!! Nós, seres civilizados não podemos chegar lá sem navios! Ridículo!!! Eu quero assar aqueles malditos peixes!!"
+msgstr "Águas Livres?! Deve ser uma mercado de peixes no <b>Extremo Oeste</b>!!! Eu não conheço mercados de peixe! Deve haver tantos peixes!! Mas não deve ter ferros e outros metais!! Nós, seres civilizados não podemos chegar lá sem navios! Ridículo!!! Eu quero assar aqueles malditos peixes!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7277
@@ -3767,17 +3768,18 @@ msgstr "Qual?! Diga imediatamente ou morra!!"
 #. [message]
 #: ./scenarios/Field.cfg:7314
 msgid "The biggest river in this land running from east to west! You definitely know it because the river run through this country! This big river is deep and the flow is strong!! Terrible barricade in the map!"
-msgstr "O maior rio nesta terra correndo do leste a oeste! Você definitivamente conhece-o porque o rio corre através deste país! Este rio é profundo e o fluxo é forte!! Uma barreira terrível no mapa!"
+msgstr "O maior rio nesta terra, correndo do leste a oeste! Você definitivamente conhece-o porque o rio corre através deste país! Este rio é profundo e o fluxo é forte!! Uma barreira terrível no mapa!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7325
 msgid "That is a river running through Wet Mountain City in south west!! This river is also deep and the flow is rather rapid!! What idiot call it <i>Silent</i> Stream?!! This river is nothing silent! Ridiculous!!"
-msgstr "Aquele é um rio corredo através da Cidade da Montanha Molhada, a sudoeste!! Este rio também é profundo e o flux é bem rápido! Que idiota chamou-o Corrente <i>Silenciosa</b>?!! Este rio não é nada silencioso! Ridículo!!"
+msgstr "Aquele é um rio corredo através da Cidade da Montanha Molhada, a sudoeste!! Este rio também é profundo e o fluxo é bem rápido! Que idiota chamou-o Córrego <i>Silencioso</b>?!! Este rio não é nada silencioso! Ridículo!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7337
+#, fuzzy
 msgid "This river flows into the River, the biggest one! But this happens very very upper part of the river! No one need to care such an unimportant river!! I never have visited there! That place is too far from here!!"
-msgstr "Este rio fui para O Rio, o maior de todos! Mas isso acontece bem bem acima no rio;;;;;;;;;;"
+msgstr "Este rio fui para O Rio, o maior de todos! Mas isso acontece bem bem acima no rio! Ninguém presta atenção num rio tão pouco importante!! Eu nunca visitei aquele lugar! Esse lugar é muito longe daqui!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7349
@@ -3787,22 +3789,23 @@ msgstr "Rio muito muito ordinário!! É fácil de utilizar! Bem melhor do que os
 #. [message]
 #: ./scenarios/Field.cfg:7361
 msgid "Huge lake in the south! Biggest lake around here!! Some idiot says this lake <i>Dreamy</i> because it is too beautiful! I hate that this too romantic name!! I wanna rename it!"
-msgstr "Grande lago ao sul! O maior lago por aqui!! Alguns idiotas dizem que este lago é <i>Sonhador</i> porque ele é muito belo! Eu odeio que isso seja um nome muito romântico!! Eu quero renomeá-lo!"
+msgstr "Um grande lago no sul! O maior lago por aqui!! Alguns idiotas dizem que este lago é <i>Sonhador</i> porque ele é muito belo! Eu odeio isso ser um nome muito romântico!! Eu quero renomeá-lo!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7373
+#, fuzzy
 msgid "Twin lake in the Valen mountains!! It is all! Ordinary humans cannot visit there!! That mountains are terribly steep!"
-msgstr "Os lagos gêmeos na Valen mountains!! É tudo! Humanos ordinários não conseguem visitar lá!! Aquelas montanhas são terrivelmente íngrimes!"
+msgstr "Os lagos gêmeos nas Montanhas do Vale!! É tudo! Humanos ordinários não conseguem visitar lá!! Aquelas montanhas são terrivelmente íngrimes!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7385
 msgid "Waterless lake?! That must be a frozen lake in far north-east!! Almost all the living beings never have visited there!! I wanna know what exists there! Rumor says there used to be a ruin of the demolished civilization!"
-msgstr "Lago seco?! Isso deve ser um lago congelado ao nordeste distante!! Quase todas as coisas vivas nunca visitaram lá!! Eu queria saber o que existe lá! Rumores dizem que costumava ter uma ruina de uma civilização demolida!"
+msgstr "Lago Seco?! Isso deve ser um lago congelado no extremo nordeste!! Quase todas as coisas vivas nunca visitaram aquele lugar!! Eu queria saber o que existe lá! Rumores dizem que costumava ter uma ruína de uma civilização demolida por lá!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7397
 msgid "Dark Pool?! It is just a puddle! Proper name is not necessary for such a minor puddle! It locates south of the orcish village! It must be full of orcish piss!!"
-msgstr "Piscina Negra?! É só uma poça! Nome própri não é necessário para tal pequena poça! Ela localiza-se ao sul da aldeia orc! Deve estar cheia de mijo de orc!!"
+msgstr "Charco Negro?! É só uma poça! Nome próprio não é necessário para uma pequena poça assim! Ela localiza-se ao sul da aldeia orc! Deve estar cheia de mijo de orc!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7409
@@ -3827,17 +3830,17 @@ msgstr "As colinas e montanhas ao redor da maior cidade, Knerg!! Aquele lugar é
 #. [message]
 #: ./scenarios/Field.cfg:7457
 msgid "Steep mountains around Wet Mountain City in the south west! This mountain and Silent Stream is a barricade in the map! They must be the final defense line of the Kingdom!! So Wet Mountain City is the critically important city for the Kingdom!"
-msgstr "Montanhas íngremes ao redor da Cidade da Montanha Molhada ao sudoeste! Esta montanha e a Corrente Silenciosa são uma barreira no mapa! Ela deve ser a linha defensiva final do Reino!! Então Cidade da Montanha Molhada é uma cidade criticamente importante para o Reino!"
+msgstr "Montanhas íngremes ao redor da Cidade da Montanha Molhada no sudoeste! Esta montanha e a Córrego Silencioso são uma barreira no mapa! Elas devem ser a linha defensiva final do Reino!! Assim, a Cidade da Montanha Molhada é uma cidade criticamente importante para o Reino!"
 
 #. [option]
 #: ./scenarios/Field.cfg:7464
 msgid "Undistributable Plain"
-msgstr "Planície Indisturbável"
+msgstr "Planície Imperturbável"
 
 #. [message]
 #: ./scenarios/Field.cfg:7469
 msgid "This is no-man's-land! No one knows the details about this place!! I wanna visit there! It is believed there used to be a great civilization in the very east of this land!! Heritages of that demolished civilization must remain there!"
-msgstr "Esta é a terra-de-nenhum-homem! Ninguém sabe detalhes sobre esse lugar!! Eu quero visitar! Eu acredito que costumava ter uma grande civilização bem a oeste desta terra!! Heranças daquela civilização demolida deve estar lá!"
+msgstr "Esta é terra-de-homem-nenhum! Ninguém sabe detalhes sobre esse lugar!! Eu quero visitar! Eu acredito que costumava ter uma grande civilização bem a oeste desta terra!! Heranças daquela civilização demolida devem estar lá!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7480
@@ -3847,12 +3850,12 @@ msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é rea
 #. [message]
 #: ./scenarios/Field.cfg:7491
 msgid "Furtile plain in the north west!! Just west of the Imperial capital city, Sceptoria!! This plain used to be a forest! But people exploited this place for farming very very long ago!"
-msgstr "Planície fértil a noroeste!! Logo a oeste da capital Imperial, Sceptoria!! Esta planície costumava ser uma floresta! Mas as pessoas exploraram este lugar para agricultura há muito muito tempo atrás!"
+msgstr "Planície inútil a noroeste!! Logo a oeste da capital Imperial, Sceptoria!! Esta planície costumava ser uma floresta! Mas as pessoas exploraram este lugar para agricultura há muito muito tempo atrás!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7503
 msgid "The most futile plain around here!! It locates near Crownia, south-west from here!! This futile plain is the symbol of the Kingdom's power!"
-msgstr "A planície mais fértil por aqui!! Localiza-se perto de Coronia, a sudoeste daqui!! Este planície fértil é o símbolo do poder do Reino!"
+msgstr "A planície mais inútil por aqui!! Localiza-se perto de Coronia, a sudoeste daqui!! Este planície inútil é o símbolo do poder do Reino!"
 
 #. [option]
 #: ./scenarios/Field.cfg:7510
@@ -3862,17 +3865,17 @@ msgstr "Floresta Namorico/Floresta Viúva"
 #. [message]
 #: ./scenarios/Field.cfg:7515
 msgid "Fling is in west, Widow is in east of this city! This place where Fusia stands was also a forest many years ago! Do you know this fact!? Humans trimmed trees around this place and develop villages, and eventually the bridge! Now Fling is spreading towards west, and Widow is getting smaller very slowly!! You should take care this miserable widow!! And damn Fling spawns bandits! Burn it out that terrible asshole!"
-msgstr "Namorico fica a oeste, Viúva fica a leste desta cidade! Este lugar onde Fusia está era também uma floresta muitos anos atrás! Você conhece este fato!? Os humanos cortaram as árvores deste lugar e desenvolveram aldeias, e eventualmente a ponte! Agora Fling se espalha ao oeste e Viúva está ficando menor bem devagar!! Você deve cuidar desta viúva miserável!! E na droga de Namorico aparecem bandidos! Queime aquele terrível idiota!"
+msgstr "Namorico fica a oeste, Viúva fica a leste desta cidade! Este lugar onde Fusia está era também uma floresta há muitos anos atrás! Você conhece este fato!? Os humanos cortaram as árvores deste lugar e desenvolveram aldeias, e eventualmente a ponte! Agora Namorico se espalha ao oeste e Viúva está ficando menor bem devagar!! Você deve cuidar desta viúva miserável!! E na droga de Namorico aparecem bandidos! Queime aquele lugar terrível!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7527
 msgid "Home of elves... hive of green monsters... That is the most horrible place in this land! We should not enter that place!! I don't want to speak of that place!! Never ask me!"
-msgstr "Casa dos elfos... colônia dos monstros verdes... Aquele é o lugar mais horrível nesta terra! Nós não devemos adentrar naquele lugar!! Eu não quero falar daquele lugar!! Nunca me pergunte!"
+msgstr "Casa dos elfos... a colônia dos monstros verdes... Aquele é o lugar mais horrível nesta terra! Nós não devemos adentrar naquele lugar!! Eu não quero falar daquele lugar!! Nunca me pergunte!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7539
 msgid "Tiny woods close to the dwarven city! It locates south-east of this city! Woods are little bit precious materials for us, dwarves!! You should not disturb that forest!! Otherwise, your head have to say goodbye to your body!!!"
-msgstr "Pequena floresta próxima a cidade dos anões! Localiza-se a sudeste desta cidade! Madeira é um material um pouco precioso para nós, anões!! Você não deve mexer com aquela floresta!! Senão sua cabeça pode dizer adeus ao seu corpo!!!"
+msgstr "A pequena floresta próxima a cidade dos anões! Localiza-se a sudeste desta cidade! Madeira é um material um pouco precioso para nós, anões!! Você não deve mexer com aquela floresta!! Senão sua cabeça pode dizer adeus ao seu corpo!!!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7551
@@ -3894,6 +3897,7 @@ msgstr "Outro deserto no norte! Lá é simplesmente uma terra seca! Muito severa
 msgid "Plain close the Great Lake! It locates at the very south of this city! Very comfortable place to live! But nothing interesting to us, geographers! Ignore such a boring place!"
 msgstr "Planície próxima ao Grande Lago! Localiza-se muito ao sul desta cidade! Um lugar muito confortável de se viver! Mas nada interessante para nós, geógrafos! Ignore um lugar tão enfadonho!"
 
+# Refere-se a cidade dos saurians.
 #. [message]
 #: ./scenarios/Field.cfg:7597
 msgid "Damn it!! Such a dirty place must be burned out! It locates west of this place!! Stupid lizards are living there!"
@@ -3902,8 +3906,9 @@ msgstr "Droga!! Um lugar tão sujo deve ser queimado! Localiza-se a oeste daqui!
 #. [message]
 #: ./scenarios/Field.cfg:7609
 msgid "Huh? It is a pathway for coward on the east of Crownia! You pitiful humans often use that path to avoid Wet Mountain city! We, brave dwarves never choose such a cowardish way! We can penetrate Valen Mountains!"
-msgstr "Hein? É um caminho para covardes a leste de Coronia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, bravos anões nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Valen Mountains!"
+msgstr "Hein? É um caminho para covardes a leste de Coronia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, bravos anões nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Montanhas do Vale!"
 
+# Próximo à cidade dos Drakes.
 #. [message]
 #: ./scenarios/Field.cfg:7621
 msgid "Great Dragon!? Ha! Funny arrogant name! That volcano is inactive! Nothing danger! If that volcano is really active, those cowardish lizards are immediately swallowed by an eruption of that volcano! I believe that should be renamed to Tiny Baby’s Nose!"
@@ -3927,7 +3932,7 @@ msgstr "Você gostaria de ficar aqui para montar tropas?"
 #. [option]
 #: ./scenarios/Field.cfg:7698
 msgid "No! I never need any other troops! Single troop is enough to defeat the World!"
-msgstr "Não! Eu nunca precisei de nenhuma outra tropa! Só uma tropa é suficiente para derrotar o Mundo!"
+msgstr "Não! Eu nunca precisei de nenhuma outra tropa! Uma só tropa é suficiente para derrotar o Mundo!"
 
 #. [message]: speaker=narrator
 #: ./scenarios/Field.cfg:7721
@@ -3942,7 +3947,7 @@ msgstr "Nós conseguimos juntar todos os povos locais! Mesmo o Reino e o Impéri
 #. [message]: speaker=$second_unit.id
 #: ./scenarios/Field.cfg:7818
 msgid "Kingdom capital is fallen! We managed to do it!"
-msgstr "A capital do Reino caiu! Nós conseguimos faze isso!"
+msgstr "A capital do Reino caiu! Nós conseguimos fazer isso!"
 
 #. [message]: speaker=$second_unit.id
 #: ./scenarios/Field.cfg:7841
@@ -3957,7 +3962,7 @@ msgstr "... Nós nos rendemos..."
 #. [message]: speaker=$new_unit.id
 #: ./scenarios/Field.cfg:8105
 msgid "I shall order raiding parties to disband, they will not bother goblins any more."
-msgstr "Eu ordenarei as tropas de assalto para se dispersarem, eles não incomodarão os góblins mais."
+msgstr "Eu vou ordenar os grupos de incursão para se dispersarem, eles não incomodarão os góblins mais."
 
 #. [message]
 #: ./scenarios/Field.cfg:8372
@@ -4001,7 +4006,7 @@ msgstr "Não, obrigado!"
 #. [message]
 #: ./scenarios/Prelude.cfg:48
 msgid "Welcome to An Independence War (AIW) campaign, sequel of A Group in a War (AG)! If you have completed AG campaign, you can inherit some data from the clear data. But unfortunately, you seem not to have such data. If you completed early versions of AG and still have save data of Epilogue, I recommend you to see the Epilogue of A Group in a War once more, and then play this campaign."
-msgstr "Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um Grupo numa Guerra (UG)! Se você completou a campanha UG, você pode herdar dados. Mas infelizmente, você não parece ter tais dados. Se você completou versões anteriores de UG e ainda tem os dados salvos do Epílogo, eu recomendo que você veja o Epílogo de Um Grupo numa Guerra mais uma vez, e depois jogue esta campanha."
+msgstr "Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um Grupo numa Guerra (UG)! Se você completou a campanha UG, você pode herdar dados. Mas infelizmente, você parece não ter tais dados. Se você completou versões anteriores de UG e ainda tem os dados salvos do Epílogo, eu recomendo que você veja o Epílogo de Um Grupo numa Guerra mais uma vez, e depois jogue esta campanha."
 
 #: ./scenarios/Prelude.cfg:55
 msgid "Geographer"
@@ -4138,7 +4143,7 @@ msgstr "Esta é <span color='yellow'>Emira-Malikah</span>, a capital dos Dunefol
 #. [message]
 #: ./scenarios/Prologue.cfg:1119
 msgid "This is <span color='yellow'>Frontline Fort</span>. As the name indicates, this fort is the frontline fort of the Kingdom, recently built. We should check the actions of this fort."
-msgstr "Este é <span color='yellow'>Forte de Linha de Frente </span>. Como o nome indica, este forte é o forte de linha de frente do Reino e recentemente construído. Nós devemos fiscalizar as ações deste forte."
+msgstr "Este é <span color='yellow'>Forte de Linha de Frente </span>. Como o nome indica, este forte é o forte de linha de frente do Reino, recentemente construído. Nós devemos fiscalizar as ações deste forte."
 
 #. [message]
 #: ./scenarios/Prologue.cfg:1142
@@ -4160,7 +4165,7 @@ msgstr ""
 "<span color='yellow'>Derrotar os bandidos na Floreta Namorico. (sudoeste do nosso país)</span>\n"
 "<span color='yellow'>Derrotar os Dunefolks para assegurar nossas terras o mais rápido possível.</span>\n"
 "\n"
-"Nós temos mais soldados que os Dunefolks, mas eles terão suporte do Império e nós não temos comandantes suficientes. Nós devemos treinar soldados/comandantes na batalha contra os bandidos primeiro. Se houver comandantes experientes o suficiente, nós poderemos derrotar os dunefolks facilmente..."
+"Nós temos mais soldados que os Dunefolks, mas eles terão suporte do Império e nós não temos comandantes suficientes. Nós devemos treinar soldados/comandantes em batalha contra os bandidos primeiro. Se houver comandantes experientes o suficiente, nós poderemos derrotar os dunefolks facilmente..."
 
 
 #. [message]
@@ -4302,6 +4307,7 @@ msgstr "Este lugar é ocupado por um lado inimigo."
 msgid "This is a dummy unit. Never mind."
 msgstr "Esta é uma simulação de unidade. Não ligue."
 
+# Unidade usada para enviar às aldeias inimigas para coletar/roubar dinheiro.
 #. [unit_type]: id=Paperpusher, race=human
 #: ./units/Paperpusher.cfg:20
 msgid "These people are very famous for there shabby behaviors."
@@ -4458,7 +4464,7 @@ msgstr "Que tipo de informação?"
 #. [option]: speaker=narrator
 #: ./utils/debug.cfg:19
 msgid "spy"
-msgstr "espitão"
+msgstr "espião"
 
 #. [message]: speaker=narrator
 #: ./utils/debug.cfg:23
@@ -4687,7 +4693,7 @@ msgstr "<span color='#00ff00'>$defender_current_hp|</span>"
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/firsttime.cfg:37
 msgid "Excellent! We, engineers, will also help you and your country. We can build buildings such as <span color='yellow'>Watchtowers</span> and <span color='yellow'>Foodstorages</span> on the field. Our power might be useful for coming full-scale war against Kingdom and Empire. Ask your goblin about the details of our power. He knows well our skills."
-msgstr "Excelente! Nós, engenheiros, também iremos ajudar você e seu país. Nós podemos fazer construções tais como <span color='yellow'>Torres de Vigia</span> e <span color='yellow'>Armazéns de Comida</span> no campo. Nossas capacidades podem ser úteis para a guerra em grande escala contra o Reino e o Império. Pergunte ao seu góblin detalhes sobre nossas capacidades. Ele conhece bem nossas habilidades."
+msgstr "Excelente! Nós, engenheiros, também iremos ajudar você e seu país. Nós podemos fazer construções tais como <span color='yellow'>Torres de Vigia</span> e <span color='yellow'>Armazéns de Comida</span> no campo. Nossas capacidades podem ser úteis para a guerra em grande escala contra o Reino e o Império que vem por aí. Pergunte ao seu góblin detalhes sobre nossas capacidades. Ele conhece bem nossas habilidades."
 
 #. [message]
 #: ./utils/firsttime.cfg:85
@@ -4722,14 +4728,14 @@ msgid ""
 "\n"
 "This is the basic way to build a troop. If you have troubles building a troop or something others, please ask me."
 msgstr ""
-"Depois, você deve adicionar membros clicando com o botão direito na tropa recém criada. Uma vez que você teve sucesso em montar a tropa, escolha o item <i>Vá para a Guerra</i> a partir do menu do botão direito.\n"
+"Depois, você pode adicionar membros clicando com o botão direito na tropa recém criada. Uma vez que você teve sucesso em montar a tropa, escolha o item <i>Ir para a Guerra</i> a partir do menu do botão direito.\n"
 "\n"
 "Este é o jeito básico de montar uma tropa. Se você tiver problemas em montar uma tropa ou em algo mais, por favor pergunte-me."
 
 #. [message]
 #: ./utils/firsttime.cfg:106
 msgid "You should not add soldiers to your troop now. Your are already an extremely skilled and respected leader. Further experience of you is just a waste. Give a chance for young commanders and soldiers."
-msgstr "Você não deve adicionar soldados à sua tropa agora. Você já é um líder estremamente habilidoso e respeitado. Experiência além dessa para você é apenas um desperdício. Dê a chance para os jovens comandantes e soldados."
+msgstr "Você não deve adicionar soldados à sua tropa agora. Você já é um líder estremamente habilidoso e respeitado. Experiência além dessa para você será apenas um desperdício. Dê a chance para os jovens comandantes e soldados."
 
 #. [message]
 #: ./utils/firsttime.cfg:110
@@ -4739,7 +4745,7 @@ msgstr "Uma nota final, <span color='yellow'>um soldado é recrutado automaticam
 #. [message]
 #: ./utils/firsttime.cfg:145
 msgid "There is a bandit group in the Fling forest. We should send a troop there to restore our income. Sorry to repeat the warning, my lord. <span color='yellow'>YOUR TROOP SHOULD BE IN FUSIA. IF YOU ARE NOT IN FUSIA, MOST OF MANAGEMENTS ARE IMPOSSIBLE.</span>."
-msgstr "Há um grupo de bandidos na Floresta Namorico. Nós devemos enviar uma tropa até lá para recuperar nossa receita. Desculpe por repetir a advertência, meu lorde. <span color='yellow'>SUA TROPA DEVE FICAR EM FUSIA. SE VOCÊ NÃO ESTIVER EM FUSIA, A MAIOR PARTE DA GERÊNCIA É IMPOSSÍVEL</span>."
+msgstr "Há um grupo de bandidos na Floresta Namorico. Nós devemos enviar uma tropa até lá para recuperar nossa receita. Desculpe por repetir a advertência, meu mestre. <span color='yellow'>SUA TROPA DEVE FICAR EM FUSIA. SE VOCÊ NÃO ESTIVER EM FUSIA, A MAIOR PARTE DA GERÊNCIA É IMPOSSÍVEL</span>."
 
 #. [message]
 #: ./utils/firsttime.cfg:149
@@ -4758,7 +4764,7 @@ msgid ""
 "\n"
 "If you cannot identify the location of the treasure, ask $aiw_geographer_name|. He will tell you a hint if you pay some money."
 msgstr ""
-"Você pode receber ouro ou itens especiais pela caça ao tesouro. Você pode comprar mapas do tesouro dos nagas. Você encontra o tesouro no campo e depois você precisa trazer ele de volta a Fusia.  <span color='yellow'>Você pode procurar somente um tesouro por vez</span> devido a problemas técnicos de interface...).Uma vez que você obter um mapa, o mapa (4x4) será mostrado ao lado direito do Escritório.\n"
+"Você pode receber ouro ou itens especiais pela caça ao tesouro. Você pode comprar mapas do tesouro dos nagas. Você encontra o tesouro no campo e depois você precisa trazer ele de volta a Fusia.  <span color='yellow'>Você pode procurar somente um tesouro por vez</span> devido a problemas técnicos de interface de usuário...). Uma vez que você obteve um mapa, o mapa (4x4) será mostrado ao lado direito do Escritório.\n"
 "\n"
 "Se você não puder identificar a localização do tesouro, peça ao $aiw_geographer_name|. Ele dirá a você uma dica se você pagar alguma quantia."
 
@@ -4790,7 +4796,7 @@ msgstr "Simplesmente porque eu gosto de todos vocês! Eu não queria perder nenh
 #. [message]
 #: ./utils/firsttime.cfg:225
 msgid "Heh, so what is the true reason?"
-msgstr "eh? então qual é o verdadeiro motivo?"
+msgstr "Eh? então qual é o verdadeiro motivo?"
 
 #. [message]
 #: ./utils/firsttime.cfg:229
@@ -4860,7 +4866,7 @@ msgstr "Fazer/Destruir uma Construção"
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:127
 msgid "Shall we destroy this $tmp_building_to_be_destroyed_type.name under construction?"
-msgstr "Nós devemos destruir esta $tmp_building_to_be_destroyed_type.name em construção?"
+msgstr "Nós devemos destruir este(a) $tmp_building_to_be_destroyed_type.name em construção?"
 
 #. [option]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:130 ./utils/menu.cfg:193
@@ -4870,12 +4876,12 @@ msgstr "Sim! (destruição imediata)"
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:165
 msgid "We are already building one. Now, it is impossible to build/destroy another one. Please wait $tmp_engineers.variables.period turns for completion of the construction."
-msgstr "Nós já estamos construindo uma. Agora, é impossível construir/destruir outra. Por favor espere $tmp_engineers.variables.period turnos para o término da construção."
+msgstr "Nós já estamos fazendo uma construção. Agora, é impossível construir/destruir outra. Por favor espere $tmp_engineers.variables.period turnos para o término da construção."
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:190
 msgid "Shall we destroy this $tmp_building_to_be_destroyed_type.name|?"
-msgstr "Devemos destruir esta $tmp_building_to_be_destroyed_type.name|?"
+msgstr "Devemos destruir este(a) $tmp_building_to_be_destroyed_type.name|?"
 
 #. [message]: speaker=$tmp_engineers.id
 #: ./utils/menu.cfg:215
@@ -4922,10 +4928,11 @@ msgstr "Sim."
 msgid "No."
 msgstr "Não."
 
+# É uma tropa que vai para a guerra. Preferi usar o infinitivo. Soa melhor eu acho.
 #. [set_menu_item]: id=aiw_right_menu_a_go_for_war
 #: ./utils/menu.cfg:399
 msgid "Go for the War! (Leave here and go to the field)"
-msgstr "Vá para a Guerra! (Sair daqui e ir ao campo)"
+msgstr "Ir para a Guerra! (Sair daqui e ir ao campo)"
 
 #. [message]
 #: ./utils/menu.cfg:418
@@ -4935,7 +4942,7 @@ msgstr "$tmp_unit_going.name deve ir ao campo de batalha?"
 #. [option]
 #: ./utils/menu.cfg:421
 msgid "Go!"
-msgstr "Vai!"
+msgstr "Ir!"
 
 #. [set_menu_item]: id=aiw_right_menu_b_help
 #: ./utils/menu.cfg:448
@@ -4960,12 +4967,12 @@ msgstr "Qual é minha nova função?"
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:576
 msgid "Vanguard [F]"
-msgstr "Vanguardeiro [V]"
+msgstr "Vanguardeiro [D]"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:596
 msgid "Shooter [B]"
-msgstr "Atirador [A]"
+msgstr "Atirador [R]"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:616
@@ -5008,7 +5015,7 @@ msgstr ""
 "$tmp_spy_info\n"
 "\n"
 "<span color='yellow'>Fundos:</span>\n"
-"base income: $aiw_funding[1].base_income\n"
+"receita base: $aiw_funding[1].base_income\n"
 "\n"
 "<span color='yellow'>Bandidos:</span>\n"
 "$tmp_bandit_info"
@@ -5041,7 +5048,7 @@ msgstr "Configurações"
 #. [message]
 #: ./utils/message_catalog.cfg:8
 msgid "There are no reserve soldiers."
-msgstr "Não unidades na reserva."
+msgstr "Não há unidades na reserva."
 
 #. [command]
 #: ./utils/message_speakers.cfg:42 ./utils/office_utils.cfg:311
@@ -5074,7 +5081,7 @@ msgstr "$tmp_managing_troop.name já está cheia. Não é possível adicionar no
 #. [lua]
 #: ./utils/office_utils.cfg:161
 msgid "Add to troop"
-msgstr "Adicionar uma tropa"
+msgstr "Adicionar na tropa"
 
 #. [option]
 #: ./utils/office_utils.cfg:189
@@ -5108,12 +5115,13 @@ msgstr "Quer realmente dispersar $tmp_managing_troop.name|?"
 
 #. [option]
 #: ./utils/office_utils.cfg:300
+#, fuzzy
 msgid ""
 "Grant magic item to this troop\n"
 "<span color='yellow' size='smaller'>A troop can have only one trait/item. Once granted item cannot be unequipped even when the troop is disbanded.</span>"
 msgstr ""
 "Conceder um item mágico a esta tropa\n"
-"<span color='yellow' size='smaller'>Uma tropa pode ter somente uma característica/item. Uma vez concedido um item, ele não pode ser desequipado mesom se a tropa for dispersa.</span>"
+"<span color='yellow' size='smaller'>Uma tropa pode ter somente uma característica/item. Uma vez concedido um item, ele não pode ser desequipado mesmo se a tropa for dispersa.</span>"
 
 #. [command]
 #: ./utils/office_utils.cfg:310
@@ -5190,7 +5198,7 @@ msgid ""
 "(Secret scenario of <i>A Group in a War</i>, The Nagas, is also related to this campaign.)"
 msgstr ""
 "<b>ADVERTÊNCIA:</b>\n"
-"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma sequência para <i>Um Grupo numa Guerra</i>. Alguns personagens e a história estão intimamente ligadas com essa campanha. Se você ainda não jogou aquela campanha, eu recomendo que você jogue a prequela, <i>Um Grupo Numa Guerra</i> primeiro. Embora isso seja só uma sugestão.\n"
+"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma sequência para <i>Um Grupo numa Guerra</i>. Alguns personagens e a história estão intimamente ligadas com essa campanha. Se você ainda não jogou essa campanha, eu recomendo que você jogue a prequela, <i>Um Grupo Numa Guerra</i> primeiro. Embora isso seja só uma sugestão.\n"
 "\n"
 "(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é relacionado com esta campanha.)"
 
@@ -5206,9 +5214,9 @@ msgid ""
 "\n"
 "Anyway, I had become a lord, wished by people. According to my brilliant secretary whose long name I cannot remember correctly, the end of war was the prior desire of these people. Actually, people never mind who is the winner, just expecting the end of the war."
 msgstr ""
-"Depois daquela guerra, surpreendentemente, eu <i>me tornei</i> um prefeito do que anteriormente era o campo de combate. As pessoas lá (incluindo os góblins) me saudaram entusiasmadamente como um novo lorde. Eu não vou esquecer esse cenário na minha vida. Era um cenário de fato surpreendente e animado... muito impressionado. Eu não pude emitir uma única palavra devido aquela profunda impressão. Eu falei ao Clammy, um góblin brilhante, que também estava na cerimônia, mas a resposta dele foi bem rígida: <i>Naquela hora, você foi silencioso como sempre. Nunca pareceu estar tão impressionado. Eu tenho certeza que o povo sentiu a mesma impressão já que o seu jeito reservado é muito bem conhecido por aqui.</i>\n"
+"Depois daquela guerra, surpreendentemente, eu <i>me tornei</i> um prefeito do antigo campo de combate. As pessoas lá (incluindo os góblins) me saudaram entusiasmadamente como um novo mestre. Eu não vou esquecer esse cenário na minha vida. Era um cenário de fato surpreendente e animado... muito impressionado. Eu não pude emitir uma única palavra devido aquela profunda impressão. Eu falei ao Clammy, um góblin brilhante, que também estava na cerimônia, mas a resposta dele foi bem rígida: <i>Naquela hora, você foi silencioso como sempre. Nunca pareceu estar tão impressionado. Eu tenho certeza que o povo sentiu a mesma impressão já que o seu jeito reservado é muito bem conhecido por aqui.</i>\n"
 "\n"
-"De qualquer forma, eu me tornei um lorde, desejado pelo povo. De acordo com meu brilhante secretário cujo longo nome eu não consigo me lembrar corretamente, o término da guerra era o antigo desejo dessas pessoas. Na verdade, pessoas nem se importavam com quem fosse o vencedor, apenas esperavam o término da guerra."
+"De qualquer forma, eu me tornei um mestre, desejado pelo povo. De acordo com meu brilhante secretário cujo longo nome eu não consigo me lembrar corretamente, o término da guerra era o antigo desejo dessas pessoas. Na verdade, pessoas nem se importavam com quem fosse o vencedor, apenas esperavam o término da guerra."
 
 #. [part]
 #: ./utils/storytxt.cfg:38
@@ -5226,14 +5234,14 @@ msgid ""
 msgstr ""
 "Agora, quase dois anos se passaram desde que eu me tornei prefeito. A paz está preparando para trazer um próspero futuro para nossa terra. Mas ... a outra guerra aconteceu como eu imaginei.\n"
 "\n"
-"Infelizmente, nossa terra IRÁ ser envolvida nesta nova guerra. Nós temos que nos preparar para a guerra. Eu expliquei imediatamente a situação ao Clammy e pedi para ele se juntar como funcionário do quartel-general . Este bravo góblin alegremente aceitou minha oferta. Honestamente, eu não queria envolvê-lo. Mas é praticamente impossível encontrar uma pessoa melhor do que ele.\n"
+"Infelizmente, nossa terra IRÁ ser envolvida nesta nova guerra. Nós temos que nos preparar para a guerra. Eu expliquei imediatamente a situação ao Clammy e pedi para ele se juntar como funcionário do quartel-general. Este bravo góblin alegremente aceitou minha oferta. Honestamente, eu não queria envolvê-lo. Mas é praticamente impossível encontrar uma pessoa melhor do que ele.\n"
 "\n"
 "Eu odeio guerras, mas eu antecipei esta nova guerra, eu fiz seu preparo durante esses dois anos. Ambos os antigos postos avançados foram reformados como pequenos fortes, e o Forte do Norte foi reconstruído ao lado do Rio como um pequeno castelo. Mas os guardas do leste e oeste não são suficientes agora. Nós temos muitas coisas a fazer. Honestamente, a guerra em si está dentro do esperado, mas eu não acho que a terra em si será envolvida novamente. Há várias outras coisas inesperadas e indesejadas. A mais inesperada dentre elas é ..."
 
 #. [part]
 #: ./utils/storytxt.cfg:48
 msgid "<span color='red'><b>This war is caused by me. Not by an accident, very intentionally.</b></span>"
-msgstr "<span color='red'><b>Esta guerra é causada por mim. Não por acidente, muito intencionalmente.</b></span>"
+msgstr "<span color='red'><b>Esta guerra é causada por mim. Não por acidente, bem intencionalmente.</b></span>"
 
 #. [part]
 #: ./utils/storytxt.cfg:53
@@ -5249,10 +5257,13 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"O Reino recentemente mudou de ideia sobre atitudes com as raças não humanas... Essas palavras não são tão corretas, porque a atitudedeles com elfos e anões não mudou significativamente. De qualquer forma, o problema é a atitude com raças como góblins, nagas e lagartos. O Reino comandou-me para retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu negociei pacientemente com eles, mas em vão."
+"O Reino recentemente mudou de ideia sobre atitudes com as raças não humanas... Essas palavras não são tão corretas, porque a atitude deles com elfos e anões não mudou significativamente. De qualquer forma, o problema é a atitude com raças como góblins, nagas e lagartos. O Reino comandou-me para retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu negociei pacientemente com eles, mas em vão."
 
+# Aqui podemos inferir que seja um político.
+# return to clay.
 #. [part]
 #: ./utils/storytxt.cfg:64
+#, fuzzy
 msgid ""
 "Then, that damn arrogant paperpusher had come from the capital, Crownia, to publish and execute the new law. I arrested that worm and forced it back. Honestly, I wanna turn back that bug to clay. Anyway, this event make me realize there is no time to negotiate.\n"
 "\n"
@@ -5271,7 +5282,7 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"Eu honestamente falei essas palavras pessimistas para os nossos membros principais. Você esperava quantos membros? Cinco, dez? A resposta é DOIS (tirando eu). Então em outras palavras, eu falei ao secretário e ao Clammy. Pelo que lembro, eu deveria ter chamado o líder naga, $aiw_naga_head_name. Por que eu esqueci dele? Eu estava realmente confuso nessa hora... De qualquer forma, se eles quisessem sair daqui, eu iria aceitar a oferta contentemente."
+"Eu honestamente falei essas palavras pessimistas para os nossos membros principais. Você esperava quantos membros? Cinco, ou dez? A resposta é DOIS (tirando eu). Então em outras palavras, eu falei ao secretário e ao Clammy. Pelo que lembro, eu deveria ter chamado o líder naga, $aiw_naga_head_name. Por que eu esqueci dele? Eu estava realmente confuso nessa hora... De qualquer forma, se eles quisessem sair daqui, eu iria aceitar a oferta contentemente."
 
 #. [part]
 #: ./utils/storytxt.cfg:74
@@ -5299,7 +5310,7 @@ msgid ""
 "\n"
 "Direct attack from Empire may not happen, but they may use indirect ways... If I were the general of Empire, I will give some money to Dunefolks and ask to attack us. Or, hire some bandits to bother us. Once we show our weakness, Empire will directly attack us with all the might."
 msgstr ""
-"<b>O Secretario</b>:\n"
+"<b>O Secretário</b>:\n"
 "O Império pode não se envolver diretamente neste estágio inicial.\n"
 "\n"
 "O Reino nunca aceitará nosso país, e o rei com certeza declara que esta terra pertence formalmente ao Reino. O Reino pode não pedir ajuda ao Império como uma prova de força.\n"
@@ -5317,7 +5328,7 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"Minha decisão desesperada não parece ter sido levada muito a sério. Que táticos brilhanes eles são! Esses dois caras poderiam se tornar melhores lordes do que eu. De qualquer forma, não há como voltar atrás. Nós devemos prosseguir."
+"Minha decisão desesperada não parece ter sido levada muito a sério. Que táticos brilhanes eles são! Esses dois caras poderiam se tornar melhores mestres do que eu. De qualquer forma, não há como voltar atrás. Nós devemos prosseguir."
 
 #. [time]: id=aiw_dawn_hour
 #: ./utils/tod.cfg:8
@@ -5466,6 +5477,7 @@ msgstr "ventos fortes"
 
 #. [trait]: id=leading_wind
 #: ./utils/traits.cfg:87
+#, fuzzy
 msgid "trait-female^leading wind"
 msgstr "ventos fortes"
 
@@ -5487,7 +5499,7 @@ msgstr "calmaria"
 #. [trait]: id=calm
 #: ./utils/traits.cfg:97
 msgid "this troop is quite steadfast against enemy attacks"
-msgstr "esta tropa tem uma posição defensiva contra ataques inimigos"
+msgstr "esta tropa tem uma boa posição defensiva contra ataques inimigos"
 
 #. [trait]: id=healing
 #: ./utils/traits.cfg:104
@@ -5499,6 +5511,7 @@ msgstr "medicação"
 msgid "trait-female^healing"
 msgstr "medicação"
 
+# Não lembro de ter visto isso jogando.
 #. [trait]: id=healing
 #: ./utils/traits.cfg:106
 msgid "units in this troop will be healed 8 points every turn"
