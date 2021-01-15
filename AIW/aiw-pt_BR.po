@@ -1,10 +1,9 @@
-# _cavalaria_
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2021-01-14 19:25-0300\n"
+"PO-Revision-Date: 2021-01-14 23:06-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -267,7 +266,7 @@ msgstr "Sylvania (Capital)"
 #. [label]
 #: ./_main.cfg:324
 msgid "Free Aqua (Capital)"
-msgstr "Free Aqua (Capital)"
+msgstr "Águas Livres (Capital)"
 
 #. [label]
 #: ./_main.cfg:331
@@ -403,11 +402,12 @@ msgstr "Deserto da Morte"
 msgid "Valley Windy"
 msgstr "Vale Ventoso"
 
+# Poderia ser nebuloso, mas tem uma string [7597] que diz que é sujo mesmo.
 #. [event]
 #. [option]
 #: ./_main.cfg:420 ./scenarios/Field.cfg:7592
 msgid "Murky Swamp"
-msgstr "Pântano Nebuloso"
+msgstr "Pântano Turvo"
 
 #. [event]
 #. [option]
@@ -558,7 +558,7 @@ msgid ""
 "<b>8.</b>: Choose <span color='yellow'>Add/Remove members</span> and add members.\n"
 "<b>9.</b>: Right click the unit again and choose <span color='yellow'>Go for the War!</span> item."
 msgstr ""
-"O secretário bem ali, Redy, auxilia você a fazer uma tropa. Primeiro, <span color='yellow'>você precisa de um soldado com proeza maior do que 50.</span> Proeza mais alta é requerida para uma tropa maior. Assim, você pode pedir ao secretário para fazer uma tropa. Nesse estágio, a tropa criada tem somente um membro: o líder. Para adicionar outros membros, você pode adicioná-los <span color='yellow'>clicando com o botão direito na tropa na sala de espera</span> (um cômodo abaixo deste escritório). Para enviar a tropa criada para o Campo, você precisa escolher o item 'Vá para a Guerra!' no menu do botão direito.\n"
+"O secretário bem ali, Redy, auxilia você a fazer uma tropa. Primeiro, <span color='yellow'>você precisa de um soldado com proeza maior do que 50.</span> Proeza mais alta é requerida para uma tropa maior. Assim, você pode pedir ao secretário para fazer uma tropa. Nesse estágio, a tropa criada tem somente um membro: o líder. Para adicionar outros membros, você pode adicioná-los <span color='yellow'>clicando com o botão direito na tropa na sala de espera</span> (um cômodo abaixo deste escritório). Para enviar a tropa criada para o Campo, você precisa escolher o item 'Ir para a Guerra!' no menu do botão direito.\n"
 "\n"
 "Resumindo,\n"
 "<b>1.</b>: Prepare <span color='yellow'>soldados com proeza maior do que 50</span>.\n"
@@ -569,7 +569,7 @@ msgstr ""
 "<b>6.</b>: Sair do menu.\n"
 "<b>7.</b>: <span color='yellow'>Clique com o direito na tropa criada</span> na sala de espera (o cômodo abaixo).\n"
 "<b>8.</b>: Escolha <span color='yellow'>Adicionar/Remover membros</span> e adicione membros.\n"
-"<b>9.</b>: Clique com o direito na unidade novamente e escolha o item <span color='yellow'>Vá para a Guerra!</span>."
+"<b>9.</b>: Clique com o direito na unidade novamente e escolha o item <span color='yellow'>Ir para a Guerra!</span>."
 
 #. [option]
 #: ./_main.cfg:872
@@ -681,6 +681,8 @@ msgstr ""
 msgid "How to help allies?"
 msgstr "Como ajudar aliados?"
 
+# Acho que é inútil enviar mais do que 100g. Deve ser um limite da variável ou implementado assim.
+# Dei muito ouro para os góblins eles deveriam ter planificado a terra como se fossem zergs...
 #. [message]
 #: ./_main.cfg:954
 #, fuzzy
@@ -795,7 +797,7 @@ msgid ""
 msgstr ""
 "Eles são o primeiro alvo. O número deles pode não ser tão grande. Nós precisamos de 3-5 tropas para derrotá-los. Mas nunca os subestime, porque eles são bons em lutar na areia e a habilidade de um soldado individual é bem alta.\n"
 "\n"
-"As tropas deles não tem aspectos muito estranhos, curandeiros devem ser os únicos tipos especiais."
+"As tropas deles não tem características muito estranhas, curandeiros devem ser os únicos tipos especiais."
 
 #. [option]
 #: ./_main.cfg:1060
@@ -1012,7 +1014,6 @@ msgstr "<span color='yellow'>Medicação</span>"
 
 #. [message]
 #: ./_main.cfg:1275
-#, fuzzy
 msgid ""
 "Healing mechanism is complicated (due to the balancing reason). Please read it carefully. If several conditions are satisfied simultaneously, the best one will be chosen.\n"
 "\n"
@@ -1095,6 +1096,7 @@ msgstr "Dano de Ataque"
 
 #. [message]
 #: ./_main.cfg:1350
+#, fuzzy
 msgid ""
 "Attack damage of troop is calculated from the attacks of members.\n"
 "\n"
@@ -1117,6 +1119,7 @@ msgstr "<span color='yellow'>Morte do líder</span>"
 
 #. [message]
 #: ./_main.cfg:1365
+#, fuzzy
 msgid "<span color='yellow'>Death of the leader means the death of the troop.</span> Since the shooters are safer than vanguards, shooter leaders may be better to avoid unlucky death of a troop."
 msgstr "<span color='yellow'>Morte do líder significa a morte da tropa.</span> Uma vez que atiradores estão mais protegidos do que vanguardeiros, líderes atiradores podem ser melhores para evitar uma infeliz morte da tropa."
 
@@ -1261,6 +1264,10 @@ msgstr ""
 msgid "Spy"
 msgstr "Espião"
 
+# Achei estranho esse "deceptions". Espiões tem a função de informar a 
+#  quantia de ouro + se o lado está atacando diretamente fusia. 
+#  Acho que não informa que eles vão atacar o lado XYZ. Mas informa que eles reuníram-se,
+#  cfg = 2683
 #. [message]: speaker=narrator
 #: ./_main.cfg:1492
 msgid ""
@@ -1279,6 +1286,7 @@ msgstr ""
 msgid "Flag"
 msgstr "Bandeira"
 
+# Acho que o guardião só reaparecerá se não houver (I) bandeira, (II) inimigos próximos (os hex de distância eu não sei).
 #. [message]: speaker=narrator
 #: ./_main.cfg:1506
 msgid ""
@@ -1354,7 +1362,7 @@ msgid ""
 "Christopher:\n"
 "The trickster has the skill <span color='yellow'>storm</span>. It increases the attack damage like your skill <b>disaster</b>. But there is no advantage in defending."
 msgstr ""
-"Christopher:\n"
+"Cristofer:\n"
 "O vigarista tem a aptidão <span color='yellow'>tempestade</span>. Ela aumenta o dano de ataque como a sua aptidão <b>desastre</b>. Mas não há vantagem defensiva."
 
 #. [message]
@@ -1378,7 +1386,7 @@ msgid ""
 "The hardhead has the skill <span color='yellow'>calm</span>. It reduces the damage they taken. This is the counterpart of the Christopher's skill <span color='yellow'>storm</span>."
 msgstr ""
 "Andrzej:\n"
-"O cabeça-dura tem a aptidão <span color='yellow'>calmaria</span>. Ela reduz o dano recebido. Esta é a a contraparte da aptidão do Christopher <span color='yellow'>tempestade</span>."
+"O cabeça-dura tem a aptidão <span color='yellow'>calmaria</span>. Ela reduz o dano recebido. Esta é a a contraparte da aptidão do Cristofer, <span color='yellow'>tempestade</span>."
 
 #. [option]
 #: ./_main.cfg:1616
@@ -1572,7 +1580,7 @@ msgstr "Sylvania"
 #. [option]
 #: ./lua/actions.lua:781 ./scenarios/Field.cfg:7260
 msgid "Free Aqua"
-msgstr "Free Aqua"
+msgstr "Águas Livres"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
@@ -1829,7 +1837,7 @@ msgstr "Ahem. (Olha de relance para o secretário.)"
 #. [message]: speaker=Redy
 #: ./scenarios/Epilogue.cfg:1611
 msgid "General Arsenio, general Heinrich, and general Christopher, you wanna something to drink? How about my fireballs to sober your brain?"
-msgstr "General Arsenio, general Heinrich e general Christopher, vocês querem algo para beber? Que tal minhas bolas de fogo para deixar vocês sóbrios?"
+msgstr "General Arsenio, general Heinrich e general Cristofer, vocês querem algo para beber? Que tal minhas bolas de fogo para deixar vocês sóbrios?"
 
 #. [message]: speaker=Heinrich
 #: ./scenarios/Epilogue.cfg:1616
@@ -1894,7 +1902,7 @@ msgstr "... (eu subestimei este mago. Ele é mais forte do que eu?)"
 #. [message]: speaker=Andrzej
 #: ./scenarios/Epilogue.cfg:1730
 msgid "Hm. Rest in peace, Christopher."
-msgstr "Hm. Descance em paz, Christopher."
+msgstr "Hm. Descance em paz, Cristofer."
 
 #. [message]: speaker=Heinrich
 #: ./scenarios/Epilogue.cfg:1751
@@ -1924,7 +1932,7 @@ msgstr "Eu agradeço suas ofertas de ajuda. Soa surpreendentemente ótima!"
 #. [message]: speaker=Arsenio
 #: ./scenarios/Epilogue.cfg:1776
 msgid "Hey lord, how do you find out him? If there is a way to find smart guy like him or Clammy, please tell us that."
-msgstr "Ei lorde, como você encontrou ele? Se há um jeito de encontrar um rapaz esperto como ele ou Clammy, por favor nos diga."
+msgstr "Ei mestre, como você encontrou ele? Se há um jeito de encontrar um rapaz esperto como ele ou Clammy, por favor nos diga."
 
 #. [message]: speaker=You
 #: ./scenarios/Epilogue.cfg:1781
@@ -2016,12 +2024,12 @@ msgstr "(empalidece o rosto)"
 #. [message]
 #: ./scenarios/Epilogue.cfg:1869
 msgid "And the greatest general should not be such selfish. The greatest general may respect colleagues. Ah, my lord, thank you for inviting me to this party. I am impressed you recgonize my exploits in this war and allow me to join the party."
-msgstr "E o maior general não deve ser tão egoísta. O maior general deve respeitar colegas. Ah, meu lorde, obrigado por me convidar para esta festa. Eu estou impressionado que você reconheceu minhas proezas nesta guerra e permitiu-me juntar a festa."
+msgstr "E o maior general não deve ser tão egoísta. O maior general deve respeitar colegas. Ah, meu mestre, obrigado por me convidar para esta festa. Eu estou impressionado que você reconheceu minhas proezas nesta guerra e permitiu-me juntar a festa."
 
 #. [message]
 #: ./scenarios/Epilogue.cfg:1874
 msgid "I appreciate your kindness, my lord. More precisely, thank you for deciding to build a new temple for the fallen soldiers. All of us, soldiers respect your kindful care all through the war. You are the greatest general!!"
-msgstr "Eu agradeço sua gentileza, meu lorde. Mais precisamente, obrigado por decidir construir um novo tempo para os soldados mortos. Todos nós, soldados, respeitamos sua bondade durante a guerra. Você é o maior general!!"
+msgstr "Eu agradeço sua gentileza, meu mestre. Mais precisamente, obrigado por decidir construir um novo tempo para os soldados mortos. Todos nós, soldados, respeitamos sua bondade durante a guerra. Você é o maior general!!"
 
 #. [message]: speaker=Mig
 #: ./scenarios/Epilogue.cfg:1884
@@ -2047,7 +2055,7 @@ msgstr "Ei vigarista, parece que o debate terminou. Alguém discorda?"
 #. [message]: speaker=Christopher
 #: ./scenarios/Epilogue.cfg:1904
 msgid "I agree this guy did a great job. BUT, he usually stayed here. We had been staying in the frontline and put our life on the line! The role of a lord and a general is totally different! That silent guy is surely an excellent LORD. But the greatest GENERAL must be me!"
-msgstr "Eu concordo que este garoto fez um belo trabalho. MAS, ele normalmente ficou aqui. Nós estivemos na linha de frente e colocamos nossa vida em risco! A função de um lorde e de um general são totalmente diferentes. Esse cara quito é com certeza um excelente LORDE. Mas o maior GENERAL deve ser eu mesmo!"
+msgstr "Eu concordo que este garoto fez um belo trabalho. MAS, ele normalmente ficou aqui. Nós estivemos na linha de frente e colocamos nossa vida em risco! A função de um mestre e de um general são totalmente diferentes. Esse cara quito é com certeza um excelente LORDE. Mas o maior GENERAL deve ser eu mesmo!"
 
 #. [message]
 #: ./scenarios/Epilogue.cfg:1909
@@ -2272,6 +2280,9 @@ msgstr "Nós agradecemos Fusia por esta ajuda. Você parece ter uma requisição
 msgid "Sir, I came here on behalf of the king of Fusia."
 msgstr "Senhor, eu venho em interesse do rei de Fusia."
 
+# atacar góblins, trolls, elfos, povo local. Atacar Reino e Império é 
+#  impossível pois sequer aparece no menu. O mesmo vale para as 
+#  strings que vêm abaixo.
 #. [message]
 #: ./scenarios/Field.cfg:1979
 msgid "The king request you an attack to $aiw_team[$aiw_emissary.attack].name."
@@ -2302,6 +2313,7 @@ msgstr "... Eu entendo."
 msgid "$aiw_team[$aiw_emissary.target].name already left our union. Asking stop war does not make sense. I should discard the current mission."
 msgstr "Os $aiw_team[$aiw_emissary.target].name já deixaram nossa união. Pedir interrupção da guerra não faz sentido. Eu devo discartar a missão atual."
 
+# Seize: não sei como traduzir, mas o diálogo que segue é: "we stop attaking" ou algo assim.
 #. [message]
 #: ./scenarios/Field.cfg:2057
 msgid "Sir, I came here on behalf of the king of Fusia. He requests you to ... seize the war against..."
@@ -2312,6 +2324,7 @@ msgstr "Senhor, eu venho em interesse do rei de Fusia. Ele requer que você ... 
 msgid "... As you know, your work is already finished."
 msgstr "... Como você sabe, seu trabalho já terminou."
 
+# Seize: não sei como traduzir, mas o diálogo que segue é: "we stop attaking" ou algo assim.
 #. [message]
 #: ./scenarios/Field.cfg:2069
 msgid "Sir, I came here on behalf of the king of Fusia. He requests you to seize the war against $aiw_team[$aiw_side_stat[$aiw_emissary.target].target].name."
@@ -2811,7 +2824,7 @@ msgstr ""
 #. [message]
 #: ./scenarios/Field.cfg:3915
 msgid "(should Christopher be punished by Andrzej?)"
-msgstr "(Andrzej deve punir Christopher?)"
+msgstr "(Andrzej deve punir Cristofer?)"
 
 #. [option]
 #: ./scenarios/Field.cfg:3917
@@ -3548,9 +3561,11 @@ msgstr "OK!"
 msgid "First, we have to determine which side to attack."
 msgstr "Primeiro, precisamos determinar qual lado atacar."
 
+# Não faz muito sentido porque Fusia é uma das 3 potências (Fusia, Império e Reino).
+# Fusia não pode se aliar ao Império nem ao Reino.
+# Não lembro de ter visto essa string no jogo.
 #. [message]
 #: ./scenarios/Field.cfg:6545
-#, fuzzy
 msgid "Ask which side to attack $aiw_team[$aiw_emissary.attack].name|?"
 msgstr "Perguntar qual lado atacar $aiw_team[$aiw_emissary.attack].name|?"
 
@@ -3775,6 +3790,7 @@ msgstr "O maior rio nesta terra, correndo do leste a oeste! Você definitivament
 msgid "That is a river running through Wet Mountain City in south west!! This river is also deep and the flow is rather rapid!! What idiot call it <i>Silent</i> Stream?!! This river is nothing silent! Ridiculous!!"
 msgstr "Aquele é um rio corredo através da Cidade da Montanha Molhada, a sudoeste!! Este rio também é profundo e o fluxo é bem rápido! Que idiota chamou-o Córrego <i>Silencioso</b>?!! Este rio não é nada silencioso! Ridículo!!"
 
+# very very upper
 #. [message]
 #: ./scenarios/Field.cfg:7337
 #, fuzzy
@@ -4484,7 +4500,7 @@ msgid ""
 "Saurians: $aiw_spy[12].done\n"
 "Monsters: $aiw_spy[13].done"
 msgstr ""
-"O estado atual é:\n"
+"A estatística atual é:\n"
 "\n"
 "Reino: $aiw_spy[2].done\n"
 "Império: $aiw_spy[3].done\n"
@@ -5115,7 +5131,6 @@ msgstr "Quer realmente dispersar $tmp_managing_troop.name|?"
 
 #. [option]
 #: ./utils/office_utils.cfg:300
-#, fuzzy
 msgid ""
 "Grant magic item to this troop\n"
 "<span color='yellow' size='smaller'>A troop can have only one trait/item. Once granted item cannot be unequipped even when the troop is disbanded.</span>"
@@ -5259,6 +5274,7 @@ msgstr ""
 "\n"
 "O Reino recentemente mudou de ideia sobre atitudes com as raças não humanas... Essas palavras não são tão corretas, porque a atitude deles com elfos e anões não mudou significativamente. De qualquer forma, o problema é a atitude com raças como góblins, nagas e lagartos. O Reino comandou-me para retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu negociei pacientemente com eles, mas em vão."
 
+# Só para ver esse trecho. Nada a alterar a princípio.
 # Aqui podemos inferir que seja um político.
 # return to clay.
 #. [part]
@@ -5475,6 +5491,7 @@ msgstr "esta tropa estrondosa irá esmagar tropas inimigas facilmente"
 msgid "trait^leading wind"
 msgstr "ventos fortes"
 
+# estranho gênero masc fem aqui.
 #. [trait]: id=leading_wind
 #: ./utils/traits.cfg:87
 #, fuzzy
