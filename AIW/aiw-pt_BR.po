@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2021-01-14 23:06-0300\n"
+"PO-Revision-Date: 2021-01-19 19:47-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -685,7 +685,6 @@ msgstr "Como ajudar aliados?"
 # Dei muito ouro para os góblins eles deveriam ter planificado a terra como se fossem zergs...
 #. [message]
 #: ./_main.cfg:954
-#, fuzzy
 msgid ""
 "If an ally leader is in danger, you have to help him. The simplest way is to kill enemies by your troops. But it is possible only if there are troops nearby. What do we do if there are no suitable troops? The answer is simple, <span color='yellow'>send money to them using emissary</span>. The money will arrive at the beginning of the next turn, usually this maybe faster than your troops. The leader will recruit new troops using that money and will defeat the enemies.\n"
 "\n"
@@ -1001,11 +1000,11 @@ msgid ""
 "\n"
 "The last type of unit, Refugee, is a special one. They are not involved in any battles. The leader can't be a refugee. If you have terribly injured units in your troop, you may switch them to refugees type. Refugees are marked with <b>X</b>"
 msgstr ""
-"Todos os tipos de unidade são divididos em <b>vanguardeiro, atirador ou cavaleiro</b>. Unidades boas em corpo a corpo são classificadas como vanguardeiras. Por outro lado, unidades boas em ataques de longo alcance, médicos ou comandantes (tendo liderança) são classificados como atiradores. Soldados mistos são normalmente considerados vanguardeiros. Unidades montadas e outras unidades ágeis (como lagartos) são considerados cavaleiras. Note que unidades montadas nem sempre são consideradas cavaleiras. Vanguardeiros, atiradores e cavaleiros são marcados com <b>V</b>(vanguarda), <b>A</b>(atirador) e <b>C</b>(cavalaria) na janela de estado, respectivamente.\n"
+"Todos os tipos de unidade são divididos em <b>vanguardeiro, atirador ou cavaleiro</b>. Unidades boas em corpo a corpo são classificadas como vanguardeiras. Por outro lado, unidades boas em ataques de longo alcance, médicos ou comandantes (tendo liderança) são classificadas como atiradoras. Soldados mistos são normalmente considerados vanguardeiros. Unidades montadas e outras unidades ágeis (como lagartos) são consideradas cavaleiras. Note que unidades montadas nem sempre são consideradas cavaleiras. Vanguardeiros, atiradores e cavaleiros são marcados com <b>V</b>(vanguarda), <b>R</b>(retaguarda) e <b>C</b>(cavalaria) na janela de estado, respectivamente.\n"
 "\n"
 "Você pode mudar a função da unidade a partir da janela de estado da tropa. Note que a classe cavaleiro fica disponível somente para algumas unidades específicas. A maioria das unidades não pode ser cavaleira.\n"
 "\n"
-"O último tipo de unidade, Refugiado, é um tipo especial. Eles não são envolvidos em nenhuma batalha. O líder não pode ser um refugiado. Se você tiver unidades gravemente feridas na sua tropa, você pode colocá-los com o tipo refugiado. Refugiados são marcados com <b>X</b>"
+"O último tipo de unidade, Refugiado, é um tipo especial. Eles não são envolvidos em nenhuma batalha. O líder não pode ser um refugiado. Se você tiver unidades gravemente feridas na sua tropa, você pode colocá-las com o tipo refugiado. Refugiados são marcados com <b>X</b>"
 
 #. [option]
 #: ./_main.cfg:1271
@@ -1096,7 +1095,6 @@ msgstr "Dano de Ataque"
 
 #. [message]
 #: ./_main.cfg:1350
-#, fuzzy
 msgid ""
 "Attack damage of troop is calculated from the attacks of members.\n"
 "\n"
@@ -1119,7 +1117,6 @@ msgstr "<span color='yellow'>Morte do líder</span>"
 
 #. [message]
 #: ./_main.cfg:1365
-#, fuzzy
 msgid "<span color='yellow'>Death of the leader means the death of the troop.</span> Since the shooters are safer than vanguards, shooter leaders may be better to avoid unlucky death of a troop."
 msgstr "<span color='yellow'>Morte do líder significa a morte da tropa.</span> Uma vez que atiradores estão mais protegidos do que vanguardeiros, líderes atiradores podem ser melhores para evitar uma infeliz morte da tropa."
 
@@ -1138,7 +1135,7 @@ msgid ""
 "\n"
 "The calculated damage is scattered to <b>ALL THE ENEMY TROOP UNITS</b>, where <i>ranged attack damage</i> is the displayed attack damage, and <i>enemy defense</i> is the ordinary unit defense at the current terrain. Units may not die easily by the ranged attack since it is scattered to all the unit. On the other hand, in the melee attack, target units (vanguards or shooters) may die easily because the damage concentrated on them. For about damage coefficient, see the topic about that."
 msgstr ""
-"Ataque e contra-ataque são feitos simultaneamente. Mesmo se você pode derrotar a tropa inimiga com seu ataque, você recebe o dano de contra-ataque.\n"
+"Ataque e contra-ataque são feitos simultaneamente. Mesmo se você puder derrotar a tropa inimiga com seu ataque, você recebe o dano de contra-ataque.\n"
 "\n"
 "O ataque de longa distância é calculado assim:\n"
 "(dano de ataque de longa distância) * (coeficiente) * (defesa inimiga)\n"
@@ -1580,7 +1577,7 @@ msgstr "Sylvania"
 #. [option]
 #: ./lua/actions.lua:781 ./scenarios/Field.cfg:7260
 msgid "Free Aqua"
-msgstr "Águas Livres"
+msgstr "Aquae Livres"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
@@ -1672,7 +1669,7 @@ msgstr "[V]"
 #. [lua]: show_status_preshow_sub
 #: ./lua/status.lua:668 ./lua/status.lua:672 ./lua/status.lua:679
 msgid "[B]"
-msgstr "[A]"
+msgstr "[R]"
 
 #. [lua]: show_status_preshow_sub
 #: ./lua/status.lua:669 ./lua/status.lua:674 ./lua/status.lua:677
@@ -2055,7 +2052,7 @@ msgstr "Ei vigarista, parece que o debate terminou. Alguém discorda?"
 #. [message]: speaker=Christopher
 #: ./scenarios/Epilogue.cfg:1904
 msgid "I agree this guy did a great job. BUT, he usually stayed here. We had been staying in the frontline and put our life on the line! The role of a lord and a general is totally different! That silent guy is surely an excellent LORD. But the greatest GENERAL must be me!"
-msgstr "Eu concordo que este garoto fez um belo trabalho. MAS, ele normalmente ficou aqui. Nós estivemos na linha de frente e colocamos nossa vida em risco! A função de um mestre e de um general são totalmente diferentes. Esse cara quito é com certeza um excelente LORDE. Mas o maior GENERAL deve ser eu mesmo!"
+msgstr "Eu concordo que este garoto fez um belo trabalho. MAS, ele normalmente ficou aqui. Nós estivemos na linha de frente e colocamos nossa vida em risco! A função de um mestre e de um general são totalmente diferentes. Esse cara quito é com certeza um excelente MESTRE. Mas o maior GENERAL deve ser eu mesmo!"
 
 #. [message]
 #: ./scenarios/Epilogue.cfg:1909
@@ -3809,9 +3806,8 @@ msgstr "Um grande lago no sul! O maior lago por aqui!! Alguns idiotas dizem que 
 
 #. [message]
 #: ./scenarios/Field.cfg:7373
-#, fuzzy
 msgid "Twin lake in the Valen mountains!! It is all! Ordinary humans cannot visit there!! That mountains are terribly steep!"
-msgstr "Os lagos gêmeos nas Montanhas do Vale!! É tudo! Humanos ordinários não conseguem visitar lá!! Aquelas montanhas são terrivelmente íngrimes!"
+msgstr "Os lagos gêmeos nas Montanhas Valen!! Isso é tudo! Humanos ordinários não conseguem visitar lá!! Aquelas montanhas são terrivelmente íngrimes!"
 
 #. [message]
 #: ./scenarios/Field.cfg:7385
@@ -4983,7 +4979,7 @@ msgstr "Qual é minha nova função?"
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:576
 msgid "Vanguard [F]"
-msgstr "Vanguardeiro [D]"
+msgstr "Vanguardeiro [V]"
 
 #. [option]: speaker=narrator
 #: ./utils/menu.cfg:596
