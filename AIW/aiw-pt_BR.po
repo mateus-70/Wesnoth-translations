@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2021-02-16 09:30-0300\n"
+"PO-Revision-Date: 2021-05-01 06:24-0300\n"
 "Last-Translator: Andrei Machado <andreisp.machado@yahoo.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -214,11 +214,11 @@ msgid "Crownia (Capital)"
 msgstr "Coronia (Capital)"
 
 # Sceptoria & Crownia vc podia utilizar a brincadeira e traduzir o trocadilho pra português. Algo como Cetronia & Coronia; Cetropolis & Coropolis.
+# Isso é uma vantagem, ao passo que com o nome dos personagens não tem muita.
 #. [label]
 #: _main.cfg:248
-#, fuzzy
 msgid "Sceptoria (Capital)"
-msgstr "Sceptoria (Capital)"
+msgstr "Cetrônia (Capital)"
 
 #. [label]
 #: _main.cfg:254
@@ -634,7 +634,7 @@ msgstr ""
 #. [option]
 #: _main.cfg:910
 msgid "Enemy Guardians/Enemy Leaders!"
-msgstr "Guardiães Inimigos/Líderes Inimigos!"
+msgstr "Guardiões Inimigos/Líderes Inimigos!"
 
 #. [message]
 #: _main.cfg:914
@@ -1438,12 +1438,10 @@ msgstr ""
 "\n"
 "Deve ser notado que o ouro consumido pode ser revertido no caso 1, se as tropas inimigas desaparecerem, por exemplo quando estão recuando. Se você quiser evitar tal reversão, você deve destruir as tropas matando os líderes. Ou pelo menos infrinja algum dano nessas tropas. Soldados mortos ou feridos irão custar um pouco mais ao inimigo."
 
-# Talvez vc queira mudar pra suprimir, até pq usou suprimir na descrição da ação (próximo string).
 #. [option]
 #: _main.cfg:1653
-#, fuzzy
 msgid "Suppress bandits or monsters?"
-msgstr "Derrotar bandidos e monstros?"
+msgstr "Suprimir bandidos e monstros?"
 
 #. [message]
 #: _main.cfg:1657
@@ -1533,7 +1531,7 @@ msgstr "Coronia"
 #. [then]
 #: lua/actions.lua:772 scenarios/Field.cfg:2636 scenarios/Field.cfg:7125
 msgid "Sceptoria"
-msgstr "Sceptoria"
+msgstr "Cetrônia"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
@@ -1772,19 +1770,18 @@ msgstr "Eeehhhh!"
 # Até pq ninguém fala que está esperando pelas palavras de outrem, mas sim por odens, instruções, mensagem, etc. Talvez vc queira mudar isto neste string e nos outros da conversa desse grupo.
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1527
-#, fuzzy
 msgid "Why you begin drinking, trickster? Did you also join to the alcoholic team? We should wait the words of our lord."
-msgstr "Por que você começou a beber, vigarista? Você também se juntou ao time dos alcoólatras? Nós devemos esperar pelas palavras de nosso mestre."
+msgstr "Por que você começou a beber, vigarista? Você também se juntou ao time dos alcoólatras? Nós devemos esperar pelas ordens de nosso mestre."
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1532
 msgid "Hey hardhead, we must be starved if we wait for his words!! Such bad customs must be abandoned!"
-msgstr "Ei cabeça-dura, nós vamos passar fome se esperarmos as palavras dele!! Esses maus costumes devem ser abandonados!"
+msgstr "Ei cabeça-dura, nós vamos passar fome se esperarmos as ordens dele!! Esses maus costumes devem ser abandonados!"
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1537
 msgid "Hm. It is very alcoholic logic. But, waiting for words from him is really a waste of the time. At least in the current situation, your words make sense."
-msgstr "Hm. É uma lógica muito alcoólatra. Mas, esperar as palavras dele é realmente perda de tempo. Pelo menos na situação atual, suas palavras fazem sentido."
+msgstr "Hm. É uma lógica muito alcoólatra. Mas, esperar as ordens dele é realmente perda de tempo. Pelo menos na situação atual, suas palavras fazem sentido."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1546
@@ -1856,25 +1853,20 @@ msgstr "General Arsenio, general Heinrich e general Cristofer, vocês querem alg
 msgid "... of course, it is merely a joke. Never take it serious."
 msgstr "... claro, é meramente uma piada. Nunca leve isso a sério."
 
-# Que tal traduzir a última frase como "você/s precisa/m aprender a brincar"?
-# Não estou certo se ele se refere a uma ou múltiplas pessoas.
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1621
-#, fuzzy
 msgid "... you and that hardhead are really hardheaded. You should learn jokes."
-msgstr "... você e aquele cabeça-dura são realmente cabeças-duras. Vocês devem aprender piadas."
+msgstr "... você e aquele cabeça-dura são realmente cabeças-duras. Vocês devem aprender a brincar."
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1626
 msgid "I am not talking just about for costs. ... what about your jobs during the round-trip?"
 msgstr "Eu não estou falando somente por despesas. ... o que será dos seus trabalhos durante a ida e volta?"
 
-# status aqui não quer dizer posição social, importância? Se sim, a tradução adequada não é estado.
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1631
-#, fuzzy
 msgid "... my jobs? The war is finished. I have no urgent tasks, and I am good at hiding my status. Because I am a so-called trickster! There is no problems!"
-msgstr "... meus trabalhos? A guerra terminou. Eu não tenho tarefas urgentes, e eu sou bom em esconder meu estado. Porque eu sou o tão chamado vigarista! Não tem problema!"
+msgstr "... meus trabalhos? A guerra terminou. Eu não tenho tarefas urgentes, e eu sou bom em esconder minha ocupação. Porque eu sou o tão chamado vigarista! Não tem problema!"
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1636
@@ -2473,13 +2465,10 @@ msgstr "Um góblin...? Ah, então você é o Clammy. Você é um góblin surpree
 msgid "Ah, so you are one of bad guys. Why you come here?"
 msgstr "Ah, então você é um dos vilões. Por que você veio aqui?"
 
-# Acho que essa frase ficou muito estranha, tanto no original quando na tradução. Que tal mudar o "motivo" por um "Por quê"?
-# Por quê? Você dez que eu preciso de um motivo para visitar um amifo? Ridículo.
 #. [message]
 #: scenarios/Field.cfg:3293
-#, fuzzy
 msgid "Reason? You say I should have a reason to see a friend? Ridiculous."
-msgstr "Motivo? Você diz que eu devo ter um motivo para ver um amigo? Ridículo."
+msgstr "Por quê? Você diz que eu preciso de um motivo para ver um amigo? Ridículo."
 
 #. [message]
 #: scenarios/Field.cfg:3298
@@ -2546,12 +2535,10 @@ msgstr "(Clammy está brincando com Cristofer?)"
 msgid "Not kidding."
 msgstr "Não está brincando."
 
-# Aqui não seria "que pena?"
 #. [option]
 #: scenarios/Field.cfg:3380
-#, fuzzy
 msgid "Too bad."
-msgstr "Muito ruim."
+msgstr "Que pena."
 
 #. [option]
 #: scenarios/Field.cfg:3383
@@ -2630,12 +2617,10 @@ msgstr "(Eu tenho certeza que eles não sabem a situação. Isso soa muito bem!)
 msgid "You wanna drink? Ah, you are really alcoholics as usual. Ok, I will treat you instead of that very busy mayor. Fortunately I know this city very well."
 msgstr "Vocês querem beber? Ah, vocês estão bem alcoólatras como sempre. Ok, eu tratarei de vocês ao invés daquele prefeito muito ocupado. Felizmente eu conheço muito bem esta cidade."
 
-# Não seria algo tipo "você vai nós servir"?
 #. [message]
 #: scenarios/Field.cfg:3564
-#, fuzzy
 msgid "You treat us? It will snow tomorrow."
-msgstr "Você vai tratar-nos? Vai nevar amanhã."
+msgstr "Você vai nos servir? Vai nevar amanhã."
 
 #. [message]
 #: scenarios/Field.cfg:3569
@@ -2709,10 +2694,8 @@ msgstr "Terrível vigarista..."
 msgid "Much more terrible than snow... You are really trickster..."
 msgstr "Muito mais terrível que a neve... Você é realmente vigarista..."
 
-# Eu traduzi thinderstick como bastão dos trovões, se quiser usar.
 #. [message]
 #: scenarios/Field.cfg:3692
-#, fuzzy
 msgid ""
 "Hehehe. You are really alcoholics, should be more careful.\n"
 "\n"
@@ -2720,7 +2703,7 @@ msgid ""
 msgstr ""
 "Hehehe. Vocês são muito alcoólatras, deveriam ser mais cautelosos.\n"
 "\n"
-"... Hm. Heinrich, por que você tem um thunderstick nas suas mãos? Ei Arsenio, por que você tem um arco..."
+"... Hm. Heinrich, por que você tem um bastão dos trovões na mão? Ei Arsenio, por que você tem um arco..."
 
 #. [message]
 #: scenarios/Field.cfg:3699
@@ -2743,9 +2726,10 @@ msgid "(Arsenio and Heinrich join Fusia!)"
 msgstr "(Arsenio e Heinrich juntaram-se a Fusia!)"
 
 # Como vc adaptou Cristopher para ristofer, poderia adaptar os outros nomes próprios também. Andrezej, por exemplo, ficaria Andrei.
+# Alterei Cristofer porque é muito imediato, e a única desvantagem é a string não ser a mesma original. Traduzir ou adaptar nomes
+# não é uma coisa que me agrade. Por hora deixarei assim.
 #. [unit]: type=Silver Mage, id=Andrzej
 #: scenarios/Field.cfg:3816 utils/message_speakers.cfg:36
-#, fuzzy
 msgid "Andrzej"
 msgstr "Andrzej"
 
@@ -2997,9 +2981,8 @@ msgstr "Vocês podem suspeitar de mim. Mas não há mentira no que eu digo! Nós
 # Se for uma ordem, não seria correto dizer "alto"?
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4326
-#, fuzzy
 msgid "Halt."
-msgstr "Parado."
+msgstr "Alto."
 
 #. [message]
 #: scenarios/Field.cfg:4331
@@ -3232,12 +3215,10 @@ msgstr "Caça ao tesouro!"
 msgid "Do you need a new map?"
 msgstr "Você precisa de um novo mapa?"
 
-# Aqui não seria "obter" não?
 #. [option]
 #: scenarios/Field.cfg:5270
-#, fuzzy
 msgid "Get a new treasure map for <span color='yellow'>5g</span>!"
-msgstr "Obtenha um novo mapa do tesouro por <span color='yellow'>5 ouros</span>!"
+msgstr "Obter um novo mapa do tesouro por <span color='yellow'>5 ouros</span>!"
 
 #. [message]
 #: scenarios/Field.cfg:5281
@@ -3695,12 +3676,10 @@ msgstr "A capital do Reino fica a <b>Sudoeste</b>! É a cidade central do Reino 
 msgid "The biggest port of the Kingdom! Very urban place unlike here! It locates <b>West</b> from here, north of Crownia! Famous for good foods, metals, jewelries, beers, and liquors! Everything is available there! I want to move to that kind of rich city! But I don't like silent city like that!"
 msgstr "O maior porto do Reino! Um lugar muito urbanizado, diferentemente daqui! Fica localizado a <b>Oeste</b> daqui, ao norte de Coronia! Famosa por boa comida, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
 
-# Não ficaria melhor "Uma cidade relativamente  nova ao sul" ?
 #. [message]
 #: scenarios/Field.cfg:7082
-#, fuzzy
 msgid "Relatively new city <b>South</b> from here! It is known as a good sightseeing place! That is also an important guard post! They are always watching we dwarves, damned trolls, and scary monsters from the east mountains! Really damned army there! You should crash them as soon as possible!"
-msgstr "Relativamente uma cidade nova, ao <b>Sul</b> daqui! É conhecida como um local turístico! Ela é também um importante posto de guarda! Eles sempre estão observando nós, anões, os malditos trolls, e monstros assustarores das montanhas do leste! Realmente um exército bem maldito lá! Você deve esmagá-los o mais rápido possível!"
+msgstr "Uma cidade relativamente nova, ao <b>Sul</b> daqui! É conhecida como um local turístico! Ela é também um importante posto de guarda! Eles sempre estão observando nós, anões, os malditos trolls, e monstros assustarores das montanhas do leste! Realmente um exército bem maldito lá! Você deve esmagá-los o mais rápido possível!"
 
 #. [message]
 #: scenarios/Field.cfg:7094
@@ -3757,12 +3736,10 @@ msgstr "...exceto o Clammy!"
 msgid "OK! Goblins are very brave and horrible!"
 msgstr "OK! Góblins são muito bravos e horríveis!"
 
-# Vc esqueceu da parte do "sand"
 #. [message]
 #: scenarios/Field.cfg:7203
-#, fuzzy
 msgid "Sand-human city <b>North West</b> from here! They are good merchants as well as good mercenaries!! They provide good irons and jewelries to us dwarves! There may be good mines in the mountain close to their city! They are tough negotiator but once promised they never break promises!!!"
-msgstr "A cidade dos homens a <b>Noroeste</b> daqui! Eles são bons mercadores e também bons mercenários!! Eles fornecem bons ferros e joalherias para nós anões! Pode haver boas minas naquela montanha próxima à cidade deles! Eles são negociadores duros mas uma vez que prometem eles nunca quebram suas promessas!!!"
+msgstr "A cidade do povo da areia a <b>Noroeste</b> daqui! Eles são bons mercadores e também bons mercenários!! Eles fornecem bons ferros e joalherias para nós anões! Pode haver boas minas naquela montanha próxima à cidade deles! Eles são negociadores duros mas uma vez que prometem eles nunca quebram suas promessas!!!"
 
 #. [message]
 #: scenarios/Field.cfg:7215
@@ -3825,17 +3802,15 @@ msgstr "O maior rio nesta terra, correndo do leste a oeste! Você definitivament
 msgid "That is a river running through Wet Mountain City in south west!! This river is also deep and the flow is rather rapid!! What idiot call it <i>Silent</i> Stream?!! This river is nothing silent! Ridiculous!!"
 msgstr "Aquele é um rio corredo através da Cidade da Montanha Molhada, a sudoeste!! Este rio também é profundo e o fluxo é bem rápido! Que idiota chamou-o Córrego <i>Silencioso</b>?!! Este rio não é nada silencioso! Ridículo!!"
 
-# very very upper
 #. [message]
 #: scenarios/Field.cfg:7337
-#, fuzzy
 msgid "This river flows into the River, the biggest one! But this happens very very upper part of the river! No one need to care such an unimportant river!! I never have visited there! That place is too far from here!!"
 msgstr "Este rio fui para O Rio, o maior de todos! Mas isso acontece bem bem acima no rio! Ninguém presta atenção num rio tão pouco importante!! Eu nunca visitei aquele lugar! Esse lugar é muito longe daqui!!"
 
 #. [message]
 #: scenarios/Field.cfg:7349
 msgid "Very very ordinary river!! It is easy to be utilized! Much better than other ones! This one runs through Sceptoria, the capital of the Empire!"
-msgstr "Rio muito muito ordinário!! É fácil de utilizar! Bem melhor do que os outros! Este corre através de Sceptoria, a capital do Império!"
+msgstr "Rio muito muito ordinário!! É fácil de utilizar! Bem melhor do que os outros! Este corre através de Cetrônia, a capital do Império!"
 
 #. [message]
 #: scenarios/Field.cfg:7361
@@ -3887,10 +3862,8 @@ msgstr "Montanhas íngremes ao redor da Cidade da Montanha Molhada no sudoeste! 
 msgid "Undistributable Plain"
 msgstr "Planície Imperturbável"
 
-# O termo certo pra no-man's-land é terra de ninguém
 #. [message]
 #: scenarios/Field.cfg:7469
-#, fuzzy
 msgid "This is no-man's-land! No one knows the details about this place!! I wanna visit there! It is believed there used to be a great civilization in the very east of this land!! Heritages of that demolished civilization must remain there!"
 msgstr "Esta é terra de ninguém! Ninguém sabe detalhes sobre esse lugar!! Eu quero visitar! Acredita-se que costumava ter uma grande civilização bem a oeste desta terra!! Heranças daquela civilização demolida ainda devem estar lá!"
 
@@ -3902,7 +3875,7 @@ msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é rea
 #. [message]
 #: scenarios/Field.cfg:7491
 msgid "Furtile plain in the north west!! Just west of the Imperial capital city, Sceptoria!! This plain used to be a forest! But people exploited this place for farming very very long ago!"
-msgstr "Planície inútil a noroeste!! Logo a oeste da capital Imperial, Sceptoria!! Esta planície costumava ser uma floresta! Mas as pessoas exploraram este lugar para agricultura há muito muito tempo atrás!"
+msgstr "Planície inútil a noroeste!! Logo a oeste da capital Imperial, Cetrônia!! Esta planície costumava ser uma floresta! Mas as pessoas exploraram este lugar para agricultura há muito muito tempo atrás!"
 
 #. [message]
 #: scenarios/Field.cfg:7503
@@ -3950,9 +3923,9 @@ msgid "Plain close the Great Lake! It locates at the very south of this city! Ve
 msgstr "Planície próxima ao Grande Lago! Localiza-se muito ao sul desta cidade! Um lugar muito confortável de se viver! Mas nada interessante para nós, geógrafos! Ignore um lugar tão enfadonho!"
 
 # Dá uma olhadinha na tradução qu vc fez. Pra mim ela não faz muito sentido se vc ler a frase solta. Eu entendi o que você quis dizer mas recomendo re-escrever a frase de modo a deixar o significado mais claro.
+# - Não alterado. Refere-se à cidade Saurian, e só se pode chegar nessa string lendo a string anterior que é o nome do local.
 #. [message]
 #: scenarios/Field.cfg:7597
-#, fuzzy
 msgid "Damn it!! Such a dirty place must be burned out! It locates west of this place!! Stupid lizards are living there!"
 msgstr "Droga!! Um lugar tão sujo deve ser queimado! Localiza-se a oeste daqui!! Lagartos estúpidos vivem lá!"
 
@@ -4169,12 +4142,11 @@ msgstr ""
 # Aqui eu acho que ficaria melhor dizer que Fusia é o nome experimental ou o nome temporário. "a tentativa de nome" fica muito estranho na minha opinião.
 #. [message]
 #: scenarios/Prologue.cfg:1053
-#, fuzzy
 msgid ""
 "OK. This is our new capital, <span color='yellow'>Fusia</span>. Fusia is also the tentative name of this new country. We have to save this city and country.\n"
 "(City names will be shown in the map, it is not necessary to take a note.)"
 msgstr ""
-"OK. Esta é nossa nova capital, <span color='yellow'>Fusia</span>. Fusia é também a tentativa de nome deste novo país. Nós temos que salvar esta cidade e o país.\n"
+"OK. Esta é nossa nova capital, <span color='yellow'>Fusia</span>. Fusia é também o nome experimental deste novo país. Nós temos que salvar esta cidade e o país.\n"
 "(Os nomes das cidades serão mostrados no mapa, não é necessário anotá-los.)"
 
 #. [unit]: type=Key, id=Key
@@ -4360,12 +4332,13 @@ msgstr "Este lugar é ocupado por um lado inimigo."
 msgid "This is a dummy unit. Never mind."
 msgstr "Esta é uma simulação de unidade. Não ligue."
 
-# Dá uma revisada aqui que eu acho que dá pra ficar melhor a tradução.
+# - Dá uma revisada aqui que eu acho que dá pra ficar melhor a tradução.
+# - Alterei levemente, no jogo o papel do paperpusher é estacionar em uma aldeia
+#     e obter dinheiro ficando nela.
 #. [unit_type]: id=Paperpusher, race=human
 #: units/Paperpusher.cfg:20
-#, fuzzy
 msgid "These people are very famous for there shabby behaviors."
-msgstr "Essas pessoas são bem famosas pelos seus comportamentos injustos."
+msgstr "Essas pessoas são bem famosas pelas suas atitudes miseráveis."
 
 #. [unit_type]: id=Company
 #. [unit_type]: id=Drake Company
@@ -4755,10 +4728,8 @@ msgstr ""
 msgid "ally"
 msgstr "aliado"
 
-# Vê de novo o que significa esse "ally stat". Eu imagino que tenha haver com stats/estatísticas.
 #. [message]: speaker=narrator
 #: utils/debug.cfg:131
-#, fuzzy
 msgid ""
 "ally stat:\n"
 "\n"
@@ -4776,7 +4747,7 @@ msgid ""
 "Saurians: $aiw_side_stat[12].ally\n"
 "Monsters: $aiw_side_stat[13].ally"
 msgstr ""
-"estados dos aliados:\n"
+"estatísticas dos aliados:\n"
 "\n"
 "Fusia: $aiw_side_stat[1].ally\n"
 "Reino: $aiw_side_stat[2].ally\n"
@@ -5342,16 +5313,14 @@ msgstr "a receita base de Fusia aumentou em $inc|!"
 msgid "base income of Fusia is decreased by $inc|!"
 msgstr "a receita base de Fusia caiu em $inc|!"
 
-# Aqui, ao invés de sequência, não deveria ser continuação?
 #. [part]
 #: utils/storytxt.cfg:9
-#, fuzzy
 msgid ""
 "Welcome to <i>An Independence War</i> campaign! This is a sequel of <i>A Group in a War</i> which you already played through.\n"
 "\n"
 "(Secret scenario of <i>A Group in a War</i>, The Nagas, is also related to this campaign.)"
 msgstr ""
-"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma sequência para <i>Um Grupo numa Guerra</i> que você já jogou.\n"
+"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma continuação de <i>Um Grupo numa Guerra</i> que você já jogou.\n"
 "\n"
 "(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é relacionado com esta campanha.)"
 
@@ -5638,10 +5607,8 @@ msgstr "esta tropa estrondosa irá facilmente esmagar tropas inimigas"
 msgid "trait^leading wind"
 msgstr "ventos fortes"
 
-# Todos ostraits possuem mas/fem, imagino que seja pq algumas línguas podem precisar dessa diferenciação.
 #. [trait]: id=leading_wind
 #: utils/traits.cfg:87
-#, fuzzy
 msgid "trait-female^leading wind"
 msgstr "ventos fortes"
 
