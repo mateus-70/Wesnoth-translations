@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-12 19:08+0900\n"
-"PO-Revision-Date: 2021-05-01 06:24-0300\n"
-"Last-Translator: Andrei Machado <andreisp.machado@yahoo.com>\n"
+"PO-Revision-Date: 2021-05-01 07:01-0300\n"
+"Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,10 +211,10 @@ msgstr "Cidade Portuária do Reino"
 #. [label]
 #: _main.cfg:234
 msgid "Crownia (Capital)"
-msgstr "Coronia (Capital)"
+msgstr "Corônia (Capital)"
 
-# Sceptoria & Crownia vc podia utilizar a brincadeira e traduzir o trocadilho pra português. Algo como Cetronia & Coronia; Cetropolis & Coropolis.
-# Isso é uma vantagem, ao passo que com o nome dos personagens não tem muita.
+# - Sceptoria & Crownia vc podia utilizar a brincadeira e traduzir o trocadilho pra português. Algo como Cetronia & Coronia; Cetropolis & Coropolis.
+# - Isso é uma vantagem, ao passo que com o nome dos personagens não tem muita.
 #. [label]
 #: _main.cfg:248
 msgid "Sceptoria (Capital)"
@@ -275,7 +275,7 @@ msgstr "Águas Livres (Capital)"
 #. [label]
 #: _main.cfg:331
 msgid "Dragon Teeth (Capital)"
-msgstr "Dente de Dragão (Capital)"
+msgstr "Dentes de Dragão (Capital)"
 
 #. [label]
 #: _main.cfg:338
@@ -1524,7 +1524,7 @@ msgstr "Porto do Reino"
 #. [then]
 #: lua/actions.lua:771 scenarios/Field.cfg:2530 scenarios/Field.cfg:7053
 msgid "Crownia"
-msgstr "Coronia"
+msgstr "Corônia"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
@@ -1589,7 +1589,7 @@ msgstr "Aquae Livres"
 #. [option]
 #: lua/actions.lua:782 scenarios/Field.cfg:7272
 msgid "Dragon Teeth"
-msgstr "Dente de Dragão"
+msgstr "Dentes de Dragão"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
@@ -1926,7 +1926,7 @@ msgstr "Hmm. Ele realmente é um mago capaz. Seu poder pode talvez já seja maio
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1761
 msgid "I never throw away my current tasks. Because those tasks indirectly increased my skills. I had been a very very ordinary mage when I was in the mage academy in Crownia. My power is increased after I got current position. Logic of magics is not so much different from the other kinds of logics. Learning non-magic things can improve my magics. Training of magics, such as firing fireballs, is of course regularly performing, though."
-msgstr "Eu nunca abandono minhas tarefas atuais. Porque essas tarefas aumentam indiretamente minhas habilidades. Eu era um mago muito muito ordinário quando eu estava na academia de magos em Coronia. Meu poder aumentou depois que eu cheguei na minha ocupação atual. A lógica da magia não é tão diferente de outros tipos de lógica. Aprender coisas fora da magia pode melhorar minha magia. Treinamento de magia, tais como atirar bolas de fogo, claro, é efetuado regularmente."
+msgstr "Eu nunca abandono minhas tarefas atuais. Porque essas tarefas aumentam indiretamente minhas habilidades. Eu era um mago muito muito ordinário quando eu estava na academia de magos em Corônia. Meu poder aumentou depois que eu cheguei na minha ocupação atual. A lógica da magia não é tão diferente de outros tipos de lógica. Aprender coisas fora da magia pode melhorar minha magia. Treinamento de magia, tais como atirar bolas de fogo, claro, é efetuado regularmente."
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1766
@@ -2605,7 +2605,7 @@ msgstr "Eu só conheço os licores humanos ao redor daqui, os terríveis licores
 #. [message]
 #: scenarios/Field.cfg:3549
 msgid "Liquors... brews... I wanna drink... We could not drink these days because we had been in eastern mountains for more than one month. Now we are on the way back to the Crownia."
-msgstr "Licores... cervejas... Eu quero beber... Nós não conseguimos beber esses dias porque nós estávamos nas montanhas do leste por mais de um mês. Agora estamos no caminho de volta para Coronia."
+msgstr "Licores... cervejas... Eu quero beber... Nós não conseguimos beber esses dias porque nós estávamos nas montanhas do leste por mais de um mês. Agora estamos no caminho de volta para Corônia."
 
 #. [message]
 #: scenarios/Field.cfg:3554
@@ -2645,7 +2645,7 @@ msgstr "Ufa. Ótimas cervejas! A propósito, ocorreu algum evento recentemente n
 #. [message]
 #: scenarios/Field.cfg:3646
 msgid "Hm. There was a big event. A province declared independence from the Kingdom. Ah, but that happend in the very rural part of the Kingdom. Effects on Crownia might be very limited."
-msgstr "Hm. Houve um grande evento. Uma província declarou independência do Reino. Ah, mas isso aconteceu numa parte bem rural do Reino. Os efeitos em Coronia podem ser bem limitados."
+msgstr "Hm. Houve um grande evento. Uma província declarou independência do Reino. Ah, mas isso aconteceu numa parte bem rural do Reino. Os efeitos em Corônia podem ser bem limitados."
 
 #. [message]
 #: scenarios/Field.cfg:3651
@@ -2682,7 +2682,7 @@ msgid ""
 msgstr ""
 "Vocês visitam o rei rebelde e depois bebem cervejas com este general dos rebeldes.\n"
 "\n"
-"... Deve haver tantos espiões do Reino e do Império nesta cidade, e eles podem observar o comportamento de vocês. Vocês podem voltar a Coronia, meus amigos?"
+"... Deve haver tantos espiões do Reino e do Império nesta cidade, e eles podem observar o comportamento de vocês. Vocês podem voltar a Corônia, meus amigos?"
 
 #. [message]
 #: scenarios/Field.cfg:3682
@@ -2767,7 +2767,7 @@ msgstr ""
 #. [message]
 #: scenarios/Field.cfg:3856
 msgid "Hm. If I stayed one more week on Crownia, I might be hanged. Am I not your friend?"
-msgstr "Hm. Se eu ficasse mais uma semana em Coronia, eu poderia ser enforcado. Eu não sou seu amigo?"
+msgstr "Hm. Se eu ficasse mais uma semana em Corônia, eu poderia ser enforcado. Eu não sou seu amigo?"
 
 #. [message]
 #: scenarios/Field.cfg:3861
@@ -3674,7 +3674,7 @@ msgstr "A capital do Reino fica a <b>Sudoeste</b>! É a cidade central do Reino 
 #. [message]
 #: scenarios/Field.cfg:7070
 msgid "The biggest port of the Kingdom! Very urban place unlike here! It locates <b>West</b> from here, north of Crownia! Famous for good foods, metals, jewelries, beers, and liquors! Everything is available there! I want to move to that kind of rich city! But I don't like silent city like that!"
-msgstr "O maior porto do Reino! Um lugar muito urbanizado, diferentemente daqui! Fica localizado a <b>Oeste</b> daqui, ao norte de Coronia! Famosa por boa comida, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
+msgstr "O maior porto do Reino! Um lugar muito urbanizado, diferentemente deste lugar! Fica localizado a <b>Oeste</b> daqui, ao norte de Corônia! Famosa pela boa comida, metais, joalherias, cervejas e licores! Tem tudo lá! Eu quero me mover para um tipo de cidade rica assim! Mas eu não gosto de uma cidade silenciosa como aquela!"
 
 #. [message]
 #: scenarios/Field.cfg:7082
@@ -3684,7 +3684,7 @@ msgstr "Uma cidade relativamente nova, ao <b>Sul</b> daqui! É conhecida como um
 #. [message]
 #: scenarios/Field.cfg:7094
 msgid "Rural old city in <b>South West</b>! It had been a capital of the Kingdom since the founding of that country! About 200 years ago, a smart king decided to move the capital to Crownia from that rural old city!!! I know history well as well as geography! History and geography is tightly linked!!"
-msgstr "Velha cidade rural a <b>Sudoeste</b>! Ela foi a capital do Reino desde a fundação daquele país! Cerca de 200 anos atrás, um rei inteligente decidiu mover a capital daquela velha cidade rural para Coronia!!! Eu sei história tão bem quanto geografia! História e geografia estão fortemente ligadas!!"
+msgstr "Velha cidade rural a <b>Sudoeste</b>! Ela foi a capital do Reino desde a fundação daquele país! Cerca de 200 anos atrás, um rei inteligente decidiu mover a capital daquela velha cidade rural para Corônia!!! Eu sei história tão bem quanto geografia! História e geografia estão fortemente ligadas!!"
 
 #. [message]
 #: scenarios/Field.cfg:7105
@@ -3870,7 +3870,7 @@ msgstr "Esta é terra de ninguém! Ninguém sabe detalhes sobre esse lugar!! Eu 
 #. [message]
 #: scenarios/Field.cfg:7480
 msgid "Vast dry plain locates just south of this city! That place is really useless! But if this plain disappears, this country will be immediately swallowed by the Kingdom!! Generals in Crownia may hesitate vast attack to this country due to the existence of this vast dry plain!"
-msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é realmente inútil! Mas se esta planície desaparecer, este país será imediatamente engolido pelo Reino!! Os generais em Coronia podem hesitar um grande ataque a este país devido a existência desta planície vasta e seca!"
+msgstr "Uma planície vasta e seca logo ao sul desta cidade! Aquele lugar é realmente inútil! Mas se esta planície desaparecer, este país será imediatamente engolido pelo Reino!! Os generais em Corônia podem hesitar um grande ataque a este país devido a existência desta planície vasta e seca!"
 
 #. [message]
 #: scenarios/Field.cfg:7491
@@ -3880,7 +3880,7 @@ msgstr "Planície inútil a noroeste!! Logo a oeste da capital Imperial, Cetrôn
 #. [message]
 #: scenarios/Field.cfg:7503
 msgid "The most futile plain around here!! It locates near Crownia, south-west from here!! This futile plain is the symbol of the Kingdom's power!"
-msgstr "A planície mais inútil por aqui!! Localiza-se perto de Coronia, a sudoeste daqui!! Este planície inútil é o símbolo do poder do Reino!"
+msgstr "A planície mais inútil por aqui!! Localiza-se perto de Corônia, a sudoeste daqui!! Este planície inútil é o símbolo do poder do Reino!"
 
 #. [option]
 #: scenarios/Field.cfg:7510
@@ -3932,7 +3932,7 @@ msgstr "Droga!! Um lugar tão sujo deve ser queimado! Localiza-se a oeste daqui!
 #. [message]
 #: scenarios/Field.cfg:7609
 msgid "Huh? It is a pathway for coward on the east of Crownia! You pitiful humans often use that path to avoid Wet Mountain city! We, brave dwarves never choose such a cowardish way! We can penetrate Valen Mountains!"
-msgstr "Hein? É um caminho para covardes a leste de Coronia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, corajosos anões, nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Montanhas do Vale!"
+msgstr "Hein? É um caminho para covardes a leste de Corônia! Vocês lamentáveis humanos frequentemente usam aquele caminho para evitar a Cidade da Montanha Molhada! Nós, corajosos anões, nunca escolheríamos um caminho tão covarde! Nós podemos penetrar nas Montanhas do Vale!"
 
 #. [message]
 #: scenarios/Field.cfg:7621
@@ -5320,7 +5320,7 @@ msgid ""
 "\n"
 "(Secret scenario of <i>A Group in a War</i>, The Nagas, is also related to this campaign.)"
 msgstr ""
-"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma continuação de <i>Um Grupo numa Guerra</i> que você já jogou.\n"
+"Bem-vindo(a) à campanha <i>Uma Guerra de Independência</i>! Esta é uma continuação de <i>Um Grupo numa Guerra</i> que você já jogou.\n"
 "\n"
 "(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é relacionado com esta campanha.)"
 
@@ -5376,7 +5376,7 @@ msgstr ""
 #. [part]
 #: utils/storytxt.cfg:48
 msgid "<span color='red'><b>This war is caused by me. Not by an accident, very intentionally.</b></span>"
-msgstr "<span color='red'><b>Esta guerra é causada por mim. Não por acidente, bem intencionalmente.</b></span>"
+msgstr "<span color='red'><b>Esta guerra é causada por mim. Não por acidente, muito intencionalmente.</b></span>"
 
 #. [part]
 #: utils/storytxt.cfg:53
@@ -5401,7 +5401,7 @@ msgid ""
 "\n"
 "There had been some other ways, but I decided ... to fight against the Kingdom ... or, against the world. Our allies are small bunch of goblins and nearly extinct nagas. Kingdom, Empire, and all the allies of them are the enemies. Such war is apparently ridiculous. I will surely die in the war, but our will stay longer in this world and will change something."
 msgstr ""
-"Então, aquele burocrata desgraçado e arrogante veio da capital, Coronia, para publicar e executar a nova lei. Eu prendi aquele verme e forcei-o a retornar. Honestamente, eu queria fazê-lo retornar ao barro. De qualquer forma, este evento fez-me perceber que não há tempo para negociação.\n"
+"Então, aquele burocrata desgraçado e arrogante veio da capital, Corônia, para publicar e executar a nova lei. Eu prendi aquele verme e forcei-o a retornar. Honestamente, eu queria fazê-lo retornar ao barro. De qualquer forma, este evento fez-me perceber que não há tempo para negociação.\n"
 "\n"
 "Havia outros jeitos, mas eu decidi ... em lutar contra o Reino ... ou, contra o mundo. Nossos aliados são um pequeno punhado de góblins e os quase extintos nagas. Reino, Império e todos os aliados deles são os inimigos. Tal guerra é aparentemente ridícula. Eu com certeza irei morrer nesta guerra, mas nosso desejo permanecerá neste mundo e mudará algo."
 
