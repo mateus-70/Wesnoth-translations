@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-28 14:03+0900\n"
-"PO-Revision-Date: 2021-05-10 04:15-0300\n"
+"PO-Revision-Date: 2021-05-10 04:29-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -473,7 +473,6 @@ msgstr "Desmarcar zona de cuidado do inimigo.<span color='green'>(Agora: marcado
 # Verificar no jogo.
 #. [option]
 #: _main.cfg:716
-#, fuzzy
 msgid "Not asked when exiting from the Office.<span color='green'>(Now: asked)</span>"
 msgstr "Não perguntar quando sair do Escritório.<span color='green'>(Agora: perguntar)</span>"
 
@@ -481,7 +480,6 @@ msgstr "Não perguntar quando sair do Escritório.<span color='green'>(Agora: pe
 # Verificar no jogo.
 #. [option]
 #: _main.cfg:726
-#, fuzzy
 msgid "Please ask when exiting from the Office.<span color='red'>(Now: not asked)</span>"
 msgstr "Por favor perguntar quando sair do Escritório.<span color='red'>(Agora: não perguntar)</span>"
 
@@ -2645,13 +2643,10 @@ msgstr "(Eu tenho certeza que eles não sabem a situação. Isso soa muito bem!)
 msgid "You wanna drink? Ah, you are really alcoholics as usual. Ok, I will treat you instead of that very busy mayor. Fortunately I know this city very well."
 msgstr "Vocês querem beber? Ah, vocês estão bem alcoólatras como sempre. Ok, eu tratarei de vocês ao invés daquele prefeito muito ocupado. Felizmente eu conheço muito bem esta cidade."
 
-# --REVISAR--
-# Verificar com autor do add se é ameaça ou servir
 #. [message]
 #: scenarios/Field.cfg:3664
-#, fuzzy
 msgid "You, treating us? It will snow tomorrow."
-msgstr "Você nos servindo? Vai nevar amanhã."
+msgstr "Você vai nos receber? Vai nevar amanhã."
 
 #. [message]
 #: scenarios/Field.cfg:3669
@@ -5394,7 +5389,6 @@ msgstr "Meu primeiro dever como prefeito era restaurar o dano da guerra. Isso en
 
 #. [part]
 #: utils/storytxt.cfg:41
-#, fuzzy
 msgid ""
 "Now, almost two years have passed since I became a mayor. The peace is bringing prosperity to our land. But ... the another war happened as I guessed.\n"
 "\n"
