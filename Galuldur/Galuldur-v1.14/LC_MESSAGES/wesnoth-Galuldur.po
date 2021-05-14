@@ -1,0 +1,2442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-05-14 07:12 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type]: id=Invisible Unit, race=monster
+#: Galuldur/units/Invisible_Unit.cfg:6
+#, fuzzy
+msgid "dummy_unit^Invisible Unit"
+msgstr ""
+
+#. [leadership]: id=terror
+#: Galuldur/units/Goblin_Mage.cfg:8
+#, fuzzy
+msgid "terror"
+msgstr ""
+
+#. [leadership]: id=terror
+#: Galuldur/units/Goblin_Mage.cfg:9
+#, fuzzy
+msgid ""
+"This unit can frighten enemy units that are next to it, making them fight worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an enemy unit of lower level is adjacent and engages in combat, its attacks do 15% less damage times the difference in their levels."
+msgstr ""
+
+#. [unit_type]: id=Goblin Mage, race=goblin
+#: Galuldur/units/Goblin_Mage.cfg:76
+#, fuzzy
+msgid "Goblin Mage"
+msgstr ""
+
+#. [unit_type]: id=Goblin Mage, race=goblin
+#: Galuldur/units/Goblin_Mage.cfg:87
+#, fuzzy
+msgid "The Chief started as a simple goblin impaler, but soon discovered his talent for magic. In addition to a significant increase of his power, mobility and resistances, he also managed to replace the traditional goblin spear by something that has the appearance of a spear, but really is a magical weapon that can be ''thrown'' several times. As a result, he is a formidable foe and leader in spite of his frail appearance."
+msgstr ""
+
+#. [unit_type]: id=Goblin Mage, race=goblin
+#: Galuldur/units/Goblin_Mage.cfg:87
+#, fuzzy
+msgid " The terror ability of this unit makes adjacent enemy units deal less damage in combat, though this only applies to units of lower level."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Galuldur/units/Goblin_Mage.cfg:122
+#: Galuldur/units/Goblin_Mage.cfg:134
+#, fuzzy
+msgid "magical spear"
+msgstr ""
+
+#. [scenario]: id=07_Northern_Route
+#: Galuldur/scenarios/07_Northern_Route.cfg:5
+#, fuzzy
+msgid "Northern_Route"
+msgstr ""
+
+#. [side]: id=Vaddan, type=Peasant # just to make wmllint happy
+#. [side]
+#. [unit]: id=Vaddan, type=Outlaw
+#. [side]: id=Vaddan, type=Outlaw
+#. [modify_side]
+#: Galuldur/scenarios/07_Northern_Route.cfg:23
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:23
+#: Galuldur/scenarios/02_The_High_Plains.cfg:59
+#: Galuldur/scenarios/02_The_High_Plains.cfg:222
+#: Galuldur/scenarios/06_Southern_Route.cfg:21
+#: Galuldur/scenarios/06_Southern_Route.cfg:25
+#: Galuldur/utils/Galuldur_sorcery.cfg:211
+#, fuzzy
+msgid "Vaddan"
+msgstr ""
+
+#. [side]: id=Norfindil, type=Elvish Ranger
+#. [unit]: id=Norfindil, type=Elvish Ranger
+#: Galuldur/scenarios/07_Northern_Route.cfg:42
+#: Galuldur/scenarios/06_Southern_Route.cfg:44
+#: Galuldur/utils/Galuldur_units.cfg:30
+#, fuzzy
+msgid "Norfindil"
+msgstr ""
+
+#. [side]
+#: Galuldur/scenarios/07_Northern_Route.cfg:60
+#: Galuldur/scenarios/05_Journey_Back.cfg:60
+#: Galuldur/scenarios/02_The_High_Plains.cfg:42
+#: Galuldur/scenarios/06_Southern_Route.cfg:95
+#, fuzzy
+msgid "Random"
+msgstr ""
+
+#. [side]
+#: Galuldur/scenarios/07_Northern_Route.cfg:95
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:152
+#: Galuldur/scenarios/06_Southern_Route.cfg:62
+#, fuzzy
+msgid "Undead"
+msgstr ""
+
+#. [side]
+#: Galuldur/scenarios/07_Northern_Route.cfg:128
+#, fuzzy
+msgid "Bandits"
+msgstr ""
+
+#. [side]
+#: Galuldur/scenarios/07_Northern_Route.cfg:170
+#: Galuldur/scenarios/05_Journey_Back.cfg:76
+#, fuzzy
+msgid "Goblins"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:279
+#, fuzzy
+msgid "See the pass all the way over there in the east? I told you that there is a way through here."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:280
+#, fuzzy
+msgid "I believe it when we get to Pindir Forest. You may have fooled Galuldur, but rest assured that I am not going to turn my back on you. And never forget for a moment that I am in charge here."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:281
+#, fuzzy
+msgid "Whatever floats your boat. We nevertheless need to be careful, all kinds of creatures roam here."
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/07_Northern_Route.cfg:285
+#: Galuldur/scenarios/07_Northern_Route.cfg:324
+#: Galuldur/scenarios/07_Northern_Route.cfg:446
+#: Galuldur/scenarios/07_Northern_Route.cfg:459
+#: Galuldur/scenarios/07_Northern_Route.cfg:474
+#, fuzzy
+msgid "Head To Pindir Forest Via The Northern Route"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/07_Northern_Route.cfg:287
+#, fuzzy
+msgid "Move Norfindil to the sign post across the mountain pass in the east"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/scenarios/07_Northern_Route.cfg:291
+#: Galuldur/scenarios/02_The_High_Plains.cfg:165
+#: Galuldur/scenarios/02_The_High_Plains.cfg:326
+#: Galuldur/scenarios/02_The_High_Plains.cfg:578
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:195
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:464
+#: Galuldur/scenarios/06_Southern_Route.cfg:157
+#: Galuldur/utils/Galuldur_utils.cfg:830
+#, fuzzy
+msgid "Death of Norfindil"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/scenarios/07_Northern_Route.cfg:295
+#: Galuldur/scenarios/07_Northern_Route.cfg:330
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:223
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:482
+#: Galuldur/scenarios/06_Southern_Route.cfg:161
+#: Galuldur/utils/Galuldur_sorcery.cfg:249
+#: Galuldur/utils/Galuldur_utils.cfg:812
+#, fuzzy
+msgid "Death of Vaddan"
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/07_Northern_Route.cfg:320
+#, fuzzy
+msgid "Let's go."
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/07_Northern_Route.cfg:326
+#: Galuldur/scenarios/07_Northern_Route.cfg:448
+#: Galuldur/scenarios/07_Northern_Route.cfg:461
+#: Galuldur/scenarios/07_Northern_Route.cfg:476
+#, fuzzy
+msgid "Move Vaddan to the sign post across the mountain pass in the east"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:413
+#, fuzzy
+msgid "No? I didn't think so. We are going to continue on across the pass in the east as quickly as possible then."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:414
+#, fuzzy
+msgid "And look at that. He had a secret stash of money hidden away. I guess skeletons don't have pockets. Somebody get that, please."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:427
+#, fuzzy
+msgid "I got it. There are 97 gold coins here!"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/07_Northern_Route.cfg:451
+#: Galuldur/scenarios/07_Northern_Route.cfg:464
+#: Galuldur/scenarios/07_Northern_Route.cfg:479
+#, fuzzy
+msgid "(with a unit on Vaddan's side)"
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/07_Northern_Route.cfg:470
+#, fuzzy
+msgid "You did not think that you could escape me that easily, did you?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:500
+#, fuzzy
+msgid "You did not think that you could escape us that easily, did you?"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:522
+#, fuzzy
+msgid "Oh, look who's here. Vaddan, I wouldn't have thought that you'd dare come back here after our last encounter. And look at the company you are keeping this time."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:523
+#, fuzzy
+msgid "Hello, "
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/07_Northern_Route.cfg:524
+#, fuzzy
+msgid "Right. Or the world is going to end. Or what is it this time? Let's get him, chaps. Make him pay for last time."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:545
+#, fuzzy
+msgid "What elf here? We them get!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:565
+#, fuzzy
+msgid "Halt! Pay 1000 gold for pass."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:566
+#, fuzzy
+msgid "1000 gold?! That's crazy, nobody has that much money."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:567
+#, fuzzy
+msgid "Harhar, you right. We take money, then club you. Or club you, then take money. We no care."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:581
+#, fuzzy
+msgid ""
+"Here lies Gertburt.\n"
+"<i> </i>\n"
+"He roamed the lands, making friends and enemies in unusual places."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/07_Northern_Route.cfg:615
+#, fuzzy
+msgid "That was fun. Now on to Pindir Forest."
+msgstr ""
+
+#. [scenario]: id=08_Pindir_Forest
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:5
+#, fuzzy
+msgid "Pindir_Forest"
+msgstr ""
+
+#. [side]: id=Orc_Leader_E, type=Orcish Sovereign
+#. [side]
+#. [side]: id=Saurian_Leader, type=Saurian Ambusher
+#. [side]: id=Orc_Leader_NW, type=Orcish Sovereign
+#. [side]: id=Orc_Leader_NE, type=Orcish Ruler
+#. [side]: id=Orc_Leader_W, type=Orcish Sovereign
+#. [side]: id=Troll_Leader, type=Great Troll
+#. [side]: id=Orc_Leader_W, type=Orcish Ruler
+#. [side]: id=Orc_Leader_E, type=Orcish Ruler
+#. [side]: id=Orc_Leader_S, type=Orcish Sovereign
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:37
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:117
+#: Galuldur/scenarios/05_Journey_Back.cfg:122
+#: Galuldur/scenarios/02_The_High_Plains.cfg:82
+#: Galuldur/scenarios/02_The_High_Plains.cfg:105
+#: Galuldur/scenarios/02_The_High_Plains.cfg:126
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:53
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:77
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:102
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:123
+#: Galuldur/scenarios/01_Decampment.cfg:50
+#: Galuldur/scenarios/04_Ultwildir.cfg:91
+#: Galuldur/scenarios/04_Ultwildir.cfg:119
+#: Galuldur/scenarios/04_Ultwildir.cfg:143
+#: Galuldur/scenarios/10_Final_Battle.cfg:63
+#: Galuldur/scenarios/10_Final_Battle.cfg:86
+#: Galuldur/scenarios/10_Final_Battle.cfg:109
+#: Galuldur/scenarios/10_Final_Battle.cfg:134
+#: Galuldur/scenarios/10_Final_Battle.cfg:163
+#: Galuldur/scenarios/10_Final_Battle.cfg:208
+#, fuzzy
+msgid "Orcs"
+msgstr ""
+
+#. [side]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:72
+#: Galuldur/scenarios/01_Decampment.cfg:70
+#, fuzzy
+msgid "Animals"
+msgstr ""
+
+#. [side]: id=Galuldur, type=Elvish Fighter
+#. [side]
+#. [side]: id=Elralith, type=Elvish High Lord
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:99
+#: Galuldur/scenarios/05_Journey_Back.cfg:23
+#: Galuldur/scenarios/02_The_High_Plains.cfg:26
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:23
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:36
+#: Galuldur/scenarios/01_Decampment.cfg:20
+#: Galuldur/scenarios/01_Decampment.cfg:33
+#: Galuldur/scenarios/04_Ultwildir.cfg:23
+#: Galuldur/scenarios/04_Ultwildir.cfg:39
+#: Galuldur/scenarios/04_Ultwildir.cfg:57
+#: Galuldur/scenarios/04_Ultwildir.cfg:79
+#: Galuldur/scenarios/10_Final_Battle.cfg:31
+#, fuzzy
+msgid "Galuldur"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:211
+#: Galuldur/utils/Galuldur_utils.cfg:221
+#: Galuldur/utils/Galuldur_utils.cfg:236
+#, fuzzy
+msgid "Pass of Hangarn"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:217
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:472
+#, fuzzy
+msgid "Drive The Orcs Out Of Pindir Forest"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:219
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:474
+#, fuzzy
+msgid "Defeat all enemy units (except for the wolves)"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:237
+#, fuzzy
+msgid "Wow, look at that! Pindir Forest's in bad shape. The orcs have been all over the place, and not a single elf in sight. Looks like it is up to us to rid the forest of these pests."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:248
+#, fuzzy
+msgid "What the ... Did you see how these orcs are moving through the forest? Something dark is going on here."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:260
+#, fuzzy
+msgid "Master send $tmp_name. Bring gold."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:261
+#, fuzzy
+msgid "Good. Elf big trouble."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:283
+#, fuzzy
+msgid "$tmp_name bring warrior. Squash elf. Camp here."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:300
+#, fuzzy
+msgid "More of them! This is starting to get tedious."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:352
+#, fuzzy
+msgid "We made it. But what is this? What happened to Pindir Forest? And where are all our people? My father ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:353
+#, fuzzy
+msgid "Welcome back. Not a pretty sight, is it?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:453
+#, fuzzy
+msgid "$str"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:454
+#, fuzzy
+msgid "Long story ... No time for that right now. We need to wipe out every one of these orcs before it's too late."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:478
+#: Galuldur/scenarios/05_Journey_Back.cfg:219
+#: Galuldur/scenarios/02_The_High_Plains.cfg:161
+#: Galuldur/scenarios/02_The_High_Plains.cfg:322
+#: Galuldur/scenarios/02_The_High_Plains.cfg:574
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:191
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:460
+#: Galuldur/scenarios/01_Decampment.cfg:102
+#: Galuldur/scenarios/01_Decampment.cfg:218
+#: Galuldur/scenarios/04_Ultwildir.cfg:223
+#: Galuldur/utils/Galuldur_utils.cfg:808
+#, fuzzy
+msgid "Death of Galuldur"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:516
+#, fuzzy
+msgid "Look at that. The elves made it this far, and that bandit is still with them."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:517
+#, fuzzy
+msgid "I am really getting tired of these undead popping up all over the place!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:541
+#, fuzzy
+msgid "Did you see that?! That wolf got converted to the Lich's side before it could even attack. These are evil powers indeed."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:707
+#, fuzzy
+msgid "Well, that was that. But what now? This is horrible! How can Pindir Forest possibly survive this much damage?"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:708
+#, fuzzy
+msgid ""
+"I am not an elf, but from what I understand, Pindir is much younger than Ultwildir and therefore not as ... interconnected. Or something. It has a much better chance of recovering from this. But either way, we first need to finish driving back the orcs in the south — and see if we can find any survivors of your father's people.\n"
+"<i> </i>\n"
+"I am turning my troops and my gold back over to you. You are in charge again."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:741
+#, fuzzy
+msgid "Just then, the woman's voice is heard again:"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/08_Pindir_Forest.cfg:741
+#, fuzzy
+msgid "Kids! Time for dinner."
+msgstr ""
+
+#. [scenario]: id=05_Journey_Back
+#: Galuldur/scenarios/05_Journey_Back.cfg:5
+#, fuzzy
+msgid "Journey_Back"
+msgstr ""
+
+#. [side]: id=Saurian_Leader, type=Saurian Flanker
+#: Galuldur/scenarios/05_Journey_Back.cfg:37
+#, fuzzy
+msgid "Saurians"
+msgstr ""
+
+#. [side]
+#: Galuldur/scenarios/05_Journey_Back.cfg:100
+#, fuzzy
+msgid "Nagas"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:202
+#, fuzzy
+msgid "Torquink River"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/05_Journey_Back.cfg:213
+#, fuzzy
+msgid "Rush Back To Pindir Forest"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/05_Journey_Back.cfg:215
+#, fuzzy
+msgid "Move Galuldur across the Torquink River in the south-east"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:233
+#, fuzzy
+msgid "I am grateful for your help, Galuldur. The south-eastern orc army has been defeated. You need to hurry back to your father, but I cannot come with you yet. There remain many things to clean up. Scattered orcs and their allies need to be hunted down or driven away before they can regroup. Most importantly, I need to see to the healing of Ultwildir. It is already starting to grow back, but I am still needed here for some time."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:234
+#, fuzzy
+msgid "The route south and then east along the coast should now be reasonably safe. With the orcs weakened, all kinds of weaker creatures are starting to converge on the area, but none of them should be a real threat to your experienced fighters. Just proceed carefully and as a group. You are not likely to encounter any real opposition until you get close to Adlewys Passage. Go now, before it is too late."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:249
+#, fuzzy
+msgid "Elf? Why elf come?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:252
+#, fuzzy
+msgid "What's all that commotion about over there? Better set up camp here."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:266
+#, fuzzy
+msgid "Maybe there is something to be gained here."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:279
+#, fuzzy
+msgid "Elf come ... over there. Bad news true!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:297
+#, fuzzy
+msgid "Halt! It will cost you 50 gold to cross this pass."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:298
+#, fuzzy
+msgid "Oh, come on! We don't have time for this. Just take them out."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:316
+#: Galuldur/scenarios/05_Journey_Back.cfg:334
+#: Galuldur/scenarios/06_Southern_Route.cfg:369
+#, fuzzy
+msgid "Surprise — again!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/05_Journey_Back.cfg:347
+#, fuzzy
+msgid "Finally! Now let's see how everybody back home is doing."
+msgstr ""
+
+#. [scenario]: id=02_The_High_Plains
+#: Galuldur/scenarios/02_The_High_Plains.cfg:5
+#, fuzzy
+msgid "High_Plains"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:155
+#: Galuldur/scenarios/02_The_High_Plains.cfg:568
+#, fuzzy
+msgid "Cross The High Plains"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/02_The_High_Plains.cfg:157
+#: Galuldur/scenarios/02_The_High_Plains.cfg:570
+#, fuzzy
+msgid "Move Galuldur to Pleasant Passage in the southwest"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:179
+#, fuzzy
+msgid "So this is the Pass of Hangarn. But now what? Where is this Norfindil?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:190
+#, fuzzy
+msgid "I'm right here. And you have made it too, I see. Not bad for a bunch of youngsters. You better hire yourself a few more elves though, these parts are a bit more dangerous than cozy Pindir Forest."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:191
+#, fuzzy
+msgid "Where would I find elves in this barren land? I thought all elves live in the forests."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:192
+#, fuzzy
+msgid "That's what our glorious leaders want you to believe, but there are elves almost anywhere. Not many, mind you, but if all you need is a few mercenaries, you can always find some."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:193
+#, fuzzy
+msgid "Hmm, alright. And then what? Which way do we take across the plains? You said you could guide us."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:194
+#, fuzzy
+msgid "I never said such a thing, that was you. I do know the way to Ultwildir, but by the coastal route down in the south. Up here, I only know the parts east of the river."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:201
+#, fuzzy
+msgid "The High Plains used to be part of a busy trade route many centuries ago. You can still see some remains of that time, but since the fall of the old kingdoms, the plains have fallen into disarray and all sorts of foul creatures roam here. Until all the orc commotions started recently, it was safer to take the longer route along the coast."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:203
+#, fuzzy
+msgid "During your little quarrel with the Hangarn orcs, I did some scouting in the southeast. There are two large orc camps down there, right by Adlewys Passage. I strongly suggest that you avoid those. They will probably stay put as long as you don't get too close. They do not expect anybody coming from the north other than the occasional ogre or troll."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:204
+#, fuzzy
+msgid "The plateau is surrounded by impassable mountains on all sides except in the south. The river can only be crossed in a few spots and I do not know what lies on the other side, but it cannot be much worse than those south-eastern orc camps. I suggest that you try your luck in the west and somehow make your way to the not-so-aptly named Pleasant Passage."
+msgstr ""
+
+#. [unit]: type=Bandit, id=Wurmad
+#: Galuldur/scenarios/02_The_High_Plains.cfg:243
+#, fuzzy
+msgid "Wurmad"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:250
+#, fuzzy
+msgid "Put down your weapons and give me all your gold."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:270
+#, fuzzy
+msgid "What ... what is going on here? Where did they come from?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:273
+#, fuzzy
+msgid "Just an old-fashioned hold-up. Now give me all your gold."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:274
+#, fuzzy
+msgid "You cannot do that. If we do not complete our mission, all elves in these parts will die."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:275
+#, fuzzy
+msgid "What do I care about elves? Wurmad, take whatever they have and let's get out of here."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:284
+#, fuzzy
+msgid "He has "
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:288
+#, fuzzy
+msgid "He has no gold. But I found this."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:292
+#, fuzzy
+msgid "No!! You cannot take that letter!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:293
+#, fuzzy
+msgid "Whatever it is, let's take it and get out of here!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:313
+#, fuzzy
+msgid "I will not be able to convince Elralith to join us without that letter. We have to go after them and get it back. It looks like they went to the western side of the river."
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:316
+#, fuzzy
+msgid "Get The Letter Back"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/02_The_High_Plains.cfg:318
+#, fuzzy
+msgid "Defeat Vaddan"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:353
+#, fuzzy
+msgid "Don't kill me! Here is your letter back."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:354
+#, fuzzy
+msgid "Tell me one good reason why I should not kill you."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:358
+#, fuzzy
+msgid "Don't let them kill me! I'll give you your letter back."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:359
+#, fuzzy
+msgid "Tell me one good reason why I should protect you."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:363
+#, fuzzy
+msgid "Well, for starters, I know the High Plains very well and can show you the best way out of here. And it looks like you could use another experienced fighter."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:364
+#, fuzzy
+msgid "Don't trust him. He will jump at the first chance he gets to betray you."
+msgstr ""
+
+#. [option]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:372
+#: Galuldur/scenarios/02_The_High_Plains.cfg:374
+#, fuzzy
+msgid "I do not trust him, he must die."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:380
+#, fuzzy
+msgid "Hah! You cannot get rid of me this easily. You have not seen the last of me yet!"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:417
+#, fuzzy
+msgid "Where did they all go? Well, it doesn't matter. At least I have my letter back. It also looks like he dropped some gold and a map of the plains. Now let's get going.."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:421
+#, fuzzy
+msgid "Where did he go? Well, it doesn't matter. At least I have my letter back. It also looks like he dropped some gold and a map of the plains. Now let's get going."
+msgstr ""
+
+#. [option]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:463
+#: Galuldur/scenarios/02_The_High_Plains.cfg:465
+#, fuzzy
+msgid "No, he is right. We need another fighter and could use his knowledge of the plains."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:488
+#, fuzzy
+msgid "You won't regret this."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:499
+#, fuzzy
+msgid "First, here is half of your gold back. I spent the other half, sorry."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:509
+#, fuzzy
+msgid "First, here are 26 pieces of gold. That is all I have left."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:521
+#, fuzzy
+msgid "Also, here is a map of the area."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:530
+#, fuzzy
+msgid "There are three ways to get to Pleasant Passage. The first is to go east of the river all the way to the south. It has the easiest terrain but there are two very strong orc camps down there. I doubt that you will be able to defeat them, but even if you do, it would come with heavy losses."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:531
+#, fuzzy
+msgid "At least we agree on that one ..."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:532
+#, fuzzy
+msgid "The second is to go straight south from my camp and then head a little west to a mountain pass. It is the shortest route, but there is usually a strong troll contingent hanging out there."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:533
+#, fuzzy
+msgid "There is a third route by a hidden valley between two enormous mountain ranges in the west. It's a bit tedious to get into on either side and might take some time, but if you make it, the valley itself is easy going and you will likely find little opposition."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:534
+#, fuzzy
+msgid "The southern end is also guarded by trolls, but there are much fewer there than at the other pass. Also, this route will get you out of the mountains very close to the orcs by Pleasant Passage. I doubt that they are aware of this, so you might be able to take them by surprise. The south-western orc outpost is not very strong, they rely mostly on the two south-eastern camps."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:535
+#, fuzzy
+msgid "That all sounds reasonable enough, but remember, I'll be watching you. So what about your men? Are there any more up here in the plains that would come with us?"
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:536
+#, fuzzy
+msgid "I doubt that anybody will be joining you, they don't exactly like elves all that much."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:549
+#, fuzzy
+msgid "Vaddan will be hidden under your protection for the rest of the turn. He will join your side at the beginning of the next turn."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:619
+#, fuzzy
+msgid "Wow, that was a lot of work! But we made it."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:658
+#, fuzzy
+msgid "Someone come! Over there!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:659
+#, fuzzy
+msgid "What? How that? $sentinel_name say no way."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:660
+#, fuzzy
+msgid "$sentinel_name no ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:661
+#, fuzzy
+msgid "$leader_name punish $sentinel_name other day! Now go. Tell Chief."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:687
+#, fuzzy
+msgid "Elves come over there! Attack!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/02_The_High_Plains.cfg:708
+#: Galuldur/scenarios/02_The_High_Plains.cfg:726
+#, fuzzy
+msgid "Surprise!"
+msgstr ""
+
+#. [scenario]: id=03_Eldryanic_Swamps
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:5
+#, fuzzy
+msgid "Eldryanic_Swamps"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=04_Ultwildir
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:167
+#: Galuldur/scenarios/06_Southern_Route.cfg:139
+#: Galuldur/scenarios/04_Ultwildir.cfg:5
+#, fuzzy
+msgid "Ultwildir"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:177
+#, fuzzy
+msgid "Finally, some open terrain and no fog. I can actually see what is going on. But what is all of this? And what's that smell!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:178
+#, fuzzy
+msgid "I told you that 'Pleasant Passage' is a bit of a misnomer. This is the Eldryanic River delta, creating the Eldryanic Swamps. It looks like there has been enough orc traffic recently that they actually left a trail through the swamps. That's quite amazing."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:179
+#, fuzzy
+msgid "And what are those ... lizards over there?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:180
+#, fuzzy
+msgid "Never seen a saurian before, have you? Lucky you, they are nasty little critters. It looks like they have teamed up with the orcs and that everybody is moving toward Ultwildir already. You're a bit late with your message."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:181
+#, fuzzy
+msgid "I still need to find Elralith, but there is no use asking him for help with all those orcs besieging him. If we want anything from him, we need to help him first."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:182
+#, fuzzy
+msgid "Look! Little elf over there. Squash elf. Burn tree!"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:185
+#, fuzzy
+msgid "Aid Elralith By Getting Rid Of The Enemies"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:187
+#, fuzzy
+msgid "Defeat all enemy leaders, then move Galuldur to Ultwildir"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:266
+#, fuzzy
+msgid "What the hell was that?!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:323
+#, fuzzy
+msgid "What go on? Why battle here, not forest?"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:336
+#, fuzzy
+msgid "Kill elf here first. Elf big trouble."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:337
+#, fuzzy
+msgid "Hurry. Chief need tree burn. $new_leader_name camp here, help $old_leader_name. $old_leader_name too stupid do self. And take gold. Maybe then $old_leader_name squash elf."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:349
+#, fuzzy
+msgid "$new_leader_name always need do self."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:370
+#, fuzzy
+msgid "$new_leader_name ready kill elf."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:398
+#, fuzzy
+msgid "What is this? Elves helping us in our battle? Who are you, friends?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:399
+#, fuzzy
+msgid "I am Galuldur of Pindir Forest. Galur, my father, sends me. I need to talk to Elralith."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:400
+#, fuzzy
+msgid "Oh, Galur's people ... Yes, I have heard about you. Well, welcome anyway, we can certainly use all the help we can get. As for talking to Elralith, we are a little busy at the moment, but if you help us defeat these enemies, I will bring you to him. Unfortunately, we are only a small detachment, our main force is engaged farther north."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:401
+#, fuzzy
+msgid "What does he mean: ''anyway''?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:402
+#, fuzzy
+msgid "Indeed. We were doing that already, so let's get on with it."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:451
+#, fuzzy
+msgid "That was the last of them. Now let's talk to Elralith."
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:454
+#, fuzzy
+msgid "Find Elralith"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:456
+#, fuzzy
+msgid "Move Galuldur to one of the Ultwildir forest hexes"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:487
+#, fuzzy
+msgid "Ultwildir! It's magnificent. It's so ... old! So many big trees ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:488
+#, fuzzy
+msgid "When you're done goggling, go talk to Elralith."
+msgstr ""
+
+#. [scenario]: id=01_Decampment
+#: Galuldur/scenarios/01_Decampment.cfg:5
+#, fuzzy
+msgid "Decampment"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:89
+#, fuzzy
+msgid "It all began when a woman's voice could be heard:"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:89
+#, fuzzy
+msgid "Alright, Galuldur, great hero of Pindir Forest. Once you finish your milk, you can go outside and play with your friends. And make sure to put on your vest, it is chilly out there today. No buts ..."
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/01_Decampment.cfg:92
+#: Galuldur/scenarios/01_Decampment.cfg:208
+#, fuzzy
+msgid "Get Going On The Journey Toward Ultwildir"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/01_Decampment.cfg:94
+#, fuzzy
+msgid "Find Norfindil, then move Galuldur to the Pass of Hangarn"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/01_Decampment.cfg:98
+#: Galuldur/scenarios/01_Decampment.cfg:214
+#, fuzzy
+msgid "Bonus: Defeat the orc leader"
+msgstr ""
+
+#. [note]
+#: Galuldur/scenarios/01_Decampment.cfg:111
+#: Galuldur/scenarios/01_Decampment.cfg:227
+#, fuzzy
+msgid "No bonus is received if an animal kills the orc leader."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:119
+#, fuzzy
+msgid "Galuldur, my scouts just told me that a large band of southern orcs is on its way to Pindir Forest, and the southwestern orcs appear to be moving north as well. I fear that they have set aside their differences and are planning to take over the lands of the Northmen. Unfortunately, we are in their way. As is Ultwildir. If we do not do something quickly, we will all perish."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:120
+#, fuzzy
+msgid "You must go and warn Elralith, High Lord of the Ultwildir Elves. It is essential that he joins us in the fight before it is too late. Take the Pass of Hangarn in the northwest and make your way across the High Plains. The usual route along the Bay of Scales is too dangerous right now, it is swarming with orcs."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:121
+#, fuzzy
+msgid "But why me? I have barely just figured out how to hold my sword. I don't know the way. And why would Elralith believe me anyway?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:122
+#, fuzzy
+msgid "This is precisely why it is you who must go. I need all our experienced fighters to hold off the orcs for as long as possible, and by sending my son, Elralith will know that I am serious. I will give you this letter which you must hand to Elralith personally. He will believe you when he reads what I have written. The Ultwildir elves don't like me very much because I am too ... untraditional, but Elralith still values my opinion and experience. Why else would he send a messenger to ''see how we are doing in these new woods'' every season? And besides, he must be aware of the orcish troop movements by now."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:123
+#: Galuldur/scenarios/01_Decampment.cfg:188
+#, fuzzy
+msgid "But ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:124
+#, fuzzy
+msgid "No buts. You must go. Quickly. I can only give you a few pieces of gold and two young companions, we need everybody else in our stand against the orcs. Go to the camp in the north and recruit yourself a few more warriors."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:135
+#, fuzzy
+msgid "One more thing. There is an elf, a ranger. His name is Norfindil. He is even more, umm, ''untraditional'' than I am and a bit of a gruff character, but he owes me a favor and he knows the way to Ultwildir. He can help you on your journey. You will probably find him in or around one of the villages close to the northern edge of the forest."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:145
+#, fuzzy
+msgid "Oh, here they are! Already!! Even earlier than I had expected."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:146
+#, fuzzy
+msgid "Go now. We will try to buy you some time and draw the orcs away from Pindir Forest. But be careful. Even the animals of the forest seem to be sensing that something evil is approaching, they have started to attack at random. Also, it has come to my attention that the old abandoned fortress by the Pass of Hagarn has been taken over by orcs. So be on your way, Galuldur, and ... good luck, to all of us! You must succeed, or it might be the end of all elves in this part of the land."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:147
+#, fuzzy
+msgid "mumbling under his breath"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:147
+#, fuzzy
+msgid "      <small>(Now, how's that for pressure?!)</small>"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:154
+#, fuzzy
+msgid "They there! We them get!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:163
+#, fuzzy
+msgid "And so our hero found himself at the beginning of an adventure that he had never wanted to get into, not feeling very hero-like."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:164
+#, fuzzy
+msgid "I don't feel very much like a hero. And what's with all the fog today anyway?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:184
+#, fuzzy
+msgid "Oh, look, a bunch of little elflings. What are you doing out here playing in the big forest all by yourselves?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:185
+#, fuzzy
+msgid "We, uh, I ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:186
+#, fuzzy
+msgid "Ahem! I am Galuldur, son of Galur, and I am on an important mission. My father told me that I would find you here and that you would help us get to Ultwildir. He said that you owe him a favor."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:187
+#, fuzzy
+msgid "Is that so, Galuldur, son of Galur, who is on an important mission? Your father's always had an odd sense of humor. But he is right, I do owe him a favor. I cannot come with you right away though, I have some, uh, business I need to attend to first. I will meet you at the Pass of Hangarn when you get there."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:189
+#, fuzzy
+msgid "You do know the way to the pass, don't you?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:190
+#, fuzzy
+msgid "Yes, but ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:191
+#, fuzzy
+msgid "Good then, off I go."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:204
+#, fuzzy
+msgid "Is anybody actually going to listen to me today?!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/01_Decampment.cfg:210
+#, fuzzy
+msgid "Now move Galuldur to the Pass of Hangarn before something bad happens"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:271
+#, fuzzy
+msgid "$leader_name smell elf. Tasty little elf."
+msgstr ""
+
+#. [message]
+#: Galuldur/scenarios/01_Decampment.cfg:281
+#, fuzzy
+msgid "Grrrrrrwwwllll !!!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:283
+#, fuzzy
+msgid "Where did that come from?"
+msgstr ""
+
+#. [message]
+#: Galuldur/scenarios/01_Decampment.cfg:290
+#, fuzzy
+msgid "I'm not sure. Somewhere over there in the west, I think. We better be careful. Galur said that the animals are acting strangely."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:298
+#, fuzzy
+msgid "Ouch, that hurts!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:336
+#, fuzzy
+msgid "He had 38 gold on him."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/01_Decampment.cfg:337
+#, fuzzy
+msgid "Great ... That was hardly worth all the trouble."
+msgstr ""
+
+#. [scenario]: id=09_Interlude
+#: Galuldur/scenarios/09_Interlude.cfg:5
+#, fuzzy
+msgid "Interlude"
+msgstr ""
+
+#. [side]: id=Fred, type=Woodsman
+#: Galuldur/scenarios/09_Interlude.cfg:18
+#, fuzzy
+msgid "Fred"
+msgstr ""
+
+#. [side]: id=Fred, type=Woodsman
+#: Galuldur/scenarios/09_Interlude.cfg:23
+#, fuzzy
+msgid "Fred and Ron"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/09_Interlude.cfg:62
+#, fuzzy
+msgid "Fred, Ron, pick up your toys and come inside. It's time for dinner."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/09_Interlude.cfg:63
+#, fuzzy
+msgid "Mom! We are not Fred and Ron. We are Galuldur and Vaddan, great heroes of Pindir Forest, on an important mission to save the world."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/09_Interlude.cfg:64
+#, fuzzy
+msgid "Even great heroes need to eat their dinners."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/09_Interlude.cfg:65
+#, fuzzy
+msgid "But, Mo-um! We only have one battle left to fight."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/09_Interlude.cfg:66
+#, fuzzy
+msgid "Okay then, 10 more minutes, then I want to see you at the table. And don't forget to wash your hands."
+msgstr ""
+
+#. [scenario]: id=06_Southern_Route
+#: Galuldur/scenarios/06_Southern_Route.cfg:5
+#, fuzzy
+msgid "Southern_Route"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/06_Southern_Route.cfg:151
+#, fuzzy
+msgid "Head To Pindir Forest Via The Southern Route"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/06_Southern_Route.cfg:153
+#, fuzzy
+msgid "Move Norfindil to Pleasant Passage"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/06_Southern_Route.cfg:175
+#, fuzzy
+msgid "Well then, great leader, show us the way."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/06_Southern_Route.cfg:176
+#, fuzzy
+msgid "You know, you'd be much better company if you didn't talk so much. Be that as it may, rest assured that I won't turn my back on you. Let's go now."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/06_Southern_Route.cfg:212
+#, fuzzy
+msgid "What the ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/06_Southern_Route.cfg:274
+#, fuzzy
+msgid "No? I didn't think so. We are going to head back and take the northern route then. These few undead are no problem compared to the orcs in the east."
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/06_Southern_Route.cfg:278
+#: Galuldur/scenarios/06_Southern_Route.cfg:291
+#, fuzzy
+msgid "Head Back Toward The Northern Route"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/06_Southern_Route.cfg:280
+#: Galuldur/scenarios/06_Southern_Route.cfg:293
+#, fuzzy
+msgid "Move Vaddan back to Ultwildir"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/06_Southern_Route.cfg:320
+#, fuzzy
+msgid "We made it. Onward!"
+msgstr ""
+
+#. [side]: id=Elralith, type=Elvish High Lord
+#. [side]
+#: Galuldur/scenarios/04_Ultwildir.cfg:34
+#: Galuldur/scenarios/10_Final_Battle.cfg:47
+#, fuzzy
+msgid "Elralith"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:211
+#, fuzzy
+msgid "Follow Norfindil"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/04_Ultwildir.cfg:217
+#, fuzzy
+msgid "Save Ultwildir"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/04_Ultwildir.cfg:219
+#, fuzzy
+msgid "Defeat all enemy units"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/scenarios/04_Ultwildir.cfg:227
+#: Galuldur/utils/Galuldur_utils.cfg:839
+#, fuzzy
+msgid "Death of Elralith"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/scenarios/04_Ultwildir.cfg:231
+#, fuzzy
+msgid "More than one quarter of the forest tiles are burned by enemy units"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:244
+#, fuzzy
+msgid "Elralith, High Lord of the Ultwildir Elves, we come from Pindir Forest. I am Galuldur, son of Galur. I bring you this letter from my father."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:245
+#, fuzzy
+msgid "Yes, Galuldur, I know who you are. Your father and I like to pretend that we don't like each other, but we are both quite aware of what is going on in the other's part of the world. I know why you are here."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:246
+#, fuzzy
+msgid "You fought well in the swamps and I am grateful for what you have done. But I cannot spare any troops until we have won the fight here. There is a huge orc camp in the west and for some reason trolls have joined them. I do not know if we are strong enough to hold them off. We are expecting backups any time, but I am told that there are more orcs on their way also."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:247
+#, fuzzy
+msgid "Worse, they have started to burn the trees wherever they go. Ultwildir is not only our home, it is alive. It cannot survive if more than a quarter of the trees are destroyed. Help us defeat these orcs and we will come to Pindir Forest to help you."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:248
+#, fuzzy
+msgid "But it might be too late by then!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:249
+#, fuzzy
+msgid "I am sorry, there is nothing I can do. You can either help us and we come to Pindir Forest afterward, or you head back right now with no guarantee that either of us will survive."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:272
+#, fuzzy
+msgid "I have to help Elralith or everything will be lost, but I also need to send a message back to my father. Norfindil, take some fighters and go back to Pindir Forest."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:273
+#, fuzzy
+msgid "Sounds like a plan. We can take the southern route along the Bay of Scales. With most of the orcs fighting up here, it should be comparatively calm down there now."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:293
+#, fuzzy
+msgid "If I may say something ..."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/04_Ultwildir.cfg:313
+#, fuzzy
+msgid "Vaddan! I thought you were dead."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/04_Ultwildir.cfg:314
+#, fuzzy
+msgid "Yeah, I get that a lot. But that's beside the point right now, I know a better route for us to take."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/04_Ultwildir.cfg:315
+#, fuzzy
+msgid "Us? What do you mean, 'us'? Nobody said anything about you coming with me. For all I know this is just another one of your plots at our lives and money."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/04_Ultwildir.cfg:319
+#, fuzzy
+msgid "Vaddan! Where did you come from?"
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/04_Ultwildir.cfg:320
+#, fuzzy
+msgid "You learn a few tricks when you live in the mountains. But that's beside the point right now, I know a better route for us to take."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/04_Ultwildir.cfg:321
+#, fuzzy
+msgid "Us? What do you mean, 'us'? Why would you suddenly want to help us? Last thing I heard you were fighting us and you said that you couldn't care less about elves."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/04_Ultwildir.cfg:322
+#, fuzzy
+msgid "I don't care about elves. But if these orcs take over, things will get a lot worse for everybody around here. I am simply acting in my own best interest."
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/04_Ultwildir.cfg:323
+#, fuzzy
+msgid "Your own interest? I do believe that part, but what does it mean this time? Our lives and money?"
+msgstr ""
+
+#. [else]
+#: Galuldur/scenarios/04_Ultwildir.cfg:329
+#, fuzzy
+msgid "What do you want? Another plot at our lives and money?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:333
+#, fuzzy
+msgid "I'm just going to ignore that ... You should not take the southern route back. Even you must know that it is still swarming with orcs. There is a hidden northern route that is much safer these days."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:334
+#, fuzzy
+msgid "Yeah, right. There are nothing but huge impassable mountain ranges in the north, with no way across them. Galuldur, don't trust this thief. He has shown you before what he is made of. He will lead us into trap."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:335
+#, fuzzy
+msgid "Is it me or you who has spent the last 30 years in these mountains? I happen to know a hidden pass down to the plains north of Pindir Forest. And before you say it, yes, there are goblins and trolls in that area, but nothing we cannot handle with a small number of experienced fighters in addition to myself and Master Norfindil here. You should keep your main army here to defend Ultwildir."
+msgstr ""
+
+#. [option]
+#: Galuldur/scenarios/04_Ultwildir.cfg:341
+#: Galuldur/scenarios/04_Ultwildir.cfg:343
+#, fuzzy
+msgid "We will follow Norfindil's advice and take the southern route."
+msgstr ""
+
+#. [command]
+#: Galuldur/scenarios/04_Ultwildir.cfg:348
+#: Galuldur/scenarios/04_Ultwildir.cfg:361
+#, fuzzy
+msgid "This is the wrong choice, but you're the boss."
+msgstr ""
+
+#. [option]
+#: Galuldur/scenarios/04_Ultwildir.cfg:354
+#: Galuldur/scenarios/04_Ultwildir.cfg:356
+#, fuzzy
+msgid "We will follow Vaddan's advice and take the northern route."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:366
+#, fuzzy
+msgid "Norfindil, I put you in charge. Vaddan, you go with him. Go to Pindir Forest as quickly as possible and let my father know that I will follow with Elralith's men as soon as I can."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:367
+#, fuzzy
+msgid "We will leave in half a day. You can select some troops to go with us before then."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:367
+#, fuzzy
+msgid "Any unit you send to the signpost during the first 3 turns will join Norfindil and Vaddan and will be unavailable in this scenario."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:392
+#, fuzzy
+msgid "Another note"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:392
+#, fuzzy
+msgid "The number of burnt forest tiles, along with the allowable limit, will be displayed at the beginning of each turn. In addition, every time forest is burned, orange floating text will show the same information."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:393
+#, fuzzy
+msgid "Yet another note"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:393
+#, fuzzy
+msgid "If you suspect that Elralith is about to embark on a suicide run, you can make him go to a location of your choice by right clicking on a tile. The goal will remain in place even after Elralith gets there, until it is specifically cleared (also by right clicking)."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/04_Ultwildir.cfg:474
+#, fuzzy
+msgid "No!!! Ultwildir cannot survive with so many trees burned!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:498
+#, fuzzy
+msgid "$leader_name come. Bring more warrior. Squash elf. Burn tree."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:511
+#, fuzzy
+msgid "Elralith, we come to join you in the battle."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:543
+#, fuzzy
+msgid "Elralith, High Lord of the Elves. We have come to assist you in your fight against those horrible tree burners."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/04_Ultwildir.cfg:551
+#, fuzzy
+msgid "Norfindil and Vaddan have left. You cannot send troops with them any more now."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/04_Ultwildir.cfg:597
+#, fuzzy
+msgid "I follow Norfindil. See you back at Pindir Forest."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/04_Ultwildir.cfg:629
+#, fuzzy
+msgid "We made it!"
+msgstr ""
+
+#. [scenario]: id=10_Final_Battle
+#: Galuldur/scenarios/10_Final_Battle.cfg:5
+#, fuzzy
+msgid "Final_Battle"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:272
+#, fuzzy
+msgid "Note: Give Galuldur the Saidenwaxl Staff"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:272
+#, fuzzy
+msgid "This should never happen in normal game play. It is just set up so that the scenario is playable in debug mode. If you got here somehow without using debug commands or changing scenario files, please send me a forum PM so that I can fix it."
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/10_Final_Battle.cfg:283
+#: Galuldur/utils/Galuldur_utils.cfg:888
+#, fuzzy
+msgid "Figure Out What Happened"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/10_Final_Battle.cfg:285
+#: Galuldur/utils/Galuldur_utils.cfg:890
+#, fuzzy
+msgid "Defeat all enemy leaders as you go along"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:295
+#, fuzzy
+msgid "We need to figure out what happened here and if any of my people are still alive."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:296
+#, fuzzy
+msgid "There are three orc camps right here, but they don't look strong enough to have created all this havoc, even together with those that we have already eliminated. Let's proceed carefully until we know what is going on."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:297
+#, fuzzy
+msgid "Note"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:297
+#, fuzzy
+msgid "Both Galuldur and Vaddan are able to recruit in this scenario."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:309
+#, fuzzy
+msgid "Wait, $has_staff! Galur sent me to ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:310
+#, fuzzy
+msgid "My father? He is alive?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:311
+#, fuzzy
+msgid "He was the last time I saw him, but we were under heavy attack. I do not know how long he can hold out. But anyway, Galur says that you must not use the magical staff to convert an enemy. He didn't have time to explain further, but he said that you would understand what that means. I must go back now."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:316
+#, fuzzy
+msgid "Wait. I need to know how ..."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:364
+#, fuzzy
+msgid "I will choose a different weapon then, and I will never use the staff on defense."
+msgstr ""
+
+#. [event]
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:364
+#: Galuldur/scenarios/10_Final_Battle.cfg:405
+#, fuzzy
+msgid "You can still use the staff for attacks as long as it does not convert the enemy."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:405
+#, fuzzy
+msgid "I will never defend myself with the staff then."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:496
+#, fuzzy
+msgid "The Master"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:531
+#, fuzzy
+msgid "Galuldur (whispers)"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:531
+#, fuzzy
+msgid "An ancient lich? I didn't know that there were any of them left."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:532
+#, fuzzy
+msgid "Vaddan (whispers)"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:532
+#, fuzzy
+msgid "Neither did I. He must be the one they call the Master. And did you see that the undead version of Norfindil is with him? Have I mentioned that I am getting <u>really</u> tired of all these undead popping up all over the place?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:534
+#, fuzzy
+msgid "Over my dead body!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:535
+#, fuzzy
+msgid "Naturally. That's the point."
+msgstr ""
+
+#. [event]
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:678
+#: Galuldur/scenarios/10_Final_Battle.cfg:536
+#: Galuldur/scenarios/10_Final_Battle.cfg:1301
+#, fuzzy
+msgid "Harharharharhar!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:537
+#, fuzzy
+msgid "Open the portals!"
+msgstr ""
+
+#. [objectives]
+#: Galuldur/scenarios/10_Final_Battle.cfg:558
+#: Galuldur/scenarios/10_Final_Battle.cfg:688
+#: Galuldur/scenarios/10_Final_Battle.cfg:1059
+#: Galuldur/utils/Galuldur_sorcery.cfg:781
+#, fuzzy
+msgid "Eliminate The Threat to Pindir Forest"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/10_Final_Battle.cfg:560
+#, fuzzy
+msgid "Defeat the Master and all other enemy leaders."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:645
+#, fuzzy
+msgid "This does not feel right at all."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:675
+#, fuzzy
+msgid "Galuldur, I have come to warn you of the undead. I see that I am too late."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:676
+#, fuzzy
+msgid "Father! I thought I would never see you again!!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:677
+#, fuzzy
+msgid "It did not look like you would at times. Since you left Pindir Forest, we have been fighting the orcs and trying to figure out why they were suddenly all working together. We learned some very disturbing things about an extremely powerful undead using his magical powers to organize the orcs in a quest of evil world domination. But it looks like you have already been introduced."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:679
+#, fuzzy
+msgid "We must destroy the Master, it is the only way to break his hold on the orcs and to bring peace back to our land. However, his magic is so strong that anybody attacking him with conventional weapons goes insane afterward. Only magical weapons seem to work, so I have rounded up all surviving elves with magical powers whom I could find. Many elves died making sure that they would get this far. May their deaths not be in vain."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:680
+#, fuzzy
+msgid "Also, as for those portals he opened ... We can temporarily disable a portal by stepping on it, but the only way to close them permanently is to kill the Master. We must hurry, they are only partially open so far. The longer we wait, the more easily the Master will bring units through them and the more powerful those units will be."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:681
+#, fuzzy
+msgid "One more thing, we must save Norfindil. I owe it to him that I do not leave him in the hands of the undead. I see that you have the Saidenwaxl Staff, $has_staff. You must use it to turn Norfindil back over to our side."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:685
+#, fuzzy
+msgid "Convert Norfindil back to Galuldur's side. Defeat"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:686
+#, fuzzy
+msgid "Master"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/scenarios/10_Final_Battle.cfg:690
+#: Galuldur/scenarios/10_Final_Battle.cfg:1061
+#: Galuldur/utils/Galuldur_sorcery.cfg:783
+#, fuzzy
+msgid "$Norfindil_objective the $main_enemy and all other enemy leaders."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:740
+#, fuzzy
+msgid "Aaah! It burns!!!"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:813
+#, fuzzy
+msgid "$unit.id! We cannot go on without you."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:814
+#, fuzzy
+msgid "This really is the end then."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:883
+#, fuzzy
+msgid "Galur, we have come to help you in your battle. Your son fought well at Ultwildir. He will make a good elf leader some day. But for now, we must take care of the problem at hand."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:884
+#, fuzzy
+msgid " I bear more bad news. Apparently, the one they call the Master, is not the mastermind of this uprising. We must defeat him, but I am afraid that that will not be the end of our troubles."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:884
+#, fuzzy
+msgid "You can again make Elralith go to a location of your choice — or, afterward, clear that goal — by right clicking on a tile and selecting the respective option."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:955
+#, fuzzy
+msgid "Something is happening over there in the west"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:982
+#, fuzzy
+msgid "What is going on?!?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:999
+#, fuzzy
+msgid "Who dares to interfere with my Grand Plan? Oh, it's those damned elves again. I should have known!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1000
+#, fuzzy
+msgid "What the hell is this? A puny little goblin?"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1001
+#, fuzzy
+msgid "Actually, have a look at his weapons and vitals. That's no ordinary goblin."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1002
+#, fuzzy
+msgid "You're damned right that I'm no ordinary goblin. I am the Chief of all creatures in this part of the world."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1003
+#, fuzzy
+msgid "He is amazingly eloquent. Well, for a goblin anyway."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1006
+#, fuzzy
+msgid "Hah! I want to see you try. The orcs never took me seriously either. So I left them and lived with the humans for a while. Turns out, they are the worst of all, constantly scheming and betraying everything they claim to believe in. There was a lot of ... disagreement and fighting and well, long story short, eventually I became the Master's apprentice. He helped me fully develop my innate talent for magic."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1007
+#, fuzzy
+msgid "But he thought that he didn't have to respect me and could simply use me for his own purposes, which ... is another long story. And why am I telling you all this anyway? Bottom line is, now I am working only for myself and soon I will rule everywhere and everybody. If you stand in my way, I'll roll over you."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1008
+#, fuzzy
+msgid "You will never rule over the elves!"
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1009
+#, fuzzy
+msgid "Yeah, right. Orc minions, let's get them."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1053
+#, fuzzy
+msgid "We follow you, Chief."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1086
+#, fuzzy
+msgid "Oh, is this what the Master has been talking about?! He'd been spending all his time lately looking for this old enemy of his, trying to get back at him for something that happened decades ago. He called him 'untouchable', but I never understood why. Of course, I was expecting a great majestic warrior, not a goblin."
+msgstr ""
+
+#. [event]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1087
+#, fuzzy
+msgid "The Master recently claimed that he did figure out how to defeat this enemy and now I understand what he meant. First, the Chief draws most of his powers from the undead around him. As long as there are undead alive on a side allied with him, he cannot be attacked. But even if all undead have been destroyed, he is still strong enough to teleport away any unit with which he has direct eye contact. However, having one of your own (or an allied) unit behind the Chief, on the opposite side of the attacker, distracts him enough that an attack is possible. That's the Master's theory at least, we will have to see if it works in practice."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1237
+#, fuzzy
+msgid "No!!! It cannot be. My Grand Plan ..."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1251
+#, fuzzy
+msgid "Good! This was the hard part. Now let's finish off the rest."
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1282
+#, fuzzy
+msgid "We did it! It's over!"
+msgstr ""
+
+#. [then]
+#: Galuldur/scenarios/10_Final_Battle.cfg:1300
+#, fuzzy
+msgid "And that is how Galuldur became a man. Well, an elf. But not just any elf, but an elf man. I mean, an elf hero. $str You know what I mean. Now let's go inside and have dinner before Mom gets angry."
+msgstr ""
+
+#. [terrain_type]: id=portal
+#: Galuldur/utils/Galuldur_terrain.cfg:8
+#: Galuldur/utils/Galuldur_terrain.cfg:9
+#, fuzzy
+msgid "Portal Overlay"
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:15
+#, fuzzy
+msgid "It's eerily quiet here. No animals, no stray orcs, nothing. Something's not right. Let's be careful and not spread out too much."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:16
+#, fuzzy
+msgid "That's just because all the orcs are attacking Ultwildir. Don't be such a wuss!"
+msgstr ""
+
+#: Galuldur/utils/Galuldur_sorcery.cfg:28
+#, fuzzy
+msgid "I bet you did not expect this!"
+msgstr ""
+
+#: Galuldur/utils/Galuldur_sorcery.cfg:139
+#, fuzzy
+msgid "What is happening to me???"
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:159
+#, fuzzy
+msgid "Remember when you were 'zapped' in battle? The Master put a curse on you then. You have subconsciously been working for us since. That is why you insisted so vehemently on taking the southern route. And now I am controlling you. Now go and report to the Master."
+msgstr ""
+
+#. [else]
+#: Galuldur/utils/Galuldur_sorcery.cfg:163
+#, fuzzy
+msgid "Remember when you were exploring the High Plains by yourself? The Master put a curse on you then. You have subconsciously been working for us since. That is why you insisted so vehemently on taking the southern route. And now I am controlling you. Now go and report to the Master."
+msgstr ""
+
+#: Galuldur/utils/Galuldur_sorcery.cfg:171
+#, fuzzy
+msgid ""
+"Harharharharhar!\n"
+"<i> </i>\n"
+"How's that for a little taste of my magic and what awaits those who dare to oppose me?"
+msgstr ""
+
+#: Galuldur/utils/Galuldur_sorcery.cfg:177
+#, fuzzy
+msgid "Well, well, this is an interesting turn of events. I think I better take over now. Any objections?"
+msgstr ""
+
+#. [objective]: condition=win
+#: Galuldur/utils/Galuldur_sorcery.cfg:245
+#, fuzzy
+msgid "Bonus: Defeat the undead leader "
+msgstr ""
+
+#. [effect]: type=arcane
+#. [object]: id=saidenwaxl_staff
+#: Galuldur/utils/Galuldur_sorcery.cfg:274
+#: Galuldur/utils/Galuldur_sorcery.cfg:262
+#, fuzzy
+msgid "Saidenwaxl Staff"
+msgstr ""
+
+#. [object]: id=saidenwaxl_staff
+#: Galuldur/utils/Galuldur_sorcery.cfg:265
+#, fuzzy
+msgid "Nobody knows who Saidenwaxl was and when or how he crafted this staff. Some people even think that Saidenwaxl is not a person, but a word in an ancient language, but everybody agrees that the staff is very old and extremely powerful. It gives its wielder magical attacks which do enormous damage. Its greatest power, however, is that an enemy unit killed by this staff is converted to the side of the user with half the hitpoints restored. After use, the staff's conversion energy requires a long time to recharge. It can therefore only be used for this purpose once per scenario. Use of 'ordinary' magical attacks is unlimited."
+msgstr ""
+
+#. [effect]: type=arcane
+#. [object]: id=shadow_wave
+#: Galuldur/utils/Galuldur_sorcery.cfg:328
+#: Galuldur/utils/Galuldur_sorcery.cfg:317
+#, fuzzy
+msgid "shadow wave"
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_sorcery.cfg:383
+#, fuzzy
+msgid "I failed the Master. His wrath will be terrible."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:431
+#, fuzzy
+msgid "He dropped something. Some kind of staff."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:441
+#, fuzzy
+msgid "Let me see that."
+msgstr ""
+
+#. [then]
+#. [else]
+#: Galuldur/utils/Galuldur_sorcery.cfg:488
+#: Galuldur/utils/Galuldur_sorcery.cfg:505
+#, fuzzy
+msgid "Well, well, look what we have here. I have heard of this staff. I think I will hold on to it myself."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:536
+#: Galuldur/utils/Galuldur_sorcery.cfg:556
+#, fuzzy
+msgid "Whoa, this thing is cool!"
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:769
+#, fuzzy
+msgid "Free, at last! It was horrible. I could see everything that was going on, but could not do anything about it."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:770
+#, fuzzy
+msgid "Welcome back, old friend."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:771
+#, fuzzy
+msgid "I would not have thought that I'd ever say that, but I am glad that you are back."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:772
+#, fuzzy
+msgid "Thanks, but let's not get all sentimental. We have work to do here. And something good came out of this after all. I figured out how the Master's shadow wave works. I am not quite as good with it as he is, but I got the hang of it for the most part."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:776
+#, fuzzy
+msgid "$has_staff will start using the staff for defense again now."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:779
+#, fuzzy
+msgid "Defeat"
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:799
+#, fuzzy
+msgid "No! That was not supposed to happen."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_sorcery.cfg:801
+#, fuzzy
+msgid "Now we cannot save Norfindil any more. Good bye old friend."
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_deaths.cfg:11
+#, fuzzy
+msgid "I failed!!!"
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_deaths.cfg:37
+#, fuzzy
+msgid "Norfindil! We cannot go on without you."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_deaths.cfg:38
+#, fuzzy
+msgid "Good bye, old friend."
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_deaths.cfg:82
+#, fuzzy
+msgid "Farewell, Vaddan. You were a difficult man, but we would not have gotten this far without you."
+msgstr ""
+
+#. [then]
+#: Galuldur/utils/Galuldur_deaths.cfg:100
+#, fuzzy
+msgid "This is the end. We will never make it now."
+msgstr ""
+
+#. [else]
+#: Galuldur/utils/Galuldur_deaths.cfg:104
+#, fuzzy
+msgid "Bollocks!"
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_deaths.cfg:122
+#, fuzzy
+msgid "Elralith! All is lost now."
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_deaths.cfg:138
+#, fuzzy
+msgid "Father! Nooooo!!!"
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:126
+#, fuzzy
+msgid "Many years ago, a young elvish fighter named Galur left his home forest, Ultwildir, with a group of friends in search of adventure and a new life away from the rigid, traditional society of the Ultwildir elves. They settled in a new, younger forest beyond the High Plains. They called it Pindir Forest after one of Galur's ancestors."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:130
+#, fuzzy
+msgid "For almost a generation, the elves lived in relative peace. Recently, however, encounters with the orcs of the Southern Wastelands were becoming increasingly more frequent. Worse, instead of the usual small gangs of ragtag orcs, they were now dealing with large and uncharacteristically well organized armies that were armed to the teeth."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:134
+#, fuzzy
+msgid "Galur's scouts had also been monitoring increased orcish messenger activity along the Bay of Scales, between the southern orcs and those in the southwest, south of Ultwildir. Something bigger than the usual petty disputes seemed to be in the making."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:142
+#, fuzzy
+msgid "This is the story of Galur's son, Galuldur, and how he was thrown into a much bigger adventure than he had ever bargained for."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:142
+#, fuzzy
+msgid "Galuldur's First Journey is not set in the known world of mainline Wesnoth. Differences from canon are plentiful and intentional."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:156
+#, fuzzy
+msgid "And thus Galuldur and his small group of elves arrived at the Pass of Hangarn, ready, more or less, to cross the High Plains."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:171
+#, fuzzy
+msgid "Arriving at Pleasant Passage, Galuldur realized that their troubles had only just begun. And that's not even talking about the smell."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:187
+#, fuzzy
+msgid "Ultwildir, finally! But this was not the paradise that Galuldur had always imagined. Certainly not right now."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:204
+#, fuzzy
+msgid "With the battle of Ultwildir won, it was time for Galuldur to hurry back home. He could only hope that he would not be too late."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:220
+#, fuzzy
+msgid "Back home, at last! But what will Galuldur and his friends find? Will there be anything, and anybody, left?"
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:232
+#, fuzzy
+msgid "In the meantime, while Galuldur was still fighting at Ultwildir, the uneasy alliance of Norfindil and Vaddan was on its way to find Galur."
+msgstr ""
+
+#. [part]
+#: Galuldur/utils/Galuldur_story.cfg:266
+#, fuzzy
+msgid "Thus, Vaddan and his party were back where they had started, taking the route through the northern mountains after all."
+msgstr ""
+
+#: Galuldur/utils/Galuldur_story.cfg:283
+#, fuzzy
+msgid "... which is how Vaddan made it to Pindir Forest. He did not like what he saw there."
+msgstr ""
+
+#: Galuldur/utils/Galuldur_story.cfg:324
+#, fuzzy
+msgid "And thus is was time for Galuldur and Vaddan, great heroes of Pindir Forest, to figure out what had happened and to drive all enemies away once and for all."
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_utils.cfg:251
+#, fuzzy
+msgid "How can such a big tree survive up here?"
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_utils.cfg:259
+#: Galuldur/utils/Galuldur_utils.cfg:274
+#, fuzzy
+msgid "Adlewys Passage"
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_utils.cfg:282
+#, fuzzy
+msgid "Pleasant Passage"
+msgstr ""
+
+#. [event]
+#: Galuldur/utils/Galuldur_utils.cfg:299
+#, fuzzy
+msgid ""
+"Pleasant Passage\n"
+"<i> </i>\n"
+"(Never mind the smell)"
+msgstr ""
+
+#. [set_menu_item]: id=move_Elralith
+#: Galuldur/utils/Galuldur_utils.cfg:633
+#, fuzzy
+msgid "Make Elralith go here"
+msgstr ""
+
+#. [set_menu_item]: id=dont_move_Elralith
+#: Galuldur/utils/Galuldur_utils.cfg:684
+#, fuzzy
+msgid "Let Elralith go wherever he wants"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/utils/Galuldur_utils.cfg:821
+#, fuzzy
+msgid "Death of Galur"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/utils/Galuldur_utils.cfg:849
+#, fuzzy
+msgid "Enemy unit is converted with Saidenwaxl Staff"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Galuldur/utils/Galuldur_utils.cfg:864
+#, fuzzy
+msgid "An enemy other than Norfindil is converted with Saidenwaxl Staff"
+msgstr ""
+
+#. [note]
+#: Galuldur/utils/Galuldur_utils.cfg:873
+#, fuzzy
+msgid "Any unit attacking the Master with non-magical weapons experiences an unpleasant (and fatal) surprise"
+msgstr ""
+
+#. [note]
+#: Galuldur/utils/Galuldur_utils.cfg:881
+#, fuzzy
+msgid "Each portal can be disabled temporarily by placing a unit on it"
+msgstr ""
+
+#. [unit]: id=Galur, type=Elvish Champion
+#: Galuldur/utils/Galuldur_units.cfg:7
+#, fuzzy
+msgid "Galur"
+msgstr ""
+
