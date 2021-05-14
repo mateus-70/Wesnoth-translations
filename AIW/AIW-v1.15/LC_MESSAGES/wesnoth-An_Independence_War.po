@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-28 14:03+0900\n"
-"PO-Revision-Date: 2021-05-14 03:07-0300\n"
+"PO-Revision-Date: 2021-05-14 03:27-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -470,16 +470,14 @@ msgstr "Marcar zona de cuidado do inimigo.<span color='red'>(Agora: não marcado
 msgid "Unmark enemy caution zone.<span color='green'>(Now: marked)</span>"
 msgstr "Desmarcar zona de cuidado do inimigo.<span color='green'>(Agora: marcado)</span>"
 
-# --REVISAR--
-# Verificar no jogo.
+# --Nova String--
 #. [option]
 #: _main.cfg:716
 #, fuzzy
 msgid "Not asked when exiting from the Office.<span color='green'>(Now: asked)</span>"
 msgstr "Não perguntar quando sair do Escritório.<span color='green'>(Agora: perguntar)</span>"
 
-# --REVISAR--
-# Verificar no jogo.
+# --Nova String--
 #. [option]
 #: _main.cfg:726
 #, fuzzy
@@ -2384,7 +2382,7 @@ msgstr "Obrigado por sua cooperação."
 msgid "I am an emissary from Fusia. My lord needs your help, would you join us?"
 msgstr "Eu sou um emissário de Fusia. Meu mestre precisa da sua ajuda, vocês se juntarão a nós?"
 
-# Nova string
+# --Nova String--
 #. [message]
 #: scenarios/Field.cfg:2163
 #, fuzzy
@@ -2402,7 +2400,9 @@ msgid "Lots of our treasures have been taken away. Our investigation clarifies t
 msgstr "Muitos dos nossos tesouros foram roubados. Nossa investigação revelou a localização de um dos tesouros, mas nós não podemos recuperá-lo por conta própria, pois ele está em terra. Se sua união encontrar o tesouro e trazê-lo de volta pra nós, nos uniremos à vocês. Aqui está o mapa."
 
 # --REVISAR--
-# Verificar no jogo
+# Verificar no jogo, (No caso eu, quando eu instalar 1.15)
+# --Nova String--
+#   e não sei onde aparece.
 #. [message]
 #: scenarios/Field.cfg:2204
 #, fuzzy
@@ -5289,7 +5289,7 @@ msgstr "Música de Batalha"
 msgid "Office Music"
 msgstr "Música do Escritório"
 
-# Nova string
+# --Nova String--
 #. [set_menu_item]: id=aiw_right_menu_z_jukebox_trackchecker
 #: utils/menu.cfg:794
 #, fuzzy
@@ -5553,7 +5553,7 @@ msgstr ""
 msgid "But the responses from these two were completely beyond my expectation... in a good meaning."
 msgstr "Mas as respostas desses dois foram completamente além das minhas expectativas... no bom sentido."
 
-# --REVISAR--
+# Autor não soube o motivo de ter alterado para 'wise'. Antes estava em 'financial view'.
 #. [part]
 #: utils/storytxt.cfg:77
 #, fuzzy
