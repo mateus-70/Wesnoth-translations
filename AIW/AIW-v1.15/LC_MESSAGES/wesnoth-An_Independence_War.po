@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-28 14:03+0900\n"
-"PO-Revision-Date: 2021-05-10 04:29-0300\n"
+"PO-Revision-Date: 2021-05-14 03:07-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -128,6 +128,7 @@ msgstr "Underness Series - Music Pack"
 
 #. [about]
 #: _main.cfg:91
+#, fuzzy
 msgid "Special Thanks to Great Bug Reporters (1.14.x+)"
 msgstr "Agradecimentos Especiais aos Grandes Relatores de Erros (1.14.x+)"
 
@@ -473,6 +474,7 @@ msgstr "Desmarcar zona de cuidado do inimigo.<span color='green'>(Agora: marcado
 # Verificar no jogo.
 #. [option]
 #: _main.cfg:716
+#, fuzzy
 msgid "Not asked when exiting from the Office.<span color='green'>(Now: asked)</span>"
 msgstr "Não perguntar quando sair do Escritório.<span color='green'>(Agora: perguntar)</span>"
 
@@ -480,6 +482,7 @@ msgstr "Não perguntar quando sair do Escritório.<span color='green'>(Agora: pe
 # Verificar no jogo.
 #. [option]
 #: _main.cfg:726
+#, fuzzy
 msgid "Please ask when exiting from the Office.<span color='red'>(Now: not asked)</span>"
 msgstr "Por favor perguntar quando sair do Escritório.<span color='red'>(Agora: não perguntar)</span>"
 
@@ -652,6 +655,7 @@ msgstr "Guardiões Inimigos/Líderes Inimigos!"
 
 #. [message]
 #: _main.cfg:938
+#, fuzzy
 msgid ""
 "Enemy leaders are in the capital city of the corresponding side. To defeat a side, you or your ally side have to defeat the leader of the target side.\n"
 "\n"
@@ -760,11 +764,13 @@ msgstr "Depois de derrotar os trolls e anões, você deve atacar orcs/daconatos 
 
 #. [option]
 #: _main.cfg:1036
+#, fuzzy
 msgid "against the Kingdom"
 msgstr "contra o Reino"
 
 #. [message]
 #: _main.cfg:1040
+#, fuzzy
 msgid ""
 "Defeating the Kingdom is almost impossible. They must have vast number of soldiers and leaders. We should be defensive against them. The South Gate is the critical point. We should block them there. Some of their troops will come from the Fling forest or east side of the Fusia. Do not miss those troops.\n"
 "\n"
@@ -776,11 +782,13 @@ msgstr ""
 
 #. [option]
 #: _main.cfg:1048
+#, fuzzy
 msgid "against the Empire"
 msgstr "contra o Império"
 
 #. [message]
 #: _main.cfg:1052
+#, fuzzy
 msgid ""
 "Basic strategy is the same as that against the Kingdom. We should block them at the North Gate. Goblins of Goba city will also be attacked by them. You may need to send money to goblins.\n"
 "\n"
@@ -1007,6 +1015,7 @@ msgstr "Proeza"
 
 #. [message]
 #: _main.cfg:1275
+#, fuzzy
 msgid "Exploits represent fame/achievement of this unit. This value is not concerned with unit level. Low level units can have big exploits, high level units with very low exploit are possible. This value is important only for leader of a troop. <span color='yellow'>Exploit of 50 is required for Squad leader, 120 for Platoon leader, and 250 for Company leader.</span> We can't organize Battalion. That is a special troop for leaders of the Kingdom, Empire, and orcs."
 msgstr "Proeza representa a fama/conquistas desta unidade. Este valor não leva em conta o nível da unidade. Unidades de baixo nível podem ter grande proeza, unidades de nível algo com proeza muito baixa é possível. Este valor é importante somente para o líder da tropa. <span color='yellow'>É necessário 50 de Proeza para ser um líder de esquadrão, 120 para líder de Pelotão e 250 para líder de Companhia.</span> Nós não podemos organizar Batalhão. Essa é uma unidade especial para os líderes do Reino, Império e orcs."
 
@@ -1288,6 +1297,7 @@ msgstr "Espião"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1516
+#, fuzzy
 msgid ""
 "They are not field units, but they can gather some information of our enemies ... and allies. If you have enough money, you should better send them to nearby enemies. They will scent signs of attacks or deceptions.\n"
 "\n"
@@ -1437,6 +1447,7 @@ msgstr "Ouro do inimigo/aliado?"
 
 #. [message]
 #: _main.cfg:1666
+#, fuzzy
 msgid ""
 "Enemy and ally actions also depend their funding status. They also have income like us. Enemy/ally gold will be consumed when...\n"
 "\n"
@@ -1459,6 +1470,7 @@ msgstr "Suprimir bandidos e monstros?"
 
 #. [message]
 #: _main.cfg:1681
+#, fuzzy
 msgid ""
 "Once they appear, you have to defeat them by sending troop. We should prevent spawning of them. <span color='yellow'>Bandits and monsters may not appear in our visible area</span> because they are afraid of us. If you place troops in their region or built watchtower in those regions, you can prevent generation of them.\n"
 "\n"
@@ -1772,6 +1784,7 @@ msgstr "Hid"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1522
+#, fuzzy
 msgid "CHEERS!! We have won! We are free from the idiots of the Kingdom and Empire! Today’s beer is too yummy!"
 msgstr "FELICIDADES!! Nós vencemos! Nós estamos livres dos idiotas do Reino e do Império! A cerveja de hoje é tão gostosa!"
 
@@ -1929,6 +1942,7 @@ msgstr "Hm. Descance em paz, Cristofer."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1756
+#, fuzzy
 msgid "Hey Redy, WHAT are you? You must not be an ordinary mage. As far as I know, mages who can use lightning is quite rare even in the Kingdom or Empire. How do you think, Andrzej?"
 msgstr "Ei Redy, O QUE é você? Você não deve ser um mago ordinário. Até onde eu sei, magos que podem usar raios são bem raros mesmo no Reino ou Império. O que você acha, Andrzej?"
 
@@ -2178,6 +2192,7 @@ msgstr "<span color='#00ff00'>$tmp_after|</span>"
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:1033
+#, fuzzy
 msgid ""
 "You earned <b>$my_income|</b> gold!<tt>\n"
 "<u>base income</u>   :$base_income\n"
@@ -2220,6 +2235,7 @@ msgstr "Bandidos"
 
 #. [message]
 #: scenarios/Field.cfg:1530
+#, fuzzy
 msgid "Shold this troop attack the bandit?"
 msgstr "Esta tropa deve atacar os bandidos?"
 
@@ -2235,6 +2251,7 @@ msgstr "Agentes"
 
 #. [message]
 #: scenarios/Field.cfg:1627
+#, fuzzy
 msgid "Should this troop attack the agents?"
 msgstr "Esta tropa deve atacar os agentes?"
 
@@ -2250,6 +2267,7 @@ msgstr "Grupo de Incursão"
 
 #. [message]
 #: scenarios/Field.cfg:1725
+#, fuzzy
 msgid "Should this troop attack the raiding party?"
 msgstr "Esta tropa deve atacar o grupo de incursão?"
 
@@ -2366,10 +2384,12 @@ msgstr "Obrigado por sua cooperação."
 msgid "I am an emissary from Fusia. My lord needs your help, would you join us?"
 msgstr "Eu sou um emissário de Fusia. Meu mestre precisa da sua ajuda, vocês se juntarão a nós?"
 
+# Nova string
 #. [message]
 #: scenarios/Field.cfg:2163
+#, fuzzy
 msgid "That treasure is ...! Do you give us that treasure?! We gladly join you!! Great!"
-msgstr ""
+msgstr "Aquele tesouro é ...! Você nos dará esse tesouro?! Nós alegremente nos juntaremos a ti!! Excelente!"
 
 #. [message]
 #: scenarios/Field.cfg:2178
@@ -2385,6 +2405,7 @@ msgstr "Muitos dos nossos tesouros foram roubados. Nossa investigação revelou 
 # Verificar no jogo
 #. [message]
 #: scenarios/Field.cfg:2204
+#, fuzzy
 msgid "<span color='yellow'>You can check the map at the office.</span>"
 msgstr "<span color='yellow'>Você pode consultar o mapa no escritório.</span>"
 
@@ -2411,11 +2432,13 @@ msgstr "Os inimigos ao redor da nossa base foram eliminados. Soldados, retornem 
 
 #. [message]
 #: scenarios/Field.cfg:2592
+#, fuzzy
 msgid "The Kingdom sent troops to Fusia from $names[$done].name|! Please beware."
 msgstr "O Reino enviou tropas para Fusia de/da $names[$done].name|! Por favor fique em guarda."
 
 #. [message]
 #: scenarios/Field.cfg:2698
+#, fuzzy
 msgid "The Empire sent troops to Fusia from $names[$done].name|! Please beware."
 msgstr "O Império enviou tropas para Fusia de/da $names[$done].name|! Por favor fique em guarda."
 
@@ -2478,6 +2501,7 @@ msgstr "Ei você! Como você está?"
 
 #. [message]
 #: scenarios/Field.cfg:3368
+#, fuzzy
 msgid "... Who are you? This is the office of the mayor. (... Why are these guards doing nothing?)"
 msgstr "... Quem é você? Este é o escritório do prefeito. (... Por que esses guardas não fazem nada?)"
 
@@ -2488,6 +2512,7 @@ msgstr "Um góblin...? Ah, então você é o Clammy. Você é um góblin surpree
 
 #. [message]
 #: scenarios/Field.cfg:3388
+#, fuzzy
 msgid "Ah, so you are one of bad guys. Why did you come here?"
 msgstr "Ah, então você é um dos vilões. Por que você veio aqui?"
 
@@ -2498,11 +2523,13 @@ msgstr "Por quê? Você diz que eu preciso de um motivo para ver um amigo? Ridí
 
 #. [message]
 #: scenarios/Field.cfg:3398
+#, fuzzy
 msgid "I agree. Reasons are not really necessary to see a friend... as long as it is during peaceful days."
 msgstr "Eu concordo. Motivos não são de fato necessário para ver um amigo... pelo menos durante dias de paz."
 
 #. [message]
 #: scenarios/Field.cfg:3403
+#, fuzzy
 msgid "? You say it is not peaceful now? Did a war begin recently? If so, I should go back to my job immediately. Actually, I left the current job without any reports to colleagues. Ah.. I must apologize to that idiot boss. Anyway, where does the war happen?"
 msgstr "? Você quer dizer que não estamos em paz agora? Uma guerra começourecentemente? Se sim, eu devo voltar imediatamente ao meu trabalho. Na verdade, eu deixei meu trabalho atual sem nem avisar meus colegas. Ah.. Eu devo pedir desculpas para aquele chefe idiota. De qualquer forma, onde é a guerra?"
 
@@ -2518,16 +2545,19 @@ msgstr "Então o Império quebrou o tratado? É completamente inesperado. Descul
 
 #. [message]
 #: scenarios/Field.cfg:3424
+#, fuzzy
 msgid "Wait! You misunderstood my words. Not a war against the Empire!"
 msgstr "Espere! Você entendeu errado o que eu disse. Não uma guerra contra o Império!"
 
 #. [message]
 #: scenarios/Field.cfg:3436
+#, fuzzy
 msgid "Not the Empire? Who is the enemy?"
 msgstr "Não contra o Império? Quem é o inimigo?"
 
 #. [message]
 #: scenarios/Field.cfg:3441
+#, fuzzy
 msgid "The Kingdom. We declared independence from the Kingdom several days ago. This is now Fusia, a new country. That guy is the king."
 msgstr "O Reino. Nós declaramos independência do Reino alguns dias atrás. Esta agora é Fusia, um novo país. Aquele cara é o rei."
 
@@ -2538,6 +2568,7 @@ msgstr "Você declara independência... Eu conheço o rei muito bem... Eu visito
 
 #. [message]
 #: scenarios/Field.cfg:3453
+#, fuzzy
 msgid "... People will consider you a traitor to the Kingdom, you must be a collaborator of Fusia."
 msgstr "... Pessoas considerarão você um traidor do Reino, que você deve ser um colaborador de Fusia."
 
@@ -2548,6 +2579,7 @@ msgstr "........."
 
 #. [message]
 #: scenarios/Field.cfg:3470
+#, fuzzy
 msgid "Hey Clammy, you must be kidding me. You are really smart, I have never seen such a smart goblin. I love jokes, too. But this one is terribly horrifying. ... Hey you, you said nothing so far. It is usual, though. Clammy s kidding me, isn’t it?"
 msgstr "Ei Clammy, você deve estar brincando comigo. Você é muito inteligente. Eu nunca vi um góblin tão esperto. Eu também amo piadas. Mas esta é uma terrivelmente horripilante. ... Ei você, você não disse nada até agora. Embora seja o normal. O Clammy está brincando comigo, não é?"
 
@@ -2573,6 +2605,7 @@ msgstr "Parabéns."
 
 #. [message]
 #: scenarios/Field.cfg:3491
+#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -2604,6 +2637,7 @@ msgstr "Um elfo e um anão? É uma dupla incomum."
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:3627
+#, fuzzy
 msgid "Not so uncommon. But a brilliant goblin like you is a really uncommon being. Nice to meet you, Clammy."
 msgstr "Não tão incomum. Mas um góblin brilhante como você é o ser realmente incomum. Prazer em conhecer você, Clammy."
 
@@ -2630,6 +2664,7 @@ msgstr "Eu só conheço os licores humanos ao redor daqui, os terríveis licores
 
 #. [message]
 #: scenarios/Field.cfg:3649
+#, fuzzy
 msgid "Liquors... brews... I wanna drink... We could not drink these days because we have been in eastern mountains for more than one month. Now we are on the way back to the Crownia."
 msgstr "Licores... cervejas... Eu quero beber... Nós não conseguimos beber esses dias porque nós estávamos nas montanhas do leste por mais de um mês. Agora estamos no caminho de volta para Corônia."
 
@@ -2645,6 +2680,7 @@ msgstr "Vocês querem beber? Ah, vocês estão bem alcoólatras como sempre. Ok,
 
 #. [message]
 #: scenarios/Field.cfg:3664
+#, fuzzy
 msgid "You, treating us? It will snow tomorrow."
 msgstr "Você vai nos receber? Vai nevar amanhã."
 
@@ -2655,6 +2691,7 @@ msgstr "Hehehe..."
 
 #. [message]
 #: scenarios/Field.cfg:3721
+#, fuzzy
 msgid "... You said nothing, as usual, and we will get two more commanders."
 msgstr "... Você não disse nada, como sempre, e nós obteremos mais dois comandantes."
 
@@ -2680,6 +2717,7 @@ msgstr "... É surpreendente. Eu fiquei um pouco sóbrio, outro copo de licor é
 
 #. [message]
 #: scenarios/Field.cfg:3756
+#, fuzzy
 msgid ""
 "Ah. This province. Now it is called Fusia.\n"
 "\n"
@@ -2701,6 +2739,7 @@ msgstr "O quê?"
 
 #. [message]
 #: scenarios/Field.cfg:3775
+#, fuzzy
 msgid ""
 "You visit the king of rebel and then drink beers with this general of the rebel.\n"
 "\n"
@@ -2781,6 +2820,7 @@ msgstr "Oi. Eu sou Clammy. Prazer em conhecer você, Andrzej. Posso perguntar po
 
 #. [message]
 #: scenarios/Field.cfg:3949
+#, fuzzy
 msgid ""
 "Hm. Nice to meet you, Clammy. I am angry due to the betrayal of Christopher, Arsenio, Heinrich, and this guy.\n"
 "\n"
@@ -2792,6 +2832,7 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:3956
+#, fuzzy
 msgid "Hm. If I had stayed one more week on Crownia, I might have been hanged. Am I not your friend?"
 msgstr "Hm. Se eu ficasse mais uma semana em Corônia, eu poderia ser enforcado. Eu não sou seu amigo?"
 
@@ -2802,6 +2843,7 @@ msgstr "(O que responder? ... Me ajude, Clammy! (olha o Clammy de relance))"
 
 #. [message]
 #: scenarios/Field.cfg:3966
+#, fuzzy
 msgid ""
 "... Well, I will answer instead of this silent guy.\n"
 "\n"
@@ -2813,11 +2855,13 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:3973
+#, fuzzy
 msgid "Hm. So why did those three join immediately?"
 msgstr "Hm. Então por que esses três se uniram imediatamente?"
 
 #. [message]
 #: scenarios/Field.cfg:3978
+#, fuzzy
 msgid ""
 "At first, Christopher accidentally visited us just after the declaration, without telling his colleagues. He lost the way back, and he joined Fusia.\n"
 "\n"
@@ -2829,6 +2873,7 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:3985
+#, fuzzy
 msgid "... Hm. Can I ask for details?"
 msgstr "... Hm. Posso perguntar detalhes?"
 
@@ -2849,6 +2894,7 @@ msgstr "Bem-vindo a bordo, Andrzej."
 
 #. [message]
 #: scenarios/Field.cfg:4007
+#, fuzzy
 msgid ""
 "Hm. You are really brilliant, Clammy.\n"
 "\n"
@@ -2945,6 +2991,7 @@ msgstr "Gregory"
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4344
+#, fuzzy
 msgid "Nice to meet you, <i>$aiw_your_title</i>. I am Gregory, a minor general of the Empire. To face you is a really horrifying for us, Imperial soldiers."
 msgstr "Prazer em conhecer você, <i>$aiw_your_title</i>. Eu sou Gregory, um general não muito conhecido do Império. Encarar você é realmente horripilante para nós, soldados Imperiais."
 
@@ -2955,6 +3002,7 @@ msgstr "... Você era um soldado Imperial naquela guerra?"
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4354
+#, fuzzy
 msgid "Yes. But I was a low-ranked officer at that time. I have promoted to the current position due to the many deaths of generals in that war. So, I should thank someone who killed them. And of course I know you, Mr. Clammy. Your fame as a tactician is also spreading out among the Empire. We, Imperial army, are respecting and afraid of you. I come here to propose a plan beneficially to all of us."
 msgstr "Sim. Mas eu era um ofical de baixa patente naqueles tempos. Eu fui promovido à minha posição atual devido a grande quantidade de mortes de generais naquela guerra. Então eu devo agradecer quem os matou. E com certeza eu conheço você, Sr. Clammy. Sua fama como tático também se espalha Império afora. Nós do exército Imperial, respeitamos e temos medo de você. Eu venho aqui propor um plano benéfico para todos nós."
 
@@ -3001,6 +3049,7 @@ msgstr "(... Nós não devemos rejeitar esta oferta. Mas... sinto-me desconfort�
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4407
+#, fuzzy
 msgid "You maybe suspicious about me. But there are no lies in my words! Both of us benefit from this offer! You should think logically, we should join forces!"
 msgstr "Vocês podem suspeitar de mim. Mas não há mentira no que eu digo! Nós dois nos beneficiaremos desta oferta! Você precisa pensar logicamente, nós deveriamos unir nossas forças!"
 
@@ -3012,21 +3061,25 @@ msgstr "Alto."
 
 #. [message]
 #: scenarios/Field.cfg:4432
+#, fuzzy
 msgid "(They did their job!? What is going on!? Is it a dream??)"
 msgstr "(Eles fizeram seu trabalho!? O que está acontecendo!? Isso é um sonho??)"
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4437
+#, fuzzy
 msgid "What? Why did you stop me?"
 msgstr "O quê? Por que você me parou?"
 
 #. [message]: speaker=Hid
 #: scenarios/Field.cfg:4442
+#, fuzzy
 msgid "Shut up, liar. Your name is not Gregory. Your real name is Hikkson. Hey, my dear former boss, did you forget us?"
 msgstr "Cale a boca, mentiroso. Seu nome não é Gregory. Seu nome verdadeiro é Hikkson. Ei, meu querido velho chefe, você nos esqueceu?"
 
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4447
+#, fuzzy
 msgid "And there is another lie in your word. You were a general in the war, but you no longer are a general now. It is the completely opposite of what you said."
 msgstr "E há outra mentira no que você disse. Você foi um general naquela guerra, mas agora você não é mais um general. É completamente o oposto do que disse."
 
@@ -3037,6 +3090,7 @@ msgstr "Mig, nos diga mais detalhes."
 
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4457
+#, fuzzy
 msgid "This coward was one of the generals guarding this fort at that war. When the fort was falling, this coward commanded us to block the pursuit of the Kingdom army. Ah, of course that coward immediately escaped after commanding us just to save his life."
 msgstr "Este covarde foi um dos generais deste forte naquela guerra. Quando o forte estava sendo dominado, este covarde ordenou-nos para impedir a perseguição do exército do Reino. Ah, claro que aquele covarde escapou imediatamente depois de ordenar, só para salvar sua vida."
 
@@ -3047,21 +3101,25 @@ msgstr "Isso soa mau, mas não tão incomum..."
 
 #. [message]: speaker=Hid
 #: scenarios/Field.cfg:4467
+#, fuzzy
 msgid "The story is not yet finished, unfortunately. We had managed to drive off the first wave of pursuit troops. So, we went back to our main fort. When arriving at the fort, the gate was closed. We asked the guards to open the gate, but they did not open the gate and they did not answer us."
 msgstr "A história não terminou ainda, infelizmente. Nós conseguimos afugentar a primeira onda das tropas que perseguiam. Então nós voltamos para o nosso forte principal. Quando chegamos no forte, o portão estava fechado. Nós pedimos aos guardas para abrirem o portão, mas eles não abriram o portão nem nos responderam."
 
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4472
+#, fuzzy
 msgid "We could not understand what was going on then. We had waited and asked the guards with patience. Then, the final answer had come from the fort. It was an arrow. They shot us. All we could do was get away from the fort."
 msgstr "Nós não conseguimos entender o que estava acontecendo com eles. Nós esperamos e pedimos aos guardas com paciência. Então, a resposta final veio do forte. Era uma flecha. Eles atiraram em nós. Tudo o que pudemos fazer foi se distanciar do forte."
 
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4477
+#, fuzzy
 msgid "Due to our friends in the Empire, the reason why we were attacked was clarified. That coward reported that we soldiers betrayed the Empire and expelled the general from the fort. I cannot understand why people believed such a cheap lie."
 msgstr "De acordo com nossos amigos no Império, o motivo pelo qual nós fomos atacados foi esclarecido. Aquele covarde reportou que nós traímos o Império e expulsamos o general do forte. Eu não consigo entender o porquê das pessoas conseguiram acreditar numa mentira tão barata."
 
 #. [message]: speaker=Hid
 #: scenarios/Field.cfg:4482
+#, fuzzy
 msgid "Most of the generals were already dead and many soldiers surrendered to the Kingdom. So most people couldn't find the truth. I suppose people merely believe the only existing story... the fall of this fort was caused by the betrayal of soldiers, us. People were accordingly tricked once at that time, but as time passed, the truth was uncovered. Eventually people in the Empire including politicians began to consider this guy as a lier. As far as I know, he was punished and is no longer a general. What do you think, Mr. coward? And what are you planning with that dagger?"
 msgstr "A maioria dos generais já estavam mortos e muitos soldados se renderam ao Reino. Então a maioria das pessoas não puderam saber a verdade. Eu acho que as pessoas meramente acreditam na única história existente... a queda deste forte foi causada porque nos traíram, nós os soldados. As pessoas já tinham sido enganadas nessa hora, mas o tempo passou, a verdade foi descoberta. Eventualmente pessoas no Império incluindo políticos começaram a considerar esse cara só um mentiroso. Até onde sei, ele foi punido e já não é mais um general. O que você acha, Sr. covarde? E o que você está planejando com essa adaga?"
 
@@ -3072,6 +3130,7 @@ msgstr "Eu... Eu... sou..."
 
 #. [message]
 #: scenarios/Field.cfg:4501
+#, fuzzy
 msgid ".... This dagger seems to be dipped in some toxin. So this guy tried to assassinate my lord? Ridiculous. It is very hard to expect such a desperate plan. The assassination would have never succeeded even if those two guards did not stop this idiot. Mig and Hid, this one is not merely a coward! This is amazingly stupid!"
 msgstr ".... Esta adaga parece ter sido mergulhada em alguma toxina. Então esse cara tentou assassinar meu mestre? Ridículo. É bem difícil imaginar um objetivo tão desesperado. O assassinato nunca teria sucesso mesmo se esses dois guardas não parassem esse idiota. Mig e Hig, esse aí não é meramente um covarde! É surpreendentemente estúpido!"
 
@@ -3082,6 +3141,7 @@ msgstr "(O que é realmente surpreendente para mim é esses dois guardas... Eles
 
 #. [message]
 #: scenarios/Field.cfg:4511
+#, fuzzy
 msgid "Someone in the Empire might have ordered this idiot to undertake such a suicidal mission. The commander itself is not so important. The Empire directly took an action to Fusia, it is the problem. They may begin direct military actions to us. We should take a care to the north region more."
 msgstr "Alguém do Império pode ter ordenado a este idiota ficar com esta missão suicida. O comandante em si não é tão importante. O Império tomou uma ação direta contra Fusia, este é o problema. Eles podem começar ações militares diretas sobre nós. Nós devemos ter mais cuidado da região norte."
 
@@ -3092,6 +3152,7 @@ msgstr "Nós precisamos saber quem enviou esse idiota aqui?"
 
 #. [message]
 #: scenarios/Field.cfg:4521
+#, fuzzy
 msgid "No. We do not have enough time and knowing the name does not benefit us. I suggest to kill or hang it for pretending to be an Imperial general. This mission should not be an official task, so an Imperial officer cannot be here officially. An official emissary from the Empire to us is not allowed due to the treaty of the previous war. Both the Kingdom and the Empire cannot blame us officially. In addition, this demonstration may show our intention and malice of the Empire to other factions. What is your opinion, Clammy?"
 msgstr "Não. Nós não temos tempo suficiente e saber o nome não nos beneficia. Eu sugiro matar ou enforcar ele como um impostor de um general do Império. Esta missão não deve ser uma tarefa oficial, então um Oficial Imperial não pode estar aqui oficialmente. Emissários oficiais do Império para nós não são permitidos devido ao tratado da guerra anterior. Ambos Reino e Império não podem nos culpar oficialmente. Além disso, esta demonstração pode mostrar nossas intenções, e malícia do Império contra outra facções. Qual é a sua opinião, Clammy?"
 
@@ -3102,6 +3163,7 @@ msgstr "NÃO! POR FAVOR! POR FAVOR ME DEIXEM VIVER!!"
 
 #. [message]
 #: scenarios/Field.cfg:4531
+#, fuzzy
 msgid "I agree with you, Redi. The words of this idiot also seem to agree with your idea. We have lots of things to do, so let’s take action as soon as possible."
 msgstr "Eu concordo contigo, Redi. As palavras deste idiota também parecem concordar com sua ideia. Nós temos muitas coisas a fazer, então vamos tomar atitudes o mais rápido possível."
 
@@ -3209,6 +3271,7 @@ msgstr "Entendo. Eles com certeza se unirão a nós."
 
 #. [option]
 #: scenarios/Field.cfg:5312
+#, fuzzy
 msgid "<span color='yellow'>Ask the merfolks to join us</span>"
 msgstr "<span color='yellow'>Peça aos merfolks para se unirem a nós</span>"
 
@@ -3224,6 +3287,7 @@ msgstr "Entendido."
 
 #. [message]
 #: scenarios/Field.cfg:5350
+#, fuzzy
 msgid "They will surely request some treasure for our request. The request might become easier as our power increases. Try to persuade them now?"
 msgstr "Eles com certeza irão requisitar algum terouso pela nossa requisição. A requisição pode tornar-se mais fácil na medida em que nosso poder aumenta. Tentar persuadir eles agora?"
 
@@ -3288,6 +3352,7 @@ msgstr "<span color='yellow'>Menu de Esquadrão/Pelotão/Companhia</span>"
 
 #. [option]
 #: scenarios/Field.cfg:5511
+#, fuzzy
 msgid ""
 "Send a spy\n"
 "<span size='smaller'>costs <span color='yellow'>2g</span> to send; costs <span color='yellow'>1g</span> for upkeep</span>"
@@ -3302,6 +3367,7 @@ msgstr "Informações sobre outros lados (precisa de um espião ativo)"
 
 #. [option]
 #: scenarios/Field.cfg:5542
+#, fuzzy
 msgid "Send an emissary to an allied side."
 msgstr "Enviar um emissário a um lado aliado."
 
@@ -3512,6 +3578,7 @@ msgstr "Qual propósito?"
 
 #. [option]
 #: scenarios/Field.cfg:6335
+#, fuzzy
 msgid ""
 "Send money to an allied side.\n"
 "<span size='smaller' color='yellow'>NOTE: require some money; never fails</span>"
@@ -3521,6 +3588,7 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:6345
+#, fuzzy
 msgid ""
 "Ask an allied side to attack enemy.\n"
 "<span color='yellow' size='smaller'>NOTE: intimacy decreases when succeded; nothing happens if failed.</span>"
@@ -3530,6 +3598,7 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:6355
+#, fuzzy
 msgid ""
 "Ask an allied side to stop attacking.\n"
 "<span color='yellow' size='smaller'>NOTE: never fail.</span>"
@@ -3694,11 +3763,13 @@ msgstr "Esta cidade! Fusia é o nome desta cidade bem como deste país! Ridicula
 
 #. [option]
 #: scenarios/Field.cfg:7174
+#, fuzzy
 msgid "Cities of the Kingdom (go to submenu)"
 msgstr "Cidades do Reino (ir ao submenu)"
 
 #. [message]
 #: scenarios/Field.cfg:7186
+#, fuzzy
 msgid "The Kingdom capital city in <b>South West</b>! The central city of the Kingdom in terms of many aspects! I believe this is the second greatest city in this land! It is vast and well-guarded!! The academy is also in this city!!! Ah?! What is the greatest city?! It is definitely Knerg! Dwarvish capital!!"
 msgstr "A capital do Reino fica a <b>Sudoeste</b>! É a cidade central do Reino em muitos aspectos! Eu acredito que esta é a segunda maior cidade desta terra! É vasta e bem protegida!! A academia também fica nessa cidade!!! Ah?! Qual é a maior cidade?! É definitivamente Knerg! A capital dos Anões!!"
 
@@ -3719,11 +3790,13 @@ msgstr "Velha cidade rural a <b>Sudoeste</b>! Ela foi a capital do Reino desde a
 
 #. [message]
 #: scenarios/Field.cfg:7233
+#, fuzzy
 msgid "Definitely you already know! This is a fort just <b>South</b> of Fusia! The Kingdom scums had built this poor, isolated fort very recently! They definitely anticipated your betrayal! This fort must be a primary enemy of this country! Crash it!"
 msgstr "Definitivamente você conhece! Este é um forte logo ao <b>Sul</b> de Fusia! Os vermes do Reino construíram este pobre, isolado forte muito recentemente! Eles definitivamente anteciparam sua traição! Este forte deve ser um inimigo primário para este país! Esmague-o!"
 
 #. [option]
 #: scenarios/Field.cfg:7246
+#, fuzzy
 msgid "Cities of the Empire (go to submenu)"
 msgstr "Cidades do Império (ir ao submenu)"
 
@@ -3734,11 +3807,13 @@ msgstr "A capital do Império localiza-se no <b>Norte</b>! A maior cidade ao nor
 
 #. [message]
 #: scenarios/Field.cfg:7270
+#, fuzzy
 msgid "The biggest port of the Empire! There is nothing to say anymore! Port city of the Kingdom is much better than this boring one!"
 msgstr "O maior porto do Império! Não há nada mais a dizer! A cidade portuária do Reino é bem melhor do que esta coisa chata!"
 
 #. [message]
 #: scenarios/Field.cfg:7282
+#, fuzzy
 msgid "A fort just <b>North</b> from here! It was built just after the previous war! The Empire scums lost this land by your deeds, hahahahaha!! If the Empire joins attacks on Fusia, this fort may become the frontline fort! This fort is also close to the one of monkey cities! You should care those monkeys when fighting against the Empire!"
 msgstr "Um forte logo ao <b>Norte</b> daqui! Ele foi construído logo após a última guerra! Os vermes do Império perderam esta terra pelas tuas ações, hahahahaha!! Se o Império juntar-se ao ataque em Fusia, este forte pode se tornar um forte de linha de frente! Este forte também fica próximo a uma das cidades dos macacos! Você deve cuidar desses macacos quando lutando contra o Império!"
 
@@ -3997,11 +4072,13 @@ msgstr "Deixar o escritório?"
 
 #. [message]
 #: scenarios/Field.cfg:7936
+#, fuzzy
 msgid "We succeed to gather all the local people! Even the Kingdom and the Empire cannot defeat us easily! We have won! Our freedom shall not be violated by them anymore!!!"
 msgstr "Nós conseguimos juntar todos os povos locais! Mesmo o Reino e o Império não podem nos derrotar facilmente! Nós vencemos! Nossa liberdade não será mais violada por eles!!!"
 
 #. [message]: speaker=$second_unit.id
 #: scenarios/Field.cfg:7962
+#, fuzzy
 msgid "THe Kingdom capital is fallen! We managed to do it!"
 msgstr "A capital do Reino caiu! Nós conseguimos fazer isso!"
 
@@ -4031,6 +4108,7 @@ msgstr "O Imoral"
 
 #. [message]
 #: scenarios/Prelude.cfg:18
+#, fuzzy
 msgid ""
 "Welcome to An Independence War (AIW) campaign, sequel of A Group in a War (AG)! To my happiness, you have completed AG. You can import some data of AG into AIW (with a small bonus). Would you like to import?\n"
 "\n"
@@ -4154,11 +4232,13 @@ msgstr "Prólogo"
 
 #. [message]
 #: scenarios/Prologue.cfg:1008
+#, fuzzy
 msgid "Do you want to skip introduction?"
 msgstr "Você quer pular a introdução?"
 
 #. [message]
 #: scenarios/Prologue.cfg:1026
+#, fuzzy
 msgid ""
 "OK, let’s enter the office.\n"
 "\n"
@@ -4171,6 +4251,7 @@ msgstr ""
 # Aqui eu acho que ficaria melhor dizer que Fusia é o nome experimental ou o nome temporário. "a tentativa de nome" fica muito estranho na minha opinião.
 #. [message]
 #: scenarios/Prologue.cfg:1047
+#, fuzzy
 msgid ""
 "OK. This is our new capital, <span color='yellow'>Fusia</span>. Fusia is also the tentative name of this new country. We have to save this city and country.\n"
 "(City names will be shown on the map, not necessary to take notes.)"
@@ -4187,16 +4268,19 @@ msgstr "Cursor"
 
 #. [message]
 #: scenarios/Prologue.cfg:1067
+#, fuzzy
 msgid "This is the capital village of us, goblins. Only us goblins are your allies for now. Please protect this city from enemies."
 msgstr "Esta é a aldeia capital nossa, góblins. Só nós góblins somos seus aliados agora. Por favor proteja esta cidade de inimigos."
 
 #. [message]
 #: scenarios/Prologue.cfg:1090
+#, fuzzy
 msgid "This is <span color='yellow'>Emira-Malikah</span>, capital city of Dunefolk. This is our primary target. Enemies at this position are too dangerous."
 msgstr "Esta é <span color='yellow'>Emira-Malikah</span>, a capital dos Dunefolks. Esta é nosso alvo primário. Inimigos nesta posição são perigosos demais."
 
 #. [message]
 #: scenarios/Prologue.cfg:1113
+#, fuzzy
 msgid "This is <span color='yellow'>Frontline Fort</span>. As the name indicates, this fort is the frontline fort of the Kingdom, recently built. We should keep checking the actions of this fort."
 msgstr "Este é <span color='yellow'>Forte de Linha de Frente </span>. Como o nome indica, este forte é o forte de linha de frente do Reino, recém construído. É melhor ficarmos de olho nas ações deste forte."
 
@@ -4207,6 +4291,7 @@ msgstr "Esta é <span color='yellow'>A Boca</span>. A entrada do Império. Nós 
 
 #. [message]
 #: scenarios/Prologue.cfg:1146
+#, fuzzy
 msgid ""
 "There are many other forts, races. But it will be discussed later. What we have to discuss now is:\n"
 "\n"
@@ -4880,6 +4965,7 @@ msgstr ""
 
 #. [message]
 #: utils/firsttime.cfg:100
+#, fuzzy
 msgid ""
 "Then, you can add members by right-click the newly created troop. Once you have successfully build a troop, choose <i>Go for the War</i> item from the right-clicking menu.\n"
 "\n"
@@ -4891,21 +4977,25 @@ msgstr ""
 
 #. [message]
 #: utils/firsttime.cfg:106
+#, fuzzy
 msgid "You should not add soldiers to your troop now. Your are already an extremely skilled and respected leader. Further experience for you is just a waste. Give a chance to your young commanders and soldiers."
 msgstr "Seria melhor você não adicionar soldados à sua tropa agora. Você já é um líder estremamente habilidoso e respeitado. Experiência além dessa para você será apenas um desperdício. Dê uma chance para seus jovens comandantes e soldados."
 
 #. [message]
 #: utils/firsttime.cfg:110
+#, fuzzy
 msgid "On a final note, <span color='yellow'>a soldier is automatically recruited every turn</span> in the Field. So you usually do not need to recruit soldiers here. A lot of gold will be needed later, so you should save it. But if you have enough soldiers and gold, recruiting a commander is a wise decision."
 msgstr "Uma nota final, <span color='yellow'>um soldado é recrutado automaticamente por turno</span> no Campo. Então, normalmente você não precisa recrutar soldados aqui. Muito dinheiro será necessário posteriormente, então é você deve poupar. Mas se você tem soldados e ouro suficientes, recrutar um comandante é uma decisão sábia."
 
 #. [message]
 #: utils/firsttime.cfg:145
+#, fuzzy
 msgid "There is a bandit group in the Fling forest. We should send a troop there to restore our income. Sorry to repeat the warning, my lord. <span color='yellow'>YOUR TROOP SHOULD BE IN FUSIA. IF YOU ARE NOT IN FUSIA, MOST OF MANAGEMENTS ARE IMPOSSIBLE</span>."
 msgstr "Há um grupo de bandidos na Floresta Namorico. É melhor enviarmos uma tropa até lá para recuperar nossa receita. Desculpe por repetir este aviso, meu mestre. <span color='yellow'>SUA TROPA DEVE FICAR EM FUSIA. SE VOCÊ NÃO ESTIVER EM FUSIA, A MAIOR PARTE DA GERÊNCIA É IMPOSSÍVEL</span>."
 
 #. [message]
 #: utils/firsttime.cfg:149
+#, fuzzy
 msgid "Now, we have to fight against the world. At first, we should crash the bandits in the Fling Forest, southwest from here. You should send a newly built troop there for their training. We cannot identify the exact location of bandits in the fog. So we have to get close to them first."
 msgstr "Agora, nós devemos lutar contra o mundo. Primeiramente, nós devemos esmagar os bandidos na Floresta Namorico, sudoeste daqui. Você deve enviar uma tropa recém montada lá para treinamento. Nós não conseguimos identificar a localização exata dos bandidos na neblina. Então nós precisamo nos aproximar deles primeiro."
 
@@ -4916,6 +5006,7 @@ msgstr "Se você quiser entrar no escritório a partir do Campo, clique com o bo
 
 #. [message]
 #: utils/firsttime.cfg:175
+#, fuzzy
 msgid ""
 "You can get gold or special items through treasure hunting. You can buy treasure maps from nagas. You find the treasure on the field and then you need to bring it back to Fusia. <span color='yellow'>You can search only one treasure at once</span> (due to the technical and UI problems...). Once you get a map, the map (4x4) will be shown at the right side of the Office.\n"
 "\n"
@@ -4937,6 +5028,7 @@ msgstr "Novas tropas são montadas aqui. Quando você clica com o botão direito
 
 #. [message]
 #: utils/firsttime.cfg:213
+#, fuzzy
 msgid "Hello, again! I will help you again with my healing skill!"
 msgstr "Olá, novamente! Eu ajudarei você de novo com minhas habilidades de cura!"
 
@@ -5092,6 +5184,7 @@ msgstr "Ir para a Guerra! (Sair daqui e ir ao campo)"
 
 #. [message]
 #: utils/menu.cfg:418
+#, fuzzy
 msgid "Should $tmp_unit_going.name go for the battle field?"
 msgstr "$tmp_unit_going.name deve ir ao campo de batalha?"
 
@@ -5196,10 +5289,12 @@ msgstr "Música de Batalha"
 msgid "Office Music"
 msgstr "Música do Escritório"
 
+# Nova string
 #. [set_menu_item]: id=aiw_right_menu_z_jukebox_trackchecker
 #: utils/menu.cfg:794
+#, fuzzy
 msgid "Title of Current Music Track?"
-msgstr ""
+msgstr "Nome da Faixa de Música Atual?"
 
 #. [set_menu_item]: id=aiw_right_menu_z_settings
 #: utils/menu.cfg:808
@@ -5373,6 +5468,7 @@ msgstr "Depois da guerra"
 
 #. [part]
 #: utils/storytxt.cfg:28
+#, fuzzy
 msgid ""
 "After that war, surprisingly, I <i>had become</i> a mayor of the former combat field. People there (including goblins) enthusiastically welcomed me as their new lord. I will never forget that scenery in my life. It was a really surprising and exciting scenery... very impressive. I could not emit even a single word due to that deep impression. I told that to Clammy, a brilliant goblin, who was also in the ceremony, but his response was very severe: <i>At that time, you were silent as usual. Never seemed to be so impressed. I am sure most people felt the same impression like me as your taciturnity is very well known here.</i>\n"
 "\n"
@@ -5384,11 +5480,13 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:38
+#, fuzzy
 msgid "My first duty as a mayor was restoring the damage of the war. It involves damages on villages, farms, roads, forests, bla bla bla. Cleaning of the River was also an important task. The previous (temporary) mayor had tried to clean up the river by killing hostile lives there. But I decided to choose a more peaceful way to cleanup the River. It took several months to begin negotiations with the nagas. But finally, we managed to make peace. We appreciate the smart and kind goblin and the brave naga for bringing a peace to this land."
 msgstr "Meu primeiro dever como prefeito era restaurar o dano da guerra. Isso envolvia danos as aldeias, fazendas, ruas, florestas, bla bla bla. A limpeza do Rio também era uma tarefa importante. O prefeito (temporário) anterior tentou limpar o rio matando as vidas hostis que lá vivem. Mas eu decidi escolher meios mais pacíficos para a limpeza do Rio. Levou vários meses para começar as negociações com os nagas. Mas finalmente, nós conseguimos estabelecer paz. Nós agradecemos ao gentil e esperto góblin e o bravo naga por trazerem paz para esta terra."
 
 #. [part]
 #: utils/storytxt.cfg:41
+#, fuzzy
 msgid ""
 "Now, almost two years have passed since I became a mayor. The peace is bringing prosperity to our land. But ... the another war happened as I guessed.\n"
 "\n"
@@ -5404,6 +5502,7 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:48
+#, fuzzy
 msgid "<span color='red'><b>This war is caused by me. Not accidentally, but very intentionally.</b></span>"
 msgstr "<span color='red'><b>Esta guerra é causada por mim. Não por acidente, muito intencionalmente.</b></span>"
 
@@ -5414,6 +5513,7 @@ msgstr "Uma Guerra de Independência: Causa"
 
 #. [part]
 #: utils/storytxt.cfg:54
+#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -5425,6 +5525,7 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:64
+#, fuzzy
 msgid ""
 "Then, that damn arrogant paperpusher had come from the capital, Crownia, to publish and execute the new law. I arrested that worm and forced it back. Honestly, I wanna turn that bug to clay. Anyway, this event made me realize there is no time to negotiate.\n"
 "\n"
@@ -5436,6 +5537,7 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:69
+#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -5447,12 +5549,14 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:74
+#, fuzzy
 msgid "But the responses from these two were completely beyond my expectation... in a good meaning."
 msgstr "Mas as respostas desses dois foram completamente além das minhas expectativas... no bom sentido."
 
 # --REVISAR--
 #. [part]
 #: utils/storytxt.cfg:77
+#, fuzzy
 msgid ""
 "<b>Clammy</b>:\n"
 "I will help you as in the previous war. Actually, the odds are not so bad. You simply overestimated the armies of Kingdom and Empire. Both of them are not in the good situation in financial wise. They cannot concentrate on us. A bunch of troops will attack us, but it may not be enough to defeat us. In addition, as you know, generals in their capital are not so smart."
@@ -5462,6 +5566,7 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:84
+#, fuzzy
 msgid ""
 "<b>The Secretary</b>:\n"
 "Empire may not be directly involved in the early stage.\n"
@@ -5483,6 +5588,7 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:97
+#, fuzzy
 msgid ""
 "...\n"
 "\n"
