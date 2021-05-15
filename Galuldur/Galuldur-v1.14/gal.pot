@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-14 07:12 UTC\n"
-"PO-Revision-Date: 2021-05-15 03:36-0300\n"
-"Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
-"Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -76,7 +76,7 @@ msgstr ""
 #: Galuldur/utils/Galuldur_sorcery.cfg:211
 #, fuzzy
 msgid "Vaddan"
-msgstr "Vaddan"
+msgstr ""
 
 #. [side]: id=Norfindil, type=Elvish Ranger
 #. [unit]: id=Norfindil, type=Elvish Ranger
@@ -85,7 +85,7 @@ msgstr "Vaddan"
 #: Galuldur/utils/Galuldur_units.cfg:30
 #, fuzzy
 msgid "Norfindil"
-msgstr "Norfindil"
+msgstr ""
 
 #. [side]
 #: Galuldur/scenarios/07_Northern_Route.cfg:60
@@ -115,19 +115,19 @@ msgstr ""
 #: Galuldur/scenarios/05_Journey_Back.cfg:76
 #, fuzzy
 msgid "Goblins"
-msgstr "Góblins"
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:279
 #, fuzzy
 msgid "See the pass all the way over there in the east? I told you that there is a way through here."
-msgstr "Você vê o caminho todo logo ali pelo leste? Eu lhe falei que tinha um caminho por aqui."
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:280
 #, fuzzy
 msgid "I believe it when we get to Pindir Forest. You may have fooled Galuldur, but rest assured that I am not going to turn my back on you. And never forget for a moment that I am in charge here."
-msgstr "Eu acreditarei nisso quando nós chegarmos na Floresta Pindir. Você pode ter enganado Galuldur, mas descanse seguro que eu não virarei as costas para você. E nunca esqueça por um momento que eu estou no comando aqui."
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:281
@@ -143,13 +143,13 @@ msgstr ""
 #: Galuldur/scenarios/07_Northern_Route.cfg:474
 #, fuzzy
 msgid "Head To Pindir Forest Via The Northern Route"
-msgstr "Vá Para A Floresta Pindir Pela Rota Norte"
+msgstr ""
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/07_Northern_Route.cfg:287
 #, fuzzy
 msgid "Move Norfindil to the sign post across the mountain pass in the east"
-msgstr "Mova Norfindil para o poste indicador do outro lado da montanha no leste"
+msgstr ""
 
 #. [objective]: condition=lose
 #: Galuldur/scenarios/07_Northern_Route.cfg:291
@@ -162,7 +162,7 @@ msgstr "Mova Norfindil para o poste indicador do outro lado da montanha no leste
 #: Galuldur/utils/Galuldur_utils.cfg:830
 #, fuzzy
 msgid "Death of Norfindil"
-msgstr "Morte de Norfindil"
+msgstr ""
 
 #. [objective]: condition=lose
 #: Galuldur/scenarios/07_Northern_Route.cfg:295
@@ -174,13 +174,13 @@ msgstr "Morte de Norfindil"
 #: Galuldur/utils/Galuldur_utils.cfg:812
 #, fuzzy
 msgid "Death of Vaddan"
-msgstr "Morte de Vaddan"
+msgstr ""
 
 #. [else]
 #: Galuldur/scenarios/07_Northern_Route.cfg:320
 #, fuzzy
 msgid "Let's go."
-msgstr "Vamos lá."
+msgstr ""
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/07_Northern_Route.cfg:326
@@ -189,25 +189,25 @@ msgstr "Vamos lá."
 #: Galuldur/scenarios/07_Northern_Route.cfg:476
 #, fuzzy
 msgid "Move Vaddan to the sign post across the mountain pass in the east"
-msgstr "Mova Vaddan para o poste indicador do outro lado da montanha no leste"
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:413
 #, fuzzy
 msgid "No? I didn't think so. We are going to continue on across the pass in the east as quickly as possible then."
-msgstr "Não? Eu acho que não. Sendo assim nós iremos continuar pelo caminho no leste o mais rápido o possível."
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:414
 #, fuzzy
 msgid "And look at that. He had a secret stash of money hidden away. I guess skeletons don't have pockets. Somebody get that, please."
-msgstr "E veja aquilo. Ele tinha um esconderijo secreto de dinheiro. Eu acho que esqueletos não têm bolsos. Alguém pegue aquilo, por favor."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:427
 #, fuzzy
 msgid "I got it. There are 97 gold coins here!"
-msgstr "Eu peguei. Tem 97 moedas de ouro aqui!"
+msgstr ""
 
 #. [objectives]
 #: Galuldur/scenarios/07_Northern_Route.cfg:451
@@ -215,61 +215,61 @@ msgstr "Eu peguei. Tem 97 moedas de ouro aqui!"
 #: Galuldur/scenarios/07_Northern_Route.cfg:479
 #, fuzzy
 msgid "(with a unit on Vaddan's side)"
-msgstr "(com uma unidade ao lado de Vaddan)"
+msgstr ""
 
 #. [else]
 #: Galuldur/scenarios/07_Northern_Route.cfg:470
 #, fuzzy
 msgid "You did not think that you could escape me that easily, did you?"
-msgstr "Você não achou que poderia escapar de mim tão facilmente, achou?"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:500
 #, fuzzy
 msgid "You did not think that you could escape us that easily, did you?"
-msgstr "Você não achou que poderia escapar de nós tão facilmente, achou?"
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:522
 #, fuzzy
 msgid "Oh, look who's here. Vaddan, I wouldn't have thought that you'd dare come back here after our last encounter. And look at the company you are keeping this time."
-msgstr "Oh, olha quem está aqui. Vadda, eu não não pensei que você ousaria vir aqui depois do nosso último encontro. E olha a companhia que você tem desta vez."
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:523
 #, fuzzy
 msgid "Hello, "
-msgstr "Olá, "
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/07_Northern_Route.cfg:524
 #, fuzzy
 msgid "Right. Or the world is going to end. Or what is it this time? Let's get him, chaps. Make him pay for last time."
-msgstr "Certo. Ou o mundo irá terminar. Ou o quê é desta vez? Vamos pega-lo, parças. Façam-no pagar pela última vez."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:545
 #, fuzzy
 msgid "What elf here? We them get!"
-msgstr "Que elfo aqui? Nós eles pegar!"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:565
 #, fuzzy
 msgid "Halt! Pay 1000 gold for pass."
-msgstr "Alto! Pague 1000 ouros para passar."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:566
 #, fuzzy
 msgid "1000 gold?! That's crazy, nobody has that much money."
-msgstr "1000 ouro?! Isso é loucura, ninguém tem tanto dinheiro."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:567
 #, fuzzy
 msgid "Harhar, you right. We take money, then club you. Or club you, then take money. We no care."
-msgstr "Harhar, você certo. Nós pegar dinheiro, então bater você. Ou bater você, então pegar dinheiro. Nós não importa."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:581
@@ -279,21 +279,18 @@ msgid ""
 "<i> </i>\n"
 "He roamed the lands, making friends and enemies in unusual places."
 msgstr ""
-"Aqui descansa Gertburt.\n"
-"<i> </i>\n"
-"Ele perambulou pelas terras, fazendo amigos e inimigos em lugares incomuns."
 
 #. [event]
 #: Galuldur/scenarios/07_Northern_Route.cfg:615
 #, fuzzy
 msgid "That was fun. Now on to Pindir Forest."
-msgstr "Isso foi divertido. Agora para a Floresta Pindir."
+msgstr ""
 
 #. [scenario]: id=08_Pindir_Forest
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:5
 #, fuzzy
 msgid "Pindir_Forest"
-msgstr "Floresta_Pindir"
+msgstr ""
 
 #. [side]: id=Orc_Leader_E, type=Orcish Sovereign
 #. [side]
@@ -327,14 +324,14 @@ msgstr "Floresta_Pindir"
 #: Galuldur/scenarios/10_Final_Battle.cfg:208
 #, fuzzy
 msgid "Orcs"
-msgstr "Orcs"
+msgstr ""
 
 #. [side]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:72
 #: Galuldur/scenarios/01_Decampment.cfg:70
 #, fuzzy
 msgid "Animals"
-msgstr "Animais"
+msgstr ""
 
 #. [side]: id=Galuldur, type=Elvish Fighter
 #. [side]
@@ -353,7 +350,7 @@ msgstr "Animais"
 #: Galuldur/scenarios/10_Final_Battle.cfg:31
 #, fuzzy
 msgid "Galuldur"
-msgstr "Galuldur"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:211
@@ -368,74 +365,74 @@ msgstr ""
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:472
 #, fuzzy
 msgid "Drive The Orcs Out Of Pindir Forest"
-msgstr "Expulse Os Orcs Da Floresta Pindir"
+msgstr ""
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:219
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:474
 #, fuzzy
 msgid "Defeat all enemy units (except for the wolves)"
-msgstr "Derrote todas as unidades inimigas (exceto os lobos)"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:237
 #, fuzzy
 msgid "Wow, look at that! Pindir Forest's in bad shape. The orcs have been all over the place, and not a single elf in sight. Looks like it is up to us to rid the forest of these pests."
-msgstr "Wow, olhe isso! A Floresta Pindir está em maus lençóis. Os orcs estão por toda parte, e nenhum único elfo a vista. Parece que é conosco para livrar a floresta dessas pragas."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:248
 #, fuzzy
 msgid "What the ... Did you see how these orcs are moving through the forest? Something dark is going on here."
-msgstr "Mas que ... Você viu como esses orcs estão se movendo pela floresta? Algo obscuro está acontecendo aqui."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:260
 #, fuzzy
 msgid "Master send $tmp_name. Bring gold."
-msgstr "Meste envia $tmp_name. Trazer ouro."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:261
 #, fuzzy
 msgid "Good. Elf big trouble."
-msgstr "Bom. Elfo grande problema."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:283
 #, fuzzy
 msgid "$tmp_name bring warrior. Squash elf. Camp here."
-msgstr "$tmp_name trazer guerreiro. Esmagar elfo. Acampar aqui."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:300
 #, fuzzy
 msgid "More of them! This is starting to get tedious."
-msgstr "Mais deles! Isso está começando a ficar tedioso."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:352
 #, fuzzy
 msgid "We made it. But what is this? What happened to Pindir Forest? And where are all our people? My father ..."
-msgstr "Nós conseguimos. Mas o que é isso? O que aconteceu com a Floresta Pindir? E onde estão todo o nosso povo? Meu pai ..."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:353
 #, fuzzy
 msgid "Welcome back. Not a pretty sight, is it?"
-msgstr "Bem-vindo de volta. Não é uma bela vista, é?"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:453
 #, fuzzy
 msgid "$str"
-msgstr "$str"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:454
 #, fuzzy
 msgid "Long story ... No time for that right now. We need to wipe out every one of these orcs before it's too late."
-msgstr "História longa ... Sem tempo para isso neste momento. Nós precisamos varrer cada um desses orcs antes que seja tarde demais."
+msgstr ""
 
 #. [objective]: condition=lose
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:478
@@ -451,31 +448,31 @@ msgstr "História longa ... Sem tempo para isso neste momento. Nós precisamos v
 #: Galuldur/utils/Galuldur_utils.cfg:808
 #, fuzzy
 msgid "Death of Galuldur"
-msgstr "Morte de Galuldur"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:516
 #, fuzzy
 msgid "Look at that. The elves made it this far, and that bandit is still with them."
-msgstr "Olhe aquilo. Os elfos conseguiram chegaram até aqui, e aquele bandido ainda está com eles."
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:517
 #, fuzzy
 msgid "I am really getting tired of these undead popping up all over the place!"
-msgstr "Eu estou realmente ficando cansado desses mortos-vivos aparecendo de todos os lugares!"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:541
 #, fuzzy
 msgid "Did you see that?! That wolf got converted to the Lich's side before it could even attack. These are evil powers indeed."
-msgstr "Você viu aqui?! Aquele lobo foi convertido para o lado do Lich antes que ele pudesse sequer atacar. Esses são poderes malígnos com certeza."
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:707
 #, fuzzy
 msgid "Well, that was that. But what now? This is horrible! How can Pindir Forest possibly survive this much damage?"
-msgstr "Bem, isso foi tudo. Mas e agora? Isso é horrível! Como a Floresta Pindir sobreviverá com todo esse dano?"
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:708
@@ -490,49 +487,49 @@ msgstr ""
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:741
 #, fuzzy
 msgid "Just then, the woman's voice is heard again:"
-msgstr "Só então, a voz da mulher é ouvida novamente:"
+msgstr ""
 
 #. [then]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:741
 #, fuzzy
 msgid "Kids! Time for dinner."
-msgstr "Crianças! Hora do jantar."
+msgstr ""
 
 #. [scenario]: id=05_Journey_Back
 #: Galuldur/scenarios/05_Journey_Back.cfg:5
 #, fuzzy
 msgid "Journey_Back"
-msgstr "Caminho_de_Volta"
+msgstr ""
 
 #. [side]: id=Saurian_Leader, type=Saurian Flanker
 #: Galuldur/scenarios/05_Journey_Back.cfg:37
 #, fuzzy
 msgid "Saurians"
-msgstr "Saurians"
+msgstr ""
 
 #. [side]
 #: Galuldur/scenarios/05_Journey_Back.cfg:100
 #, fuzzy
 msgid "Nagas"
-msgstr "Nagas"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:202
 #, fuzzy
 msgid "Torquink River"
-msgstr "Rio Torquink"
+msgstr ""
 
 #. [objectives]
 #: Galuldur/scenarios/05_Journey_Back.cfg:213
 #, fuzzy
 msgid "Rush Back To Pindir Forest"
-msgstr "Vá Depressa Para A Floresta Pindir"
+msgstr ""
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/05_Journey_Back.cfg:215
 #, fuzzy
 msgid "Move Galuldur across the Torquink River in the south-east"
-msgstr "Mova Galuldur ao outro lado do Rio Torquink no sudeste"
+msgstr ""
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:233
