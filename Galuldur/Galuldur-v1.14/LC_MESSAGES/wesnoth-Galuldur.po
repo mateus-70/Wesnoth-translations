@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-14 07:12 UTC\n"
-"PO-Revision-Date: 2021-05-15 03:36-0300\n"
+"PO-Revision-Date: 2021-06-17 04:18-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -94,7 +94,7 @@ msgstr "Norfindil"
 #: Galuldur/scenarios/06_Southern_Route.cfg:95
 #, fuzzy
 msgid "Random"
-msgstr ""
+msgstr "Aleatório"
 
 #. [side]
 #: Galuldur/scenarios/07_Northern_Route.cfg:95
@@ -102,13 +102,13 @@ msgstr ""
 #: Galuldur/scenarios/06_Southern_Route.cfg:62
 #, fuzzy
 msgid "Undead"
-msgstr ""
+msgstr "Mortos-vivos"
 
 #. [side]
 #: Galuldur/scenarios/07_Northern_Route.cfg:128
 #, fuzzy
 msgid "Bandits"
-msgstr ""
+msgstr "Bandidos"
 
 #. [side]
 #: Galuldur/scenarios/07_Northern_Route.cfg:170
@@ -133,7 +133,7 @@ msgstr "Eu acreditarei nisso quando nós chegarmos na Floresta Pindir. Você pod
 #: Galuldur/scenarios/07_Northern_Route.cfg:281
 #, fuzzy
 msgid "Whatever floats your boat. We nevertheless need to be careful, all kinds of creatures roam here."
-msgstr ""
+msgstr "Qualquer coisa que flutue teu barco. De qualquer forma nós precisamos ser cuidadosos, todos os tipos de criaturas perambulam por aqui."
 
 #. [objectives]
 #: Galuldur/scenarios/07_Northern_Route.cfg:285
@@ -361,7 +361,7 @@ msgstr "Galuldur"
 #: Galuldur/utils/Galuldur_utils.cfg:236
 #, fuzzy
 msgid "Pass of Hangarn"
-msgstr ""
+msgstr "Passagem de Hangarn"
 
 #. [objectives]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:217
@@ -485,6 +485,7 @@ msgid ""
 "<i> </i>\n"
 "I am turning my troops and my gold back over to you. You are in charge again."
 msgstr ""
+"Eu não sou um elfo, mas pelo que eu entendo, Pindir é muito mais nova que Ultwildir e portanto não são tão ... interconectadas. Ou algo assim. Ela tem uma chance muito melhor de se recuperar disso. Mas de qualquer jeito, nós primeiro precisamos terminar de expulsar os orcs ao sul — e ver se conseguimos encontrar sobreviventes do grupo do seu pai.\n"
 
 #. [then]
 #: Galuldur/scenarios/08_Pindir_Forest.cfg:741
@@ -538,49 +539,49 @@ msgstr "Mova Galuldur ao outro lado do Rio Torquink no sudeste"
 #: Galuldur/scenarios/05_Journey_Back.cfg:233
 #, fuzzy
 msgid "I am grateful for your help, Galuldur. The south-eastern orc army has been defeated. You need to hurry back to your father, but I cannot come with you yet. There remain many things to clean up. Scattered orcs and their allies need to be hunted down or driven away before they can regroup. Most importantly, I need to see to the healing of Ultwildir. It is already starting to grow back, but I am still needed here for some time."
-msgstr ""
+msgstr "Eu sou grato pela sua ajuda, Galuldur. O exército orc a sudeste foi derrotado. Você precisa se apressar em retornar para o seu pai, mas eu não posso ir com você ainda. Há muitas coisas para fazer. Orcs espalhados e seus aliados precisam ser caçados ou expulsos antes que reagrupem. E mais importante, eu preciso ver a recuperação de Ultwildir. Ela já está começando a crescer novamente, mas eu ainda preciso ficar aqui por algum tempo."
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:234
 #, fuzzy
 msgid "The route south and then east along the coast should now be reasonably safe. With the orcs weakened, all kinds of weaker creatures are starting to converge on the area, but none of them should be a real threat to your experienced fighters. Just proceed carefully and as a group. You are not likely to encounter any real opposition until you get close to Adlewys Passage. Go now, before it is too late."
-msgstr ""
+msgstr "A rota ao sul e depois ao leste pela costa deve estar rasoavelmente segura agora. Com os orcs enfraquecidos, todos os tipos de criaturas mais fracas devem estar começando a se agruparem no local, mas nenhuma delas deve ser uma grande ameaça para os seus soldados experientes. Apenas proceda cuidadosamente e como um grupo. Você provavelmente não encontrará nenhuma oposição significativa até chegar próximo da Passagem de Adlewys. Agora vá, antes que seja tarde demais."
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:249
 #, fuzzy
 msgid "Elf? Why elf come?"
-msgstr ""
+msgstr "Elfo? Porque veio elfo?"
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:252
 #, fuzzy
 msgid "What's all that commotion about over there? Better set up camp here."
-msgstr ""
+msgstr "O que é todo aquele alvoroço logo ali? Melhor acampar aqui."
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:266
 #, fuzzy
 msgid "Maybe there is something to be gained here."
-msgstr ""
+msgstr "Talvez haja algo a ser ganhado aqui."
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:279
 #, fuzzy
 msgid "Elf come ... over there. Bad news true!"
-msgstr ""
+msgstr "Veio elfo ... lá. Mal noticia verdade!"
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:297
 #, fuzzy
 msgid "Halt! It will cost you 50 gold to cross this pass."
-msgstr ""
+msgstr "Alto! Custa 50 ouros para atravessar essa passagem."
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:298
 #, fuzzy
 msgid "Oh, come on! We don't have time for this. Just take them out."
-msgstr ""
+msgstr "Oh, vamos lá! Não temos tempo para isso. Apenas se livrem deles."
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:316
@@ -588,13 +589,13 @@ msgstr ""
 #: Galuldur/scenarios/06_Southern_Route.cfg:369
 #, fuzzy
 msgid "Surprise — again!"
-msgstr ""
+msgstr "Surpresa — de novo!"
 
 #. [event]
 #: Galuldur/scenarios/05_Journey_Back.cfg:347
 #, fuzzy
 msgid "Finally! Now let's see how everybody back home is doing."
-msgstr ""
+msgstr "Finalmente! Agora vamos ver como estão indo o pessoal de casa."
 
 #. [scenario]: id=02_The_High_Plains
 #: Galuldur/scenarios/02_The_High_Plains.cfg:5
@@ -607,68 +608,68 @@ msgstr ""
 #: Galuldur/scenarios/02_The_High_Plains.cfg:568
 #, fuzzy
 msgid "Cross The High Plains"
-msgstr ""
+msgstr "Atravessar As Planícies Altas"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/02_The_High_Plains.cfg:157
 #: Galuldur/scenarios/02_The_High_Plains.cfg:570
 #, fuzzy
 msgid "Move Galuldur to Pleasant Passage in the southwest"
-msgstr ""
+msgstr "Mova Galuldur para a Passagem Agradável a sudoeste"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:179
 #, fuzzy
 msgid "So this is the Pass of Hangarn. But now what? Where is this Norfindil?"
-msgstr ""
+msgstr "Então esta é a Passagem de Hangarn. Mas o que agora? Onde está esse Norfindil?"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:190
 #, fuzzy
 msgid "I'm right here. And you have made it too, I see. Not bad for a bunch of youngsters. You better hire yourself a few more elves though, these parts are a bit more dangerous than cozy Pindir Forest."
-msgstr ""
+msgstr "Eu estou bem aqui. E você conseguiu chegar também, pelo que vejo. Nada mal para um punhado de jovens. Embora seja melhor você recrutar mais alguns elfos, essas partes são um pouco mais perigosas do que a aconchegante Floresta Pindir."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:191
 #, fuzzy
 msgid "Where would I find elves in this barren land? I thought all elves live in the forests."
-msgstr ""
+msgstr "Onde eu encontrarei elfos nesta terra árida? Eu pensava que elfos só viviam em florestas."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:192
 #, fuzzy
 msgid "That's what our glorious leaders want you to believe, but there are elves almost anywhere. Not many, mind you, but if all you need is a few mercenaries, you can always find some."
-msgstr ""
+msgstr "Isso é o que nossos gloriosos líderes querem que você acredite, mas há elfos em quase todo lugar. Não muitos, veja, mas se tudo o que você precisa são alguns poucos mercenários, você sempre consegue achar."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:193
 #, fuzzy
 msgid "Hmm, alright. And then what? Which way do we take across the plains? You said you could guide us."
-msgstr ""
+msgstr "Hmm, certo. E o que mais? Qual caminho nós pegaremos para cruzar as planícies? Você disse que conseguiria nos guiar."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:194
 #, fuzzy
 msgid "I never said such a thing, that was you. I do know the way to Ultwildir, but by the coastal route down in the south. Up here, I only know the parts east of the river."
-msgstr ""
+msgstr "Eu nunca disse tal coisa, isso foi você. Eu de fato conheço o caminho para Ultwildir, mas pela rota costeira abaixo no sul. Aqui, eu só conheço a parte a leste do rio."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:201
 #, fuzzy
 msgid "The High Plains used to be part of a busy trade route many centuries ago. You can still see some remains of that time, but since the fall of the old kingdoms, the plains have fallen into disarray and all sorts of foul creatures roam here. Until all the orc commotions started recently, it was safer to take the longer route along the coast."
-msgstr ""
+msgstr "As Planícies Altas costumavam ser parte de uma rota de comércio muitos séculos atrás. Você ainda pode encontrar alguns restos daqueles tempos, mas desde a queda dos velhos reinados, as planícis caíram em desordem e toda sorte de criaturas desagradáveis perambulam aqui. Até os recentes dirtúrbios orcs que começaram recentemente, era mais seguro pegar a rota mais longa pela costa."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:203
 #, fuzzy
 msgid "During your little quarrel with the Hangarn orcs, I did some scouting in the southeast. There are two large orc camps down there, right by Adlewys Passage. I strongly suggest that you avoid those. They will probably stay put as long as you don't get too close. They do not expect anybody coming from the north other than the occasional ogre or troll."
-msgstr ""
+msgstr "Durante sua pequena peleja com os orcs de Hangarn, eu bati um pouco do território a sudeste. Há dois grandes campos lá abaixo, bem na Passagem de Adlewys. Eu recomendo fortemente que você evite aqueles. Eles provavelmente não reagirão enquanto você não chegar muito perto. Eles não esperam nada vindo do norte, exceto ocasionais ogros ou trolls."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:204
 #, fuzzy
 msgid "The plateau is surrounded by impassable mountains on all sides except in the south. The river can only be crossed in a few spots and I do not know what lies on the other side, but it cannot be much worse than those south-eastern orc camps. I suggest that you try your luck in the west and somehow make your way to the not-so-aptly named Pleasant Passage."
-msgstr ""
+msgstr "O planalto é cercado por montanhas impassáveis por todos os lados exceto ao sul. O rio só pode ser atravessado em poucos lugares e eu não sei o que aguarda do outro lado, mas não pode ser muito pior do que aqueles orcs a sudeste. Eu realmente sugiro que vocẽ tente a sorte no oeste e de algum jeito faça seu caminho pelo não tão corretamente nomeada, Passagem Agradável."
 
 #. [unit]: type=Bandit, id=Wurmad
 #: Galuldur/scenarios/02_The_High_Plains.cfg:243
@@ -680,189 +681,189 @@ msgstr ""
 #: Galuldur/scenarios/02_The_High_Plains.cfg:250
 #, fuzzy
 msgid "Put down your weapons and give me all your gold."
-msgstr ""
+msgstr "Abaixe suas armas e me deem todo seu ouro."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:270
 #, fuzzy
 msgid "What ... what is going on here? Where did they come from?"
-msgstr ""
+msgstr "O quê ... o que está acontecendo aqui? De onde eles vieram?"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:273
 #, fuzzy
 msgid "Just an old-fashioned hold-up. Now give me all your gold."
-msgstr ""
+msgstr "Só um assalto ao velho estilo. Agora me dê todo o seu ouro."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:274
 #, fuzzy
 msgid "You cannot do that. If we do not complete our mission, all elves in these parts will die."
-msgstr ""
+msgstr "Você não pode fazer isso. Se nós não completarmos nossa missão, todos os elfos nesta região morrerão."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:275
 #, fuzzy
 msgid "What do I care about elves? Wurmad, take whatever they have and let's get out of here."
-msgstr ""
+msgstr "Que me importam os elfos? Wurmad, pegue tudo o que eles têm e vamos dar o fora daqui."
 
 #. [then]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:284
 #, fuzzy
 msgid "He has "
-msgstr ""
+msgstr "Ele tem "
 
 #. [else]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:288
 #, fuzzy
 msgid "He has no gold. But I found this."
-msgstr ""
+msgstr "Ele não tem ouro. Mas eu encontrei isto."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:292
 #, fuzzy
 msgid "No!! You cannot take that letter!"
-msgstr ""
+msgstr "Não!! Você não pode levar aquela carta!"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:293
 #, fuzzy
 msgid "Whatever it is, let's take it and get out of here!"
-msgstr ""
+msgstr "O que quer que seja, pegue e vamos dar o fora daqui!"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:313
 #, fuzzy
 msgid "I will not be able to convince Elralith to join us without that letter. We have to go after them and get it back. It looks like they went to the western side of the river."
-msgstr ""
+msgstr "Eu não serei apto a convencer Elralith a se juntar a nos sem aquela carta. Nós temos que caçá-lo e pegar ela de volta. Parece que eles foram para o lado oeste do rio."
 
 #. [objectives]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:316
 #, fuzzy
 msgid "Get The Letter Back"
-msgstr ""
+msgstr "Pegue A Carta De Volta"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/02_The_High_Plains.cfg:318
 #, fuzzy
 msgid "Defeat Vaddan"
-msgstr ""
+msgstr "Derrote Vaddan"
 
 #. [then]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:353
 #, fuzzy
 msgid "Don't kill me! Here is your letter back."
-msgstr ""
+msgstr "Não me mate! Aqui está sua carta de volta."
 
 #. [then]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:354
 #, fuzzy
 msgid "Tell me one good reason why I should not kill you."
-msgstr ""
+msgstr "Diga-me um bom motivo porquê eu não deva te matar."
 
 #. [else]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:358
 #, fuzzy
 msgid "Don't let them kill me! I'll give you your letter back."
-msgstr ""
+msgstr "Não deixe eles me matarem! Eu te darei sua carta de volta."
 
 #. [else]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:359
 #, fuzzy
 msgid "Tell me one good reason why I should protect you."
-msgstr ""
+msgstr "Diga-me um bom motivo porquê eu deva proteger você."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:363
 #, fuzzy
 msgid "Well, for starters, I know the High Plains very well and can show you the best way out of here. And it looks like you could use another experienced fighter."
-msgstr ""
+msgstr "Bom, para início de conversa, eu conheço as Planícies Altas muito bem e eu posso te mostrar o melhor caminho para fora daqui. E parece que você poderia usar outro soltado experiênte."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:364
 #, fuzzy
 msgid "Don't trust him. He will jump at the first chance he gets to betray you."
-msgstr ""
+msgstr "Não acredite nele. Ele vai cair fora na primeira change que tiver para te trair."
 
 #. [option]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:372
 #: Galuldur/scenarios/02_The_High_Plains.cfg:374
 #, fuzzy
 msgid "I do not trust him, he must die."
-msgstr ""
+msgstr "Eu não acredito nele, ele deve morrer."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:380
 #, fuzzy
 msgid "Hah! You cannot get rid of me this easily. You have not seen the last of me yet!"
-msgstr ""
+msgstr "Hah! Você não pode se livrar de mim tão facilmente. Você ainda não viu meu final ainda!"
 
 #. [then]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:417
 #, fuzzy
 msgid "Where did they all go? Well, it doesn't matter. At least I have my letter back. It also looks like he dropped some gold and a map of the plains. Now let's get going.."
-msgstr ""
+msgstr "Onde todos eles foram? Bom, isso não importa. Pelo menos eu tenho minha carta de volta. E também parece que ele derrubou algum ouro e um mapa das planícies. Agora vamos indo.."
 
 #. [else]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:421
 #, fuzzy
 msgid "Where did he go? Well, it doesn't matter. At least I have my letter back. It also looks like he dropped some gold and a map of the plains. Now let's get going."
-msgstr ""
+msgstr "Onde todos ele foi? Bom, isso não importa. Pelo menos eu tenho minha carta de volta. E também parece que ele derrubou algum ouro e um mapa das planícies. Agora vamos indo.."
 
 #. [option]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:463
 #: Galuldur/scenarios/02_The_High_Plains.cfg:465
 #, fuzzy
 msgid "No, he is right. We need another fighter and could use his knowledge of the plains."
-msgstr ""
+msgstr "Não, ele está certo. Nós precisamos de outro lutador e podemos usar seu conhecimento das planícies."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:488
 #, fuzzy
 msgid "You won't regret this."
-msgstr ""
+msgstr "Você não vai se arrepender disso."
 
 #. [then]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:499
 #, fuzzy
 msgid "First, here is half of your gold back. I spent the other half, sorry."
-msgstr ""
+msgstr "Primeiro, aqui está metade do teu ouro de volta. Eu gastei a outra metade, desculpe."
 
 #. [else]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:509
 #, fuzzy
 msgid "First, here are 26 pieces of gold. That is all I have left."
-msgstr ""
+msgstr "Primeiro, aqui estão 26 peças de ouro. Isso é tudo o que me restou."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:521
 #, fuzzy
 msgid "Also, here is a map of the area."
-msgstr ""
+msgstr "Além disso, aqui está um mapa da área."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:530
 #, fuzzy
 msgid "There are three ways to get to Pleasant Passage. The first is to go east of the river all the way to the south. It has the easiest terrain but there are two very strong orc camps down there. I doubt that you will be able to defeat them, but even if you do, it would come with heavy losses."
-msgstr ""
+msgstr "Há três maneiras de chegar à Passagem Agradável. A primeira é ir a leste do rio sempre ao sul. É o terreno mais fácil mas há dois acampamentos orc lá. Eu duvido que você será capaz de derrotá-los, mas mesmo que consiga, ela virá com grandes perdas."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:531
 #, fuzzy
 msgid "At least we agree on that one ..."
-msgstr ""
+msgstr "Pelos menos nós concordamos nisso ..."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:532
 #, fuzzy
 msgid "The second is to go straight south from my camp and then head a little west to a mountain pass. It is the shortest route, but there is usually a strong troll contingent hanging out there."
-msgstr ""
+msgstr "A segunda é ir reto ao sul do meu acampamento e então ir um pouco a oeste para uma passagem na montanha. É a rota mais curta, mas normalmente há um forte contingente troll aparecendo lá."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:533
 #, fuzzy
 msgid "There is a third route by a hidden valley between two enormous mountain ranges in the west. It's a bit tedious to get into on either side and might take some time, but if you make it, the valley itself is easy going and you will likely find little opposition."
-msgstr ""
+msgstr "Há uma terceira rota por um vale escondido entre duas montanhas enormes no oeste. É um pouco tediosa de entrar em cada lado e pode levar um tempo, mas se você entrar, o vale em si é fácil de andar e você provavelmente não encontrará oposição."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:534
