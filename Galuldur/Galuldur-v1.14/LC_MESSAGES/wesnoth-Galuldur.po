@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-14 07:12 UTC\n"
-"PO-Revision-Date: 2021-06-17 04:18-0300\n"
+"PO-Revision-Date: 2021-06-23 04:21-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -14,13 +14,13 @@ msgstr ""
 #: Galuldur/units/Invisible_Unit.cfg:6
 #, fuzzy
 msgid "dummy_unit^Invisible Unit"
-msgstr ""
+msgstr "Unidade Invisível"
 
 #. [leadership]: id=terror
 #: Galuldur/units/Goblin_Mage.cfg:8
 #, fuzzy
 msgid "terror"
-msgstr ""
+msgstr "terror"
 
 #. [leadership]: id=terror
 #: Galuldur/units/Goblin_Mage.cfg:9
@@ -30,37 +30,40 @@ msgid ""
 "\n"
 "Adjacent enemy units of lower level will do less damage in battle. When an enemy unit of lower level is adjacent and engages in combat, its attacks do 15% less damage times the difference in their levels."
 msgstr ""
+"Esta unidade pode amedrontar unidades inimigas próximas, fazendo elas lutarem pior.\n"
+"\n"
+"Unidades inimigas adjacentes de nível mais baixo causarão menos dano em batalha. Quando uma unidade de nível mais baixo está adjacente e se engaja em combate, seu ataque causa 15% menos dano vezes a diferença entre seus níveis."
 
 #. [unit_type]: id=Goblin Mage, race=goblin
 #: Galuldur/units/Goblin_Mage.cfg:76
 #, fuzzy
 msgid "Goblin Mage"
-msgstr ""
+msgstr "Mago Góblin"
 
 #. [unit_type]: id=Goblin Mage, race=goblin
 #: Galuldur/units/Goblin_Mage.cfg:87
 #, fuzzy
 msgid "The Chief started as a simple goblin impaler, but soon discovered his talent for magic. In addition to a significant increase of his power, mobility and resistances, he also managed to replace the traditional goblin spear by something that has the appearance of a spear, but really is a magical weapon that can be ''thrown'' several times. As a result, he is a formidable foe and leader in spite of his frail appearance."
-msgstr ""
+msgstr "O Chefe começou como um simples góblin empalador, mas cedo descobriu seu talento para magia. Além de um aumento significativo do seu poder, mobilidade e resistências, ele também ele também conseguiu substituir a tradicional lança góblin por algo que tem a aparência de uma lança, mas é na verdade uma arma mágica que pode ser ''lançada'' várias vezes. Como resultado, ele é um formidável inimigo e líder apesar se sua aparência frágil."
 
 #. [unit_type]: id=Goblin Mage, race=goblin
 #: Galuldur/units/Goblin_Mage.cfg:87
 #, fuzzy
 msgid " The terror ability of this unit makes adjacent enemy units deal less damage in combat, though this only applies to units of lower level."
-msgstr ""
+msgstr "A habilidade terror desta unidade faz unidades inimigas adjacentes causarem menos dano em combate, embora isso só se aplique a unidades de nível inferior."
 
 #. [attack]: type=arcane
 #: Galuldur/units/Goblin_Mage.cfg:122
 #: Galuldur/units/Goblin_Mage.cfg:134
 #, fuzzy
 msgid "magical spear"
-msgstr ""
+msgstr "lança mágica"
 
 #. [scenario]: id=07_Northern_Route
 #: Galuldur/scenarios/07_Northern_Route.cfg:5
 #, fuzzy
 msgid "Northern_Route"
-msgstr ""
+msgstr "Northern_Route"
 
 #. [side]: id=Vaddan, type=Peasant # just to make wmllint happy
 #. [side]
@@ -601,7 +604,7 @@ msgstr "Finalmente! Agora vamos ver como estão indo o pessoal de casa."
 #: Galuldur/scenarios/02_The_High_Plains.cfg:5
 #, fuzzy
 msgid "High_Plains"
-msgstr ""
+msgstr "High_Plains"
 
 #. [objectives]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:155
@@ -675,7 +678,7 @@ msgstr "O planalto é cercado por montanhas impassáveis por todos os lados exce
 #: Galuldur/scenarios/02_The_High_Plains.cfg:243
 #, fuzzy
 msgid "Wurmad"
-msgstr ""
+msgstr "Wurmad"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:250
@@ -869,74 +872,74 @@ msgstr "Há uma terceira rota por um vale escondido entre duas montanhas enormes
 #: Galuldur/scenarios/02_The_High_Plains.cfg:534
 #, fuzzy
 msgid "The southern end is also guarded by trolls, but there are much fewer there than at the other pass. Also, this route will get you out of the mountains very close to the orcs by Pleasant Passage. I doubt that they are aware of this, so you might be able to take them by surprise. The south-western orc outpost is not very strong, they rely mostly on the two south-eastern camps."
-msgstr ""
+msgstr "A rota ao sul também é vigiada pelos trolls, mas em menor quantidade do que na outra passagem. Além disso, esta rota irá levar você para fora das montanhas num local muito próximo aos orcs da Passagem Agradável. Eu duvido que eles estejam ciente disso, então você pode ser capaz de pegá-los de surpresa. O posto avançado sudoeste não é muito forte, eles dependem mais dos dois acampamentos a sudeste."
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:535
 #, fuzzy
 msgid "That all sounds reasonable enough, but remember, I'll be watching you. So what about your men? Are there any more up here in the plains that would come with us?"
-msgstr ""
+msgstr "Tudo isso soa suficientemente razoável, mas lembre-se, eu estarei vigiando você. E os seus homens? Tem mais alguém aqui que viria conosco?"
 
 #. [command]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:536
 #, fuzzy
 msgid "I doubt that anybody will be joining you, they don't exactly like elves all that much."
-msgstr ""
+msgstr "Eu duvido que alguém vá se juntar a ti, eles não gostam muito de elfos."
 
 #. [then]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:549
 #, fuzzy
 msgid "Vaddan will be hidden under your protection for the rest of the turn. He will join your side at the beginning of the next turn."
-msgstr ""
+msgstr "Vaddan ficará escondido sob sua proteção pelo resto do turno. Ele se juntará ao seu lado no começo do próximo turno."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:619
 #, fuzzy
 msgid "Wow, that was a lot of work! But we made it."
-msgstr ""
+msgstr "Wow, isso foi um bocado de trabalho! Mas nós conseguimos."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:658
 #, fuzzy
 msgid "Someone come! Over there!"
-msgstr ""
+msgstr "Alguém veio! Lá!"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:659
 #, fuzzy
 msgid "What? How that? $sentinel_name say no way."
-msgstr ""
+msgstr "O quê? Como assim? $sentinel_name diz impossível"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:660
 #, fuzzy
 msgid "$sentinel_name no ..."
-msgstr ""
+msgstr "$sentinel_name não ..."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:661
 #, fuzzy
 msgid "$leader_name punish $sentinel_name other day! Now go. Tell Chief."
-msgstr ""
+msgstr "$leader_name punish $sentinel_name otro dia! Ir agora. Dizer Chefe."
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:687
 #, fuzzy
 msgid "Elves come over there! Attack!"
-msgstr ""
+msgstr "Elfos vieram lá! Atacar!"
 
 #. [event]
 #: Galuldur/scenarios/02_The_High_Plains.cfg:708
 #: Galuldur/scenarios/02_The_High_Plains.cfg:726
 #, fuzzy
 msgid "Surprise!"
-msgstr ""
+msgstr "Surpresa!"
 
 #. [scenario]: id=03_Eldryanic_Swamps
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:5
 #, fuzzy
 msgid "Eldryanic_Swamps"
-msgstr ""
+msgstr "Eldryanic_Swamps"
 
 #. [event]
 #. [scenario]: id=04_Ultwildir
@@ -945,25 +948,25 @@ msgstr ""
 #: Galuldur/scenarios/04_Ultwildir.cfg:5
 #, fuzzy
 msgid "Ultwildir"
-msgstr ""
+msgstr "Ultwildir"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:177
 #, fuzzy
 msgid "Finally, some open terrain and no fog. I can actually see what is going on. But what is all of this? And what's that smell!"
-msgstr ""
+msgstr "Finalmente, algum terreno aberto e sem neblina. Na verdade eu posso ver o que está rolando. Mas o que é tudo isso? E que cheiro é esse!?"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:178
 #, fuzzy
 msgid "I told you that 'Pleasant Passage' is a bit of a misnomer. This is the Eldryanic River delta, creating the Eldryanic Swamps. It looks like there has been enough orc traffic recently that they actually left a trail through the swamps. That's quite amazing."
-msgstr ""
+msgstr "Eu disse que 'Passagem Agradável' é um nome um tanto impróprio. Este é o Eldryanic River delta, criando o Pântano Eldryanic. Parece que houve tráfego orc o suficiente para deixarem uma trilha pelos pântanos. Isso é bem surpreendente."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:179
 #, fuzzy
 msgid "And what are those ... lizards over there?"
-msgstr ""
+msgstr "E o que são aqueles ... lagartos bem ali?"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:180
@@ -975,115 +978,115 @@ msgstr ""
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:181
 #, fuzzy
 msgid "I still need to find Elralith, but there is no use asking him for help with all those orcs besieging him. If we want anything from him, we need to help him first."
-msgstr ""
+msgstr "Eu ainda preciso encontrar Elralith, mas é inútil pedir ajuda dele agora com todos esses orcs sitiando ele. Se quisermos algo dele, precisaremos ajudá-lo primeiro."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:182
 #, fuzzy
 msgid "Look! Little elf over there. Squash elf. Burn tree!"
-msgstr ""
+msgstr "Olha! Pequeno elfo lá. Esmagar elfo. Queimar árvore!"
 
 #. [objectives]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:185
 #, fuzzy
 msgid "Aid Elralith By Getting Rid Of The Enemies"
-msgstr ""
+msgstr "Ajude Elralith Livrando-se Dos Inimigos"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:187
 #, fuzzy
 msgid "Defeat all enemy leaders, then move Galuldur to Ultwildir"
-msgstr ""
+msgstr "Derrote todos os lideres inimigos, depois mova Galuldur para Ultwildir"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:266
 #, fuzzy
 msgid "What the hell was that?!"
-msgstr ""
+msgstr "Que raio foi aquilo?!"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:323
 #, fuzzy
 msgid "What go on? Why battle here, not forest?"
-msgstr ""
+msgstr "Que passa? Porque batalhar aqui, não floresta?"
 
 #. [then]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:336
 #, fuzzy
 msgid "Kill elf here first. Elf big trouble."
-msgstr ""
+msgstr "Matar elfo aqui primeiro. Elfo grande problema."
 
 #. [then]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:337
 #, fuzzy
 msgid "Hurry. Chief need tree burn. $new_leader_name camp here, help $old_leader_name. $old_leader_name too stupid do self. And take gold. Maybe then $old_leader_name squash elf."
-msgstr ""
+msgstr "Pressa. Chefe precisa árvore queima. $new_leader_name acampar aqui, ajudar $old_leader_name. $old_leader_name muito estúpido só. E pegar ouro. Pode ser $old_leader_name esmagar elfo daí."
 
 #. [else]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:349
 #, fuzzy
 msgid "$new_leader_name always need do self."
-msgstr ""
+msgstr "$new_leader_name sempre precisa fazer sozinho."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:370
 #, fuzzy
 msgid "$new_leader_name ready kill elf."
-msgstr ""
+msgstr "$new_leader_name preparado matar elfo."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:398
 #, fuzzy
 msgid "What is this? Elves helping us in our battle? Who are you, friends?"
-msgstr ""
+msgstr "O que é isto? Elfos ajudando-nos em nossa batalha? Quem são vocês, amigos?"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:399
 #, fuzzy
 msgid "I am Galuldur of Pindir Forest. Galur, my father, sends me. I need to talk to Elralith."
-msgstr ""
+msgstr "Eu sou Galuldur da Floresta Pindir. Galur, meu pai, me enviou. Eu preciso falar com Elralith."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:400
 #, fuzzy
 msgid "Oh, Galur's people ... Yes, I have heard about you. Well, welcome anyway, we can certainly use all the help we can get. As for talking to Elralith, we are a little busy at the moment, but if you help us defeat these enemies, I will bring you to him. Unfortunately, we are only a small detachment, our main force is engaged farther north."
-msgstr ""
+msgstr "Oh, povo de Galur ... Sim, eu ouvi sobre vocês. Certo, bem-vindos de qualquer forma, nós com certeza podemos usar toda a ajuda que conseguirmos obter. Agora sobre falar com Elralith, nós estamos um pouco ocupados agora, mas se você nos ajudar a derrotar esses inimigos, eu te levarei a ele. Infelizmente, nós somos apenas um pequeno destacamento, nossa força principal está engajada muito a norte."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:401
 #, fuzzy
 msgid "What does he mean: ''anyway''?"
-msgstr ""
+msgstr "O que ele quis dizer com: ''de qualquer forma''?"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:402
 #, fuzzy
 msgid "Indeed. We were doing that already, so let's get on with it."
-msgstr ""
+msgstr "Com certeza. Nós já estávamos fazendo isso, então vamos dar continuidade."
 
 #. [then]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:451
 #, fuzzy
 msgid "That was the last of them. Now let's talk to Elralith."
-msgstr ""
+msgstr "Aquele foi o último deles. Agora vamos falar com Elralith."
 
 #. [objectives]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:454
 #, fuzzy
 msgid "Find Elralith"
-msgstr ""
+msgstr "Encontre Elralith"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:456
 #, fuzzy
 msgid "Move Galuldur to one of the Ultwildir forest hexes"
-msgstr ""
+msgstr "Mova Galuldur a um dos hexas da floresta Ultwildir"
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:487
 #, fuzzy
 msgid "Ultwildir! It's magnificent. It's so ... old! So many big trees ..."
-msgstr ""
+msgstr "Ultwildir! É magnificente. É tão ... velha! Tantas árvores grandes ..."
 
 #. [event]
 #: Galuldur/scenarios/03_Eldryanic_Swamps.cfg:488
@@ -1101,46 +1104,46 @@ msgstr ""
 #: Galuldur/scenarios/01_Decampment.cfg:89
 #, fuzzy
 msgid "It all began when a woman's voice could be heard:"
-msgstr ""
+msgstr "Tudo começou quado a voz de uma mulher pode ser ouvida:"
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:89
 #, fuzzy
 msgid "Alright, Galuldur, great hero of Pindir Forest. Once you finish your milk, you can go outside and play with your friends. And make sure to put on your vest, it is chilly out there today. No buts ..."
-msgstr ""
+msgstr "Certo, Galuldur, grande herói da Floresta Pindir. Quando você terminar seu leite, você poderá ir lá fora brincar com seus amigos. E tenha certeza de colocar sua veste, está frio lá fora hoje. Sem mas ..."
 
 #. [objectives]
 #: Galuldur/scenarios/01_Decampment.cfg:92
 #: Galuldur/scenarios/01_Decampment.cfg:208
 #, fuzzy
 msgid "Get Going On The Journey Toward Ultwildir"
-msgstr ""
+msgstr "Vá Em Frente Na Jornada Em Direção a Ultwildir"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/01_Decampment.cfg:94
 #, fuzzy
 msgid "Find Norfindil, then move Galuldur to the Pass of Hangarn"
-msgstr ""
+msgstr "Encontre Norfindil, então mova Galuldur à Passagem de Hangarn"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/01_Decampment.cfg:98
 #: Galuldur/scenarios/01_Decampment.cfg:214
 #, fuzzy
 msgid "Bonus: Defeat the orc leader"
-msgstr ""
+msgstr "Bônus: Derrote o líder orc"
 
 #. [note]
 #: Galuldur/scenarios/01_Decampment.cfg:111
 #: Galuldur/scenarios/01_Decampment.cfg:227
 #, fuzzy
 msgid "No bonus is received if an animal kills the orc leader."
-msgstr ""
+msgstr "Não receberá bônus caso um animal mate o líder orc."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:119
 #, fuzzy
 msgid "Galuldur, my scouts just told me that a large band of southern orcs is on its way to Pindir Forest, and the southwestern orcs appear to be moving north as well. I fear that they have set aside their differences and are planning to take over the lands of the Northmen. Unfortunately, we are in their way. As is Ultwildir. If we do not do something quickly, we will all perish."
-msgstr ""
+msgstr "Galuldur, meus exploradores acabaram de me dizer que um grande grupo de orcs do sul estão a caminho da Floresta Pindir, e os orcs do sudoeste parecem estar se movendo para o norte também. Eu temo que eles tenham colocado suas diferenças de lado e estão planejando tomar as terras dos homens do Norte. Infelizmente, nós estamos no caminho deles. Bem como Ultwildir. Se não fizermos algo rapidamente, nós todos morreremos."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:120
@@ -1152,26 +1155,26 @@ msgstr ""
 #: Galuldur/scenarios/01_Decampment.cfg:121
 #, fuzzy
 msgid "But why me? I have barely just figured out how to hold my sword. I don't know the way. And why would Elralith believe me anyway?"
-msgstr ""
+msgstr "Por que eu? Eu mal descobri como segurar minha espada. Eu não sei o caminho. E de qualquer foram, por que Elralith iria acreditar em mim?"
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:122
 #, fuzzy
 msgid "This is precisely why it is you who must go. I need all our experienced fighters to hold off the orcs for as long as possible, and by sending my son, Elralith will know that I am serious. I will give you this letter which you must hand to Elralith personally. He will believe you when he reads what I have written. The Ultwildir elves don't like me very much because I am too ... untraditional, but Elralith still values my opinion and experience. Why else would he send a messenger to ''see how we are doing in these new woods'' every season? And besides, he must be aware of the orcish troop movements by now."
-msgstr ""
+msgstr "Isto é precisamente o porquê de ser você quem deve ir. Eu preciso de todos os nossos soldados experientes para segurar os orcs tanto quanto possível, e enviando meu filho, Elralith saberá que eu estou falando sério. Eu te darei esta carta que você deve entregar a Elralith pessoalmente. Ele acreditará em você quando ele ler o que eu escrevi. Os elfos de Ultwildir não gostam muito de mim porque eu sou muito ... não tradicional, mas Elralith ainda valoriza minha opinião e experiência. Por que mais ele iria enviar um mensageiro para ''ver como estão indo nessas nova floresta'' toda temporada? E além do mais, ele deve estar ciente das movimentações das tropas orcs agora."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:123
 #: Galuldur/scenarios/01_Decampment.cfg:188
 #, fuzzy
 msgid "But ..."
-msgstr ""
+msgstr "Mas ..."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:124
 #, fuzzy
 msgid "No buts. You must go. Quickly. I can only give you a few pieces of gold and two young companions, we need everybody else in our stand against the orcs. Go to the camp in the north and recruit yourself a few more warriors."
-msgstr ""
+msgstr "Sem mas. Você deve ir. Rápido. Eu só posso te dar algumas peças de ouro e dois jovens companheiros, nós precisamos de todos os outros para enfrentarmos os orcs. Vá ao acampamento no norte e recrute mais alguns guerreiros."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:135
