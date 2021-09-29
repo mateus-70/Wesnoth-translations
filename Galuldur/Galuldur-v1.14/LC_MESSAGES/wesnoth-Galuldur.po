@@ -1252,25 +1252,25 @@ msgstr ""
 #: Galuldur/scenarios/01_Decampment.cfg:189
 #, fuzzy
 msgid "You do know the way to the pass, don't you?"
-msgstr ""
+msgstr "Você conhece o jeito de chegar na passagem, não é?"
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:190
 #, fuzzy
 msgid "Yes, but ..."
-msgstr ""
+msgstr "Sim, mas ..."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:191
 #, fuzzy
 msgid "Good then, off I go."
-msgstr ""
+msgstr "Maravilha, então eu vou indo."
 
 #. [event]
 #: Galuldur/scenarios/01_Decampment.cfg:204
 #, fuzzy
 msgid "Is anybody actually going to listen to me today?!"
-msgstr ""
+msgstr "Alguém vai me ouvir hoje?!"
 
 #. [objective]: condition=win
 #: Galuldur/scenarios/01_Decampment.cfg:210
