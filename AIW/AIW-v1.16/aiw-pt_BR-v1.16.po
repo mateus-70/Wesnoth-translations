@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-28 14:03+0900\n"
-"PO-Revision-Date: 2022-11-28 20:03-0300\n"
+"PO-Revision-Date: 2022-11-28 23:57-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -4295,19 +4295,16 @@ msgstr "Um soldado da guerra anterior, $eptmp.name uniu-se!"
 
 #. [unit]: id=Redi, type=Mage
 #: scenarios/Field.cfg:4268
-#, fuzzy
 msgid "Secretary"
 msgstr "Secretário"
 
 #. [message]
 #: scenarios/Field.cfg:4317
-#, fuzzy
 msgid "Who is there?"
 msgstr "Quem está aí?"
 
 #. [unit]: type=General, id=Assassin
 #: scenarios/Field.cfg:4327
-#, fuzzy
 msgid "Gregory"
 msgstr "Gregory"
 
@@ -4348,7 +4345,6 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:4364
-#, fuzzy
 msgid "What is that plan?"
 msgstr "Qual é o plano?"
 
@@ -4395,7 +4391,6 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:4386
-#, fuzzy
 msgid "Hmm..."
 msgstr "Hmm..."
 
@@ -4435,21 +4430,18 @@ msgstr ""
 # Se for uma ordem, não seria correto dizer "alto"?
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4427
-#, fuzzy
 msgid "Halt."
 msgstr "Alto."
 
 #. [message]
 #: scenarios/Field.cfg:4432
-#, fuzzy
 msgid "(They did their job!? What is going on!? Is it a dream??)"
-msgstr "(Eles fizeram algo!? O que está acontecendo!? Isso é um sonho??)"
+msgstr "(Eles fizeram o seu trabalho!? O que está acontecendo!? Isso é um sonho??)"
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4437
-#, fuzzy
 msgid "What? Why did you stop me?"
-msgstr "O quê? Por que você me impede?"
+msgstr "O quê? Por que você me parou?"
 
 #. [message]: speaker=Hid
 #: scenarios/Field.cfg:4442
@@ -4611,7 +4603,6 @@ msgstr ""
 
 #. [message]: speaker=Mig
 #: scenarios/Field.cfg:4516
-#, fuzzy
 msgid "Do we need to know who sent that idiot to us?"
 msgstr "Nós precisamos saber quem enviou esse idiota aqui?"
 
@@ -4639,7 +4630,6 @@ msgstr ""
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4526
-#, fuzzy
 msgid "NO! PLEASE! PLEASE LET ME ALIVE!!"
 msgstr "NÃO! POR FAVOR! POR FAVOR ME DEIXEM VIVER!!"
 
@@ -4662,7 +4652,6 @@ msgstr "...Ah.. Aaaaaaa..."
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:4872
-#, fuzzy
 msgid "Promotion!"
 msgstr "Promoção!"
 
@@ -4676,43 +4665,36 @@ msgstr ""
 
 #. [event]
 #: scenarios/Field.cfg:4919
-#, fuzzy
 msgid "Your Desk"
 msgstr "Sua Mesa"
 
 #. [event]
 #: scenarios/Field.cfg:4920
-#, fuzzy
 msgid "Ask Clammy"
 msgstr "Pergunte ao Clammy"
 
 #. [event]
 #: scenarios/Field.cfg:4921
-#, fuzzy
 msgid "Ask Secretary"
 msgstr "Peça ao Secretário"
 
 #. [event]
 #: scenarios/Field.cfg:4922
-#, fuzzy
 msgid "Back to Field"
 msgstr "Retornar ao Campo"
 
 #. [event]
 #: scenarios/Field.cfg:4923
-#, fuzzy
 msgid "Ask Geographer"
 msgstr "Pergunte ao Geógrafo"
 
 #. [label]
 #: scenarios/Field.cfg:4927
-#, fuzzy
 msgid "antechamber"
 msgstr "sala de espera"
 
 #. [then]
 #: scenarios/Field.cfg:4939
-#, fuzzy
 msgid "Ask Naga boss"
 msgstr "Peça ao chefe Naga"
 
@@ -4720,7 +4702,6 @@ msgstr "Peça ao chefe Naga"
 #. [then]
 #: scenarios/Field.cfg:5059 scenarios/Field.cfg:5066 scenarios/Field.cfg:5074
 #: scenarios/Field.cfg:5079
-#, fuzzy
 msgid "Treasure!"
 msgstr "Tesouro!"
 
@@ -4747,7 +4728,6 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:5184
-#, fuzzy
 msgid "(He is always looking around.)"
 msgstr "(Ele sempre está olhando em volta.)"
 
@@ -4798,15 +4778,13 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:5305
-#, fuzzy
 msgid "Understand. They will surely join us."
 msgstr "Entendo. Eles com certeza se unirão a nós."
 
 #. [option]
 #: scenarios/Field.cfg:5312
-#, fuzzy
 msgid "<span color='yellow'>Ask the merfolks to join us</span>"
-msgstr "<span color='yellow'>peça aos merfolks para se unirem a nós</span>"
+msgstr "<span color='yellow'>Peça aos merfolks para se unirem a nós</span>"
 
 #. [message]
 #: scenarios/Field.cfg:5327
@@ -4844,21 +4822,18 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:5376
-#, fuzzy
 msgid "Treasure hunting!"
 msgstr "Caça ao tesouro!"
 
 #. [message]
 #: scenarios/Field.cfg:5381
-#, fuzzy
 msgid "Do you need a new map?"
 msgstr "Você precisa de um novo mapa?"
 
 #. [option]
 #: scenarios/Field.cfg:5384
-#, fuzzy
 msgid "Get a new treasure map for <span color='yellow'>5g</span>!"
-msgstr "Obter um novo mapa do tesouro por <span color='yellow'>5 ouros</span>!"
+msgstr "Obter um novo mapa do tesouro por <span color='yellow'>5 peças de ouro</span>!"
 
 #. [message]
 #: scenarios/Field.cfg:5395
@@ -4882,31 +4857,26 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:5419
-#, fuzzy
 msgid "Discard current map"
 msgstr "Descartar o mapa atual"
 
 #. [message]
 #: scenarios/Field.cfg:5426
-#, fuzzy
 msgid "Are you sure to give up current searching treasure?"
 msgstr "Você tem certeza que quer abandonar a caça ao tesouro atual?"
 
 #. [option]
 #: scenarios/Field.cfg:5454
-#, fuzzy
 msgid "Bye"
 msgstr "Tchau"
 
 #. [message]
 #: scenarios/Field.cfg:5499
-#, fuzzy
 msgid "At your service, your majesty."
 msgstr "À sua disposição, majestade."
 
 #. [option]
 #: scenarios/Field.cfg:5502
-#, fuzzy
 msgid "<span color='yellow'>Squad/Platoon/Company Menu</span>"
 msgstr "<span color='yellow'>Menu de Esquadrão/Pelotão/Companhia</span>"
 
@@ -4924,43 +4894,36 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:5521
-#, fuzzy
 msgid "Information about other sides (needs an active spy)"
 msgstr "Informações sobre outros lados (precisa de um espião ativo)"
 
 #. [option]
 #: scenarios/Field.cfg:5542
-#, fuzzy
 msgid "Send an emissary to an allied side."
-msgstr "Enviar um emissário a outro lado."
+msgstr "Enviar um emissário a um lado aliado."
 
 #. [message]
 #: scenarios/Field.cfg:5554
-#, fuzzy
 msgid "We already sent the emissary out. We should wait for the return of him."
 msgstr "Nós já enviamos o emissário. Nós devemos esperar pelo seu retorno."
 
 #. [message]
 #: scenarios/Field.cfg:5589
-#, fuzzy
 msgid "Secretary^What to do?"
 msgstr "O que vamos fazer?"
 
 #. [option]
 #: scenarios/Field.cfg:5592
-#, fuzzy
 msgid "See status of reserve units"
 msgstr "Ver o estado das unidades da reserva"
 
 #. [option]
 #: scenarios/Field.cfg:5613
-#, fuzzy
 msgid "Fire a reserve unit"
 msgstr "Demitir uma unidade da reserva"
 
 #. [message]
 #: scenarios/Field.cfg:5635
-#, fuzzy
 msgid "Really fire $tmp_selected_unit.name|?"
 msgstr "Quer mesmo demitir $tmp_selected_unit.name|?"
 
@@ -4968,7 +4931,6 @@ msgstr "Quer mesmo demitir $tmp_selected_unit.name|?"
 #. [option]: speaker=narrator
 #: scenarios/Field.cfg:5638 scenarios/Field.cfg:7822 scenarios/Field.cfg:7855
 #: scenarios/Prologue.cfg:1020 utils/office_utils.cfg:286
-#, fuzzy
 msgid "Yes"
 msgstr "Sim"
 
@@ -4978,19 +4940,16 @@ msgstr "Sim"
 #: scenarios/Field.cfg:5647 scenarios/Field.cfg:7862
 #: scenarios/Prologue.cfg:1011 utils/menu.cfg:157 utils/menu.cfg:202
 #: utils/menu.cfg:308 utils/office_utils.cfg:282
-#, fuzzy
 msgid "No"
 msgstr "Não"
 
 #. [option]
 #: scenarios/Field.cfg:5658
-#, fuzzy
 msgid "<span color='yellow'>Create a Squad/Platoon/Company</span>"
 msgstr "<span color='yellow'>Criar um Esquadrão/Pelotão/Companhia</span>"
 
 #. [lua]
 #: scenarios/Field.cfg:5665
-#, fuzzy
 msgid "Choose a leader unit"
 msgstr "Escolher uma unidade como líder"
 
@@ -5006,13 +4965,11 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:5732
-#, fuzzy
 msgid "<span color='yellow'>Recruit</span>"
 msgstr "<span color='yellow'>Recrutar</span>"
 
 #. [message]
 #: scenarios/Field.cfg:5736
-#, fuzzy
 msgid "Which type of soldier?"
 msgstr "Que tipo de soldado?"
 
@@ -5048,9 +5005,8 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:5780
-#, fuzzy
 msgid "Recruit a mage for <b>15g</b>"
-msgstr "Recrutar um mago por <b>15 ouros</b>"
+msgstr "Recrutar um mago por <b>15 peças de ouro</b>"
 
 #. [option]
 #: scenarios/Field.cfg:5793
@@ -5066,7 +5022,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:5820
-#, fuzzy
 msgid "You recruited a group of Engineers!"
 msgstr "Você recrutou um grupo de Engenheiros!"
 
@@ -5084,13 +5039,11 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:5852
-#, fuzzy
 msgid "You recruited a paperpusher."
 msgstr "Você recrutou um burocrata."
 
 #. [option]
 #: scenarios/Field.cfg:5858
-#, fuzzy
 msgid "Don't recruit now."
 msgstr "Não recrutar agora."
 
@@ -5158,13 +5111,11 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:6059
-#, fuzzy
 msgid "Send later."
 msgstr "Enviar depois."
 
 #. [message]
 #: scenarios/Field.cfg:6085
-#, fuzzy
 msgid "Which side?"
 msgstr "Qual lado?"
 
@@ -5208,7 +5159,6 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:6332
-#, fuzzy
 msgid "What purpose?"
 msgstr "Qual propósito?"
 
@@ -5238,7 +5188,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:6355
-#, fuzzy
 msgid ""
 "Ask an allied side to stop attacking.\n"
 "<span color='yellow' size='smaller'>NOTE: never fail.</span>"
@@ -5248,13 +5197,11 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:6365
-#, fuzzy
 msgid "Thanks. (Finish)"
 msgstr "Obrigado. (Finalizar)"
 
 #. [message]
 #: scenarios/Field.cfg:6395
-#, fuzzy
 msgid ""
 "To which side? Money will be delivered to the target side on the beginning "
 "of next turn."
@@ -5264,7 +5211,6 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:6484
-#, fuzzy
 msgid ""
 "The emissary cannot go there by himself, and there is no need to send gold "
 "to merfolks."
@@ -5274,67 +5220,56 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:6540 scenarios/Field.cfg:6987
-#, fuzzy
 msgid "How much amount?"
 msgstr "Qual quantidade?"
 
 #. [option]
 #: scenarios/Field.cfg:6543 scenarios/Field.cfg:6990
-#, fuzzy
 msgid "100 gold"
-msgstr "100 ouros"
+msgstr "100 peças de ouro"
 
 #. [option]
 #: scenarios/Field.cfg:6553 scenarios/Field.cfg:7000
-#, fuzzy
 msgid "50 gold"
-msgstr "50 ouros"
+msgstr "50 peças de ouro"
 
 #. [option]
 #: scenarios/Field.cfg:6563 scenarios/Field.cfg:7010
-#, fuzzy
 msgid "25 gold"
-msgstr "25 ouros"
+msgstr "25 peças de ouro"
 
 #. [option]
 #: scenarios/Field.cfg:6573 scenarios/Field.cfg:7020
-#, fuzzy
 msgid "input value"
-msgstr "inserir um valor"
+msgstr "coloque um valor"
 
 #. [message]
 #: scenarios/Field.cfg:6577
-#, fuzzy
 msgid "Please input amount of gold (input 0 to cancel)"
-msgstr "Por favor insira a quantidade de ouro (insira 0 para cancelar)"
+msgstr "Por favor coloque a quantidade de ouro (coloque 0 para cancelar)"
 
 #. [text_input]
 #: scenarios/Field.cfg:6579 scenarios/Field.cfg:7026
-#, fuzzy
 msgid "amount of gold"
 msgstr "quantia de ouro"
 
 #. [message]
 #: scenarios/Field.cfg:6595
-#, fuzzy
 msgid "Well, stop sending money."
-msgstr "Certo, pare de enviar dinheiro."
+msgstr "Certo, pare o envio do dinheiro."
 
 #. [message]
 #: scenarios/Field.cfg:6602
-#, fuzzy
 msgid "Send $tmp_gold_amount gold?"
-msgstr "Enviar $tmp_gold_amount ouros?"
+msgstr "Enviar $tmp_gold_amount peças de ouro?"
 
 #. [option]
 #: scenarios/Field.cfg:6605
-#, fuzzy
 msgid "OK!"
 msgstr "OK!"
 
 #. [message]
 #: scenarios/Field.cfg:6644
-#, fuzzy
 msgid "First, we have to determine which side to attack."
 msgstr "Primeiro, precisamos determinar qual lado atacar."
 
@@ -5358,13 +5293,11 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:6698 scenarios/Field.cfg:6735 scenarios/Field.cfg:6865
-#, fuzzy
 msgid "NO!"
 msgstr "NÃO!"
 
 #. [option]
 #: scenarios/Field.cfg:6705 scenarios/Field.cfg:6723 scenarios/Field.cfg:6857
-#, fuzzy
 msgid "YES!"
 msgstr "SIM!"
 
@@ -5382,23 +5315,20 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:6754
-#, fuzzy
 msgid "To which side?"
 msgstr "Para qual lado?"
 
 #. [message]
 #: scenarios/Field.cfg:6854
-#, fuzzy
 msgid ""
 "Send an emissary for <span color='yellow'>stopping war</span> to <span "
 "color='red'>$aiw_team[$aiw_emissary.target].name</span>?"
 msgstr ""
-"Enviar um emissário para <span color='yellow'>parar a guerra</span> aos "
-"<span color='red'>$aiw_team[$aiw_emissary.target].name</span>?"
+"Enviar um emissário aos <span color='red'>$aiw_team[$aiw_emissary.target].name</span> "
+"para <span color='yellow'>encerrar a guerra</span>?"
 
 #. [message]
 #: scenarios/Field.cfg:6886
-#, fuzzy
 msgid ""
 "To which side? The emissary will arrive the target side in the beginning of "
 "next turn."
@@ -5408,21 +5338,18 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:7024
-#, fuzzy
 msgid "Please input amount of gold"
-msgstr "Por favor entre com a quantidade de ouro"
+msgstr "Por favor coloque a quantidade de ouro"
 
 #. [message]
 #: scenarios/Field.cfg:7124
-#, fuzzy
 msgid "Ah!? What!"
 msgstr "Ah!? O quê!"
 
 #. [option]
 #: scenarios/Field.cfg:7127
-#, fuzzy
 msgid "Give me a hint for the treasure for <span color='yellow'>5g</span>?"
-msgstr "Dê-me uma dica para o tesouro por <span color='yellow'>5 ouros</span>?"
+msgstr "Dê-me uma dica para o tesouro por <span color='yellow'>5 peças de ouro</span>?"
 
 #. [message]
 #: scenarios/Field.cfg:7136
@@ -5438,7 +5365,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7143
-#, fuzzy
 msgid "Give me a hint again? (<span color='yellow'>free of charge</span>)"
 msgstr "Dê-me uma dica novamente? (<span color='yellow'>grátis</span>)"
 
@@ -5456,7 +5382,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7157
-#, fuzzy
 msgid "Countries/Cities"
 msgstr "Países/Cidades"
 
@@ -5481,7 +5406,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7174
-#, fuzzy
 msgid "Cities of the Kingdom (go to submenu)"
 msgstr "Cidades do Reino (ir ao submenu)"
 
@@ -5561,7 +5485,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7246
-#, fuzzy
 msgid "Cities of the Empire (go to submenu)"
 msgstr "Cidades do Império (ir ao submenu)"
 
@@ -5608,7 +5531,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7296
-#, fuzzy
 msgid "Goba and Goga"
 msgstr "Goba e Goga"
 
@@ -5626,19 +5548,16 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:7307 scenarios/Field.cfg:7315
-#, fuzzy
 msgid "clammy^......"
 msgstr "......"
 
 #. [message]
 #: scenarios/Field.cfg:7311
-#, fuzzy
 msgid "...except Clammy!"
 msgstr "...exceto o Clammy!"
 
 #. [message]
 #: scenarios/Field.cfg:7319
-#, fuzzy
 msgid "OK! Goblins are very brave and horrible!"
 msgstr "OK! Góblins são muito bravos e horríveis!"
 
@@ -5765,13 +5684,11 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7431
-#, fuzzy
 msgid "Land features"
 msgstr "Características do Terreno"
 
 #. [message]
 #: scenarios/Field.cfg:7435
-#, fuzzy
 msgid "Which one?! Say immediately or die!!"
 msgstr "Qual?! Diga imediatamente ou morra!!"
 
@@ -5938,7 +5855,6 @@ msgstr ""
 
 #. [option]
 #: scenarios/Field.cfg:7592
-#, fuzzy
 msgid "Undistributable Plain"
 msgstr "Planície Imperturbável"
 
@@ -6160,23 +6076,20 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:7819
-#, fuzzy
 msgid "Would you stay here to build troops?"
 msgstr "Você gostaria de ficar aqui para montar tropas?"
 
 #. [option]
 #: scenarios/Field.cfg:7826
-#, fuzzy
 msgid ""
 "No! I never need any other troops! Single troop is enough to defeat the "
 "World!"
 msgstr ""
-"Não! Eu nunca precisei de nenhuma outra tropa! Só uma tropa é suficiente "
-"para derrotar o Mundo!"
+"Não! Eu nunca precisei de nenhuma outra tropa! Só uma tropa já é suficiente para derrotar o "
+"Mundo!"
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:7852
-#, fuzzy
 msgid "Leave the office?"
 msgstr "Deixar o escritório?"
 
@@ -6200,13 +6113,11 @@ msgstr "A capital do Reino caiu! Nós conseguimos fazer isso!"
 
 #. [message]: speaker=$second_unit.id
 #: scenarios/Field.cfg:7985
-#, fuzzy
 msgid "Imperial capital is fallen! We did it!"
 msgstr "A capital do Império caiu! Nós conseguimos!"
 
 #. [message]: speaker=$new_unit.id
 #: scenarios/Field.cfg:8212
-#, fuzzy
 msgid "... We surrender to you..."
 msgstr "... Nós nos rendemos..."
 
@@ -6260,13 +6171,11 @@ msgstr ""
 
 #. [option]
 #: scenarios/Prelude.cfg:25
-#, fuzzy
 msgid "Definitely yes!"
 msgstr "Definitivamente sim!"
 
 #. [option]
 #: scenarios/Prelude.cfg:36
-#, fuzzy
 msgid "No thanks!"
 msgstr "Não, obrigado!"
 
@@ -6289,7 +6198,6 @@ msgstr ""
 "depois jogue esta campanha."
 
 #: scenarios/Prelude.cfg:53
-#, fuzzy
 msgid "Geographer"
 msgstr "Geógrafo"
 
@@ -6300,13 +6208,11 @@ msgstr "Avaron"
 
 #. [scenario]: id=Prelude
 #: scenarios/Prelude.cfg:109
-#, fuzzy
 msgid "Prelude"
 msgstr "Prelúdio"
 
 #. [unit]: type=Grand Marshal, id=You
 #: scenarios/Prologue.cfg:336 utils/message_speakers.cfg:6
-#, fuzzy
 msgid "You"
 msgstr "Você"
 
@@ -6315,19 +6221,16 @@ msgstr "Você"
 #. [unit_type]: id=Clammy, race=goblin
 #: scenarios/Prologue.cfg:354 scenarios/Prologue.cfg:997 units/Clammy.cfg:7
 #: utils/message_speakers.cfg:12
-#, fuzzy
 msgid "Clammy"
 msgstr "Clammy"
 
 #. [side]
 #: scenarios/Prologue.cfg:777 utils/sides.cfg:61
-#, fuzzy
 msgid "Kingdom"
 msgstr "Reino"
 
 #. [side]
 #: scenarios/Prologue.cfg:778 utils/sides.cfg:79
-#, fuzzy
 msgid "Empire"
 msgstr "Império"
 
@@ -6345,7 +6248,6 @@ msgstr "Dunefolks"
 
 #. [side]
 #: scenarios/Prologue.cfg:781 utils/sides.cfg:133
-#, fuzzy
 msgid "Orcs"
 msgstr "Orcs"
 
@@ -6357,13 +6259,11 @@ msgstr "Anões"
 
 #. [side]
 #: scenarios/Prologue.cfg:783 utils/sides.cfg:169
-#, fuzzy
 msgid "Trolls"
 msgstr "Trolls"
 
 #. [side]
 #: scenarios/Prologue.cfg:784 utils/sides.cfg:187
-#, fuzzy
 msgid "Elves"
 msgstr "Elfos"
 
@@ -6375,7 +6275,6 @@ msgstr "Merfolks"
 
 #. [side]
 #: scenarios/Prologue.cfg:786 utils/sides.cfg:226
-#, fuzzy
 msgid "Drakes"
 msgstr "Draconatos"
 
@@ -6387,19 +6286,16 @@ msgstr "Lagartos"
 
 #. [side]
 #: scenarios/Prologue.cfg:788 utils/sides.cfg:24 utils/sides.cfg:264
-#, fuzzy
 msgid "Monsters"
 msgstr "Monstros"
 
 #. [scenario]: id=Prologue
 #: scenarios/Prologue.cfg:934
-#, fuzzy
 msgid "Prologue"
 msgstr "Prólogo"
 
 #. [message]
 #: scenarios/Prologue.cfg:1008
-#, fuzzy
 msgid "Do you want to skip introduction?"
 msgstr "Você gostaria de pular a introdução?"
 
@@ -6436,7 +6332,6 @@ msgstr ""
 #. [unit_type]: id=Key, race=mechanical
 #: scenarios/Prologue.cfg:1060 scenarios/Prologue.cfg:1083
 #: scenarios/Prologue.cfg:1105 scenarios/Prologue.cfg:1128 units/Key.cfg:5
-#, fuzzy
 msgid "Cursor"
 msgstr "Cursor"
 
@@ -6521,38 +6416,32 @@ msgstr "Escaramuça"
 
 #. [label]
 #: scenarios/Skirmish.cfg:274
-#, fuzzy
 msgid "retreat!"
 msgstr "recuar!"
 
 #. [message]
 #: scenarios/Skirmish.cfg:343
-#, fuzzy
 msgid "If you want to retreat, move the leader here."
 msgstr "Se você quiser recuar, mova o líder até aqui."
 
 #. [message]: speaker=unit
 #: scenarios/Skirmish.cfg:360
-#, fuzzy
 msgid "Should we retreat?"
 msgstr "Devemos recuar?"
 
 #. [option]: speaker=unit
 #: scenarios/Skirmish.cfg:363
-#, fuzzy
 msgid "Never!"
 msgstr "Nunca!"
 
 #. [option]: speaker=unit
 #: scenarios/Skirmish.cfg:368
-#, fuzzy
 msgid "Retreat!"
 msgstr "Recuar!"
 
 #. [message]
 #. [message]: speaker=unit
 #: scenarios/Skirmish.cfg:372 scenarios/Skirmish.cfg:597
-#, fuzzy
 msgid "Soldiers, retreat!"
 msgstr "Soldados, recuar!"
 
@@ -6564,69 +6453,58 @@ msgstr "Argh!"
 
 #. [message]
 #: scenarios/Skirmish.cfg:435
-#, fuzzy
 msgid "No! Don't die! We can't fight without you!"
 msgstr "Não! Não morra! Nós não podemos lutar sem você!"
 
 #. [message]
 #: scenarios/Skirmish.cfg:445 utils/deaths.cfg:100
-#, fuzzy
 msgid "Unbelievable... I failed..."
 msgstr "Inacreditável... Eu falhei..."
 
 #. [message]
 #: scenarios/Skirmish.cfg:449 utils/deaths.cfg:104
-#, fuzzy
 msgid "Clammy!!!"
 msgstr "Clammy!!!"
 
 #. [message]
 #: scenarios/Skirmish.cfg:473
-#, fuzzy
 msgid "Our leader is slain! We must retreat immediately!"
-msgstr "Nosso líder foi morto! Nós devemos recuar imediatamente!"
+msgstr "Nosso líder está morto! Nós devemos recuar imediatamente!"
 
 #. [message]
 #: scenarios/Skirmish.cfg:531
-#, fuzzy
 msgid "We have defeated the enemies!"
 msgstr "Nós derrotamos os inimigos!"
 
 #. [terrain_type]: id=unhealable_city_village
 #. [terrain_type]: id=unhealable_human_village
 #: terrain/terrain.cfg:6 terrain/terrain.cfg:17 terrain/terrain.cfg:19
-#, fuzzy
 msgid "Village (no healing)"
 msgstr "Aldeia (sem medicação)"
 
 #. [terrain_type]: id=unhealable_city_village
 #: terrain/terrain.cfg:8
-#, fuzzy
 msgid "Human City (no healing)"
 msgstr "Cidade Humana (sem medicação)"
 
 #. [terrain_type]: id=oasis
 #: terrain/terrain.cfg:28
-#, fuzzy
 msgid "Oasis (no healing)"
 msgstr "Oásis (sem medicação)"
 
 #. [unit_type]: id=Building Foodstorage, race=mechanical
 #: units/BuildingFoodstorage.cfg:5
-#, fuzzy
 msgid "Building Foodstorage"
 msgstr "Contruir um Armazém de Comida"
 
 #. [unit_type]: id=Building Foodstorage, race=mechanical
 #. [unit_type]: id=Foodstorage, race=mechanical
 #: units/BuildingFoodstorage.cfg:21 units/Foodstorage.cfg:19
-#, fuzzy
 msgid "Be careful to rats!"
 msgstr "Tenha cuidado com ratos!"
 
 #. [unit_type]: id=Building Watchtower, race=mechanical
 #: units/BuildingWatchtower.cfg:5
-#, fuzzy
 msgid "Building Watchtower"
 msgstr "Construindo Torre de Vigia"
 
@@ -6679,13 +6557,11 @@ msgstr ""
 
 #. [unit_type]: id=Flag, race=mechanical
 #: units/Flag.cfg:19
-#, fuzzy
 msgid "This place is occupied by an enemy side."
 msgstr "Este lugar é ocupado por um lado inimigo."
 
 #. [unit_type]: id=Key, race=mechanical
 #: units/Key.cfg:18
-#, fuzzy
 msgid "This is a dummy unit. Never mind."
 msgstr "Esta é uma simulação de unidade. Não ligue."
 
@@ -6707,7 +6583,6 @@ msgstr "Essas pessoas são bem famosas pelas suas atitudes miseráveis."
 #: units/army_drake/Company.cfg:7 units/army_dwarvish/Company.cfg:7
 #: units/army_elven/Company.cfg:7 units/army_human/Company.cfg:7
 #: units/army_orcish/Company.cfg:7 units/army_troll/Company.cfg:7
-#, fuzzy
 msgid "Company"
 msgstr "Companhia"
 
@@ -6750,7 +6625,6 @@ msgstr "Companhia"
 #: units/army_orcish/Squad.cfg:21 units/army_saurian/Platoon.cfg:21
 #: units/army_saurian/Squad.cfg:21 units/army_troll/Company.cfg:21
 #: units/army_troll/Platoon.cfg:21 units/army_troll/Squad.cfg:21
-#, fuzzy
 msgid "None"
 msgstr "Nenhum"
 
@@ -6768,7 +6642,6 @@ msgstr "Nenhum"
 #: units/army_orcish/Squad.cfg:27 units/army_saurian/Platoon.cfg:27
 #: units/army_saurian/Squad.cfg:27 units/army_troll/Company.cfg:27
 #: units/army_troll/Platoon.cfg:27 units/army_troll/Squad.cfg:27
-#, fuzzy
 msgid "members"
 msgstr "membros"
 
@@ -6786,7 +6659,6 @@ msgstr "membros"
 #: units/army_orcish/Squad.cfg:39 units/army_saurian/Platoon.cfg:39
 #: units/army_saurian/Squad.cfg:39 units/army_troll/Company.cfg:39
 #: units/army_troll/Platoon.cfg:39 units/army_troll/Squad.cfg:39
-#, fuzzy
 msgid "foods"
 msgstr "comida"
 
@@ -6895,7 +6767,6 @@ msgstr "corpo a corpo (atiradores)"
 #: units/army_goblin/Platoon.cfg:7 units/army_human/Platoon.cfg:7
 #: units/army_orcish/Platoon.cfg:7 units/army_saurian/Platoon.cfg:7
 #: units/army_troll/Platoon.cfg:7
-#, fuzzy
 msgid "Platoon"
 msgstr "Pelotão"
 
@@ -6913,26 +6784,22 @@ msgstr "Pelotão"
 #: units/army_goblin/Squad.cfg:7 units/army_human/Squad.cfg:7
 #: units/army_orcish/Squad.cfg:7 units/army_saurian/Squad.cfg:7
 #: units/army_troll/Squad.cfg:7
-#, fuzzy
 msgid "Squad"
 msgstr "Esquadrão"
 
 #. [unit_type]: id=Battalion
 #. [unit_type]: id=Orcish Battalion
 #: units/army_human/Battalion.cfg:7 units/army_orcish/Battalion.cfg:7
-#, fuzzy
 msgid "Battalion"
 msgstr "Batalhão"
 
 #. [message]: speaker=$btbd.id
 #: utils/deaths.cfg:39
-#, fuzzy
 msgid "Building under construction is also destroyed!"
-msgstr "A construção que estava sendo feita também é destruída!"
+msgstr "A construção que estava sendo feita também foi destruída!"
 
 #. [message]
 #: utils/deaths.cfg:89
-#, fuzzy
 msgid "No! Don't die! We cannot fight without you!"
 msgstr "Não! Não morra! Nós não podemos lutar sem você!"
 
@@ -6968,13 +6835,11 @@ msgstr "Gerenciador de estados dos lados (depuração)"
 
 #. [message]: speaker=narrator
 #: utils/debug.cfg:17
-#, fuzzy
 msgid "What kind of information?"
 msgstr "Que tipo de informação?"
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:19
-#, fuzzy
 msgid "spy"
 msgstr "espião"
 
@@ -7014,25 +6879,21 @@ msgstr ""
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:38
-#, fuzzy
 msgid "Activate all."
 msgstr "Ativar todos."
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:57
-#, fuzzy
 msgid "Deactivate all."
 msgstr "Desativar todos."
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:76
-#, fuzzy
 msgid "Do nothing."
 msgstr "Não fazer nada."
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:82
-#, fuzzy
 msgid "gold"
 msgstr "ouro"
 
@@ -7072,7 +6933,6 @@ msgstr ""
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:105
-#, fuzzy
 msgid "intimacy"
 msgstr "intimidade"
 
@@ -7112,7 +6972,6 @@ msgstr ""
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:127
-#, fuzzy
 msgid "ally"
 msgstr "aliado"
 
@@ -7154,7 +7013,6 @@ msgstr ""
 
 #. [option]: speaker=narrator
 #: utils/debug.cfg:150
-#, fuzzy
 msgid "target"
 msgstr "alvo"
 
@@ -7196,25 +7054,21 @@ msgstr ""
 
 #. [floating_text]
 #: utils/field_utils_attacks.cfg:943
-#, fuzzy
 msgid "<span color='#ff0000'>$attacker_current_hp|</span>"
 msgstr "<span color='#ff0000'>$attacker_current_hp|</span>"
 
 #. [floating_text]
 #: utils/field_utils_attacks.cfg:950
-#, fuzzy
 msgid "<span color='#00ff00'>$attacker_current_hp|</span>"
 msgstr "<span color='#00ff00'>$attacker_current_hp|</span>"
 
 #. [floating_text]
 #: utils/field_utils_attacks.cfg:959
-#, fuzzy
 msgid "<span color='#ff0000'>$defender_current_hp|</span>"
 msgstr "<span color='#ff0000'>$defender_current_hp|</span>"
 
 #. [floating_text]
 #: utils/field_utils_attacks.cfg:966
-#, fuzzy
 msgid "<span color='#00ff00'>$defender_current_hp|</span>"
 msgstr "<span color='#00ff00'>$defender_current_hp|</span>"
 
@@ -7405,14 +7259,11 @@ msgstr ""
 
 #. [message]
 #: utils/firsttime.cfg:213
-#, fuzzy
 msgid "Hello, again! I will help you again with my healing skill!"
-msgstr ""
-"Olá, novamente! Eu ajudarei você de novo com minhas habilidades de cura!"
+msgstr "Olá, novamente! Eu ajudarei você de novo com minhas habilidades de cura!"
 
 #. [message]
 #: utils/firsttime.cfg:217
-#, fuzzy
 msgid "Ah, why you are still here?"
 msgstr "Ah, por que você ainda está aqui?"
 
@@ -7428,7 +7279,6 @@ msgstr ""
 
 #. [message]
 #: utils/firsttime.cfg:225
-#, fuzzy
 msgid "Heh, so what is the true reason?"
 msgstr "Eh? então qual é o verdadeiro motivo?"
 
@@ -7452,7 +7302,6 @@ msgstr "*suspira* ... Por favor nos ajude novamente."
 
 #. [message]
 #: utils/firsttime.cfg:237
-#, fuzzy
 msgid "Yeah!"
 msgstr "Claro!"
 
@@ -7464,31 +7313,26 @@ msgstr "Vá em frente!"
 
 #. [objectives]
 #: utils/global.cfg:7
-#, fuzzy
 msgid "Fight for the freedom"
 msgstr "Lute pela liberdade"
 
 #. [objective]: condition=win
 #: utils/global.cfg:10
-#, fuzzy
 msgid "Occupy a capital city of Empire or Kingdom"
 msgstr "Ocupe uma capital do Império ou do Reino"
 
 #. [objective]: condition=win
 #: utils/global.cfg:14
-#, fuzzy
 msgid "Gather/Defeat all forces of local people"
 msgstr "Reúna/Derrote todas as forças do povo local"
 
 #. [objective]: condition=lose
 #: utils/global.cfg:18
-#, fuzzy
 msgid "Fall of Fusia"
 msgstr "Queda de Fusia"
 
 #. [objective]: condition=lose
 #: utils/global.cfg:22
-#, fuzzy
 msgid "Bankruptcy of Fusia (your country)"
 msgstr "Falência de Fusia (seu país)"
 
@@ -7510,7 +7354,6 @@ msgstr "Acabou o dinheiro! Nós estamos condenados!"
 
 #. [set_menu_item]: id=aiw_right_menu_a_enter_office
 #: utils/menu.cfg:48
-#, fuzzy
 msgid "Enter the Office"
 msgstr "Entrar no Escritório"
 
@@ -7532,9 +7375,8 @@ msgstr ""
 
 #. [option]: speaker=$tmp_engineers.id
 #: utils/menu.cfg:130 utils/menu.cfg:193
-#, fuzzy
 msgid "Yes! (immediately destroyed)"
-msgstr "Sim! (destruição imediata)"
+msgstr "Sim! (imediatamente destruído)"
 
 #. [message]: speaker=$tmp_engineers.id
 #: utils/menu.cfg:165
@@ -7552,17 +7394,15 @@ msgstr ""
 #: utils/menu.cfg:190
 #, fuzzy
 msgid "Shall we destroy this $tmp_building_to_be_destroyed_type.name|?"
-msgstr "Devemos destruir este(a) $tmp_building_to_be_destroyed_type.name|?"
+msgstr "Devemos destruir $tmp_building_to_be_destroyed_type.name|?"
 
 #. [message]: speaker=$tmp_engineers.id
 #: utils/menu.cfg:215
-#, fuzzy
 msgid "Cannot create a building here."
 msgstr "Não se pode fazer uma construção aqui."
 
 #. [message]: speaker=$tmp_engineers.id
 #: utils/menu.cfg:221
-#, fuzzy
 msgid "Do we create a building here?"
 msgstr "Fazer uma construção aqui?"
 
@@ -7588,17 +7428,13 @@ msgstr ""
 
 #. [set_menu_item]: id=aiw_right_menu_a_enter_antechamber
 #: utils/menu.cfg:325
-#, fuzzy
 msgid "Enter the antechamber of Fusia"
 msgstr "Entrar na sala de espera de Fusia"
 
 #. [message]: speaker=$tmp_unit_stored.id
 #: utils/menu.cfg:354
-#, fuzzy
 msgid "We are now building a watchtower. We cannot stop this task."
-msgstr ""
-"Nós estamos agora construindo uma torre de vigia. Nós não podemos parar esta "
-"tarefa."
+msgstr "Nós agora estamos construindo uma torre de vigia. Nós não podemos parar esta tarefa."
 
 #. [message]
 #: utils/menu.cfg:360
@@ -7608,55 +7444,46 @@ msgstr "$tmp_unit_stored.name deve entrar na sala de espera de Fusia?"
 
 #. [option]
 #: utils/menu.cfg:363
-#, fuzzy
 msgid "Yes."
 msgstr "Sim."
 
 #. [option]
 #: utils/menu.cfg:386 utils/menu.cfg:437
-#, fuzzy
 msgid "No."
 msgstr "Não."
 
 #. [set_menu_item]: id=aiw_right_menu_a_go_for_war
 #: utils/menu.cfg:399
-#, fuzzy
 msgid "Go for the War! (Leave here and go to the field)"
-msgstr "Ir para a Guerra! (Sair daqui e ir ao campo)"
+msgstr "Vá para a Guerra! (Sair daqui e ir ao campo)"
 
 #. [message]
 #: utils/menu.cfg:418
-#, fuzzy
 msgid "Should $tmp_unit_going.name go for the battle field?"
 msgstr "$tmp_unit_going.name deve ir ao campo de batalha?"
 
 #. [option]
 #: utils/menu.cfg:421
-#, fuzzy
 msgid "Go!"
-msgstr "Ir!"
+msgstr "Vá!"
 
 #. [set_menu_item]: id=aiw_right_menu_b_help
 #: utils/menu.cfg:448
-#, fuzzy
 msgid "Help"
 msgstr "Ajuda"
 
 #. [set_menu_item]: id=aiw_right_menu_c_troop_member_management
 #: utils/menu.cfg:461
-#, fuzzy
 msgid "Add/Remove members"
 msgstr "Adicionar/Remover membros"
 
 #. [set_menu_item]: id=aiw_right_menu_d_troop_status
 #: utils/menu.cfg:485
-#, fuzzy
 msgid "Show status of this group"
 msgstr "Mostrar o estado deste grupo"
 
 #. [message]: speaker=narrator
 #: utils/menu.cfg:573
-#, fuzzy
 msgid "What is my new role?"
 msgstr "Qual é a minha nova função?"
 
@@ -7686,7 +7513,6 @@ msgstr "Refugiado [X]"
 
 #. [set_menu_item]: id=aiw_right_menu_y_information
 #: utils/menu.cfg:674
-#, fuzzy
 msgid "General Information"
 msgstr "Informações Gerais"
 
@@ -7724,25 +7550,21 @@ msgstr ""
 
 #. [set_menu_item]: id=aiw_right_menu_z_jukebox
 #: utils/menu.cfg:778
-#, fuzzy
 msgid "Jukebox/Music Player"
 msgstr "Jukebox/Toca Música"
 
 #. [tj_launch_manager3]
 #: utils/menu.cfg:783
-#, fuzzy
 msgid "Field Music"
 msgstr "Música do Campo"
 
 #. [tj_launch_manager3]
 #: utils/menu.cfg:785
-#, fuzzy
 msgid "Battle Music"
 msgstr "Música de Batalha"
 
 #. [tj_launch_manager3]
 #: utils/menu.cfg:787
-#, fuzzy
 msgid "Office Music"
 msgstr "Música do Escritório"
 
@@ -7753,41 +7575,34 @@ msgstr "Título da Faixa de Música Atual?"
 
 #. [set_menu_item]: id=aiw_right_menu_z_settings
 #: utils/menu.cfg:808
-#, fuzzy
 msgid "Settings"
 msgstr "Configurações"
 
 #. [message]
 #: utils/message_catalog.cfg:8
-#, fuzzy
 msgid "There are no reserve soldiers."
-msgstr "Não há unidades na reserva."
+msgstr "Não há soldados na reserva."
 
 #. [command]
 #: utils/message_speakers.cfg:42 utils/office_utils.cfg:311
-#, fuzzy
 msgid "Redy"
 msgstr "Redy"
 
 #: utils/message_speakers.cfg:54
-#, fuzzy
 msgid "Fiona"
 msgstr "Fiona"
 
 #: utils/message_speakers.cfg:72 utils/message_speakers.cfg:78
-#, fuzzy
 msgid "Emissary"
 msgstr "Emissário"
 
 #. [message]
 #: utils/office_utils.cfg:141
-#, fuzzy
 msgid "What to do for $tmp_managing_troop.name|?"
 msgstr "O que fazer com $tmp_managing_troop.name|?"
 
 #. [option]
 #: utils/office_utils.cfg:145
-#, fuzzy
 msgid "Add a unit to $tmp_managing_troop.name|."
 msgstr "Adicionar uma unidade em $tmp_managing_troop.name|."
 
@@ -7797,48 +7612,41 @@ msgstr "Adicionar uma unidade em $tmp_managing_troop.name|."
 msgid ""
 "$tmp_managing_troop.name is already full. Cannot add new member anymore."
 msgstr ""
-"$tmp_managing_troop.name já está cheia. Não é possível adicionar novos "
-"membros."
+"$tmp_managing_troop.name já está completo. Não é mais possível adicionar novos membros."
 
 #. [lua]
 #: utils/office_utils.cfg:161
-#, fuzzy
 msgid "Add to troop"
-msgstr "Adicionar na tropa"
+msgstr "Adicionar à tropa"
 
 #. [option]
 #: utils/office_utils.cfg:189
-#, fuzzy
 msgid "Remove a unit from $tmp_managing_troop.name|."
 msgstr "Remover uma unidade de $tmp_managing_troop.name|."
 
 #. [message]
 #: utils/office_utils.cfg:205
-#, fuzzy
 msgid "You want to retire? ... it is impossible."
 msgstr "Você quer se aposentar? ... isso é impossível."
 
 #. [message]
 #: utils/office_utils.cfg:211
-#, fuzzy
 msgid ""
 "Leader unit cannot be removed. If you want to remove leader, please disband "
 "$tmp_managing_troop.name instead."
 msgstr ""
 "A unidade líder não pode ser removida. Se você quer remover o líder, por "
-"favor disperse $tmp_managing_troop.name."
+"favor separe $tmp_managing_troop.name."
 
 #. [message]
 #: utils/office_utils.cfg:228
-#, fuzzy
 msgid "... You cannot remove me from this troop."
 msgstr "... Você não pode me remover desta tropa."
 
 #. [option]
 #: utils/office_utils.cfg:267
-#, fuzzy
 msgid "Disband $tmp_managing_troop.name"
-msgstr "Dispersar $tmp_managing_troop.name"
+msgstr "Separar $tmp_managing_troop.name"
 
 #. [message]
 #: utils/office_utils.cfg:279
@@ -7903,13 +7711,11 @@ msgstr "Esfera da Regeneração"
 
 #. [value]
 #: utils/office_utils.cfg:465
-#, fuzzy
 msgid "Not now"
 msgstr "Agora não"
 
 #. [option]
 #: utils/office_utils.cfg:478
-#, fuzzy
 msgid "Quit"
 msgstr "Sair"
 
@@ -7917,7 +7723,6 @@ msgstr "Sair"
 #: utils/sides.cfg:442 utils/sides.cfg:463 utils/sides.cfg:484
 #: utils/sides.cfg:505 utils/sides.cfg:526 utils/sides.cfg:547
 #: utils/sides.cfg:568 utils/sides.cfg:589 utils/sides.cfg:610
-#, fuzzy
 msgid "base income of Fusia is increased by $inc|!"
 msgstr "a receita base de Fusia aumentou em $inc|!"
 
@@ -7925,7 +7730,6 @@ msgstr "a receita base de Fusia aumentou em $inc|!"
 #: utils/sides.cfg:453 utils/sides.cfg:474 utils/sides.cfg:495
 #: utils/sides.cfg:516 utils/sides.cfg:537 utils/sides.cfg:558
 #: utils/sides.cfg:579 utils/sides.cfg:600 utils/sides.cfg:621
-#, fuzzy
 msgid "base income of Fusia is decreased by $inc|!"
 msgstr "a receita base de Fusia caiu em $inc|!"
 
@@ -7970,7 +7774,6 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:26
-#, fuzzy
 msgid "After the war"
 msgstr "Depois da guerra"
 
@@ -8076,7 +7879,6 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:48
-#, fuzzy
 msgid ""
 "<span color='red'><b>This war is caused by me. Not accidentally, but very "
 "intentionally.</b></span>"
@@ -8086,7 +7888,6 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:53
-#, fuzzy
 msgid "An Independence War: Cause"
 msgstr "Uma Guerra de Independência: Causa"
 
@@ -8166,13 +7967,12 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:74
-#, fuzzy
 msgid ""
 "But the responses from these two were completely beyond my expectation... in "
 "a good meaning."
 msgstr ""
-"Mas as respostas desses dois foram completamente além das minhas "
-"expectativas... no bom sentido."
+"Mas as respostas desses dois foram completamente além das minhas expectativas... "
+"no bom sentido."
 
 #. [part]
 #: utils/storytxt.cfg:77
@@ -8253,79 +8053,66 @@ msgstr ""
 
 #. [time]: id=aiw_dawn_hour
 #: utils/tod.cfg:8
-#, fuzzy
 msgid "Dawn"
 msgstr "Amanhecer"
 
 #. [time]: id=aiw_morning_hour1
 #: utils/tod.cfg:19
-#, fuzzy
 msgid "Morning - First Hour"
 msgstr "Manhã - Primeira Hora"
 
 #. [time]: id=aiw_morning_hour2
 #: utils/tod.cfg:28
-#, fuzzy
 msgid "Morning - Second Hour"
 msgstr "Manhã - Segunda Hora"
 
 #. [time]: id=aiw_midday_hour
 #: utils/tod.cfg:37
-#, fuzzy
 msgid "Midday"
 msgstr "Meio-dia"
 
 #. [time]: id=aiw_afternoon_hour1
 #: utils/tod.cfg:46
-#, fuzzy
 msgid "Afternoon - First Hour"
 msgstr "Tarde - Primeira Hora"
 
 #. [time]: id=aiw_afternoon_hour2
 #: utils/tod.cfg:55
-#, fuzzy
 msgid "Afternoon - Second Hour"
 msgstr "Tarde - Segunda Hora"
 
 #. [time]: id=aiw_dusk_hour
 #: utils/tod.cfg:64
-#, fuzzy
 msgid "Dusk"
 msgstr "Anoitecer"
 
 #. [time]: id=aiw_first_watch_hour1
 #: utils/tod.cfg:75
-#, fuzzy
 msgid "First Watch - First Hour"
 msgstr "Noite - Primeira Hora"
 
 #. [time]: id=aiw_first_watch_hour2
 #: utils/tod.cfg:87
-#, fuzzy
 msgid "First Watch - Second Hour"
 msgstr "Noite - Segunda Hora"
 
 #. [time]: id=aiw_midnight_hour
 #: utils/tod.cfg:99
-#, fuzzy
 msgid "Midnight"
 msgstr "Meia-noite"
 
 #. [time]: id=second_watch_hour1
 #: utils/tod.cfg:111
-#, fuzzy
 msgid "Second Watch - First Hour"
 msgstr "Madrugada - Primeira Hora"
 
 #. [time]: id=second_watch_hour2
 #: utils/tod.cfg:123
-#, fuzzy
 msgid "Second Watch - Second Hour"
 msgstr "Madrugada - Segunda Hora"
 
 #. [message]: speaker=narrator
 #: utils/trait_utils.cfg:240
-#, fuzzy
 msgid "Error: unknown trait $hoge is detected."
 msgstr "Erro: característica desconhecida $hoge foi detectada."
 
@@ -8343,7 +8130,6 @@ msgstr "durona"
 
 #. [trait]: id=tough
 #: utils/traits.cfg:8
-#, fuzzy
 msgid "increase all physical resistance by 10%."
 msgstr "aumenta todas as resistências físicas em 10%."
 
@@ -8361,11 +8147,8 @@ msgstr "impenetrável"
 
 #. [trait]: id=impenetrable
 #: utils/traits.cfg:25
-#, fuzzy
 msgid "increase pierce resistance by 20% and decrease blade resistance by 10%."
-msgstr ""
-"aumenta a resistência perfurante em 20% e diminui a resistência cortante em "
-"10%."
+msgstr "aumenta a resistência perfurante em 20% e diminui a resistência cortante em 10%."
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:39
@@ -8381,7 +8164,6 @@ msgstr "auxiliada"
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:41
-#, fuzzy
 msgid ""
 "thanks to Clammy, your defense increased 10% in most terrains and the melee "
 "damage increased by 1."
@@ -8475,7 +8257,6 @@ msgstr "medicação"
 
 #. [trait]: id=healing
 #: utils/traits.cfg:106
-#, fuzzy
 msgid "units in this troop will be healed 8 points every turn"
 msgstr "unidades nesta tropa serão medicadas 8 pontos a cada turno"
 
@@ -8502,18 +8283,16 @@ msgstr ""
 
 #. [message]
 #: utils/treasures.cfg:219
-#, fuzzy
 msgid ""
 "$tusvt.name|... This doesn't seem to have a special power. It is better to "
 "sell."
 msgstr ""
-"$tusvt.name|... Isso não parece ter um poder especial. É melhor vender."
+"$tusvt.name|... Isso parece não ter um poder especial. É melhor vender."
 
 #. [message]
 #: utils/treasures.cfg:223
-#, fuzzy
 msgid "You get $tusvt.gold gold!"
-msgstr "Você recebeu $tusvt.gold ouros!"
+msgstr "Você recebeu $tusvt.gold peças de ouro!"
 
 #. [message]
 #: utils/treasures.cfg:232
