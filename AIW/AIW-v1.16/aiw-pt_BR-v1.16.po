@@ -1,16 +1,20 @@
+#
+# Mateus Schroeder da Silva <mateus.schroeder@gmail.com>, 2022.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: An Independence War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-28 14:03+0900\n"
-"PO-Revision-Date: 2022-11-30 02:07-0300\n"
+"PO-Revision-Date: 2022-12-01 00:22-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
-"Language-Team: Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>\n"
+"Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Gtranslator 3.38.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. [campaign]: id=An_Independence_War
 #. [editor_group]: id=aiw
@@ -141,7 +145,8 @@ msgstr "Feedback/Relatos de erros (1.14.x)"
 #. [about]
 #: _main.cfg:103
 msgid "Special Thanks to the Greatest Bug Reporter Ever (1.12.x)"
-msgstr "Agradecimentos Especiais aos Maiores Relatores de Erros de Sempre (1.12.x)"
+msgstr ""
+"Agradecimentos Especiais aos Maiores Relatores de Erros de Sempre (1.12.x)"
 
 #. [about]
 #: _main.cfg:109
@@ -464,12 +469,16 @@ msgstr "Não!"
 #. [option]
 #: _main.cfg:674
 msgid "Mark enemy caution zone.<span color='red'>(Now: not marked)</span>"
-msgstr "Marcar zona de cuidado com o inimigo.<span color='red'>(Agora: não marcado)</span>"
+msgstr ""
+"Marcar zona de cuidado com o inimigo.<span color='red'>(Agora: não marcado)</"
+"span>"
 
 #. [option]
 #: _main.cfg:695
 msgid "Unmark enemy caution zone.<span color='green'>(Now: marked)</span>"
-msgstr "Desmarcar zona de cuidado com o inimigo.<span color='green'>(Agora: marcado)</span>"
+msgstr ""
+"Desmarcar zona de cuidado com o inimigo.<span color='green'>(Agora: "
+"marcado)</span>"
 
 # Parece uma mensagem para confirmação ao sair do escritório, por isso infinitivo.
 #. [option]
@@ -488,8 +497,8 @@ msgid ""
 "Please ask when exiting from the Office.<span color='red'>(Now: not asked)</"
 "span>"
 msgstr ""
-"Por favor perguntar ao sair do Escritório.<span color='red'>(Agora: não perguntar)</"
-"span>"
+"Por favor perguntar ao sair do Escritório.<span color='red'>(Agora: não "
+"perguntar)</span>"
 
 #. [option]
 #: _main.cfg:736
@@ -550,7 +559,9 @@ msgstr "Qual você quer saber?"
 #. [option]
 #: _main.cfg:855
 msgid "<span color='yellow'>Important menu items colored with yellow</span>"
-msgstr "<span color='yellow'>Itens importantes do menu estão coloridos em amarelo</span>"
+msgstr ""
+"<span color='yellow'>Itens importantes do menu estão coloridos em amarelo</"
+"span>"
 
 #. [message]
 #: _main.cfg:859
@@ -558,8 +569,8 @@ msgid ""
 "Menu items colored with <span color='yellow'>yellow</span> are important "
 "ones. Please read those items at least."
 msgstr ""
-"Itens de menu coloridos em <span color='yellow'>amarelo</span> são importantes."
-"Por favor leia pelo menos esses itens."
+"Itens de menu coloridos em <span color='yellow'>amarelo</span> são "
+"importantes.Por favor leia pelo menos esses itens."
 
 #. [option]
 #: _main.cfg:865
@@ -575,11 +586,11 @@ msgid ""
 "Various other office tasks such as troop management and sending spies also "
 "require you."
 msgstr ""
-"Você (Você Companhia) não deve sair de Fusia se não houver problemas urgentes. "
-"Por exemplo, se você está em Fusia, um soldado aleatório será recrutado a cada "
-"turno sem nenhum custo. Mas se você não estiver em Fusia, isso não acontece."
-"Muitas outras tarefas de escritório como o gerenciamento da tropa e envio de espiões "
-"também precisam de você."
+"Você (Você Companhia) não deve sair de Fusia se não houver problemas "
+"urgentes. Por exemplo, se você está em Fusia, um soldado aleatório será "
+"recrutado a cada turno sem nenhum custo. Mas se você não estiver em Fusia, "
+"isso não acontece.Muitas outras tarefas de escritório como o gerenciamento "
+"da tropa e envio de espiões também precisam de você."
 
 #. [option]
 #: _main.cfg:875
@@ -618,10 +629,11 @@ msgstr ""
 "color='yellow'>você precisa de um soldado com proeza maior do que 50.</span> "
 "Proeza mais alta é requerida para uma tropa maior. Assim, você pode pedir ao "
 "secretário para criar uma tropa. Nesse estágio, a tropa criada tem somente "
-"um membro: o líder. Para adicionar outros membros, você pode "
-"<span color='yellow'>clicar com o botão direito na tropa na sala de espera</span> "
-"(um cômodo abaixo deste escritório). Para enviar a tropa criada para o Campo, "
-"você precisa escolher o item 'Vá para a Guerra!' no menu do botão direito.\n"
+"um membro: o líder. Para adicionar outros membros, você pode <span "
+"color='yellow'>clicar com o botão direito na tropa na sala de espera</span> "
+"(um cômodo abaixo deste escritório). Para enviar a tropa criada para o "
+"Campo, você precisa escolher o item 'Vá para a Guerra!' no menu do botão "
+"direito.\n"
 "\n"
 "Resumindo,\n"
 "<b>1.</b>: Prepare <span color='yellow'>soldados com proeza maior do que 50</"
@@ -630,7 +642,8 @@ msgstr ""
 "neste escritório.\n"
 "<b>3.</b>: Escolha <span color='yellow'>Menu de Esquadrão/Pelotão/Companhia</"
 "span>.\n"
-"<b>4.</b>: Escolha <span color='yellow'>Criar um Esquadrão/Pelotão/Companhia</span>.\n"
+"<b>4.</b>: Escolha <span color='yellow'>Criar um Esquadrão/Pelotão/"
+"Companhia</span>.\n"
 "<b>5.</b>: Escolha um comandante e clique em OK.\n"
 "<b>6.</b>: Sair do menu.\n"
 "<b>7.</b>: <span color='yellow'>Clique com o direito na tropa criada</span> "
@@ -682,10 +695,11 @@ msgid ""
 msgstr ""
 "Tome cuidado com a quantidade de comida. Se ela acabar, soldados na tropa "
 "ficam esfomeados e recebem dano a cada turno. Para pegar comida, você "
-"precisa mover suas tropas para um <span color='yellow'>aldeia, castelo, torre de "
-"menagem, ou um dos hexágonos adjacente a Fusia, a uma Bandeira ou um Armazém de "
-"Comida</span>. Note que as comidas NÃO são fornecidas quandos as unidades se "
-"movem para esses hexágonos. Elas são fornecidas no início do turno.\n"
+"precisa mover suas tropas para um <span color='yellow'>aldeia, castelo, "
+"torre de menagem, ou um dos hexágonos adjacente a Fusia, a uma Bandeira ou "
+"um Armazém de Comida</span>. Note que as comidas NÃO são fornecidas quandos "
+"as unidades se movem para esses hexágonos. Elas são fornecidas no início do "
+"turno.\n"
 "\n"
 "Por outro lado, tropas inimigas nunca ficam esfomeadas. Isso é por causa do "
 "nível de habilidade do autor estúpido desta campanha..."
@@ -714,16 +728,17 @@ msgstr ""
 "<b>Cerque a Unidade Inimiga</b>:\n"
 "Você deve cercar a unidade inimiga com suas tropas antes de atacar. Porque "
 "essas unidades adjacentes tem efeito positivo nas batalhas através do "
-"'coeficiente' de dano de ataque (veja o tópico correspondente para mais"
-"detalhes), embora elas não estejam diretamente envolvidas. Quanto mais unidades "
-"adjacentes ao inimigo, mais dano no inimigo e menos dano sofrido do inimigo. "
-"O oposto também é verdade, suas unidades não devem ser cercadas por unidades "
-"inimigas.\n"
+"'coeficiente' de dano de ataque (veja o tópico correspondente para "
+"maisdetalhes), embora elas não estejam diretamente envolvidas. Quanto mais "
+"unidades adjacentes ao inimigo, mais dano no inimigo e menos dano sofrido do "
+"inimigo. O oposto também é verdade, suas unidades não devem ser cercadas por "
+"unidades inimigas.\n"
 "\n"
 "<b>Liderança</b>:\n"
 "O efeito da habilidade liderança é diferente das batalhas normais. Se o "
 "líder tiver essa habilidade, o dano de ataque é aumentado (isso não é "
-"mostrado na janela de estado). Não há efeitos para uma unidade aliada adjacente."
+"mostrado na janela de estado). Não há efeitos para uma unidade aliada "
+"adjacente."
 
 #. [option]
 #: _main.cfg:934
@@ -758,8 +773,8 @@ msgstr ""
 "Ao redor dos líderes e guardiões, inimigos surgirão para defender o lugar. "
 "Você deve derrotar o guardião/líder ou sair dali para retirar as tropas que "
 "surgiram. A quantidade que surge depende do ouro daquele lado. Se não houver "
-"ouro suficiente, o inimigo não aparecerá. Se você quiser saber o estado "
-"dos fundos dos inimigos, envie espiões para os lados alvos."
+"ouro suficiente, o inimigo não aparecerá. Se você quiser saber o estado dos "
+"fundos dos inimigos, envie espiões para os lados alvos."
 
 #. [option]
 #: _main.cfg:948
@@ -779,11 +794,12 @@ msgid ""
 "(Buildings can be destroyed intentionally from the right click menu when "
 "Engineers are on the adjacent hex.)"
 msgstr ""
-"Torres de vigia são um tipo muito útil de construção. Essas construções não têm qualquer "
-"habilidade de ataque, mas <span color='yellow'>elas conseguem limpar a neblina de uma área "
-"significativa.</span> O custo de operação também é barato, 1 peça de ouro por turno. Construa-as "
-"para ver as ações inimigas. Mas não as construa num lugar muito"
-"próximo aos inimigos. Eles destruirão a torre imediatamente.\n"
+"Torres de vigia são um tipo muito útil de construção. Essas construções não "
+"têm qualquer habilidade de ataque, mas <span color='yellow'>elas conseguem "
+"limpar a neblina de uma área significativa.</span> O custo de operação "
+"também é barato, 1 peça de ouro por turno. Construa-as para ver as ações "
+"inimigas. Mas não as construa num lugar muitopróximo aos inimigos. Eles "
+"destruirão a torre imediatamente.\n"
 "\n"
 "(Construções podem ser destruídas intencionalmente a partir do menu do botão "
 "direito quando os Engenheiros estiverem num hex adjacente.)"
@@ -803,9 +819,10 @@ msgid ""
 "Buildings can be destroyed intentionally from the right click menu when "
 "Engineers are in the adjacent hex."
 msgstr ""
-"O Armazém de Comida é um tipo especial de construção. Seu custo de operação é alto "
-"(5 peças de ouro por turno), mas ele provê comida para as tropas adjacentes no "
-"início dos turnos. Tenha certeza de destruí-los uma vez que não forem mais necessários.\n"
+"O Armazém de Comida é um tipo especial de construção. Seu custo de operação "
+"é alto (5 peças de ouro por turno), mas ele provê comida para as tropas "
+"adjacentes no início dos turnos. Tenha certeza de destruí-los uma vez que "
+"não forem mais necessários.\n"
 "\n"
 "(Construções podem ser destruídas intencionalmente a partir do menu do botão "
 "direito quando os Engenheiros estiverem num hex adjacente.)"
@@ -831,13 +848,15 @@ msgid ""
 msgstr ""
 "Se um líder aliado estiver em perigo, você deve ajudá-lo. O jeito mais "
 "simples é matar os inimigos com suas tropas. Mas isso só é possível quando "
-"há tropas nas proximidades. O que faremos quando não houver tropas convenientes? "
-"A resposta é simples, <span color='yellow'>envie dinheiro a elesusando o emissário</span>. "
-"O dinheiro chegará no início do próximo turno, normalmente isso pode ser mais rápido do que "
-"suas tropas. O líder recrutará novas tropas usando aquele dinheiro e derrotará os inimigos.\n"
+"há tropas nas proximidades. O que faremos quando não houver tropas "
+"convenientes? A resposta é simples, <span color='yellow'>envie dinheiro a "
+"elesusando o emissário</span>. O dinheiro chegará no início do próximo "
+"turno, normalmente isso pode ser mais rápido do que suas tropas. O líder "
+"recrutará novas tropas usando aquele dinheiro e derrotará os inimigos.\n"
 "\n"
-"Esse método de ajuda é o mais efetivo para nós góblins. (Cinicamente) Porque nós góblins podemos "
-"recrutar uma tropa a um custo muito baixo! 100 peças de ouro é mais que suficiente para nós."
+"Esse método de ajuda é o mais efetivo para nós góblins. (Cinicamente) Porque "
+"nós góblins podemos recrutar uma tropa a um custo muito baixo! 100 peças de "
+"ouro é mais que suficiente para nós."
 
 #. [option]
 #: _main.cfg:986 _main.cfg:1156 _main.cfg:1230 _main.cfg:1341 _main.cfg:1453
@@ -865,7 +884,7 @@ msgid ""
 "At first, we should defeat Dunefolks. There will be no other options except "
 "when goblins were defeated other factions."
 msgstr ""
-"Em primeiro lugar, nós precisamos derrotar o Povo das Dunas. Não haverá outras "
+"Em primeiro lugar, nós precisamos derrotar os Dunefolks. Não haverá outras "
 "opções exceto quando os góblins forem derrotados por outras facções."
 
 #. [message]
@@ -884,15 +903,15 @@ msgid ""
 "In addition, cities of dwarves and trolls are bit far from Fusia. We may "
 "need some tricks to supply food..."
 msgstr ""
-"Para o próximo passo, os anões devem ser derrotados. Porque eles podem facilmente passar "
-"pelas montanhas e atacar Fusia diretamente. Mas atacar os anões é "
-"um pouco difícil por causa das montanhas impedindo-nos. Se tentarmos "
+"Para o próximo passo, os anões devem ser derrotados. Porque eles podem "
+"facilmente passar pelas montanhas e atacar Fusia diretamente. Mas atacar os "
+"anões é um pouco difícil por causa das montanhas impedindo-nos. Se tentarmos "
 "atacá-los pelo oeste, tropas do Reino vindas do Forte de Linha de Frente com "
 "certeza nos atacarão. Por outro lado, se atacarmos pelo leste, trolls nos "
 "emboscarão.\n"
 "\n"
-"Eu acho que nós devemos derrotar os <b>Trolls</b> e depois atacar os <b>Anões</b>. Nós góblins, "
-"podemos ser úteis nesse ataque.\n"
+"Eu acho que nós devemos derrotar os <b>Trolls</b> e depois atacar os "
+"<b>Anões</b>. Nós góblins, podemos ser úteis nesse ataque.\n"
 "\n"
 "Além disso, as cidades dos anões e dos trolls ficam um pouco longe de Fusia. "
 "Talvez nós precisemos de alguns truques para fornecer comida..."
@@ -909,12 +928,12 @@ msgid ""
 "when they were attacked."
 msgstr ""
 "Depois de derrotar os trolls e anões, você deve atacar orcs/draconatos ou "
-"lagartos/elfos. A escolha é sua. Orcs podem ter um grande número "
-"de soldados, então derrotá-los talvez não seja fácil. Mas, uma vez que nós "
-"derrotarmos os orcs, poderemos consolidar a parte leste da região. Por outro lado, pode ser "
-"um pouco mais fácil derrotar lagartos e elfos do que os orcs. Mas as posições deles são bem "
-"próximas aos postos avançados do Reino ou do Império. "
-"Pode ser difícil salvá-los quando eles forem atacados."
+"lagartos/elfos. A escolha é sua. Orcs podem ter um grande número de "
+"soldados, então derrotá-los talvez não seja fácil. Mas, uma vez que nós "
+"derrotarmos os orcs, poderemos consolidar a parte leste da região. Por outro "
+"lado, pode ser um pouco mais fácil derrotar lagartos e elfos do que os orcs. "
+"Mas as posições deles são bem próximas aos postos avançados do Reino ou do "
+"Império. Pode ser difícil salvá-los quando eles forem atacados."
 
 #. [option]
 #: _main.cfg:1036
@@ -934,13 +953,14 @@ msgid ""
 "they find us near their outpost, they will surely send troops."
 msgstr ""
 "Derrotar o Reino é quase impossível. Eles devem ter um grande número de "
-"soldados e líderes. Nós devemos ser defensivos contra eles. O Portão Sul é "
-"o ponto crítico. Nós precisamos bloqueá-los lá. Algumas das tropas deles virão "
+"soldados e líderes. Nós devemos ser defensivos contra eles. O Portão Sul é o "
+"ponto crítico. Nós precisamos bloqueá-los lá. Algumas das tropas deles virão "
 "pela Floresta Namorico ou pelo lado leste de Fusia. Não erre com essas "
 "tropas.\n"
 "\n"
-"Deve ser notado aqui que não devemos nos aproximar dos postos avançados deles. Se eles "
-"nos encontrarem próximos dos seus postos avançados, com certeza eles enviarão tropas."
+"Deve ser notado aqui que não devemos nos aproximar dos postos avançados "
+"deles. Se eles nos encontrarem próximos dos seus postos avançados, com "
+"certeza eles enviarão tropas."
 
 #. [option]
 #: _main.cfg:1048
@@ -961,8 +981,9 @@ msgstr ""
 "no Portão Norte. Góblins da cidade de Goba também serão atacados por eles. "
 "Talvez você precise enviar dinheiro aos góblins.\n"
 "\n"
-"Deve ser notado aqui que não devemos nos aproximar dos postos avançados deles. Se eles "
-"nos encontrarem próximos dos seus postos avançados, com certeza eles enviarão tropas."
+"Deve ser notado aqui que não devemos nos aproximar dos postos avançados "
+"deles. Se eles nos encontrarem próximos dos seus postos avançados, com "
+"certeza eles enviarão tropas."
 
 #. [option]
 #: _main.cfg:1060
@@ -979,7 +1000,8 @@ msgid ""
 "enemy shooters."
 msgstr ""
 "Nós somos aliados, então talvez você não precise lutar conosco. Mas se o "
-"líder na cidade de Goga for derrotado, você precisará se apressar para recuperar o controle.\n"
+"líder na cidade de Goga for derrotado, você precisará se apressar para "
+"recuperar o controle.\n"
 "\n"
 "Tropas góblin tem soldados do tipo cavaleiro. É esperado que sejam efetivos "
 "para matar atiradores inimigos."
@@ -987,7 +1009,7 @@ msgstr ""
 #. [option]
 #: _main.cfg:1072
 msgid "<span color='yellow'>against Dunefolks</span>"
-msgstr "<span color='yellow'>contra o Povo das Dunas</span>"
+msgstr "<span color='yellow'>contra os Dunefolks</span>"
 
 #. [message]
 #: _main.cfg:1076
@@ -1001,10 +1023,11 @@ msgid ""
 msgstr ""
 "Eles são o alvo primário. O número deles pode não ser tão grande. Nós "
 "precisaremos de 3-5 tropas para derrotá-los. Mas nunca os subestime, porque "
-"eles lutam bem na areia e a habilidade de cada soldado individualmente é bem alta.\n"
+"eles lutam bem na areia e a habilidade de cada soldado individualmente é bem "
+"alta.\n"
 "\n"
-"As tropas deles não tem aspectos muito estranhos, curandeiros devem "
-"ser os únicos tipos especiais."
+"As tropas deles não tem aspectos muito estranhos, curandeiros devem ser os "
+"únicos tipos especiais."
 
 #. [option]
 #: _main.cfg:1084
@@ -1027,18 +1050,21 @@ msgid ""
 "Their raiding party sometimes appears and attack the goblins. You should "
 "kill the parties as soon as possible to keep intimacy with goblins."
 msgstr ""
-"Se eles tentarem atacar Fusia, os góblins funcionarão como um escudo. Por favor "
-"envie dinheiro se eles estiverem com problemas. De qualquer maneira, o número de soldados orcs pode"
-"ser muito grande, se houver dinheiro fornecido pelo Reino ou Império.\n"
+"Se eles tentarem atacar Fusia, os góblins funcionarão como um escudo. Por "
+"favor envie dinheiro se eles estiverem com problemas. De qualquer maneira, o "
+"número de soldados orcs podeser muito grande, se houver dinheiro fornecido "
+"pelo Reino ou Império.\n"
 "\n"
-"Para atacá-los, você pode precisar de um jeito para fornecer comida para suas tropas pois não "
-"há aldeias próximas à casa deles. A medicação de soldados também pode ser um "
-"problema. Você deve enviar um grande número de tropas se você quiser tentar "
-"derrotá-los, por causa dos problemas acima e do grande número deles. A "
-"melhor hora para atacar os orcs é quando eles estiverem lutando contra os draconatos.\n"
+"Para atacá-los, você pode precisar de um jeito para fornecer comida para "
+"suas tropas pois não há aldeias próximas à casa deles. A medicação de "
+"soldados também pode ser um problema. Você deve enviar um grande número de "
+"tropas se você quiser tentar derrotá-los, por causa dos problemas acima e do "
+"grande número deles. A melhor hora para atacar os orcs é quando eles "
+"estiverem lutando contra os draconatos.\n"
 "\n"
 "Os grupos de incursão deles às vezes aparecem e atacam os góblins. Você deve "
-"destruir os grupos o mais rápido possível para manter a intimidade com os góblins."
+"destruir os grupos o mais rápido possível para manter a intimidade com os "
+"góblins."
 
 #. [option]
 #: _main.cfg:1098
@@ -1056,13 +1082,14 @@ msgid ""
 "trolls first, and then attack dwarves from the east. If they remain as an "
 "enemy, we will surely get ambushed over the mountains."
 msgstr ""
-"Como inimigos, eles são oponentes incríveis para Fusia. Fusia é bem protegida pelas "
-"montanhas, mas essas montanhas não são uma barreira contra anões. Então você "
-"deve derrotá-los o mais rápido quanto possível. Mas o lado oeste é protegido "
-"pelo Forte de Linha de Frente do Reino, e no leste parte do território sobrepõe-se com "
-"território troll. É muito difícil atacá-los diretamente. Nós devemos derrotar os "
-"trolls primeiro, e depois atacar os anões pelo leste. Se eles continuarem sendo inimigos, "
-"com certeza nós seremos emboscados através as montanhas."
+"Como inimigos, eles são oponentes incríveis para Fusia. Fusia é bem "
+"protegida pelas montanhas, mas essas montanhas não são uma barreira contra "
+"anões. Então você deve derrotá-los o mais rápido quanto possível. Mas o lado "
+"oeste é protegido pelo Forte de Linha de Frente do Reino, e no leste parte "
+"do território sobrepõe-se com território troll. É muito difícil atacá-los "
+"diretamente. Nós devemos derrotar os trolls primeiro, e depois atacar os "
+"anões pelo leste. Se eles continuarem sendo inimigos, com certeza nós "
+"seremos emboscados através as montanhas."
 
 #. [option]
 #: _main.cfg:1108
@@ -1125,12 +1152,13 @@ msgid ""
 "They sometimes fight against orcs, it can be a good chance to attack those "
 "two sides."
 msgstr ""
-"Eles podem não ser um inimigo direto à Fusia. Mas eles são os principais inimigos dos góblins "
-"em Goba. Felizmente, se você enviar dinheiro aos góblins convenientemente, ataques dos "
-"draconatos podem ser bloqueados sem tropas de Fusia.\n"
+"Eles podem não ser um inimigo direto à Fusia. Mas eles são os principais "
+"inimigos dos góblins em Goba. Felizmente, se você enviar dinheiro aos "
+"góblins convenientemente, ataques dos draconatos podem ser bloqueados sem "
+"tropas de Fusia.\n"
 "\n"
-"Eles às vezes lutam contra orcs, isso pode ser uma boa oportunidade para atacar "
-"esses dois lados."
+"Eles às vezes lutam contra orcs, isso pode ser uma boa oportunidade para "
+"atacar esses dois lados."
 
 #. [option]
 #: _main.cfg:1144
@@ -1185,10 +1213,11 @@ msgid ""
 "outposts (excluding main outpost of sides). In the latter case, you may get "
 "a Flag unit at the defeated enemy outpost."
 msgstr ""
-"<b>Receita bônus</b> é um tipo um bem especial de receita. Esta pode ser obtida "
-"quando você envia burocratas às aldeias inimigas ou se você conquistou postos avançados "
-"inimigos (excluindo o principal posto avançado dos lados). No último caso, você pode receber "
-"uma unidade Bandeira no posto avançado do inimigo derrotado."
+"<b>Receita bônus</b> é um tipo um bem especial de receita. Esta pode ser "
+"obtida quando você envia burocratas às aldeias inimigas ou se você "
+"conquistou postos avançados inimigos (excluindo o principal posto avançado "
+"dos lados). No último caso, você pode receber uma unidade Bandeira no posto "
+"avançado do inimigo derrotado."
 
 #. [message]
 #: _main.cfg:1196
@@ -1196,8 +1225,9 @@ msgid ""
 "If you find a treasure and it does not have special power, you may get gold "
 "instead. This is the only way to get large amount of money instantly."
 msgstr ""
-"Se você encontrar um tesouro e ele não tiver nenhum poder especial, você pode, ao invés disso, pegar ouro. "
-"Este é o único jeito de conseguir grandes quantidades de ouro instantaneamente."
+"Se você encontrar um tesouro e ele não tiver nenhum poder especial, você "
+"pode, ao invés disso, pegar ouro. Este é o único jeito de conseguir grandes "
+"quantidades de ouro instantaneamente."
 
 #. [option]
 #: _main.cfg:1202
@@ -1224,10 +1254,10 @@ msgstr ""
 "2: Manter construções (Torre de Vigia, Armazém de Comida)\n"
 "3: Recrutar uma unidade líder ou soldado.\n"
 "\n"
-"Se houverem bandidos em nossa terra, a receita pode ser reduzida. Deve ser notado "
-"que unidades especiais (tais como Engenheiros) na sala de espera não requerem "
-"manutenção. Se não houver trabalhos para eles, envie-os à sala de espera para economizar "
-"dinheiro."
+"Se houverem bandidos em nossa terra, a receita pode ser reduzida. Deve ser "
+"notado que unidades especiais (tais como Engenheiros) na sala de espera não "
+"requerem manutenção. Se não houver trabalhos para eles, envie-os à sala de "
+"espera para economizar dinheiro."
 
 #. [option]
 #: _main.cfg:1218
@@ -1246,14 +1276,15 @@ msgid ""
 "For example, to help allies and to prepare sudden increases of outgo by "
 "bandits."
 msgstr ""
-"Recrutar um comandante por 40 peças de ouro é o uso principal. Unidades de nível baixo são "
-"recrutadas automaticamene todos os turnos (se você estiver em Fusia), mas "
-"esses novatos não podem ser comandantes imediatamente. Se você tem comandantes "
-"o suficiente e não muitos soldados, recrutar um lanceiro/arqueiro por 10 peças de ouro é uma escolha sensata.\n"
+"Recrutar um comandante por 40 peças de ouro é o uso principal. Unidades de "
+"nível baixo são recrutadas automaticamene todos os turnos (se você estiver "
+"em Fusia), mas esses novatos não podem ser comandantes imediatamente. Se "
+"você tem comandantes o suficiente e não muitos soldados, recrutar um "
+"lanceiro/arqueiro por 10 peças de ouro é uma escolha sensata.\n"
 "\n"
-"Por outro lado, você deve guardar alguma quantidade de ouro para tarefas urgentes... "
-"Por exemplo, para ajudar aliados e preparar aumentos súbidos de despesas causadas "
-"por bandidos."
+"Por outro lado, você deve guardar alguma quantidade de ouro para tarefas "
+"urgentes... Por exemplo, para ajudar aliados e preparar aumentos súbidos de "
+"despesas causadas por bandidos."
 
 #. [message]
 #: _main.cfg:1256
@@ -1280,10 +1311,11 @@ msgid ""
 "If an unit is already in his/her maxlevel, experience required for the next "
 "level becomes 999."
 msgstr ""
-"O nível máximo da unidade é determinado quando ele/ela é criado, independentemente do tipo "
-"de unidade. Por exemplo, se o nível máximo de um lanceiro é 1, ele não conseguirá se tornar "
-"um espadachim/piqueiro. Assim, unidades com nível máximo alto são muito raras e "
-"importantes. Por favor não desperdice unidades de nível máximo alto.\n"
+"O nível máximo da unidade é determinado quando ele/ela é criado, "
+"independentemente do tipo de unidade. Por exemplo, se o nível máximo de um "
+"lanceiro é 1, ele não conseguirá se tornar um espadachim/piqueiro. Assim, "
+"unidades com nível máximo alto são muito raras e importantes. Por favor não "
+"desperdice unidades de nível máximo alto.\n"
 "\n"
 "Se uma unidade já está no seu nível máximo, a experiência requerida para o "
 "próximo nível torna-se 999."
@@ -1315,7 +1347,9 @@ msgstr ""
 #. [option]
 #: _main.cfg:1281
 msgid "<span color='yellow'>Vanguards, Shooters, Riders, and Refugees</span>"
-msgstr "<span color='yellow'>Vanguardeiros, Atiradores, Cavaleiros e Refugiados</span>"
+msgstr ""
+"<span color='yellow'>Vanguardeiros, Atiradores, Cavaleiros e Refugiados</"
+"span>"
 
 #. [message]
 #: _main.cfg:1285
@@ -1338,23 +1372,24 @@ msgid ""
 "units in your troop, you may switch them to refugees type. Refugees are "
 "marked with <b>X</b>"
 msgstr ""
-"Todos os tipos de unidade são divididos em <b>vanguardeiro, atirador ou cavaleiro</b>. "
-"Unidades boas em corpo a corpo são classificadas como vanguardeiras. Por outro lado, "
-"unidades boas em ataques de longo alcance, curandeiros ou comandantes (tendo liderança) "
-"são atiradoras. Soldados mistos são normalmente considerados vanguardeiros. Unidades montadas "
-"e outras unidades ágeis (como lagartos) são consideradas como cavaleiras. Note que "
-"unidades montadas nem sempre são cavaleiras. Vanguardeiros, atiradores e cavaleiros "
-"são marcados com <b>V</b>(vanguarda), <b>R</b>(retaguarda) e <b>C</b>(cavalaria) na "
-"janela de estado, respectivamente.\n"
+"Todos os tipos de unidade são divididos em <b>vanguardeiro, atirador ou "
+"cavaleiro</b>. Unidades boas em corpo a corpo são classificadas como "
+"vanguardeiras. Por outro lado, unidades boas em ataques de longo alcance, "
+"curandeiros ou comandantes (tendo liderança) são atiradoras. Soldados mistos "
+"são normalmente considerados vanguardeiros. Unidades montadas e outras "
+"unidades ágeis (como lagartos) são consideradas como cavaleiras. Note que "
+"unidades montadas nem sempre são cavaleiras. Vanguardeiros, atiradores e "
+"cavaleiros são marcados com <b>V</b>(vanguarda), <b>R</b>(retaguarda) e "
+"<b>C</b>(cavalaria) na janela de estado, respectivamente.\n"
 "\n"
-"Você pode mudar o papel da unidade a partir da janela de estado da tropa. Note que a classe "
-"cavaleiro fica disponível somente para algumas unidades específicas. A maioria das unidades "
-"não pode ser cavaleira.\n"
+"Você pode mudar o papel da unidade a partir da janela de estado da tropa. "
+"Note que a classe cavaleiro fica disponível somente para algumas unidades "
+"específicas. A maioria das unidades não pode ser cavaleira.\n"
 "\n"
-"O último tipo de unidade, Refugiado, é um tipo especial. Eles não são envolvidos em "
-"nenhuma batalha. O líder não pode ser um refugiado. Se você tiver unidades gravemente "
-"feridas na sua tropa, você pode colocá-las com o tipo refugiado. Refugiados "
-"são marcados com <b>X</b>"
+"O último tipo de unidade, Refugiado, é um tipo especial. Eles não são "
+"envolvidos em nenhuma batalha. O líder não pode ser um refugiado. Se você "
+"tiver unidades gravemente feridas na sua tropa, você pode colocá-las com o "
+"tipo refugiado. Refugiados são marcados com <b>X</b>"
 
 #. [option]
 #: _main.cfg:1295
@@ -1400,16 +1435,19 @@ msgstr ""
 "simultaneamnete, a melhor será escolhida.\n"
 "\n"
 "<span color='green'>+8</span>:\n"
-"1. se a tropa estiver em <span color='red'>Aldeia, Castelo, Torre de Menagem ou algum hex adjacente "
-"à Fusia</span> e <b>não houver unidades inimigas adjacentes</b>\n"
+"1. se a tropa estiver em <span color='red'>Aldeia, Castelo, Torre de Menagem "
+"ou algum hex adjacente à Fusia</span> e <b>não houver unidades inimigas "
+"adjacentes</b>\n"
 "2. se a tropa tiver a habilidade medicação\n"
 "\n"
 "<span color='green'>+6</span>:\n"
-"1. se a tropa tiver uma unidade com medicar +8 e <b>não houver unidades inimigas adjacentes</b>\n"
+"1. se a tropa tiver uma unidade com medicar +8 e <b>não houver unidades "
+"inimigas adjacentes</b>\n"
 "2. se a unidade tiver habilidade regeneração\n"
 "\n"
 "<span color='green'>+4</span>:\n"
-"1. se a tropa tiver uma unidade com medicar +4 e <b>não houver unidades inimigas adjacentes</b>\n"
+"1. se a tropa tiver uma unidade com medicar +4 e <b>não houver unidades "
+"inimigas adjacentes</b>\n"
 "\n"
 "<span color='green'>+3</span>:\n"
 "1. se a tropa tiver uma unidade com medicar +8\n"
@@ -1417,13 +1455,14 @@ msgstr ""
 "<span color='green'>+2</span>:\n"
 "1. se a tropa tiver uma unidade com medicar +4\n"
 "2. se não houver unidades inimigas adjacentes\n"
-"3. se há unidades inimigas adjacentes mas a tropa está em aldeias ou castelos\n"
+"3. se há unidades inimigas adjacentes mas a tropa está em aldeias ou "
+"castelos\n"
 "\n"
 "Note que se houver uma unidade inimiga adjacente, a porção da medicação é "
-"reduzida significativamente mesmo numa aldeia. Tropas nunca ficam envenenadas, você não "
-"precisa se preocupar com isso. Envenenamentos obtidos em escaramuças (num mapa diferente do Campo, "
-"tais como batalhas contra bandidos na Floresta Namorico) "
-"também são curadas ao sair da escaramuça."
+"reduzida significativamente mesmo numa aldeia. Tropas nunca ficam "
+"envenenadas, você não precisa se preocupar com isso. Envenenamentos obtidos "
+"em escaramuças (num mapa diferente do Campo, tais como batalhas contra "
+"bandidos na Floresta Namorico) também são curadas ao sair da escaramuça."
 
 #. [option]
 #: _main.cfg:1326
@@ -1453,8 +1492,8 @@ msgid ""
 "The battle system is also very much different from ordinary campaigns. Check "
 "it out carefully."
 msgstr ""
-"O sistema de batalha também é muito diferente das campanhas típicas. Verifique-o "
-"cuidadosamente."
+"O sistema de batalha também é muito diferente das campanhas típicas. "
+"Verifique-o cuidadosamente."
 
 #. [option]
 #: _main.cfg:1370
@@ -1480,12 +1519,14 @@ msgstr ""
 "O dano de ataque da tropa é calculado a partir dos ataques dos membros.\n"
 "\n"
 "<b>Corpo a Corpo: soma do ataque corpo a corpo dos VANGUARDEIROS.</b>\n"
-"<b>Longa Distância: soma do ataque de longa distância de TODAS AS UNIDADES (exceto REFUGIADOS).</b>\n"
+"<b>Longa Distância: soma do ataque de longa distância de TODAS AS UNIDADES "
+"(exceto REFUGIADOS).</b>\n"
 "\n"
-"Porém há alguns casos especiais. Cavaleiros tem uma função especial na batalha "
-"(veja o tópico correspondente para mais detalhes). Ataques de longa distância de vanguardeiros/"
-"cavaleiros serão um pouco reduzidos (multiplicados por <b>0.6</b>) a partir da habilidade básica "
-"deles. Por outro lado, ataques de longa distância dos atiradores são aumentados "
+"Porém há alguns casos especiais. Cavaleiros tem uma função especial na "
+"batalha (veja o tópico correspondente para mais detalhes). Ataques de longa "
+"distância de vanguardeiros/cavaleiros serão um pouco reduzidos "
+"(multiplicados por <b>0.6</b>) a partir da habilidade básica deles. Por "
+"outro lado, ataques de longa distância dos atiradores são aumentados "
 "(multiplicados por <b>1.2</b>). Ataques corpo a corpo de atiradores podem "
 "ser ativados quando não há guardas para eles (mais precisamente, quando eles "
 "são envolvidos diretamente em batalha corpo a corpo.)."
@@ -1502,8 +1543,8 @@ msgid ""
 "span> Since the shooters are safer than vanguards, shooter leaders may be "
 "better to avoid unlucky death of a troop."
 msgstr ""
-"<span color='yellow'>Morte do líder significa a morte da tropa.</"
-"span> Uma vez que atiradores estão mais protegidos do que vanguardeiros, líderes "
+"<span color='yellow'>Morte do líder significa a morte da tropa.</span> Uma "
+"vez que atiradores estão mais protegidos do que vanguardeiros, líderes "
 "atiradores podem ser melhores para evitar uma morte azarada da tropa."
 
 #. [option]
@@ -1534,11 +1575,12 @@ msgstr ""
 "O ataque de longa distância é calculado assim:\n"
 "(dano de ataque de longa distância) * (coeficiente) * (defesa inimiga)\n"
 "\n"
-"O dano calculado é distribuído para <b>TODAS AS UNIDADES DA TROPA INIMIGA</b>, "
-"onde <i>dano de ataque de longa distância</i> é o dano de ataque de longa distância exibido, e "
-"<i>defesa inimiga</i> é a defesa típica da unidade no terreno atual. "
-"Unidades podem não morrer facilmente por ataques de longa distância uma vez que ele é distribuído por toda a unidade. "
-"Por outro lado, no ataque corpo a corpo, unidades alvo (vanguardeiros ou "
+"O dano calculado é distribuído para <b>TODAS AS UNIDADES DA TROPA INIMIGA</"
+"b>, onde <i>dano de ataque de longa distância</i> é o dano de ataque de "
+"longa distância exibido, e <i>defesa inimiga</i> é a defesa típica da "
+"unidade no terreno atual. Unidades podem não morrer facilmente por ataques "
+"de longa distância uma vez que ele é distribuído por toda a unidade. Por "
+"outro lado, no ataque corpo a corpo, unidades alvo (vanguardeiros ou "
 "atiradores) podem morrer facilmente por causa do dano concentrado nelas. "
 "Para saber mais sobre o coeficiente de dano, veja o tópico sobre ele."
 
@@ -1580,23 +1622,26 @@ msgid ""
 "estimate the actual damage. For about damage coefficient, see the topic "
 "about that."
 msgstr ""
-"Ataque e contra-ataque são feitos simultaneamente. Mesmo que você possa derrotar "
-"a tropa inimiga com seu ataque, você recebe o dano de contra-ataque, e ataque de "
-"longa distância também acontece quando o ataque corpo a corpo ocorre.\n"
+"Ataque e contra-ataque são feitos simultaneamente. Mesmo que você possa "
+"derrotar a tropa inimiga com seu ataque, você recebe o dano de contra-"
+"ataque, e ataque de longa distância também acontece quando o ataque corpo a "
+"corpo ocorre.\n"
 "\n"
-"Ataque corpo a corpo é um pouco complicado. O dano de ataque na janela de estado "
-"é escrito no formato A (X+Y+Z), onde X, Y e Z são os totais de dano "
-"pelos vanguardeiros, cavaleiros e atiradores, respectivamente. A é "
-"apenas a soma de X e Y se houver pelo menos um vanguardeiro/cavaleiro. O dano de ataque da "
-"vanguarda é distribuído para <b>todas as unidades VANGUARDEIRAS e CAVALEIRAS</b>. Ataque "
-"corpo a corpo de atiradores fica ativo somente quando não há vanguardeiros e cavaleiros.\n"
+"Ataque corpo a corpo é um pouco complicado. O dano de ataque na janela de "
+"estado é escrito no formato A (X+Y+Z), onde X, Y e Z são os totais de dano "
+"pelos vanguardeiros, cavaleiros e atiradores, respectivamente. A é apenas a "
+"soma de X e Y se houver pelo menos um vanguardeiro/cavaleiro. O dano de "
+"ataque da vanguarda é distribuído para <b>todas as unidades VANGUARDEIRAS e "
+"CAVALEIRAS</b>. Ataque corpo a corpo de atiradores fica ativo somente quando "
+"não há vanguardeiros e cavaleiros.\n"
 "\n"
 "O alvo do ataque de cavaleiros é um pouco complicado.\n"
 "\n"
 "Alvo do ataque de cavaleiro:\n"
 "- se há inimigos cavaleiros, ataca-os.\n"
 "- se não há cavaleiros inimigos mas há atiradores, ataca os atiradores.\n"
-"- se não há cavaleiros nem atiradores na tropa inimiga, ataca os vanguardeiros\n"
+"- se não há cavaleiros nem atiradores na tropa inimiga, ataca os "
+"vanguardeiros\n"
 "\n"
 "E deve ser notado que <b>ataque de longa distância também ocorre durante o "
 "ataque corpo a corpo</b>.\n"
@@ -1605,10 +1650,10 @@ msgstr ""
 "(dano de ataque corpo a corpo) * (coeficiente) * (defesa inimiga)\n"
 "\n"
 "onde o <i>dano do ataque corpo a corpo</i> é o dano de ataque exibido, e "
-"<i>defesa inimiga</i> é a típica defesa da unidade no terreno atual. O "
-"dano real a uma unidade é um pouco aleatório, então é muito difícil "
-"estimar o dano real. Para saber mais sobre o coeficiente de dano, veja o "
-"tópico sobre ele."
+"<i>defesa inimiga</i> é a típica defesa da unidade no terreno atual. O dano "
+"real a uma unidade é um pouco aleatório, então é muito difícil estimar o "
+"dano real. Para saber mais sobre o coeficiente de dano, veja o tópico sobre "
+"ele."
 
 #. [option]
 #: _main.cfg:1436
@@ -1669,20 +1714,17 @@ msgstr ""
 
 #. [option]
 #: _main.cfg:1482
-#, fuzzy
 msgid "<span color='yellow'>Engineers</span>"
 msgstr "<span color='yellow'>Engenheiros</span>"
 
 #. [message]: speaker=narrator
 #. [unit_type]: id=Engineers, race=dwarf
 #: _main.cfg:1485 units/Engineers.cfg:5
-#, fuzzy
 msgid "Engineers"
 msgstr "Engenheiros"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1488
-#, fuzzy
 msgid ""
 "They are skilled craftsperson. They can build Watchtowers and Foodstorages "
 "on the Field. They are valuable people in our country, so we cannot use many "
@@ -1704,23 +1746,21 @@ msgstr ""
 "construção, envie eles à um hex adjacente e clique com o direito na "
 "contrução.\n"
 "\n"
-"Você não pode deixar eles morrerem. Se tropas inimigas aparecerem quando "
-"eles estiverem criando uma construção, você deve abandonar a construção e "
-"deixar eles irem embora. (Os pontos de movimento deles são recuperados "
-"quando a construção é destruída. Esta recuperação acontece só depois do 2º "
-"turno da construção.)"
+"Você não deve deixar eles morrerem. Se tropas inimigas vierem quando eles "
+"estiverem fazendo uma construção, você deve abandonar a construção e deixar "
+"eles irem embora. (Os pontos de movimento deles são recuperados quando a "
+"construção é destruída. Esta recuperação acontece só depois do 2º turno da "
+"construção.)"
 
 #. [message]: speaker=narrator
 #. [option]
 #. [unit_type]: id=Paperpusher, race=human
 #: _main.cfg:1496 _main.cfg:1499 units/Paperpusher.cfg:5
-#, fuzzy
 msgid "Paperpusher"
 msgstr "Burocrata"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1502
-#, fuzzy
 msgid ""
 "These wicked guys may not be so useful in our country. But if we can manage "
 "to send them to an enemy village, they will get money from that village. It "
@@ -1731,10 +1771,10 @@ msgid ""
 "Enemy soldiers may hate people like them. Paperpushers might be able to lure "
 "enemy troops."
 msgstr ""
-"Esses caras perversos podem não ser muito úteis em nosso país. Mas se você "
+"Esses caras imorais podem não ser muito úteis em nosso país. Mas se você "
 "conseguir mandá-los para uma aldeia inimiga, eles pegarão dinheiro daquela "
 "aldeia. Isso causa alguns danos para os lados inimigos. E mais, eles podem "
-"dar uma parte do lucro deles. Eles sabem que eles deverão ser mortos se não "
+"dar uma parte do lucro deles. Eles sabem que eles serão mortos se não "
 "fizerem isso.\n"
 "\n"
 "Soldados inimigos podem odiar pessoas como eles. Burocratas podem ser "
@@ -1743,13 +1783,11 @@ msgstr ""
 #. [message]: speaker=narrator
 #. [option]
 #: _main.cfg:1510 _main.cfg:1513 utils/message_speakers.cfg:66
-#, fuzzy
 msgid "Spy"
 msgstr "Espião"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1516
-#, fuzzy
 msgid ""
 "They are not field units, but they can gather some information of our "
 "enemies ... and allies. If you have enough money, you should better send "
@@ -1772,7 +1810,6 @@ msgstr ""
 #. [option]
 #. [unit_type]: id=Flag, race=mechanical
 #: _main.cfg:1524 _main.cfg:1527 units/Flag.cfg:5
-#, fuzzy
 msgid "Flag"
 msgstr "Bandeira"
 
@@ -1845,9 +1882,9 @@ msgid ""
 "villages around."
 msgstr ""
 "Armazéns de Comida fornecem comida para nossas tropas. Engenheiros podem "
-"construí-los no Campo. Mas eles custam bastante (5 peças de ouro por turno), e não "
-"tão úteis em casos normais pois podemos obter comida de qualquer aldeia ou "
-"torre de menagem.\n"
+"construí-los no Campo. Mas eles custam bastante (5 peças de ouro por turno), "
+"e não tão úteis em casos normais pois podemos obter comida de qualquer "
+"aldeia ou torre de menagem.\n"
 "\n"
 "Eles podem ser úteis quando atacarmos lugares rurais ou raças não tão "
 "civilizadas... como lagartos, trolls e orcs, onde não há tantas aldeias ao "
@@ -1951,7 +1988,7 @@ msgstr ""
 "três turnos. <span color='yellow'>Se você quiser negociar com os merfolks, a "
 "ajuda deles é necessária.</span> Isso é necessário porque nós não temos "
 "navios para ir à cidade merfolk. Além disso, rumores dizem que nagas "
-"conhecem tespeças de ouro antigos escondidos na terra. Se você estiver interessado "
+"conhecem tesouros antigos escondidos na terra. Se você estiver interessado "
 "nesses artefatos, fale com eles."
 
 #. [option]
@@ -2060,43 +2097,36 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: _main.cfg:1769
-#, fuzzy
 msgid "You recruited a spearman!"
-msgstr "Você recrutou um lanceiro desmontado!"
+msgstr "Você recrutou um lanceiro!"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1777
-#, fuzzy
 msgid "You recruited a bowman!"
 msgstr "Você recrutou um arqueiro!"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1791
-#, fuzzy
 msgid "You recruited a mage!"
 msgstr "Você recrutou um mago!"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1807
-#, fuzzy
 msgid "You recruited a horseman!"
 msgstr "Você recrutou um soldado montado!"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1815
-#, fuzzy
 msgid "You recruited a cavalryman!"
 msgstr "Você recrutou um equestre!"
 
 #. [language]
 #: _main.cfg:1860
-#, fuzzy
 msgid "type^none"
 msgstr "nenhum"
 
 #. [language]
 #: _main.cfg:1861
-#, fuzzy
 msgid "range^none"
 msgstr "nenhum"
 
@@ -2105,36 +2135,31 @@ msgstr "nenhum"
 #. [side]
 #: lua/actions.lua:772 scenarios/Field.cfg:7164 scenarios/Prologue.cfg:776
 #: utils/sides.cfg:9 utils/sides.cfg:46
-#, fuzzy
 msgid "Fusia"
 msgstr "Fusia"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:773 scenarios/Field.cfg:7217
-#, fuzzy
 msgid "Wet Mountain"
-msgstr "Montanha Molhada"
+msgstr "Montanha Chuvosa"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:774 scenarios/Field.cfg:7205
-#, fuzzy
 msgid "Mountain Lake"
 msgstr "Lago da Montanha"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:775 scenarios/Field.cfg:7193
-#, fuzzy
 msgid "King Port"
-msgstr "Porto do Reino"
+msgstr "Porto do Rei"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #. [then]
 #: lua/actions.lua:776 scenarios/Field.cfg:2586 scenarios/Field.cfg:7181
-#, fuzzy
 msgid "Crownia"
 msgstr "Corônia"
 
@@ -2142,196 +2167,165 @@ msgstr "Corônia"
 #. [option]
 #. [then]
 #: lua/actions.lua:777 scenarios/Field.cfg:2692 scenarios/Field.cfg:7253
-#, fuzzy
 msgid "Sceptoria"
 msgstr "Cetrônia"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:778 scenarios/Field.cfg:7265
-#, fuzzy
 msgid "Emperor Port"
-msgstr "Porto do Império"
+msgstr "Porto do Imperador"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:779
-#, fuzzy
 msgid "Goba"
 msgstr "Goba"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:780
-#, fuzzy
 msgid "Goga"
 msgstr "Goga"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:781 scenarios/Field.cfg:7326
-#, fuzzy
 msgid "Emira-Malikah"
 msgstr "Emira-Malikah"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:782 scenarios/Field.cfg:7338
-#, fuzzy
 msgid "Baragor"
 msgstr "Baragor"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:783 scenarios/Field.cfg:7350
-#, fuzzy
 msgid "Knerg"
 msgstr "Knerg"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:784 scenarios/Field.cfg:7364
-#, fuzzy
 msgid "Rockia"
-msgstr "Rockia"
+msgstr "Pedria"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:785 scenarios/Field.cfg:7376
-#, fuzzy
 msgid "Sylvania"
-msgstr "Sylvania"
+msgstr "Silvestria"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:786 scenarios/Field.cfg:7388
-#, fuzzy
 msgid "Free Aqua"
 msgstr "Aquae Livres"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:787 scenarios/Field.cfg:7400
-#, fuzzy
 msgid "Dragon Teeth"
 msgstr "Dentes de Dragão"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #. [option]
 #: lua/actions.lua:788 scenarios/Field.cfg:7412
-#, fuzzy
 msgid "Slicks"
 msgstr "Slicks"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:800
-#, fuzzy
 msgid "very short distance"
-msgstr "distância bem pequena"
+msgstr "distância bem curta"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:802
-#, fuzzy
 msgid "not far"
 msgstr "não longe"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:804
-#, fuzzy
 msgid "bit far"
 msgstr "um pouco longe"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:806
-#, fuzzy
 msgid "far"
 msgstr "longe"
 
 #. [lua]: wesnoth.wml_actions.aiw_get_nearest
 #: lua/actions.lua:808
-#, fuzzy
 msgid "very far"
 msgstr "muito longe"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:329
-#, fuzzy
 msgid "Unit Status"
 msgstr "Estado da Unidade"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:477
-#, fuzzy
 msgid "status^image"
 msgstr "imagem"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:487
-#, fuzzy
 msgid "status^name"
 msgstr "nome"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:497
-#, fuzzy
 msgid "status^HP"
 msgstr "HP"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:507
-#, fuzzy
 msgid "status^EXP"
 msgstr "EXP"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:517
-#, fuzzy
 msgid "status^exploit"
 msgstr "proeza"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:527
-#, fuzzy
 msgid "status^traits"
 msgstr "características"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:609
-#, fuzzy
 msgid "Select/Change"
-msgstr "Selecionar/Mudar"
+msgstr "Selecionar/Alterar"
 
 #. [lua]: aiw_show_status_table
 #: lua/status.lua:615
-#, fuzzy
 msgid "Cancel"
 msgstr "Cancelar"
 
 #. [lua]: show_status_preshow_sub
 #: lua/status.lua:672 lua/status.lua:678 lua/status.lua:683
-#, fuzzy
 msgid "[F]"
 msgstr "[V]"
 
 #. [lua]: show_status_preshow_sub
 #: lua/status.lua:673 lua/status.lua:677 lua/status.lua:684
-#, fuzzy
 msgid "[B]"
 msgstr "[R]"
 
 #. [lua]: show_status_preshow_sub
 #: lua/status.lua:674 lua/status.lua:679 lua/status.lua:682
-#, fuzzy
 msgid "[R]"
 msgstr "[C]"
 
 #. [lua]: show_status_preshow_sub
 #: lua/status.lua:675 lua/status.lua:680 lua/status.lua:685
-#, fuzzy
 msgid "[X]"
 msgstr "[X]"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:178
-#, fuzzy
 msgid ""
 "Members:\n"
 "  "
@@ -2341,89 +2335,75 @@ msgstr ""
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:180
-#, fuzzy
 msgid "Foods: "
 msgstr "Comida: "
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:194
-#, fuzzy
 msgid "number of members"
 msgstr "número de membros"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:204
-#, fuzzy
 msgid "amount of food"
 msgstr "quantidade de comida"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:213
-#, fuzzy
 msgid "Attacks\n"
 msgstr "Ataques\n"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:214
-#, fuzzy
 msgid "attacks"
 msgstr "ataques"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:221
-#, fuzzy
 msgid "melee attack"
 msgstr "ataque corpo a corpo"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:229 lua/theme_items.lua:237
-#, fuzzy
 msgid "melee attack (vanguards + riders + shooters)"
 msgstr "ataque corpo a corpo (vanguardeiros + cavaleiros + atiradores)"
 
 #. [lua]: wesnoth.interface.game_display.unit_weapons
 #: lua/theme_items.lua:245 lua/theme_items.lua:252
-#, fuzzy
 msgid "ranged attack"
 msgstr "ataque à distância"
 
 #. [scenario]: id=Epilogue
 #: scenarios/Epilogue.cfg:1153
-#, fuzzy
 msgid "Epilogue"
 msgstr "Epílogo"
 
 #. [unit]: id=Redy, type=MageL
 #: scenarios/Epilogue.cfg:1351
-#, fuzzy
 msgid "Redinowardorionol"
 msgstr "Redinowardorionol"
 
 #. [unit]: id=Mig, type=Sergeant
 #: scenarios/Epilogue.cfg:1449 scenarios/Field.cfg:4284
-#, fuzzy
 msgid "Mig"
 msgstr "Mig"
 
 #. [unit]: id=Hid, type=Spearman
 #: scenarios/Epilogue.cfg:1466 scenarios/Field.cfg:4301
-#, fuzzy
 msgid "Hid"
 msgstr "Hid"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1522
-#, fuzzy
 msgid ""
 "CHEERS!! We have won! We are free from the idiots of the Kingdom and Empire! "
 "Today’s beer is too yummy!"
 msgstr ""
 "FELICIDADES!! Nós vencemos! Nós estamos livres dos idiotas do Reino e do "
-"Império! A cerveja de hoje é tão gostosa!"
+"Império! A cerveja de hoje é tão saborosa!"
 
 #. [message]: speaker=Fiona
 #: scenarios/Epilogue.cfg:1527 scenarios/Epilogue.cfg:1884
-#, fuzzy
 msgid "Fiona^Yeah!"
 msgstr "Eeehhhh!"
 
@@ -2431,17 +2411,15 @@ msgstr "Eeehhhh!"
 # Até pq ninguém fala que está esperando pelas palavras de outrem, mas sim por odens, instruções, mensagem, etc. Talvez vc queira mudar isto neste string e nos outros da conversa desse grupo.
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1532
-#, fuzzy
 msgid ""
 "Why you begin drinking, trickster? Did you also join to the alcoholic team? "
 "We should wait the words of our lord."
 msgstr ""
 "Por que você começou a beber, vigarista? Você também se juntou ao time dos "
-"alcoólatras? Nós devemos esperar pelas ordens de nosso mestre."
+"alcoólatras? Nós devemos esperar pelas ordens de nosso lorde."
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1537
-#, fuzzy
 msgid ""
 "Hey hardhead, we must be starved if we wait for his words!! Such bad customs "
 "must be abandoned!"
@@ -3060,13 +3038,11 @@ msgstr "Construção deste Armazém de Comida foi completado!"
 
 #. [floating_text]
 #: scenarios/Field.cfg:818
-#, fuzzy
 msgid "<span color='#00ff00'>$tmp_after|</span>"
 msgstr "<span color='#00ff00'>$tmp_after|</span>"
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:1033
-#, fuzzy
 msgid ""
 "You earned <b>$my_income|</b> gold!<tt>\n"
 "<u>base income</u>   :$base_income\n"
@@ -3075,7 +3051,7 @@ msgid ""
 "<u>units</u>         :-$minus_units\n"
 "<u>bandits</u>       :-$minus_bandits</tt>"
 msgstr ""
-"Você obteve <b>$my_income|</b> em dinheiro!<tt>\n"
+"Você recebeu <b>$my_income|</b> em peças de ouro!<tt>\n"
 "<u>receita base</u>  :$base_income\n"
 "<u>bônus</u>         :$bonus_income\n"
 "<u>aldeia</u>        :-$minus_income\n"
@@ -3084,29 +3060,25 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:1169
-#, fuzzy
 msgid ""
 "A new bandit group is reported to appear in Fling forest. There are "
 "$aiw_field_bandits_fling.length of bandit groups in that forest now."
 msgstr ""
-"Há um informe que um novo grupo de bandidos apareceu na Floresta Namorico. "
-"Há $aiw_field_bandits_fling.length grupo(s) de bandidos agora naquela "
-"floresta."
+"Há um relato que um novo grupo de bandidos apareceu na Floresta Namorico. Há "
+"$aiw_field_bandits_fling.length grupo(s) de bandidos naquela floresta agora."
 
 #. [message]
 #: scenarios/Field.cfg:1229
-#, fuzzy
 msgid ""
 "An agent group appears in a village nearby Fusia! Please push them out as "
 "soon as possible! There are $aiw_field_agents.length groups of agents now!"
 msgstr ""
-"Um grupo de agentes apareceu em uma aldeia próximo de Fusia! Por favor "
+"Um grupo de agentes apareceu em uma aldeia próxima de Fusia! Por favor "
 "expulse-os o mais rápido possível! Há $aiw_field_agents.length grupo(s) de "
 "agentes agora!"
 
 #. [message]
 #: scenarios/Field.cfg:1304
-#, fuzzy
 msgid ""
 "A group of orc is raiding goblin domain! We should push them out as soon as "
 "possible! Otherwise, intimacy with goblins will severely be damaged."
@@ -3117,79 +3089,67 @@ msgstr ""
 
 #. [message]
 #: scenarios/Field.cfg:1374
-#, fuzzy
 msgid ""
 "A bunch of scorpions spawn in the desert near Emira-Malikah! We should push "
 "them out as soon as possible! Otherwise, intimacy with Dunefolks will "
 "severely be damaged."
 msgstr ""
-"Um grupo de escorpiões apareceu no deserto próximo a Emira-Malikah! Nós "
+"Um monte de escorpiões apareceram no deserto próximo a Emira-Malikah! Nós "
 "devemos expulsá-los o mais rápido possível! Caso contrário, a intimidade com "
 "os Dunefolks será severamente afetada."
 
 #. [label]
 #: scenarios/Field.cfg:1499
-#, fuzzy
 msgid "Bandits"
 msgstr "Bandidos"
 
 #. [message]
 #: scenarios/Field.cfg:1530
-#, fuzzy
 msgid "Shold this troop attack the bandit?"
 msgstr "Atacar os bandidos com esta tropa?"
 
 #. [option]
 #: scenarios/Field.cfg:1572 scenarios/Field.cfg:1767 scenarios/Field.cfg:1865
-#, fuzzy
 msgid "We must bring the treasure safely back to Fusia!"
-msgstr "Nós devemos trazer o tesouro em segurança de volta para Fusia!"
+msgstr "Nós devemos trazer o tesouro em segurança de volta a Fusia!"
 
 #. [label]
 #: scenarios/Field.cfg:1601
-#, fuzzy
 msgid "Agents"
 msgstr "Agentes"
 
 #. [message]
 #: scenarios/Field.cfg:1627
-#, fuzzy
 msgid "Should this troop attack the agents?"
 msgstr "Atacar os agentes com esta tropa?"
 
 #. [option]
 #: scenarios/Field.cfg:1669
-#, fuzzy
 msgid "We must bring the treasure safely back to Fusia!!"
-msgstr "Nós devemos trazer o tesouro em segurança de volta para Fusia!!"
+msgstr "Nós devemos trazer o tesouro em segurança de volta a Fusia!!"
 
 #. [label]
 #: scenarios/Field.cfg:1698
-#, fuzzy
 msgid "Raiding party"
 msgstr "Grupo de Incursão"
 
 #. [message]
 #: scenarios/Field.cfg:1725
-#, fuzzy
 msgid "Should this troop attack the raiding party?"
 msgstr "Atacar o grupo de incursão com esta tropa?"
 
 #. [label]
 #: scenarios/Field.cfg:1796
-#, fuzzy
 msgid "Scorpions"
 msgstr "Escorpiões"
 
 #. [message]
 #: scenarios/Field.cfg:1823
-#, fuzzy
 msgid "This troop attacks the scorpions?"
 msgstr "Atacar os escorpiões com esta tropa?"
 
 #. [else]
 #: scenarios/Field.cfg:1927
-#, fuzzy
 msgid ""
 "Unexpected emissary mission value $aiw_emissary.mission found. Please report "
 "to the author."
@@ -3363,8 +3323,8 @@ msgid ""
 "That treasure is ...! Do you give us that treasure?! We gladly join you!! "
 "Great!"
 msgstr ""
-"Esse tesouro é ...! Você nos dará esse tesouro?! Nós alegremente nos juntaremos a ti!!"
-"Ótimo!"
+"Esse tesouro é ...! Você nos dará esse tesouro?! Nós alegremente nos "
+"juntaremos a ti!!Ótimo!"
 
 #. [message]
 #: scenarios/Field.cfg:2178
@@ -3382,8 +3342,8 @@ msgid ""
 "it is on the land. If your union find the treasure and give it to us, we "
 "will join you. Here is the map."
 msgstr ""
-"Muitos dos nossos tespeças de ouro foram roubados. Nossa investigação revelou a "
-"localização de um dos tespeças de ouro, mas nós não podemos recuperá-lo por conta "
+"Muitos dos nossos tesouros foram roubados. Nossa investigação revelou a "
+"localização de um dos tesouros, mas nós não podemos recuperá-lo por conta "
 "própria, pois ele está em terra. Se sua união encontrar o tesouro e trazê-lo "
 "de volta pra nós, nos uniremos à vocês. Aqui está o mapa."
 
@@ -4332,7 +4292,8 @@ msgstr "Alto."
 #. [message]
 #: scenarios/Field.cfg:4432
 msgid "(They did their job!? What is going on!? Is it a dream??)"
-msgstr "(Eles fizeram o seu trabalho!? O que está acontecendo!? Isso é um sonho??)"
+msgstr ""
+"(Eles fizeram o seu trabalho!? O que está acontecendo!? Isso é um sonho??)"
 
 #. [message]: speaker=Assassin
 #: scenarios/Field.cfg:4437
@@ -4729,7 +4690,9 @@ msgstr "Você precisa de um novo mapa?"
 #. [option]
 #: scenarios/Field.cfg:5384
 msgid "Get a new treasure map for <span color='yellow'>5g</span>!"
-msgstr "Obter um novo mapa do tesouro por <span color='yellow'>5 peças de ouro</span>!"
+msgstr ""
+"Obter um novo mapa do tesouro por <span color='yellow'>5 peças de ouro</"
+"span>!"
 
 #. [message]
 #: scenarios/Field.cfg:5395
@@ -4785,8 +4748,9 @@ msgid ""
 "<span color='yellow'>1g</span> for upkeep</span>"
 msgstr ""
 "Enviar um espião\n"
-"<span size='smaller'>custo <span color='yellow'>2 peças de ouro</span> para enviar; "
-"custos <span color='yellow'>1 ouro</span> para manter por turno</span>"
+"<span size='smaller'>custo <span color='yellow'>2 peças de ouro</span> para "
+"enviar; custos <span color='yellow'>1 ouro</span> para manter por turno</"
+"span>"
 
 #. [option]
 #: scenarios/Field.cfg:5521
@@ -4877,7 +4841,8 @@ msgid ""
 "<span size='smaller'>NOTE: a level 2 unit who can be a leader of squad</"
 "span></span>"
 msgstr ""
-"<span color='yellow'>Recrutar um comandante experiente por <b>40 peças de ouro</b>\n"
+"<span color='yellow'>Recrutar um comandante experiente por <b>40 peças de "
+"ouro</b>\n"
 "<span size='smaller'>NOTA: uma unidade nível 2 que pode liderar um "
 "esquadrão</span></span>"
 
@@ -4912,7 +4877,8 @@ msgid ""
 "<span size='smaller'>NOTE: costs <b>1g</b> to keep when they are on the "
 "Field</span></span>"
 msgstr ""
-"<span color='yellow'>Recrutar um grupo de engenheiros por <b>20 peças de ouro</b>\n"
+"<span color='yellow'>Recrutar um grupo de engenheiros por <b>20 peças de "
+"ouro</b>\n"
 "<span size='smaller'>NOTA: custa <b>1 ouro</b> para manutenção quando eles "
 "estão no Campo</span></span>"
 
@@ -4951,9 +4917,9 @@ msgid ""
 "color='yellow'>1g</span> per turn to keep, and we should have at least 10 "
 "gold to send a spy somewhere.)"
 msgstr ""
-"Enviar para onde? (precisa de <span color='yellow'>2 peças de ouro</span> para "
-"enviar, <span color='yellow'>1 ouro</span> por turno para manutenção, e nós "
-"devemos ter pelo menos 10 peças de ouro para enviar um espião aonde for.)"
+"Enviar para onde? (precisa de <span color='yellow'>2 peças de ouro</span> "
+"para enviar, <span color='yellow'>1 ouro</span> por turno para manutenção, e "
+"nós devemos ter pelo menos 10 peças de ouro para enviar um espião aonde for.)"
 
 #. [option]
 #: scenarios/Field.cfg:5894
@@ -5220,8 +5186,8 @@ msgid ""
 "Send an emissary for <span color='yellow'>stopping war</span> to <span "
 "color='red'>$aiw_team[$aiw_emissary.target].name</span>?"
 msgstr ""
-"Enviar um emissário aos <span color='red'>$aiw_team[$aiw_emissary.target].name</span> "
-"para <span color='yellow'>encerrar a guerra</span>?"
+"Enviar um emissário aos <span color='red'>$aiw_team[$aiw_emissary.target]."
+"name</span> para <span color='yellow'>encerrar a guerra</span>?"
 
 #. [message]
 #: scenarios/Field.cfg:6886
@@ -5245,7 +5211,9 @@ msgstr "Ah!? O quê!"
 #. [option]
 #: scenarios/Field.cfg:7127
 msgid "Give me a hint for the treasure for <span color='yellow'>5g</span>?"
-msgstr "Dê-me uma dica para o tesouro por <span color='yellow'>5 peças de ouro</span>?"
+msgstr ""
+"Dê-me uma dica para o tesouro por <span color='yellow'>5 peças de ouro</"
+"span>?"
 
 #. [message]
 #: scenarios/Field.cfg:7136
@@ -5981,8 +5949,8 @@ msgid ""
 "No! I never need any other troops! Single troop is enough to defeat the "
 "World!"
 msgstr ""
-"Não! Eu nunca precisei de nenhuma outra tropa! Só uma tropa já é suficiente para derrotar o "
-"Mundo!"
+"Não! Eu nunca precisei de nenhuma outra tropa! Só uma tropa já é suficiente "
+"para derrotar o Mundo!"
 
 #. [message]: speaker=narrator
 #: scenarios/Field.cfg:7852
@@ -6077,7 +6045,6 @@ msgstr "Não, obrigado!"
 
 #. [message]
 #: scenarios/Prelude.cfg:46
-#, fuzzy
 msgid ""
 "Welcome to An Independence War (AIW) campaign, sequel of A Group in a War "
 "(AG)! If you have completed AG campaign, you can inherit some data from the "
@@ -6086,7 +6053,7 @@ msgid ""
 "recommend you to see the Epilogue of A Group in a War once more, and then "
 "play this campaign."
 msgstr ""
-"Bem-vindo(a) à campanha Uma Guerra de Independência (UGI), sequência a Um "
+"Bem-vindo à campanha Uma Guerra de Independência (UGI), sequência de Um "
 "Grupo numa Guerra (UG)! Se você completou a campanha UG, você pode herdar "
 "dados. Mas infelizmente, você parece não ter tais dados. Se você completou "
 "versões anteriores de UG e ainda tem os dados salvos do Epílogo, eu "
@@ -6098,7 +6065,6 @@ msgid "Geographer"
 msgstr "Geógrafo"
 
 #: scenarios/Prelude.cfg:54
-#, fuzzy
 msgid "Avaron"
 msgstr "Avaron"
 
@@ -6132,13 +6098,11 @@ msgstr "Império"
 
 #. [side]
 #: scenarios/Prologue.cfg:779 utils/sides.cfg:97
-#, fuzzy
 msgid "Goblins"
 msgstr "Góblins"
 
 #. [side]
 #: scenarios/Prologue.cfg:780 utils/sides.cfg:115
-#, fuzzy
 msgid "Dunefolks"
 msgstr "Dunefolks"
 
@@ -6149,7 +6113,6 @@ msgstr "Orcs"
 
 #. [side]
 #: scenarios/Prologue.cfg:782 utils/sides.cfg:151
-#, fuzzy
 msgid "Dwarves"
 msgstr "Anões"
 
@@ -6165,7 +6128,6 @@ msgstr "Elfos"
 
 #. [side]
 #: scenarios/Prologue.cfg:785 utils/sides.cfg:205
-#, fuzzy
 msgid "Merfolks"
 msgstr "Merfolks"
 
@@ -6176,7 +6138,6 @@ msgstr "Draconatos"
 
 #. [side]
 #: scenarios/Prologue.cfg:787 utils/sides.cfg:245
-#, fuzzy
 msgid "Saurians"
 msgstr "Lagartos"
 
@@ -6197,7 +6158,6 @@ msgstr "Você gostaria de pular a introdução?"
 
 #. [message]
 #: scenarios/Prologue.cfg:1026
-#, fuzzy
 msgid ""
 "OK, let’s enter the office.\n"
 "\n"
@@ -7156,7 +7116,8 @@ msgstr ""
 #. [message]
 #: utils/firsttime.cfg:213
 msgid "Hello, again! I will help you again with my healing skill!"
-msgstr "Olá, novamente! Eu ajudarei você de novo com minhas habilidades de cura!"
+msgstr ""
+"Olá, novamente! Eu ajudarei você de novo com minhas habilidades de cura!"
 
 #. [message]
 #: utils/firsttime.cfg:217
@@ -7319,8 +7280,8 @@ msgid ""
 "Build a Foodstorage (needs 3 turns to build, 5 gold per turn as a running "
 "cost)"
 msgstr ""
-"Construir um Armazém de Comida (precisa de 3 turnos para construir, 5 peças de ouro "
-"por turno como custo de funcionamento)"
+"Construir um Armazém de Comida (precisa de 3 turnos para construir, 5 peças "
+"de ouro por turno como custo de funcionamento)"
 
 #. [set_menu_item]: id=aiw_right_menu_a_enter_antechamber
 #: utils/menu.cfg:325
@@ -7330,7 +7291,9 @@ msgstr "Entrar na sala de espera de Fusia"
 #. [message]: speaker=$tmp_unit_stored.id
 #: utils/menu.cfg:354
 msgid "We are now building a watchtower. We cannot stop this task."
-msgstr "Nós agora estamos construindo uma torre de vigia. Nós não podemos parar esta tarefa."
+msgstr ""
+"Nós agora estamos construindo uma torre de vigia. Nós não podemos parar esta "
+"tarefa."
 
 #. [message]
 #: utils/menu.cfg:360
@@ -7385,25 +7348,21 @@ msgstr "Qual é a minha nova função?"
 
 #. [option]: speaker=narrator
 #: utils/menu.cfg:576
-#, fuzzy
 msgid "Vanguard [F]"
 msgstr "Vanguardeiro [V]"
 
 #. [option]: speaker=narrator
 #: utils/menu.cfg:596
-#, fuzzy
 msgid "Shooter [B]"
 msgstr "Atirador [R]"
 
 #. [option]: speaker=narrator
 #: utils/menu.cfg:616
-#, fuzzy
 msgid "Rider [R]"
 msgstr "Cavaleiro [C]"
 
 #. [option]: speaker=narrator
 #: utils/menu.cfg:639
-#, fuzzy
 msgid "Refugee [X]"
 msgstr "Refugiado [X]"
 
@@ -7414,7 +7373,6 @@ msgstr "Informações Gerais"
 
 #. [message]: speaker=narrator
 #: utils/menu.cfg:756
-#, fuzzy
 msgid ""
 "<b>Information</b>\n"
 "\n"
@@ -7508,7 +7466,8 @@ msgstr "Adicionar uma unidade em $tmp_managing_troop.name|."
 msgid ""
 "$tmp_managing_troop.name is already full. Cannot add new member anymore."
 msgstr ""
-"$tmp_managing_troop.name já está completo. Não é mais possível adicionar novos membros."
+"$tmp_managing_troop.name já está completo. Não é mais possível adicionar "
+"novos membros."
 
 #. [lua]
 #: utils/office_utils.cfg:161
@@ -7546,13 +7505,11 @@ msgstr "Separar $tmp_managing_troop.name"
 
 #. [message]
 #: utils/office_utils.cfg:279
-#, fuzzy
 msgid "Really disband $tmp_managing_troop.name|?"
-msgstr "Quer realmente dispersar $tmp_managing_troop.name|?"
+msgstr "Quer realmente separar $tmp_managing_troop.name|?"
 
 #. [option]
 #: utils/office_utils.cfg:300
-#, fuzzy
 msgid ""
 "Grant magic item to this troop\n"
 "<span color='yellow' size='smaller'>A troop can have only one trait/item. "
@@ -7566,42 +7523,36 @@ msgstr ""
 
 #. [command]
 #: utils/office_utils.cfg:310
-#, fuzzy
 msgid "Grant which one?"
 msgstr "Conceder qual?"
 
 #. [case]
 #. [value]
 #: utils/office_utils.cfg:328 utils/treasures.cfg:167
-#, fuzzy
 msgid "Tome of Disaster"
 msgstr "Tomo do Desastre"
 
 #. [case]
 #. [value]
 #: utils/office_utils.cfg:355 utils/treasures.cfg:172
-#, fuzzy
 msgid "Wand of Storm"
 msgstr "Varinha da Tempestade"
 
 #. [case]
 #. [value]
 #: utils/office_utils.cfg:382 utils/treasures.cfg:177
-#, fuzzy
 msgid "Sail of Mystic"
 msgstr "Velas do Místico"
 
 #. [case]
 #. [value]
 #: utils/office_utils.cfg:409 utils/treasures.cfg:182
-#, fuzzy
 msgid "Staff of Silent"
 msgstr "Cajado do Silêncio"
 
 #. [case]
 #. [value]
 #: utils/office_utils.cfg:436 utils/treasures.cfg:187
-#, fuzzy
 msgid "Orb of Regenerate"
 msgstr "Esfera da Regeneração"
 
@@ -7631,7 +7582,6 @@ msgstr "a receita base de Fusia caiu em $inc|!"
 
 #. [part]
 #: utils/storytxt.cfg:9
-#, fuzzy
 msgid ""
 "Welcome to <i>An Independence War</i> campaign! This is a sequel of <i>A "
 "Group in a War</i> which you already played through.\n"
@@ -7639,7 +7589,7 @@ msgid ""
 "(Secret scenario of <i>A Group in a War</i>, The Nagas, is also related to "
 "this campaign.)"
 msgstr ""
-"Bem-vindo(a) à campanha <i>Uma Guerra de Independência</i>! Esta é uma "
+"Bem-vindo à campanha <i>Uma Guerra de Independência</i>! Esta é uma "
 "continuação de <i>Um Grupo numa Guerra</i> que você já jogou.\n"
 "\n"
 "(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é "
@@ -7647,7 +7597,6 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:17
-#, fuzzy
 msgid ""
 "<b>WARNING:</b>\n"
 "Welcome to <i>An Independence War</i> campaign! This is a sequel of <i>A "
@@ -7659,11 +7608,11 @@ msgid ""
 "this campaign.)"
 msgstr ""
 "<b>AVISO:</b>\n"
-"Bem-vindo(a) a campanha <i>Uma Guerra de Independência</i>! Esta é uma "
-"sequência para <i>Um Grupo numa Guerra</i>. Alguns personagens e a história "
+"Bem-vindo à campanha <i>Uma Guerra de Independência</i>! Esta é uma "
+"continuação de <i>Um Grupo numa Guerra</i>. Alguns personagens e a história "
 "estão intimamente ligadas com essa campanha. Se você ainda não jogou essa "
 "campanha, eu recomendo que você jogue a prequela, <i>Um Grupo Numa Guerra</"
-"i> primeiro. Mas isso é só uma sugestão.\n"
+"i>, antes. Mas isso é só uma sugestão.\n"
 "\n"
 "(Um cenário secreto de <i>Um Grupo numa Guerra</i>, Os Nagas, também é "
 "relacionado com esta campanha.)"
@@ -7675,7 +7624,6 @@ msgstr "Depois da guerra"
 
 #. [part]
 #: utils/storytxt.cfg:28
-#, fuzzy
 msgid ""
 "After that war, surprisingly, I <i>had become</i> a mayor of the former "
 "combat field. People there (including goblins) enthusiastically welcomed me "
@@ -7694,16 +7642,16 @@ msgid ""
 msgstr ""
 "Depois daquela guerra, surpreendentemente, eu <i>me tornei</i> um prefeito "
 "do antigo campo de combate. As pessoas lá (incluindo os góblins) me saudaram "
-"entusiasmadamente como um novo mestre. Eu não vou esquecer esse cenário na "
-"minha vida. Era um cenário de fato surpreendente e animado... muito "
-"impressionado. Eu não pude emitir uma única palavra devido aquela profunda "
+"entusiasmadamente como seu novo lorde. Eu não vou esquecer aquele cenário em "
+"toda a minha vida. Era um cenário de fato surpreendente e animado... muito "
+"impressionante. Eu não pude emitir uma única palavra devido aquela profunda "
 "impressão. Eu falei ao Clammy, um góblin brilhante, que também estava na "
-"cerimônia, mas a resposta dele foi bem rígida: <i>Naquela hora, você foi "
-"silencioso como sempre. Nunca pareceu estar tão impressionado. Eu tenho "
-"certeza que o povo sentiu a mesma impressão já que o seu jeito reservado é "
-"muito bem conhecido por aqui.</i>\n"
+"cerimônia, mas a resposta dele foi bem rígida: <i>Naquela hora, você ficou "
+"calado como sempre. Nunca pareceu estar tão impressionado. Eu tenho certeza "
+"que o povo sentiu a mesma impressão já que o seu jeito reservado é muito bem "
+"conhecido por aqui.</i>\n"
 "\n"
-"De qualquer forma, eu me tornei um mestre, desejado pelo povo. De acordo com "
+"De qualquer forma, eu me tornei um lorde, desejado pelo povo. De acordo com "
 "meu brilhante secretário cujo longo nome eu não consigo me lembrar "
 "corretamente, o término da guerra era o antigo desejo dessas pessoas. Na "
 "verdade, pessoas nem se importavam com quem fosse o vencedor, apenas "
@@ -7711,7 +7659,6 @@ msgstr ""
 
 #. [part]
 #: utils/storytxt.cfg:38
-#, fuzzy
 msgid ""
 "My first duty as a mayor was restoring the damage of the war. It involves "
 "damages on villages, farms, roads, forests, bla bla bla. Cleaning of the "
@@ -7723,17 +7670,16 @@ msgid ""
 "to this land."
 msgstr ""
 "Meu primeiro dever como prefeito era restaurar o dano da guerra. Isso "
-"envolvia danos as aldeias, fazendas, ruas, florestas, bla bla bla. A limpeza "
-"do Rio também era um trabalho importante. O prefeito anterior (temporário) "
-"tentou limpar o rio matando as vidas hostis que lá vivem. Mas eu decidi "
-"escolher meios mais pacíficos para a limpeza do Rio. Levou vários meses para "
-"começar as negociações com os nagas. Mas finalmente, nós conseguimos "
-"estabelecer paz. Nós agradecemos ao gentil e esperto góblin e o bravo naga "
-"por trazerem paz para esta terra."
+"envolvia danos as aldeias, fazendas, estradas, florestas, blá blá blá. A "
+"limpeza do Rio também era um trabalho importante. O (temporário) prefeito "
+"anterior tentou limpar o rio matando as vidas hostis que de lá. Mas eu "
+"decidi escolher meios mais pacíficos para a limpeza do Rio. Levou vários "
+"meses para começar as negociações com os nagas. Mas finalmente, nós "
+"conseguimos estabelecer paz. Nós agradecemos ao gentil e esperto góblin e o "
+"bravo naga por trazerem paz para esta terra."
 
 #. [part]
 #: utils/storytxt.cfg:41
-#, fuzzy
 msgid ""
 "Now, almost two years have passed since I became a mayor. The peace is "
 "bringing prosperity to our land. But ... the another war happened as I "
@@ -7755,8 +7701,8 @@ msgid ""
 "is ..."
 msgstr ""
 "Agora, quase dois anos se passaram desde que eu me tornei prefeito. A paz "
-"está preparando para trazer um próspero futuro para nossa terra. Mas ... a "
-"outra guerra aconteceu como eu imaginei.\n"
+"está trazendo prosperidade para nossa terra. Mas ... a outra guerra "
+"aconteceu como eu imaginei.\n"
 "\n"
 "Infelizmente, nossa terra IRÁ ser envolvida nesta nova guerra. Nós temos que "
 "nos preparar para a guerra. Eu expliquei imediatamente a situação ao Clammy "
@@ -7764,14 +7710,14 @@ msgstr ""
 "góblin alegremente aceitou minha oferta. Honestamente, eu não queria envolvê-"
 "lo. Mas é praticamente impossível encontrar uma pessoa melhor do que ele.\n"
 "\n"
-"Eu odeio guerras, mas eu antecipei esta nova guerra, eu fiz seu preparo "
+"Eu odeio guerras, mas eu antecipei esta nova guerra, eu fiz as preparações "
 "durante esses dois anos. Ambos os antigos postos avançados foram reformados "
 "como pequenos fortes, e o Forte do Norte foi reconstruído ao lado do Rio "
-"como um pequeno castelo. Mas os guardas do leste e oeste não são suficientes "
-"agora. Nós temos muitas coisas a fazer. Honestamente, a guerra em si está "
-"dentro do esperado, mas eu não acho que a terra em si será envolvida "
-"novamente. Há várias outras coisas inesperadas e indesejadas. A mais "
-"inesperada dentre elas é ..."
+"como um pequeno castelo. Mas os lados leste e oeste ainda não estão bem "
+"protegidos. Nós temos muitas coisas a fazer. Honestamente, a guerra em si "
+"está dentro do que eu esperava, mas eu não acho que a terra em si será "
+"envolvida novamente. Há várias outras coisas inesperadas e indesejadas. A "
+"mais inesperada dentre elas é ..."
 
 #. [part]
 #: utils/storytxt.cfg:48
@@ -7779,8 +7725,8 @@ msgid ""
 "<span color='red'><b>This war is caused by me. Not accidentally, but very "
 "intentionally.</b></span>"
 msgstr ""
-"<span color='red'><b>Esta guerra é causada por mim. Não por acidente, muito "
-"intencionalmente.</b></span>"
+"<span color='red'><b>Esta guerra foi causada por mim. Não por acidente, mas "
+"muito intencionalmente.</b></span>"
 
 #. [part]
 #: utils/storytxt.cfg:53
@@ -7789,7 +7735,6 @@ msgstr "Uma Guerra de Independência: Causa"
 
 #. [part]
 #: utils/storytxt.cfg:54
-#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -7804,17 +7749,16 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"O Reino recentemente mudou de ideia sobre atitudes com as raças não "
-"humanas... Essas palavras não são tão corretas, porque a atitude deles com "
-"elfos e anões não mudou significativamente. De qualquer forma, o problema é "
-"a atitude com raças como góblins, nagas e lagartos. O Reino comandou-me para "
-"retirar todos os direitos deles sem dar qualquer motivo. Eu perguntei ao "
-"governo o motivo e o propósito... o que eu recebi do oficial foi somente "
-"perda de tempo. Eu negociei pacientemente com eles, mas em vão."
+"O Reino recentemente mudou suas atitudes com as raças não humanas... Essas "
+"palavras não são tão corretas, porque a atitude deles com elfos e anões não "
+"mudou significativamente. De qualquer forma, o problema é a atitude deles "
+"com raças como góblins, nagas e lagartos. O Reino me ordenou a retirar todos "
+"os direitos deles sem dar qualquer motivo. Eu perguntei ao governo o motivo "
+"e o propósito... o que eu recebi do oficial foi somente perda de tempo. Eu "
+"negociei pacientemente com eles, mas em vão."
 
 #. [part]
 #: utils/storytxt.cfg:64
-#, fuzzy
 msgid ""
 "Then, that damn arrogant paperpusher had come from the capital, Crownia, to "
 "publish and execute the new law. I arrested that worm and forced it back. "
@@ -7829,18 +7773,18 @@ msgid ""
 msgstr ""
 "Então, aquele burocrata desgraçado e arrogante veio da capital, Corônia, "
 "para publicar e executar a nova lei. Eu prendi aquele verme e forcei-o a "
-"retornar. Honestamente, eu queria fazê-lo retornar ao barro. De qualquer "
-"forma, este evento fez-me perceber que não há tempo para negociação.\n"
+"retornar. Honestamente, eu queria transformar aquele inseto em barro. De "
+"qualquer forma, este evento fez-me perceber que não há tempo para "
+"negociação.\n"
 "\n"
 "Havia outros jeitos, mas eu decidi ... em lutar contra o Reino ... ou, "
 "contra o mundo. Nossos aliados são um pequeno punhado de góblins e os quase "
 "extintos nagas. Reino, Império e todos os aliados deles são os inimigos. Tal "
 "guerra é aparentemente ridícula. Eu com certeza irei morrer nesta guerra, "
-"mas nosso desejo permanecerá neste mundo e mudará algo."
+"mas nossos ideais permanecerão neste mundo e mudarão algo."
 
 #. [part]
 #: utils/storytxt.cfg:69
-#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -7854,7 +7798,7 @@ msgstr ""
 "...\n"
 "\n"
 "Eu honestamente falei essas palavras pessimistas para os nossos membros "
-"principais. Você esperava quantos membros? Cinco, ou dez? A resposta é DOIS "
+"principais. Quantos membros você esperava? Cinco, ou dez? A resposta é DOIS "
 "(tirando eu). Então em outras palavras, eu falei ao secretário e ao Clammy. "
 "Pelo que lembro, eu deveria ter chamado o líder naga, $aiw_naga_head_name. "
 "Por que eu esqueci dele? Eu estava realmente confuso nessa hora... De "
@@ -7867,12 +7811,11 @@ msgid ""
 "But the responses from these two were completely beyond my expectation... in "
 "a good meaning."
 msgstr ""
-"Mas as respostas desses dois foram completamente além das minhas expectativas... "
-"no bom sentido."
+"Mas as respostas desses dois foram completamente além das minhas "
+"expectativas... no bom sentido."
 
 #. [part]
 #: utils/storytxt.cfg:77
-#, fuzzy
 msgid ""
 "<b>Clammy</b>:\n"
 "I will help you as in the previous war. Actually, the odds are not so bad. "
@@ -7883,15 +7826,14 @@ msgid ""
 msgstr ""
 "<b>Clammy</b>:\n"
 "Eu irei ajudar você como na guerra anterior. Na verdade, as chances não são "
-"tão ruins. Você simplesmente superestima os exércitos do Reino e do Império. "
-"Ambos não estão em boa situação do ponto de vista financeiro. Eles não podem "
-"se concentrar em nós. Pequenos punhados de tropas nos atacarão, mas isso "
-"pode não ser suficiente para nos derrotar. Além disso, como você sabe, os "
-"generais na capital não são tão inteligentes."
+"tão ruins. Você simplesmente superestimou os exércitos do Reino e do "
+"Império. Ambos não estão em boa situação do ponto de vista financeiro. Eles "
+"não podem se concentrar em nós. Pequenos punhados de tropas nos atacarão, "
+"mas isso pode não ser suficiente para nos derrotar. Além disso, como você "
+"sabe, os generais na capital deles não são tão inteligentes."
 
 #. [part]
 #: utils/storytxt.cfg:84
-#, fuzzy
 msgid ""
 "<b>The Secretary</b>:\n"
 "Empire may not be directly involved in the early stage.\n"
@@ -7914,9 +7856,9 @@ msgstr ""
 "<b>O Secretário</b>:\n"
 "O Império pode não se envolver diretamente neste estágio inicial.\n"
 "\n"
-"O Reino nunca aceitará nosso país, e o rei com certeza declara que esta "
+"O Reino nunca aceitará nosso país, e o rei com certeza declarará que esta "
 "terra pertence formalmente ao Reino. O Reino pode não pedir ajuda ao Império "
-"como uma prova de força.\n"
+"para provar sua força.\n"
 "\n"
 "Se o Império atacar-nos diretamente nessa situação, claramente significa que "
 "o pacto da guerra anterior foi quebrado. Isso pode resultar em uma guerra "
@@ -7924,15 +7866,14 @@ msgstr ""
 "desastrosa. Além disso, o Império tem medo de você, eles podem não querer "
 "lutar contra você.\n"
 "\n"
-"Ataques diretos contra o Império pode não acontecer, mas eles podem usar de "
-"meios indiretos... Se eu fosse o general do Império, eu daria algum dinheiro "
-"aos Dunefolks e pediria para eles nos atacarem. Ou, contrataria alguns "
-"bandidos para nos incomodar. Uma vez que mostrássemos nossa fraqueza, o "
-"Império vai atacar diretamente com tudo."
+"Ataques diretos do Império não acontecerão, mas por outro lado, eles podem "
+"usar meios indiretos... Se eu fosse o general do Império, eu daria algum "
+"dinheiro aos Dunefolks e pediria para eles nos atacarem. Ou, contrataria "
+"alguns bandidos para nos incomodar. Uma vez que mostrássemos nossa fraqueza, "
+"o Império vai atacar diretamente com tudo."
 
 #. [part]
 #: utils/storytxt.cfg:97
-#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -7942,9 +7883,9 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"Minha decisão desesperada não parece ter sido levada muito a sério. Que "
+"Minha decisão desesperada não parece ter causado muita preocupação. Que "
 "táticos brilhanes eles são! Esses dois caras poderiam se tornar melhores "
-"mestres do que eu. De qualquer forma, não há como voltar atrás. Nós devemos "
+"lordes do que eu. De qualquer forma, não há como voltar atrás. Nós devemos "
 "prosseguir."
 
 #. [time]: id=aiw_dawn_hour
@@ -8014,13 +7955,11 @@ msgstr "Erro: característica desconhecida $hoge foi detectada."
 
 #. [trait]: id=tough
 #: utils/traits.cfg:6
-#, fuzzy
 msgid "trait^tough"
 msgstr "durão"
 
 #. [trait]: id=tough
 #: utils/traits.cfg:7
-#, fuzzy
 msgid "trait-female^tough"
 msgstr "durona"
 
@@ -8031,30 +7970,28 @@ msgstr "aumenta todas as resistências físicas em 10%."
 
 #. [trait]: id=impenetrable
 #: utils/traits.cfg:23
-#, fuzzy
 msgid "trait^impenetrable"
 msgstr "impenetrável"
 
 #. [trait]: id=impenetrable
 #: utils/traits.cfg:24
-#, fuzzy
 msgid "trait-female^impenetrable"
 msgstr "impenetrável"
 
 #. [trait]: id=impenetrable
 #: utils/traits.cfg:25
 msgid "increase pierce resistance by 20% and decrease blade resistance by 10%."
-msgstr "aumenta a resistência perfurante em 20% e diminui a resistência cortante em 10%."
+msgstr ""
+"aumenta a resistência perfurante em 20% e diminui a resistência cortante em "
+"10%."
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:39
-#, fuzzy
 msgid "trait^assisted"
 msgstr "auxiliado"
 
 #. [trait]: id=assisted
 #: utils/traits.cfg:40
-#, fuzzy
 msgid "trait-female^assisted"
 msgstr "auxiliada"
 
@@ -8069,85 +8006,72 @@ msgstr ""
 
 #. [trait]: id=disaster
 #: utils/traits.cfg:68
-#, fuzzy
 msgid "trait^disaster"
 msgstr "desastre"
 
 #. [trait]: id=disaster
 #: utils/traits.cfg:69
-#, fuzzy
 msgid "trait-female^disaster"
 msgstr "desastre"
 
 #. [trait]: id=disaster
 #: utils/traits.cfg:70
-#, fuzzy
 msgid "your incredible skill grants a disastrous strength to this troop."
-msgstr "sua aptidão inacreditável garante força desastrosa para esta tropa."
+msgstr ""
+"sua habilidade inacreditável garante uma força desastrosa para esta tropa."
 
 #. [trait]: id=storm
 #: utils/traits.cfg:77
-#, fuzzy
 msgid "trait^storm"
 msgstr "tempestade"
 
 #. [trait]: id=storm
 #: utils/traits.cfg:78
-#, fuzzy
 msgid "trait-female^storm"
 msgstr "tempestade"
 
 #. [trait]: id=storm
 #: utils/traits.cfg:79
-#, fuzzy
 msgid "this stormy troop will easily crash enemy troops"
-msgstr "esta tropa estrondosa irá facilmente esmagar tropas inimigas"
+msgstr "esta tropa tempestuosa irá facilmente esmagar tropas inimigas"
 
 #. [trait]: id=leading_wind
 #: utils/traits.cfg:86
-#, fuzzy
 msgid "trait^leading wind"
 msgstr "ventos fortes"
 
 #. [trait]: id=leading_wind
 #: utils/traits.cfg:87
-#, fuzzy
 msgid "trait-female^leading wind"
 msgstr "ventos fortes"
 
 #. [trait]: id=leading_wind
 #: utils/traits.cfg:88
-#, fuzzy
 msgid "this troop is assisted by a leading wind"
 msgstr "esta tropa é auxiliada por ventos fortes"
 
 #. [trait]: id=calm
 #: utils/traits.cfg:95
-#, fuzzy
 msgid "trait^calm"
 msgstr "calmaria"
 
 #. [trait]: id=calm
 #: utils/traits.cfg:96
-#, fuzzy
 msgid "trait-female^calm"
 msgstr "calmaria"
 
 #. [trait]: id=calm
 #: utils/traits.cfg:97
-#, fuzzy
 msgid "this troop is quite steadfast against enemy attacks"
 msgstr "esta tropa tem uma boa posição defensiva contra ataques inimigos"
 
 #. [trait]: id=healing
 #: utils/traits.cfg:104
-#, fuzzy
 msgid "trait^healing"
 msgstr "medicação"
 
 #. [trait]: id=healing
 #: utils/traits.cfg:105
-#, fuzzy
 msgid "trait-female^healing"
 msgstr "medicação"
 
@@ -8172,8 +8096,9 @@ msgid ""
 "Sword,Blade,Dagger,Gem,Diamond,Scepter,Wand,Spear,Armor,Helmet,Staff,Axe,Rod,"
 "Cross,Statue,Beads,Turban,Hood,Flag,Knife,Crown"
 msgstr ""
-"Espada,Lâmina,Adaga,Gema,Diamante,Cetro,Varinha,Lança,Armadura,Capacete,Cajado,Machado,Bastão,"
-"Cruz,Estátua,Miçangas,Turbante,Capuz,Bandeira,Faca,Coroa"
+"Espada,Lâmina,Adaga,Gema,Diamante,Cetro,Varinha,Lança,Armadura,Capacete,"
+"Cajado,Machado,Bastão,Cruz,Estátua,Miçangas,Turbante,Capuz,Bandeira,Faca,"
+"Coroa"
 
 #. [message]
 #: utils/treasures.cfg:219
