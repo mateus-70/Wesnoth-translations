@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: An Independence War\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-28 14:03+0900\n"
-"PO-Revision-Date: 2022-12-01 00:22-0300\n"
+"PO-Revision-Date: 2022-12-01 21:42-0300\n"
 "Last-Translator: Mateus Schroeder da Silva <mateus.schroeder@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
 "Language: pt_BR\n"
@@ -1662,7 +1662,6 @@ msgstr "Coeficiente de Dano?"
 
 #. [message]
 #: _main.cfg:1440
-#, fuzzy
 msgid ""
 "Damage coefficient (see melee or ranged attack calculation scheme first) is "
 "calculated from the number of soldiers of your troop and enemy troop. If you "
@@ -1682,14 +1681,14 @@ msgid ""
 "Some skills like your one will change this coefficient independent of the "
 "circumstances."
 msgstr ""
-"Coeficiente de dano (primeiramente veja o esquema de cálculo dos ataque "
+"Coeficiente de dano (primeiramente veja os esquemas de cálculo dos ataque "
 "corpo a corpo e de longa distância) é calculado a partir do número de "
 "soldados da sua tropa e da tropa inimiga. Se você tem muitos vanguardeiros a "
 "mais do que o inimigo, seu coeficiente torna-se grande e o do inimigo "
 "pequeno. Este valor é calculado individualmente para vanguardeiros e "
 "atiradores. Assim, os coeficientes de corpo a corpo e de longa distância "
 "normalmente são diferentes. Note que <b>CAVALEIROS normalmente não "
-"contribuem para esse coeficiente</b>.\n"
+"contribuem com esse coeficiente</b>.\n"
 "\n"
 "O número de soldados leva em conta não só as tropas que lutam, tropas "
 "adjacentes também são consideradas. Então cercar o inimigo é uma boa "
@@ -1704,7 +1703,6 @@ msgstr ""
 
 #. [message]
 #: _main.cfg:1479
-#, fuzzy
 msgid ""
 "Which one? Note these units are not efficient in combat. If they are "
 "attacked by enemies, they are undoubtedly killed/destroyed."
@@ -1815,7 +1813,6 @@ msgstr "Bandeira"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1530
-#, fuzzy
 msgid ""
 "If you managed to defeat guardian troops, this unit is placed on that fort/"
 "keep. This unit simply means this fort/keep is occupied by the side of the "
@@ -1827,28 +1824,25 @@ msgstr ""
 "Se você conseguir derrotar tropas guardiãs, esta unidade é colocada naquele "
 "forte/torre de menagem. Esta unidade significa simplesmente que este forte/"
 "torre de menagem é ocupado pelo lado do dono da bandeira. <b>Bandeiras não "
-"conseguem se mover, e são imediatamente destruídas se forem atacadas</b>. "
-"Uma vez que a bandeira for destruida, o guardião reaparecerá.\n"
+"podem se mover, e são imediatamente destruídas se forem atacadas</b>. Uma "
+"vez que a bandeira for destruida, o guardião reaparecerá.\n"
 "\n"
-"NOTA: se você tem uma unidade bandeira, você recebe uma receita bônus a cada "
-"turno."
+"NOTA: se você tem uma unidade bandeira, você pode receber uma receita bônus "
+"a cada turno."
 
 #. [option]
 #: _main.cfg:1538
-#, fuzzy
 msgid "<span color='yellow'>Watchtower</span>"
 msgstr "<span color='yellow'>Torre de Vigia</span>"
 
 #. [message]: speaker=narrator
 #. [unit_type]: id=Watchtower, race=mechanical
 #: _main.cfg:1541 units/Watchtower.cfg:5
-#, fuzzy
 msgid "Watchtower"
 msgstr "Torre de Vigia"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1544
-#, fuzzy
 msgid ""
 "A Watchtower clears the fog of wide area, though it cannot move. Engineers "
 "can create Watchtower on the Field.\n"
@@ -1856,22 +1850,22 @@ msgid ""
 "A Watchtower costs 1 gold every turn, so you should not create too many of "
 "them. Useless Watchtowers can be destroyed by the Engineers."
 msgstr ""
-"Uma Torre de Vigia limpa a neblina de uma área extensa, embora ela não possa "
+"Uma Torre de Vigia limpa a neblina de uma área ampla, embora ela não possa "
 "mover-se. Engenheiros podem criar Torres de Vigia no Campo.\n"
-"Uma Torre de Vigia custa 1 ouro por turno, então você não deve criar muitas "
-"delas. Torres de Vigia inúteis podem ser destruidas pelos engenheiros."
+"\n"
+"Uma Torre de Vigia custa 1 peça de ouro por turno, assim, você não deve "
+"criar muitas delas. Torres de Vigia inúteis podem ser destruidas pelos "
+"engenheiros."
 
 #. [message]: speaker=narrator
 #. [option]
 #. [unit_type]: id=Foodstorage, race=mechanical
 #: _main.cfg:1552 _main.cfg:1555 units/Foodstorage.cfg:5
-#, fuzzy
 msgid "Foodstorage"
 msgstr "Armazém de Comida"
 
 #. [message]: speaker=narrator
 #: _main.cfg:1558
-#, fuzzy
 msgid ""
 "Foodstorages provide foods to our troops. Engineers can build them on the "
 "Field. But they cost a lot (5 gold per turn) and not so useful in usual "
@@ -1892,19 +1886,16 @@ msgstr ""
 
 #. [message]
 #: _main.cfg:1592
-#, fuzzy
 msgid "Which topic?"
 msgstr "Qual tópico?"
 
 #. [option]
 #: _main.cfg:1595
-#, fuzzy
 msgid "Special Abilities?"
 msgstr "Habilidades Especiais?"
 
 #. [message]
 #: _main.cfg:1599
-#, fuzzy
 msgid ""
 "Your Ability:\n"
 "You have special skill <span color='yellow'>disaster</span>. This skill "
@@ -1912,13 +1903,12 @@ msgid ""
 "This is a very unique and powerful skill."
 msgstr ""
 "Sua Habilidade:\n"
-"Você tem a aptidão especial <span color='yellow'>desastre</span>. Esta "
-"aptidão aumenta o ataque de sua tropa e reduz o dano do inimigo. Esta é uma "
-"aptidão muito poderosa e é única."
+"Você tem a habilidade especial <span color='yellow'>desastre</span>. Esta "
+"habilidade aumenta o ataque de sua tropa e reduz o dano recebido do inimigo. "
+"Esta é uma habilidade única e é muito poderosa."
 
 #. [message]
 #: _main.cfg:1608
-#, fuzzy
 msgid ""
 "Christopher:\n"
 "The trickster has the skill <span color='yellow'>storm</span>. It increases "
@@ -1926,13 +1916,12 @@ msgid ""
 "in defending."
 msgstr ""
 "Cristofer:\n"
-"O vigarista tem a aptidão <span color='yellow'>tempestade</span>. Ela "
-"aumenta o dano de ataque como a sua aptidão <b>desastre</b>. Mas não há "
+"O vigarista tem a habilidade <span color='yellow'>tempestade</span>. Ela "
+"aumenta o dano de ataque como a sua habilidade <b>desastre</b>. Mas não há "
 "vantagem defensiva."
 
 #. [message]
 #: _main.cfg:1619
-#, fuzzy
 msgid ""
 "Arsenio and Heinrich:\n"
 "The alcoholics has the skill <span color='yellow'>leading wind</span>. It "
@@ -1945,18 +1934,18 @@ msgid ""
 "Still this skill is very helpful in harsh circumstances."
 msgstr ""
 "Arsenio and Heinrich:\n"
-"Os alcoólatras têm a aptidão <span color='yellow'>ventos fortes</span>. Ela "
-"aumenta o dano de ataque e reduz o dano recebido por eles. É basicamente o "
-"mesmo que a sua aptidão <b>desastre</b>, mas o efeito é um pouco mais fraco "
-"do que a sua. Na verdade, se as tropas dos alcoólatras superam com grande "
-"diferença o número de inimigos, essa habilidade pode reduzir a vantagem um "
-"pouco. Eles não são tão cuidadosos se eles têm uma grande vantagem.\n"
+"Os alcoólatras têm a habilidade <span color='yellow'>ventos fortes</span>. "
+"Ela aumenta o dano de ataque e reduz o dano que eles recebem. É basicamente "
+"o mesmo que a sua habilidade <b>desastre</b>, mas o efeito é um pouco mais "
+"fraco do que a sua. Na verdade, se as tropas dos alcoólatras superam com "
+"grande diferença o número de inimigos, essa habilidade pode reduzir a "
+"vantagem um pouco. Eles não são tão cuidadosos se eles têm uma grande "
+"vantagem.\n"
 "\n"
-"Ainda assim, essa aptidão ajuda muito em situações difíceis."
+"Ainda assim, essa habilidade ajuda muito em situações difíceis."
 
 #. [message]
 #: _main.cfg:1631
-#, fuzzy
 msgid ""
 "Andrzej:\n"
 "The hardhead has the skill <span color='yellow'>calm</span>. It reduces the "
@@ -1964,19 +1953,17 @@ msgid ""
 "color='yellow'>storm</span>."
 msgstr ""
 "Andrzej:\n"
-"O cabeça-dura tem a aptidão <span color='yellow'>calmaria</span>. Ela reduz "
-"o dano recebido por eles. Esta é a a contraparte da aptidão do Cristofer, "
-"<span color='yellow'>tempestade</span>."
+"O cabeça-dura tem a habilidade <span color='yellow'>calmaria</span>. Ela "
+"reduz o dano que eles recebem. Esta é a a contraparte da habilidade do "
+"Cristofer, <span color='yellow'>tempestade</span>."
 
 #. [option]
 #: _main.cfg:1640
-#, fuzzy
 msgid "Naga?"
 msgstr "Naga?"
 
 #. [message]
 #: _main.cfg:1644
-#, fuzzy
 msgid ""
 "Boss of nagas, $aiw_naga_head_name|, appears in this office every three "
 "turns. <span color='yellow'>If you want to negotiate with merfolks, their "
@@ -1986,20 +1973,18 @@ msgid ""
 msgstr ""
 "O chefe dos nagas, $aiw_naga_head_name|, aparece neste escritório a cada "
 "três turnos. <span color='yellow'>Se você quiser negociar com os merfolks, a "
-"ajuda deles é necessária.</span> Isso é necessário porque nós não temos "
-"navios para ir à cidade merfolk. Além disso, rumores dizem que nagas "
-"conhecem tesouros antigos escondidos na terra. Se você estiver interessado "
-"nesses artefatos, fale com eles."
+"ajuda deles é necessária.</span> Isso é  porque nós não temos navios para ir "
+"à cidade merfolk. Além disso, rumores dizem que nagas conhecem tesouros "
+"antigos escondidos na terra. Se você estiver interessado nesses artefatos, "
+"fale com eles."
 
 #. [option]
 #: _main.cfg:1650
-#, fuzzy
 msgid "Use Riders wisely"
 msgstr "Use Cavaleiros sabiamente"
 
 #. [message]
 #: _main.cfg:1654
-#, fuzzy
 msgid ""
 "Do not waste riders. They are special units to ambush shooters. In other "
 "words, their battle ability is not efficient in attacking vanguards. "
@@ -2023,13 +2008,11 @@ msgstr ""
 
 #. [option]
 #: _main.cfg:1662
-#, fuzzy
 msgid "Gold of enemy/ally?"
 msgstr "Ouro do inimigo/aliado?"
 
 #. [message]
 #: _main.cfg:1666
-#, fuzzy
 msgid ""
 "Enemy and ally actions also depend their funding status. They also have "
 "income like us. Enemy/ally gold will be consumed when...\n"
@@ -2054,17 +2037,15 @@ msgstr ""
 "tropas inimigas desaparecerem, por exemplo quando estão recuando. Se você "
 "quiser evitar tal reversão, você deve destruir as tropas matando os líderes. "
 "Ou pelo menos infrinja algum dano nessas tropas. Soldados mortos ou feridos "
-"irão custar um pouco mais ao inimigo."
+"irão custar ao inimigo até certo ponto."
 
 #. [option]
 #: _main.cfg:1677
-#, fuzzy
 msgid "Suppress bandits or monsters?"
 msgstr "Suprimir bandidos e monstros?"
 
 #. [message]
 #: _main.cfg:1681
-#, fuzzy
 msgid ""
 "Once they appear, you have to defeat them by sending troop. We should "
 "prevent spawning of them. <span color='yellow'>Bandits and monsters may not "
@@ -2081,19 +2062,19 @@ msgid ""
 "foes might appear within our visible area."
 msgstr ""
 "Uma vez que eles aparecem, você deve derrotá-los enviando uma tropa. Nós "
-"devemos prevenir o aparecimento deles. <span color='yellow'>Pode ser que "
-"bandidos e monstros não apareçam em nosso alcance visual</span> porque eles "
+"devemos prevenir o surgimento deles. <span color='yellow'>Pode ser que "
+"bandidos e monstros não apareçam em nossa área visível</span> porque eles "
 "têm medo de nós. Se você colocar tropas na região deles ou construir torres "
 "de vigia nessas regiões, você consegue prevenir o aparecimento deles.\n"
 "\n"
-"Quanto aos bandidos da Floresta Namorico, eles podem ser representantes "
-"baratos ao exército Imperial. Uma vez que o Império começar a tomar ações "
+"Quanto aos bandidos da Floresta Namorico, eles podem ser procuradores "
+"baratos do exército Imperial. Uma vez que o Império começar a tomar ações "
 "diretas por conta própria, esses bandidos não aparecerão mais.\n"
 "\n"
-"Por favor tenha em mente que esses bandidos normais podem ser suprimidos "
-"desse jeito, mas soldados treinados especialmente ou agentes nunca "
-"estremecem conosco. Esse inimigos podem aparecer dentro do nosso alcance "
-"visual."
+"Por favor tenha em mente que bandidos normais e monstros podem ser "
+"suprimidos desse jeito, mas soldados treinados especialmente ou agentes "
+"nunca estremecem conosco. Esse inimigos podem aparecer dentro da nossa área "
+"visível."
 
 #. [message]: speaker=narrator
 #: _main.cfg:1769
@@ -2429,7 +2410,6 @@ msgstr ""
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1542
-#, fuzzy
 msgid ""
 "Hm. It is very alcoholic logic. But, waiting for words from him is really a "
 "waste of the time. At least in the current situation, your words make sense."
@@ -2439,17 +2419,15 @@ msgstr ""
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1551
-#, fuzzy
 msgid ""
 "Hardhead is convinced! The party has begun! I prepared drakish liquor today! "
 "It was really expensive!"
 msgstr ""
-"O Cabeça-dura foi convencido! A festa começou! Eu preparei um licor "
+"O Cabeça-dura está convencido! A festa começou! Eu preparei um licor "
 "dracônico! Foi bem caro!"
 
 #. [message]
 #: scenarios/Epilogue.cfg:1556
-#, fuzzy
 msgid ""
 "HA?! Drakish liquor? Such a light liquor never matches the dwarvish one! "
 "Dwarvish liquor is the best alcohol in the world!"
@@ -2459,25 +2437,21 @@ msgstr ""
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1561
-#, fuzzy
 msgid "Hey $aiw_naga_head_name|, what about the requested one?"
 msgstr "Ei $aiw_naga_head_name|, e quanto aquele que foi requisitado?"
 
 #. [message]: speaker=NagaBoss
 #: scenarios/Epilogue.cfg:1566
-#, fuzzy
 msgid "I got it, of course. Here is a barrel of what you requested."
-msgstr "Eu peguei, claro. Aqui está o barril do que você requisitou."
+msgstr "Eu peguei, claro. Aqui está o barril que você requisitou."
 
 #. [message]: speaker=Fiona
 #: scenarios/Epilogue.cfg:1571
-#, fuzzy
 msgid "I also helped his job!"
 msgstr "Eu também ajudei no trabalho dele!"
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1576
-#, fuzzy
 msgid ""
 "Excellent job! Dwarvish and Drakish liquor is just a simple and cheap "
 "liquor. Good liquors are not such a simple one. Human liquor is much better "
@@ -2495,24 +2469,21 @@ msgstr ""
 
 #. [message]: speaker=Mig
 #: scenarios/Epilogue.cfg:1581
-#, fuzzy
 msgid "So let's determine the best liquor in the world."
 msgstr "Então vamos determinar o melhor licor do mundo."
 
 #. [message]: speaker=Hid
 #: scenarios/Epilogue.cfg:1586
-#, fuzzy
 msgid ""
 "Never forget this Fusian liquor. I wanna improve this, our liqour. This "
 "liquor is not a best one in the world, but it will become the best one in "
 "the future!"
 msgstr ""
-"Nunca esqueçam deste licor Fusiano. Eu quero melhorar isto, nosso licor. "
+"Nunca esqueçam deste licor Fusiano. Eu quero melhorar este, nosso licor. "
 "Este licor não é o melhor do mundo, mas se tornará o melhor no futuro!"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1591
-#, fuzzy
 msgid ""
 "Excellent! So, we need an intensive and extensive investigation of alcohols! "
 "We must buy many many many liquors and brews for tasti.. investigation!"
@@ -2523,7 +2494,6 @@ msgstr ""
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1596
-#, fuzzy
 msgid ""
 "Hey trickster, it is a good idea! That plan must be started as soon as "
 "possible! It must be the most urgent task of us! Let's begin that plan as "
@@ -2535,19 +2505,16 @@ msgstr ""
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1601
-#, fuzzy
 msgid "Of course I agree!"
 msgstr "Claro que eu concordo!"
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1606
-#, fuzzy
 msgid "Ahem. (Glancing at the secretary.)"
-msgstr "Ahem. (Olha de relance para o secretário.)"
+msgstr "Ahem. (Olhando para o secretário.)"
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1616
-#, fuzzy
 msgid ""
 "General Arsenio, general Heinrich, and general Christopher, you wanna "
 "something to drink? How about my fireballs to sober your brain?"
@@ -2557,13 +2524,11 @@ msgstr ""
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1621
-#, fuzzy
 msgid "... of course, it is merely a joke. Never take it serious."
 msgstr "... claro, é meramente uma piada. Nunca leve isso a sério."
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1626
-#, fuzzy
 msgid ""
 "... you and that hardhead are really hardheaded. You should learn jokes."
 msgstr ""
@@ -2572,86 +2537,74 @@ msgstr ""
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1631
-#, fuzzy
 msgid ""
 "I am not talking just about for costs. ... what about your jobs during the "
 "round-trip?"
 msgstr ""
-"Eu não estou falando somente por despesas. ... o que será dos seus trabalhos "
+"Eu não estou falando somente dos custos. ... o que será dos seus deveres "
 "durante a ida e volta?"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1636
-#, fuzzy
 msgid ""
 "... my jobs? The war is finished. I have no urgent tasks, and I am good at "
 "hiding my status. Because I am a so-called trickster! There is no problems!"
 msgstr ""
-"... meus trabalhos? A guerra terminou. Eu não tenho tarefas urgentes, e eu "
-"sou bom em esconder minha ocupação. Porque eu sou o tão chamado vigarista! "
-"Não tem problema!"
+"... meus deveres? A guerra terminou. Eu não tenho deveres urgentes, e eu sou "
+"bom em esconder meu status. Porque eu sou o tão chamado vigarista! Não tem "
+"problema!"
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1641
-#, fuzzy
 msgid "(apparently looks angry)"
 msgstr "(olha aparentemente com raiva)"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1647
-#, fuzzy
 msgid ""
 "...?! (I failed...? Anyway, he is just a mage. His fireballs never be so "
 "disastrous. I CAN ENDURE!)"
 msgstr ""
 "...?! (Eu falhei...? De qualquer forma, ele é só um mago. Suas bolas de fogo "
-"nunca seriam tão desastrosas. EU CONSIGO AGUENTAR!)"
+"nunca seriam tão desastrosas. EU POSSO AGUENTAR!)"
 
 #. [object]
 #: scenarios/Epilogue.cfg:1664
-#, fuzzy
 msgid "Great wrath to an idiot"
-msgstr "Grande cólera à um idiota"
+msgstr "Grande cólera para um idiota"
 
 #. [object]
 #: scenarios/Epilogue.cfg:1667
-#, fuzzy
 msgid "Great wrath recalled something great."
-msgstr "Grande cólera invocou algo ótimo."
+msgstr "A grande cólera convocou algo grandioso."
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1711
-#, fuzzy
 msgid "Why... you can ... use .. lightning . . ."
 msgstr "Por que... você pode ... usar .. raios . . ."
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1716
-#, fuzzy
 msgid "Wrath grants me a great power."
 msgstr "A cólera me fornece um grande poder."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1725
-#, fuzzy
 msgid "... (what an idiot, trickster)"
 msgstr "... (que idiota, vigarista)"
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1730
-#, fuzzy
 msgid "... (I underestimated this mage. He is stronger than me?)"
 msgstr "... (eu subestimei este mago. Ele é mais forte do que eu?)"
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1735
-#, fuzzy
 msgid "Hm. Rest in peace, Christopher."
 msgstr "Hm. Descance em paz, Cristofer."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1756
-#, fuzzy
 msgid ""
 "Hey Redy, WHAT are you? You must not be an ordinary mage. As far as I know, "
 "mages who can use lightning is quite rare even in the Kingdom or Empire. How "
@@ -2663,21 +2616,19 @@ msgstr ""
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1761
-#, fuzzy
 msgid ""
 "Hmm. He is really an able mage. His power can be already bigger than me, "
 "though he seems to be much younger than me. Redy, you are an incredible "
 "mage. Your administrative working is excellent as all of us know, but I "
 "recommend you to concentrate on training and studying of magics."
 msgstr ""
-"Hmm. Ele realmente é um mago capaz. Seu poder pode talvez já seja maior do "
-"que o meu, embora ele pareça ser bem mais novo do que eu. Redy, você é um "
-"mago incrível. Seu trabalho administrativo é excelente como todos nós "
-"sabemos, mas eu recomendo que você se concenctre em treinar e estudar magia."
+"Hmm. Ele realmente é um mago hábil. Seu poder talvez já seja maior do que o "
+"meu, embora ele pareça ser bem mais novo do que eu. Redy, você é um mago "
+"incrível. Seu trabalho administrativo é excelente como todos nós sabemos, "
+"mas eu recomendo que você se concenctre em treinar e estudar magia."
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1766
-#, fuzzy
 msgid ""
 "I never throw away my current tasks. Because those tasks indirectly "
 "increased my skills. I had been a very very ordinary mage when I was in the "
@@ -2690,13 +2641,12 @@ msgstr ""
 "indiretamente minhas habilidades. Eu era um mago muito muito ordinário "
 "quando eu estava na academia de magos em Corônia. Meu poder aumentou depois "
 "que eu cheguei na minha ocupação atual. A lógica da magia não é tão "
-"diferente de outros tipos de lógica. Aprender coisas fora da magia pode "
+"diferente de outros tipos de lógica. Aprender coisas não-mágicas pode "
 "melhorar minha magia. Treinamento de magia, tais como atirar bolas de fogo, "
-"claro, é efetuado regularmente."
+"claro, é realizado regularmente."
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1771
-#, fuzzy
 msgid ""
 "Hm. Great. But you are too busy, your tasks should be reduced by assigning "
 "assistants or something. I will help your administrative tasks for the time "
@@ -2709,23 +2659,20 @@ msgstr ""
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1776
-#, fuzzy
 msgid "I appreciate your offer for helps! It sounds amazingly great!"
-msgstr "Eu agradeço suas ofertas de ajuda. Soa surpreendentemente ótima!"
+msgstr "Eu agradeço o oferecimento de ajuda. Soa surpreendentemente ótima!"
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1781
-#, fuzzy
 msgid ""
 "Hey lord, how do you find out him? If there is a way to find smart guy like "
 "him or Clammy, please tell us that."
 msgstr ""
-"Ei mestre, como você encontrou ele? Se há um jeito de encontrar um rapaz "
+"Ei lorde, como você encontrou ele? Se há um jeito de encontrar um rapaz "
 "esperto como ele ou Clammy, por favor nos diga."
 
 #. [message]: speaker=You
 #: scenarios/Epilogue.cfg:1786
-#, fuzzy
 msgid ""
 ".....\n"
 "\n"
@@ -2744,19 +2691,16 @@ msgstr ""
 
 #. [message]: speaker=Clammy
 #: scenarios/Epilogue.cfg:1793
-#, fuzzy
 msgid "I understand we cannot get reasonable answer."
 msgstr "Eu entendo que não conseguiremos uma resposta razoável."
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1798
-#, fuzzy
 msgid "I agree. Hey Clammy, you also understand what he is thinking."
 msgstr "Eu concordo. Ei Clammy, você também entende o que ele está pensando."
 
 #. [message]: speaker=Clammy
 #: scenarios/Epilogue.cfg:1803
-#, fuzzy
 msgid ""
 "Well, yes. Of course, I can guess only vaguely. But so far, my guess is "
 "right in most cases... and the exceptional cases are usually terrible "
@@ -2768,7 +2712,6 @@ msgstr ""
 
 #. [message]: speaker=You
 #: scenarios/Epilogue.cfg:1808
-#, fuzzy
 msgid ""
 "...\n"
 "\n"
@@ -2777,54 +2720,46 @@ msgid ""
 msgstr ""
 "...\n"
 "\n"
-"(O que?! Eles estão brincando comigo? Ou... eles realmente adivinham o que "
-"eu estou pensando? Isso deve ser uma piada perversa?)"
+"(O quê?! Eles estão brincando comigo? Ou... eles realmente adivinham o que "
+"eu estou pensando? Isso deve ser uma brincadeira de mal gosto?)"
 
 #. [message]: speaker=Clammy
 #: scenarios/Epilogue.cfg:1815
-#, fuzzy
 msgid "Surprised and confused."
 msgstr "Surpreso e confuso."
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1820
-#, fuzzy
 msgid "Hm. Right. It was a very easy one."
-msgstr "Hm. Certo. Essa foi realmente fácil."
+msgstr "Hm. Certo. Essa daí foi realmente fácil."
 
 #. [message]: speaker=You
 #: scenarios/Epilogue.cfg:1825
-#, fuzzy
 msgid "(shocked)"
 msgstr "(chocado)"
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1830
-#, fuzzy
 msgid "Hmmm. I cannot understand that.. I still need a training."
 msgstr "Hmmm. Eu não consigo entender isso.. eu ainda preciso de treinamento."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1835
-#, fuzzy
 msgid "HAHAHAHA! Hey trickster, it is time to wake up!"
 msgstr "HAHAHAHA! Ei vigarista, é hora de acordar!"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1845
-#, fuzzy
 msgid "... AAAAhrg. I am about to die in the celebration party..."
 msgstr "... AAAAhrg. Estou prestes a morrer na festa de celebração..."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1850
-#, fuzzy
 msgid "HAHAHAHAHAHA! It serves you right!"
 msgstr "HAHAHAHAHAHA! Bem feito!"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1859
-#, fuzzy
 msgid ""
 "Mmmmm. Hey you all, you must respect me! I am the greatest general of Fusia! "
 "We cannot have this party if I didn’t join!"
@@ -2834,51 +2769,46 @@ msgstr ""
 
 #. [message]: speaker=Redy
 #: scenarios/Epilogue.cfg:1864
-#, fuzzy
 msgid "... greatest general has many duties and NEVER abandon them."
 msgstr "... o maior general tem muitos deveres e NUNCA abandona-os."
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1869
-#, fuzzy
 msgid "(face paled)"
-msgstr "(empalidece o rosto)"
+msgstr "(o rosto empalideceu)"
 
 #. [message]
 #: scenarios/Epilogue.cfg:1874
-#, fuzzy
 msgid ""
 "And the greatest general should not be such selfish. The greatest general "
 "may respect colleagues. Ah, my lord, thank you for inviting me to this "
 "party. I am impressed you recgonize my exploits in this war and allow me to "
 "join the party."
 msgstr ""
-"E o maior general não deve ser tão egoísta. O maior general deve respeitar "
-"colegas. Ah, meu mestre, obrigado por me convidar para esta festa. Eu estou "
-"impressionado que você reconheceu minhas proezas nesta guerra e permitiu-me "
-"juntar a festa."
+"E o maior general não deve ser tão egoísta. O maior general pode respeitar "
+"os colegas. Ah, meu lorde, obrigado por me convidar para esta festa. Eu "
+"estou impressionado que você reconheceu minhas proezas nesta guerra e "
+"permitiu juntar-me à festa."
 
 #. [message]
 #: scenarios/Epilogue.cfg:1879
-#, fuzzy
 msgid ""
 "I appreciate your kindness, my lord. More precisely, thank you for deciding "
 "to build a new temple for the fallen soldiers. All of us, soldiers respect "
 "your kindful care all through the war. You are the greatest general!!"
 msgstr ""
-"Eu sou grato pela sua gentileza, meu mestre. Mais precisamente, obrigado por "
-"decidir construir um novo tempo para os soldados mortos. Todos nós, "
-"soldados, respeitamos sua bondade durante a guerra. Você é o maior general!!"
+"Eu sou grato pela sua gentileza, meu lorde. Mais precisamente, obrigado por "
+"decidir construir um novo templo para os soldados mortos. Todos nós, "
+"soldados, respeitamos o seu gentil cuidado durante a guerra. Você é o maior "
+"general!!"
 
 #. [message]: speaker=Mig
 #: scenarios/Epilogue.cfg:1889
-#, fuzzy
 msgid "Mig^Yeah!"
 msgstr "Eh!"
 
 #. [message]: speaker=Hid
 #: scenarios/Epilogue.cfg:1894
-#, fuzzy
 msgid "Hid^Yeah!"
 msgstr "Eh!"
 
@@ -2886,53 +2816,45 @@ msgstr "Eh!"
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1899 scenarios/Field.cfg:2036
 #: scenarios/Field.cfg:4359
-#, fuzzy
 msgid "..."
 msgstr "..."
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1904
-#, fuzzy
 msgid "Hey trickster, the debate seems to be concluded. Any objections?"
 msgstr "Ei vigarista, parece que o debate terminou. Alguma objeção?"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1909
-#, fuzzy
 msgid ""
 "I agree this guy did a great job. BUT, he usually stayed here. We had been "
 "staying in the frontline and put our life on the line! The role of a lord "
 "and a general is totally different! That silent guy is surely an excellent "
 "LORD. But the greatest GENERAL must be me!"
 msgstr ""
-"Eu concordo que este garoto fez um belo trabalho. MAS, ele normalmente ficou "
+"Eu concordo que este cara fez um belo trabalho. MAS, ele normalmente ficou "
 "aqui. Nós estivemos na linha de frente e colocamos nossa vida em risco! A "
-"função de um mestre e de um general são totalmente diferentes! Esse cara "
-"quito é com certeza um excelente MESTRE. Mas o maior GENERAL deve ser eu "
-"mesmo!"
+"função de um lorde e de um general são totalmente diferentes! Esse cara "
+"quieto é com certeza um excelente LORDE. Mas o maior GENERAL deve ser eu!"
 
 #. [message]
 #: scenarios/Epilogue.cfg:1914
-#, fuzzy
 msgid "His objection is not totally meaningless."
 msgstr "A objeção dele não é totalmente sem sentido."
 
 #. [message]
 #: scenarios/Epilogue.cfg:1919
-#, fuzzy
 msgid "Unlike usual his opinions."
 msgstr "Diferentemente das suas opiniões normais."
 
 #. [message]: speaker=Fiona
 #: scenarios/Epilogue.cfg:1924
-#, fuzzy
 msgid "He must not have such a smart opinion! This guy is an imposter...?"
 msgstr ""
 "Ele não deve ter uma opinião tão inteligente! Esse cara é um impostor...?"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1929
-#, fuzzy
 msgid ""
 "Moreover, I directly recruited two excellent generals, and indirectly "
 "another one! I gathered three efficient generals! This must be the best "
@@ -2944,62 +2866,52 @@ msgstr ""
 
 #. [message]: speaker=Arsenio
 #: scenarios/Epilogue.cfg:1934
-#, fuzzy
 msgid "(with a murderous stare) ....."
 msgstr "(com um olhar assassino) ....."
 
 #. [message]: speaker=Fiona
 #: scenarios/Epilogue.cfg:1939
-#, fuzzy
 msgid "Great! He must not be an imposter!"
 msgstr "Ótimo! Ele não deve ser um impostor!"
 
 #. [message]
 #: scenarios/Epilogue.cfg:1944
-#, fuzzy
 msgid "I have to take back my word. His opinion is funny, as usual."
 msgstr ""
 "Eu tenho que retirar o que eu disse. A opinião dele é engraçada, como sempre."
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1949
-#, fuzzy
 msgid "Hm. Hey Heinrich, we have forgotten an important thing for the party."
 msgstr "Hm. Ei Heinrich, nós esquecemos uma parte importante da festa."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1954
-#, fuzzy
 msgid "Important thing? What?"
 msgstr "Coisa importante? O quê?"
 
 #. [message]: speaker=Andrzej
 #: scenarios/Epilogue.cfg:1959
-#, fuzzy
 msgid "GUN SALUTE."
-msgstr "SAUDAÇÃO ARMADA."
+msgstr "GUN SALUTE."
 
 #. [message]: speaker=Heinrich
 #: scenarios/Epilogue.cfg:1964
-#, fuzzy
 msgid "Heinrich^Okay!"
 msgstr "Certo!"
 
 #. [message]: speaker=Christopher
 #: scenarios/Epilogue.cfg:1989
-#, fuzzy
 msgid "I am the greatest general of Fusia!"
 msgstr "Eu sou o maior general de Fusia!"
 
 #. [scenario]: id=Field
 #: scenarios/Field.cfg:7
-#, fuzzy
 msgid "Field"
 msgstr "Campo"
 
 #. [message]: speaker=$myid
 #: scenarios/Field.cfg:250
-#, fuzzy
 msgid "$myname is starving!"
 msgstr "$myname está esfomeada!"
 
@@ -6266,7 +6178,6 @@ msgstr ""
 
 #. [scenario]: id=Skirmish
 #: scenarios/Skirmish.cfg:86
-#, fuzzy
 msgid "Skirmish"
 msgstr "Escaramuça"
 
@@ -6303,7 +6214,6 @@ msgstr "Soldados, recuar!"
 
 #. [message]
 #: scenarios/Skirmish.cfg:431 scenarios/Skirmish.cfg:460 utils/deaths.cfg:85
-#, fuzzy
 msgid "Argh!"
 msgstr "Argh!"
 
@@ -6367,7 +6277,6 @@ msgstr "Construindo Torre de Vigia"
 #. [unit_type]: id=Building Watchtower, race=mechanical
 #. [unit_type]: id=Watchtower, race=mechanical
 #: units/BuildingWatchtower.cfg:21 units/Watchtower.cfg:20
-#, fuzzy
 msgid ""
 "Watchtowers are important facilities to guard something from enemies. "
 "Though, this inexpensive watchtower is definitely fragile."
@@ -6377,7 +6286,6 @@ msgstr ""
 
 #. [unit_type]: id=Clammy, race=goblin
 #: units/Clammy.cfg:21
-#, fuzzy
 msgid ""
 "Some goblins, surviving an uncountable number of battles, become capable to "
 "lead other goblins to battle and even non-goblin soldiers. They are called "
@@ -6391,24 +6299,21 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: units/Clammy.cfg:41
-#, fuzzy
 msgid "spear"
 msgstr "lança"
 
 #. [attack]: type=pierce
 #: units/Clammy.cfg:50
-#, fuzzy
 msgid "javelin"
 msgstr "dardo"
 
 #. [unit_type]: id=Engineers, race=dwarf
 #: units/Engineers.cfg:21
-#, fuzzy
 msgid ""
 "They cannot fight well, but can create useful tools and build valuable "
 "buildings."
 msgstr ""
-"Eles podem não lutar bem, mas conseguem criar ferramentas úteis e construir "
+"Eles não podem lutar bem, mas conseguem criar ferramentas úteis e construir "
 "valiosos edifícios."
 
 #. [unit_type]: id=Flag, race=mechanical
@@ -6426,7 +6331,6 @@ msgstr "Esta é uma simulação de unidade. Não ligue."
 #     e obter dinheiro ficando nela.
 #. [unit_type]: id=Paperpusher, race=human
 #: units/Paperpusher.cfg:20
-#, fuzzy
 msgid "These people are very famous for there shabby behaviors."
 msgstr "Essas pessoas são bem famosas pelas suas atitudes miseráveis."
 
@@ -6533,7 +6437,6 @@ msgstr "comida"
 #: units/army_orcish/Squad.cfg:51 units/army_saurian/Platoon.cfg:51
 #: units/army_saurian/Squad.cfg:51 units/army_troll/Company.cfg:51
 #: units/army_troll/Platoon.cfg:51 units/army_troll/Squad.cfg:51
-#, fuzzy
 msgid "close range"
 msgstr "corpo a corpo"
 
@@ -6551,7 +6454,6 @@ msgstr "corpo a corpo"
 #: units/army_orcish/Squad.cfg:61 units/army_saurian/Platoon.cfg:61
 #: units/army_saurian/Squad.cfg:61 units/army_troll/Company.cfg:61
 #: units/army_troll/Platoon.cfg:61 units/army_troll/Squad.cfg:61
-#, fuzzy
 msgid "long range"
 msgstr "longa distância"
 
@@ -6569,7 +6471,6 @@ msgstr "longa distância"
 #: units/army_orcish/Squad.cfg:72 units/army_saurian/Platoon.cfg:72
 #: units/army_saurian/Squad.cfg:72 units/army_troll/Company.cfg:72
 #: units/army_troll/Platoon.cfg:72 units/army_troll/Squad.cfg:72
-#, fuzzy
 msgid "close range (vanguards)"
 msgstr "corpo a corpo (vanguardeiros)"
 
@@ -6587,7 +6488,6 @@ msgstr "corpo a corpo (vanguardeiros)"
 #: units/army_orcish/Squad.cfg:83 units/army_saurian/Platoon.cfg:83
 #: units/army_saurian/Squad.cfg:83 units/army_troll/Company.cfg:83
 #: units/army_troll/Platoon.cfg:83 units/army_troll/Squad.cfg:83
-#, fuzzy
 msgid "close range (riders)"
 msgstr "corpo a corpo (cavaleiros)"
 
@@ -6605,7 +6505,6 @@ msgstr "corpo a corpo (cavaleiros)"
 #: units/army_orcish/Squad.cfg:94 units/army_saurian/Platoon.cfg:94
 #: units/army_saurian/Squad.cfg:94 units/army_troll/Company.cfg:94
 #: units/army_troll/Platoon.cfg:94 units/army_troll/Squad.cfg:94
-#, fuzzy
 msgid "close range (shooters)"
 msgstr "corpo a corpo (atiradores)"
 
